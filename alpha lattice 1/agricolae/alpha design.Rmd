@@ -1,0 +1,57 @@
+---
+title: "Untitled"
+output: pdf_document
+date: "2026-01-04"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(agricolae)
+```
+
+## setting the parameters
+### No of treatment
+
+```{r treatment no}
+trt<-1:400
+t <- length(trt)
+```
+
+### Size  of block k
+
+```{r block size}
+k<-8
+```
+
+### No. of block s
+
+```{r block no.}
+s<-t/k
+```
+
+### No. of replication r
+
+```{r replication}
+r <- 3
+```
+
+### Shuffle and use alpha design to determine the blocking
+
+```{r alpha design}
+outdesign <- design.alpha(trt, k, r, serie=3, randomization = FALSE)
+```
+
+### Abstracting the info we need
+
+```{r abstract}
+book<-outdesign$book
+plots<-book[,4]
+```
+
+### Change the data into matrix
+
+```{r convert}
+dim(plots)<-c(k,s,r)
+for (i in 1:r) print(t(plots[,,i]))
+```
+
