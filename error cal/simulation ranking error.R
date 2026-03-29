@@ -29,13 +29,30 @@ run_multi_k_analysis <- function(t_val = 20, k_values = c(2, 4, 5), r_limit = 50
       
       # [Step C] Extract match outcomes
       block_tags <- paste(fb$REP, fb$IBLOCK, sep = "_")
-      matches <- do.call(rbind, lapply(split(fb, block_tags), function(block) {
-        data.frame(
-          Winner = block$TREATMENT[which.max(block$TrueValue)],
-          Loser  = block$TREATMENT[which.min(block$TrueValue)]
-        )
+    
+    matches <- do.call(rbind, lapply(split(fb, block_tags), function(block) {
+      
+      # Generate all possible pairs (combinations of 2) within this block
+      # If k=2, this creates 1 pair. If k=4, this creates 6 pairs.
+      pairs <- combn(block$TREATMENT, 2, simplify = FALSE)
+      
+      # For each pair, determine who is the winner based on TrueValue
+      block_matches <- do.call(rbind, lapply(pairs, function(p) {
+        
+        # Get the TrueValue for the two treatments in this pair
+        val1 <- block$TrueValue[block$TREATMENT == p[1]]
+        val2 <- block$TrueValue[block$TREATMENT == p[2]]
+        
+        # The one with the higher TrueValue wins
+        if (val1 > val2) {
+          data.frame(Winner = p[1], Loser = p[2])
+        } else {
+          data.frame(Winner = p[2], Loser = p[1])
+        }
       }))
-      #-------------這邊有問題，我是不是只拿出贏輸的資料，k=4中間資料沒拿出
+      
+      return(block_matches)
+    }))
       
       # [Step D] Execute BT Model
       all_players <- unique(c(as.character(matches$Winner), as.character(matches$Loser)))
@@ -92,7 +109,7 @@ run_multi_k_analysis <- function(t_val = 20, k_values = c(2, 4, 5), r_limit = 50
 # =================================================================================
 
 # Run the simulation for k = 2, 4, 5
-result <- run_multi_k_analysis(t_val = 20, k_values = 4, r_limit = 100, seed_val = 1006)
+result <- run_multi_k_analysis(t_val = 20, k_values = c(2, 4, 5), r_limit = 50, seed_val = 1006)
 
 # Display the plot
 print(result$plot)
