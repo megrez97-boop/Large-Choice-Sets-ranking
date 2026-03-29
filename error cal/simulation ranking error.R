@@ -74,7 +74,7 @@ run_multi_k_analysis <- function(t_val = 20, k_values = c(2, 4, 5), r_limit = 50
           if (nrow(res_df) > 2) {
             res_df$TrueRank <- rank(res_df$ID) 
             res_df$PredRank <- rank(-res_df$Ability)
-            error_score <- sum(res_df$PredRank != res_df$TrueRank)
+            error_score <- sum(abs(res_df$PredRank - res_df$TrueRank))
             
             # Record the result, including which 'k' this belongs to (as a factor for grouping)
             final_data <- rbind(final_data, data.frame(k = as.factor(current_k), r = current_r, error = error_score))
@@ -109,7 +109,7 @@ run_multi_k_analysis <- function(t_val = 20, k_values = c(2, 4, 5), r_limit = 50
 # =================================================================================
 
 # Run the simulation for k = 2, 4, 5
-result <- run_multi_k_analysis(t_val = 20, k_values = c(2, 4, 5), r_limit = 50, seed_val = 1006)
+result <- run_multi_k_analysis(t_val = 240, k_values = 3, r_limit = 20, seed_val = 1006)
 
 # Display the plot
 print(result$plot)
