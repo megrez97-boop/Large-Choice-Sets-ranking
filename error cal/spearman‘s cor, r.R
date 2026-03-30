@@ -18,17 +18,17 @@ library(foreach)
 run_multi_k_desktop_turbo <- function(t_val = 240, k_values = c(3, 4, 5), r_limit = 50, seed_val = 1006) {
   
   # [Step 1] 建立任務網格 (使用 seq 跳步法，5, 10, 15...50)
-  r_steps <- seq(5, r_limit, by = 5)
+  r_steps <- 2:r_limit
   task_grid <- expand.grid(k = k_values, r = r_steps)
   total_tasks <- nrow(task_grid)
   
   # [Step 2] 啟動平行運算環境
   # 總共 12 執行緒，扣掉 4 顆保留給系統，使用 8 顆核心全力運算
-  num_cores <- max(1, detectCores() - 4) 
+  num_cores <- max(1, parallel::detectCores() - 4) 
   cl <- makeCluster(num_cores)
   registerDoSNOW(cl)
   
-  cat(sprintf("\n🚀 引擎啟動！已徵召 %d 顆核心同時運算，系統保留 %d 顆以維持順暢。\n", num_cores, detectCores() - num_cores))
+  cat(sprintf("\n🚀 引擎啟動！已徵召 %d 顆核心同時運算，系統保留 %d 顆以維持順暢。\n", num_cores, parallel::detectCores() - num_cores))
   cat(sprintf("總共 %d 個排隊任務，準備起飛...\n\n", total_tasks))
   
   # [Step 3] 設定進度條 (視覺化儀表板)
@@ -124,7 +124,7 @@ run_multi_k_desktop_turbo <- function(t_val = 240, k_values = c(3, 4, 5), r_limi
 # =================================================================================
 
 # 直接挑戰 t=240，k=3, 4, 5 三條線齊發！
-result <- run_multi_k_desktop_turbo(t_val = 240, k_values = c(3, 4, 5), r_limit = 20, seed_val = 1006)
+result <- run_multi_k_desktop_turbo(t_val = 240, k_values = 3, r_limit = 20, seed_val = 1006)
 
 # 印出精美圖表
 print(result$plot)
