@@ -13,7 +13,7 @@ library(doSNOW)
 library(foreach)
 
 # Define core simulation function
-run_multi_k_dual_metrics <- function(t_val = 240, k_values = c(2, 3, 4, 5), r_limit = 20, seed_val = 1006, temp = 0.5, judge_method = "ranking") {
+run_multi_k_dual_metrics <- function(t_val = 240, k_values = c(2, 3, 4, 5), r_limit = 20, seed_val = 1006, temp = 0.5, judge_method = "ranking", maxit = 20) {
   
   # [Task 1] Set parameter ranges: r & k
   r_steps <- 2:r_limit
@@ -26,7 +26,7 @@ run_multi_k_dual_metrics <- function(t_val = 240, k_values = c(2, 3, 4, 5), r_li
   registerDoSNOW(cl)
   
   cat(sprintf("\n🚀 雙指標引擎啟動！已徵召 %d 顆核心 (Parallel Engine Started with %d cores).\n", num_cores, num_cores))
-  cat(sprintf("模式 (Mode)：%s | 雜訊等級 (Noise Level)：%s\n", judge_method, temp))
+  cat(sprintf("模式 (Mode)：%s | 雜訊等級 (Noise Level)：%s | Max Iterations: %d\n", judge_method, temp, maxit))
   cat(sprintf("正在執行 %d 個任務 (Executing %d tasks)...\n\n", total_tasks, total_tasks))
   flush.console() # 強制重新整理控制台輸出 (Force refresh console output)
   
@@ -52,14 +52,16 @@ run_multi_k_dual_metrics <- function(t_val = 240, k_values = c(2, 3, 4, 5), r_li
     if (inherits(design, "try-error")) return(NULL) 
     
     fb <- design$fieldBook
-    # 設定真實數值 (Set Ground Truth/True Values)
-    fb$TrueValue <- (t_val + 1) - as.numeric(fb$ENTRY)
+    # [Optimization] Scale TrueValue to 0~1 range so that 'temp' is more sensitive
+    # Original: fb$TrueValue <- (t_val + 1) - as.numeric(fb$ENTRY)
+    # New: Scale relative to t_val
+    fb$TrueValue <- ((t_val + 1) - as.numeric(fb$ENTRY)) / t_val
     
     block_tags <- paste(fb$REP, fb$IBLOCK, sep = "_")
     matches <- do.call(rbind, lapply(split(fb, block_tags), function(block) {
       
-      # 產生帶雜訊 Generate Perceived Utility with Gumbel Noise
-      #core formular U = V + Temp * Gumbel(0,1)
+      # [Core Modification] Generate Perceived Utility with Gumbel Noise
+      # Since TrueValue is now 0~1, a temp of 0.1~0.5 will be very significant
       u_scores <- block$TrueValue + temp * rgumbel(nrow(block), 0, 1)
       
       if (judge_method == "ranking") {
@@ -94,8 +96,10 @@ run_multi_k_dual_metrics <- function(t_val = 240, k_values = c(2, 3, 4, 5), r_li
     matches$Winner <- factor(matches$Winner, levels = all_players)
     matches$Loser  <- factor(matches$Loser, levels = all_players)
     
-    # 配適 Bradley-Terry 模型 (Fit Bradley-Terry Model)
-    fit <- suppressWarnings(try(BTm(1, Winner, Loser, data = matches, control = glm.control(maxit = 5)), silent = TRUE))
+    # Fit Bradley-Terry Model
+    # maxit: Maximum number of iterations for the GLM to converge. 
+    # Higher noise levels may require more iterations (e.g., 20-50).
+    fit <- suppressWarnings(try(BTm(1, Winner, Loser, data = matches, control = glm.control(maxit = maxit)), silent = TRUE))
     
     if (!inherits(fit, "try-error")) {
       # 提取估計能力值 (Extract Estimated Abilities)
@@ -118,7 +122,10 @@ run_multi_k_dual_metrics <- function(t_val = 240, k_values = c(2, 3, 4, 5), r_li
           return(data.frame(k = as.factor(current_k), 
                             r = current_r, 
                             rho = rho_val, 
-                            footrule = footrule_val))
+                            footrule = footrule_val,
+                            sim_temp = temp,          # Store current temp
+                            sim_method = judge_method # Store current method
+                            ))
         }
       }
     }
@@ -128,6 +135,7 @@ run_multi_k_dual_metrics <- function(t_val = 240, k_values = c(2, 3, 4, 5), r_li
   # 關閉平行運算與進度條 (Close Parallel Workers and Progress Bar)
   close(pb)
   stopCluster(cl)
+  gc() # [優化] 手動觸發垃圾回收 (Manually trigger Garbage Collection)
   
   return(final_data)
 }
@@ -148,6 +156,7 @@ ui <- fluidPage(
       numericInput("r_limit", "Max Replications (r):", 20),
       numericInput("seed_val", "Random Seed:", 1006),
       numericInput("temp", "Noise Level (Temperature):", value = 0.5, min = 0, step = 0.1),
+      numericInput("maxit", "Max Model Iterations:", value = 20, min = 5, step = 5),
       selectInput("judge_method", "Judging Method:", 
                   choices = c("Ranking (Full Pairwise)" = "ranking", "BWS (Best-Worst Scaling)" = "bws")),
       hr(),
@@ -182,7 +191,8 @@ server <- function(input, output) {
         r_limit = input$r_limit,
         seed_val = input$seed_val,
         temp = input$temp,
-        judge_method = input$judge_method
+        judge_method = input$judge_method,
+        maxit = input$maxit
       )
       
       setProgress(1)
@@ -192,22 +202,31 @@ server <- function(input, output) {
   
   # 繪製 Rho 圖表 (Plot Spearman's Rho)
   output$rhoPlot <- renderPlot({
-    req(sim_results())
-    ggplot(sim_results(), aes(x = r, y = rho, color = k)) +
+    df <- sim_results()
+    req(df)
+    # Extract params from the first row of data
+    actual_temp <- df$sim_temp[1]
+    actual_method <- df$sim_method[1]
+    
+    ggplot(df, aes(x = r, y = rho, color = k)) +
       geom_line(linewidth = 1.2) + geom_point(size = 3) +
       labs(title = "Ranking Accuracy (Spearman's Rho)",
-           subtitle = sprintf("Method: %s | Noise: %s", input$judge_method, input$temp),
+           subtitle = sprintf("Method: %s | Noise (Temp): %s", actual_method, actual_temp),
            x = "Replications (r)", y = "Rho (Correlation)") +
       theme_minimal(base_size = 14) + theme(legend.position = "bottom")
   })
   
   # 繪製 Footrule 圖表 (Plot Spearman's Footrule)
   output$footrulePlot <- renderPlot({
-    req(sim_results())
-    ggplot(sim_results(), aes(x = r, y = footrule, color = k)) +
+    df <- sim_results()
+    req(df)
+    actual_temp <- df$sim_temp[1]
+    actual_method <- df$sim_method[1]
+    
+    ggplot(df, aes(x = r, y = footrule, color = k)) +
       geom_line(linewidth = 1.2) + geom_point(size = 3) +
       labs(title = "Ranking Error (Spearman's Footrule)",
-           subtitle = sprintf("Method: %s | Noise: %s", input$judge_method, input$temp),
+           subtitle = sprintf("Method: %s | Noise (Temp): %s", actual_method, actual_temp),
            x = "Replications (r)", y = "Total Error Score") +
       theme_minimal(base_size = 14) + theme(legend.position = "bottom")
   })
