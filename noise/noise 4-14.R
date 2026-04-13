@@ -38,7 +38,7 @@ run_multi_k_dual_metrics <- function(t_val = 240, k_values = c(2, 3, 4, 5), r_li
   }
   opts <- list(progress = progress)
   
-  # [Task 2] 同時計算排名指標 (Calculate Ranking Metrics: Footrule and Rho)
+  # Calculate Ranking Metrics: Footrule and Rho
   final_data <- foreach(i = 1:total_tasks, 
                         .combine = rbind, 
                         .packages = c("FielDHub", "BradleyTerry2", "evd"),
@@ -52,16 +52,14 @@ run_multi_k_dual_metrics <- function(t_val = 240, k_values = c(2, 3, 4, 5), r_li
     if (inherits(design, "try-error")) return(NULL) 
     
     fb <- design$fieldBook
-    # [Optimization] Scale TrueValue to 0~1 range so that 'temp' is more sensitive
-    # Original: fb$TrueValue <- (t_val + 1) - as.numeric(fb$ENTRY)
-    # New: Scale relative to t_val
-    fb$TrueValue <- ((t_val + 1) - as.numeric(fb$ENTRY)) / t_val
+    # 設定真實數值 (Set Ground Truth/True Values)
+    fb$TrueValue <- (t_val + 1) - as.numeric(fb$ENTRY)
     
     block_tags <- paste(fb$REP, fb$IBLOCK, sep = "_")
     matches <- do.call(rbind, lapply(split(fb, block_tags), function(block) {
       
-      # [Core Modification] Generate Perceived Utility with Gumbel Noise
-      # Since TrueValue is now 0~1, a temp of 0.1~0.5 will be very significant
+      # 產生帶雜訊 Generate Perceived Utility with Gumbel Noise
+      #core formular U = V + Temp * Gumbel(0,1)
       u_scores <- block$TrueValue + temp * rgumbel(nrow(block), 0, 1)
       
       if (judge_method == "ranking") {
@@ -122,10 +120,7 @@ run_multi_k_dual_metrics <- function(t_val = 240, k_values = c(2, 3, 4, 5), r_li
           return(data.frame(k = as.factor(current_k), 
                             r = current_r, 
                             rho = rho_val, 
-                            footrule = footrule_val,
-                            sim_temp = temp,          # Store current temp
-                            sim_method = judge_method # Store current method
-                            ))
+                            footrule = footrule_val))
         }
       }
     }
@@ -173,7 +168,7 @@ ui <- fluidPage(
 
 server <- function(input, output) {
   
-  # 當按下按鈕時執行模擬 (Execute simulation on button click)
+  # Execute simulation on button click
   sim_results <- eventReactive(input$run_sim, {
     withProgress(message = 'Simulation in progress',
                  detail = 'This may take a while...', value = 0, {
@@ -200,37 +195,28 @@ server <- function(input, output) {
     })
   })
   
-  # 繪製 Rho 圖表 (Plot Spearman's Rho)
+  # Plot Spearman's Rho
   output$rhoPlot <- renderPlot({
-    df <- sim_results()
-    req(df)
-    # Extract params from the first row of data
-    actual_temp <- df$sim_temp[1]
-    actual_method <- df$sim_method[1]
-    
-    ggplot(df, aes(x = r, y = rho, color = k)) +
+    req(sim_results())
+    ggplot(sim_results(), aes(x = r, y = rho, color = k)) +
       geom_line(linewidth = 1.2) + geom_point(size = 3) +
       labs(title = "Ranking Accuracy (Spearman's Rho)",
-           subtitle = sprintf("Method: %s | Noise (Temp): %s", actual_method, actual_temp),
+           subtitle = sprintf("Method: %s | Noise: %s", input$judge_method, input$temp),
            x = "Replications (r)", y = "Rho (Correlation)") +
       theme_minimal(base_size = 14) + theme(legend.position = "bottom")
   })
   
-  # 繪製 Footrule 圖表 (Plot Spearman's Footrule)
+  # Plot Spearman's Footrule
   output$footrulePlot <- renderPlot({
-    df <- sim_results()
-    req(df)
-    actual_temp <- df$sim_temp[1]
-    actual_method <- df$sim_method[1]
-    
-    ggplot(df, aes(x = r, y = footrule, color = k)) +
+    req(sim_results())
+    ggplot(sim_results(), aes(x = r, y = footrule, color = k)) +
       geom_line(linewidth = 1.2) + geom_point(size = 3) +
       labs(title = "Ranking Error (Spearman's Footrule)",
-           subtitle = sprintf("Method: %s | Noise (Temp): %s", actual_method, actual_temp),
+           subtitle = sprintf("Method: %s | Noise: %s", input$judge_method, input$temp),
            x = "Replications (r)", y = "Total Error Score") +
       theme_minimal(base_size = 14) + theme(legend.position = "bottom")
   })
 }
 
-# 啟動應用程式 (Launch Shiny App)
+# Launch Shiny App
 shinyApp(ui = ui, server = server)
