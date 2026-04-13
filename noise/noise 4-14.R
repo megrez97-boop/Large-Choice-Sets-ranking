@@ -58,7 +58,7 @@ run_multi_k_dual_metrics <- function(t_val = 240, k_values = c(2, 3, 4, 5), r_li
     block_tags <- paste(fb$REP, fb$IBLOCK, sep = "_")
     matches <- do.call(rbind, lapply(split(fb, block_tags), function(block) {
       
-      # 產生帶雜訊 Generate Perceived Utility with Gumbel Noise
+      # 產生雜訊 Generate Perceived Utility with Gumbel Noise
       #core formular U = V + Temp * Gumbel(0,1)
       u_scores <- block$TrueValue + temp * rgumbel(nrow(block), 0, 1)
       
@@ -220,4 +220,4 @@ server <- function(input, output) {
 
 # Launch Shiny App
 shinyApp(ui = ui, server = server)
-# test for commit
+# test for commit 2
