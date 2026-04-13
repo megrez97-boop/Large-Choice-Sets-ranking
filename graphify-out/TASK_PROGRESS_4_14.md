@@ -2,9 +2,14 @@
 
 ## 🎯 核心任務
 1. **[✅] 加入 Gumbel 雜訊 (Noise)**
-   - 狀態：已完成 (實作於 `noise 4-14.R`)
-   - 實作細節：$U_i = V_i + Temp \times rgumbel(n, 0, 1)$
-2. **[⏳] 實作 BWS (Best-Worst Scaling) 選項**
+2. **[✅] 實作 BWS (Best-Worst Scaling) 選項**
+3. **[✅] 開發互動式參數輸入介面 (Shiny UI)**
+   - 成果：開發了專屬的 Shiny App，支持動態調整參數與即時繪圖。
+
+## 🛠️ 實作細節記錄
+- **最終產出**: `noise 4-14.R` (完整互動版)
+- **技術棧**: R, FielDHub, BradleyTerry2, evd, Shiny, ggplot2.
+
    - 狀態：準備開始
    - 目標：讓函數能切換「全區組排名 (Ranking)」或「最佳-最差選擇 (BWS)」。
    - 目標：讓函數能切換「全區組排名 (Ranking)」或「最佳-最差選擇 (BWS)」。
