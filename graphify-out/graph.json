@@ -1,0 +1,178 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "GPS Research Workflow",
+      "file_type": "paper",
+      "source_file": "GPS Research.pdf",
+      "source_location": "slide 1",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "gps_research",
+      "community": 1
+    },
+    {
+      "label": "Alpha Lattice Design",
+      "file_type": "paper",
+      "source_file": "GPS Research.pdf",
+      "source_location": "slide 31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "alpha_design",
+      "community": 1
+    },
+    {
+      "label": "Best-Worst Scaling (BWS)",
+      "file_type": "paper",
+      "source_file": "GPS Research.pdf",
+      "source_location": "slide 43",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "bws_method",
+      "community": 2
+    },
+    {
+      "label": "Bradley-Terry (BT) Model",
+      "file_type": "paper",
+      "source_file": "GPS Research.pdf",
+      "source_location": "slide 62",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "bt_model",
+      "community": 0
+    },
+    {
+      "label": "Random Utility Theory (RUT)",
+      "file_type": "paper",
+      "source_file": "GPS Research.pdf",
+      "source_location": "slide 45",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "rut",
+      "community": 2
+    },
+    {
+      "label": "Gumbel Distribution",
+      "file_type": "paper",
+      "source_file": "GPS Research.pdf",
+      "source_location": "slide 6",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "gumbel",
+      "community": 0
+    },
+    {
+      "label": "Simulation Ranking Error Chart",
+      "file_type": "image",
+      "source_file": "error cal\\graph\\k=4,r=100.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "error_sim_chart",
+      "community": 0
+    }
+  ],
+  "links": [
+    {
+      "relation": "uses_for_grouping",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GPS Research.pdf",
+      "source_location": "slide 19",
+      "weight": 1.0,
+      "_src": "gps_research",
+      "_tgt": "alpha_design",
+      "source": "gps_research",
+      "target": "alpha_design"
+    },
+    {
+      "relation": "uses_for_collecting_data",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GPS Research.pdf",
+      "source_location": "slide 19",
+      "weight": 1.0,
+      "_src": "gps_research",
+      "_tgt": "bws_method",
+      "source": "gps_research",
+      "target": "bws_method"
+    },
+    {
+      "relation": "uses_for_ranking",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GPS Research.pdf",
+      "source_location": "slide 19",
+      "weight": 1.0,
+      "_src": "gps_research",
+      "_tgt": "bt_model",
+      "source": "gps_research",
+      "target": "bt_model"
+    },
+    {
+      "relation": "assumes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GPS Research.pdf",
+      "source_location": "slide 45",
+      "weight": 1.0,
+      "_src": "bws_method",
+      "_tgt": "rut",
+      "source": "bws_method",
+      "target": "rut"
+    },
+    {
+      "relation": "mathematically_equivalent_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "GPS Research.pdf",
+      "source_location": "slide 62",
+      "weight": 1.0,
+      "_src": "bt_model",
+      "_tgt": "gumbel",
+      "source": "bt_model",
+      "target": "gumbel"
+    },
+    {
+      "relation": "evaluates_accuracy_of",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "error cal\\graph\\k=4,r=100.png",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "error_sim_chart",
+      "_tgt": "bt_model",
+      "source": "bt_model",
+      "target": "error_sim_chart"
+    },
+    {
+      "relation": "models_error_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GPS Research.pdf",
+      "source_location": "slide 6",
+      "weight": 1.0,
+      "_src": "rut",
+      "_tgt": "gumbel",
+      "source": "rut",
+      "target": "gumbel"
+    }
+  ],
+  "hyperedges": []
+}

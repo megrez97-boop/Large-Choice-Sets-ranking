@@ -17,7 +17,7 @@ library(foreach)
 
 run_multi_k_desktop_turbo <- function(t_val = 240, k_values = c(3, 4, 5), r_limit = 50, seed_val = 1006) {
   
-  # [Step 1] 建立任務網格 (使用 seq 跳步法，5, 10, 15...50)
+  # [Step 1] 建立任務網格 
   r_steps <- 2:r_limit
   task_grid <- expand.grid(k = k_values, r = r_steps)
   total_tasks <- nrow(task_grid)
@@ -111,7 +111,7 @@ run_multi_k_desktop_turbo <- function(t_val = 240, k_values = c(3, 4, 5), r_limi
          y = "Spearman's Rho (Correlation)", 
          color = "Block Size (k)") + 
 
-    coord_cartesian(ylim = c(0.95, 1.00))
+    coord_cartesian(ylim = c(0, 1.00))
     theme_minimal() +
     theme(legend.position = "bottom",
           plot.title = element_text(face = "bold", size = 14))

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "code": [],
+    "document": [],
+    "paper": ["GPS Research.pdf"],
+    "image": ["error cal\\0~1 r 20, t 240.png", "error cal\\graph\\ggplot2 line chart 1.png", "error cal\\graph\\ggplot2 line chart 4.png", "error cal\\graph\\graph_r = 20, k =3.png", "error cal\\graph\\k=2,4, r=30.png", "error cal\\graph\\k=2,4,r=50.png", "error cal\\graph\\k=4,r=100.png", "error cal\\graph\\k=4,r=20.png"]
+  },
+  "total_files": 9,
+  "total_words": 7683,
+  "needs_graph": false,
+  "warning": null,
+  "skipped_sensitive": [],
+  "graphifyignore_patterns": 0
+}
