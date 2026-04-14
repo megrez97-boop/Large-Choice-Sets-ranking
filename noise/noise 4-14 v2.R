@@ -26,6 +26,12 @@ run_multi_k_dual_metrics <- function(t_val = 240, k_values = c(2, 3, 4, 5), r_li
   cl <- makeCluster(num_cores)
   registerDoSNOW(cl)
   
+  # Ensure cluster is ALWAYS closed on function exit (success or error)
+  on.exit({
+    stopCluster(cl)
+    if (exists("pb")) close(pb)
+  }, add = TRUE)
+  
   cat(sprintf("\n🚀 Dual Metric Engine Started! Mobilized %d cores.\n", num_cores))
   cat(sprintf("Mode: %s | Noise Level (Temp): %s | Max Iterations: %d\n", judge_method, temp, maxit))
   cat(sprintf("Executing %d tasks...\n\n", total_tasks))
@@ -54,43 +60,68 @@ run_multi_k_dual_metrics <- function(t_val = 240, k_values = c(2, 3, 4, 5), r_li
     
     fb <- design$fieldBook
     # Set Ground Truth (True Values)
-    fb$TrueValue <- (t_val + 1) - as.numeric(fb$ENTRY)
+    # Using factor levels or numeric conversion safely
+    entry_numeric <- as.numeric(as.character(fb$ENTRY))
+    if (any(is.na(entry_numeric))) {
+      fb$TrueValue <- (t_val + 1) - as.numeric(factor(fb$ENTRY))
+    } else {
+      fb$TrueValue <- (t_val + 1) - entry_numeric
+    }
     
     block_tags <- paste(fb$REP, fb$IBLOCK, sep = "_")
     matches <- do.call(rbind, lapply(split(fb, block_tags), function(block) {
       
       # Generate Perceived Utility with Gumbel Noise
-      # Core formula: U = V + Temp * Gumbel(0,1)
       u_scores <- block$TrueValue + temp * rgumbel(nrow(block), 0, 1)
+      
+      # Skip block if utility calculation fails
+      if (all(is.na(u_scores))) return(NULL)
       
       if (judge_method == "ranking") {
         # --- Full Pairwise Ranking ---
+        if (nrow(block) < 2) return(NULL)
         pairs_mat <- combn(block$TREATMENT, 2)
-        # Extract utility values for current pairs
+        
         u1 <- u_scores[match(pairs_mat[1, ], block$TREATMENT)]
         u2 <- u_scores[match(pairs_mat[2, ], block$TREATMENT)]
         
         winners <- ifelse(u1 > u2, pairs_mat[1, ], pairs_mat[2, ])
         losers  <- ifelse(u1 > u2, pairs_mat[2, ], pairs_mat[1, ])
-        return(data.frame(Winner = winners, Loser = losers))
+        
+        return(data.frame(Winner = as.character(winners), 
+                          Loser = as.character(losers), 
+                          stringsAsFactors = FALSE))
         
       } else if (judge_method == "bws") {
         # --- BWS (Best-Worst Scaling) ---
-        # Fixed logic: Avoid double-counting the "Best > Worst" pair
         best_idx <- which.max(u_scores)
         worst_idx <- which.min(u_scores)
         
-        best_id  <- block$TREATMENT[best_idx]
-        worst_id <- block$TREATMENT[worst_idx]
+        # Safety: Ensure indices are found and not empty
+        if (length(best_idx) == 0 || length(worst_idx) == 0) return(NULL)
         
-        # 1. Best wins against everyone else in the block (includes Worst)
-        df_best_wins <- data.frame(Winner = best_id, Loser = block$TREATMENT[-best_idx])
+        best_id  <- as.character(block$TREATMENT[best_idx])
+        worst_id <- as.character(block$TREATMENT[worst_idx])
         
-        # 2. Others win against the Worst (excludes Best to prevent double-counting)
-        others_idx <- setdiff(seq_along(block$TREATMENT), c(best_idx, worst_idx))
-        df_others_win_v_worst <- data.frame(Winner = block$TREATMENT[others_idx], Loser = worst_id)
+        # 1. Best wins against everyone else in the block
+        others_to_best_idx <- setdiff(seq_along(block$TREATMENT), best_idx)
+        if (length(others_to_best_idx) == 0) return(NULL)
         
-        return(rbind(df_best_wins, df_others_win_v_worst))
+        df_best_wins <- data.frame(Winner = best_id, 
+                                   Loser = as.character(block$TREATMENT[others_to_best_idx]),
+                                   stringsAsFactors = FALSE)
+        
+        # 2. Others win against the Worst (only if k > 2 and best != worst)
+        others_to_worst_idx <- setdiff(seq_along(block$TREATMENT), c(best_idx, worst_idx))
+        
+        if (length(others_to_worst_idx) > 0) {
+          df_others_win_v_worst <- data.frame(Winner = as.character(block$TREATMENT[others_to_worst_idx]), 
+                                              Loser = worst_id,
+                                              stringsAsFactors = FALSE)
+          return(rbind(df_best_wins, df_others_win_v_worst))
+        } else {
+          return(df_best_wins)
+        }
       }
     }))
     
@@ -109,6 +140,11 @@ run_multi_k_dual_metrics <- function(t_val = 240, k_values = c(2, 3, 4, 5), r_li
       if (!inherits(abilities, "try-error")) {
         player_ids <- as.numeric(gsub("[^0-9]", "", rownames(abilities)))
         player_abs <- abilities[, "ability"]
+        
+        # [Safety] Cap extreme values to prevent Inf/NaN issues in UI/Plots
+        player_abs[player_abs > 100] <- 100
+        player_abs[player_abs < -100] <- -100
+        
         res_df <- data.frame(ID = player_ids, Ability = player_abs)
         res_df <- res_df[!is.na(res_df$Ability), ]
         
@@ -131,9 +167,7 @@ run_multi_k_dual_metrics <- function(t_val = 240, k_values = c(2, 3, 4, 5), r_li
     return(NULL) 
   }
   
-  # Close Parallel Workers and Progress Bar
-  close(pb)
-  stopCluster(cl)
+  # Note: Cluster and Progress Bar are now handled by on.exit()
   gc() # [Optimization] Manually trigger Garbage Collection
   
   return(final_data)
@@ -177,8 +211,15 @@ server <- function(input, output) {
     withProgress(message = 'Simulation in progress',
                  detail = 'This may take a while...', value = 0, {
                    
-      # Parse k_values string into a vector
-      k_vec <- as.numeric(unlist(strsplit(input$k_values, ",")))
+      # Parse k_values string safely, removing spaces and NAs
+      k_raw <- unlist(strsplit(input$k_values, ","))
+      k_vec <- as.numeric(gsub("[[:space:]]", "", k_raw))
+      k_vec <- k_vec[!is.na(k_vec)]
+      
+      if (length(k_vec) == 0) {
+        showNotification("Error: No valid Block Sizes (k) provided.", type = "error")
+        return(NULL)
+      }
       
       # Set initial progress
       setProgress(0.3)
@@ -194,6 +235,11 @@ server <- function(input, output) {
         maxit = input$maxit
       )
       
+      if (is.null(res) || nrow(res) == 0) {
+        showNotification("Simulation finished but produced no valid data. Try increasing maxit or decreasing noise.", type = "warning")
+        return(NULL)
+      }
+      
       setProgress(1)
       return(res)
     })
@@ -202,23 +248,39 @@ server <- function(input, output) {
   # Plot Spearman's Rho
   output$rhoPlot <- renderPlot({
     req(sim_results())
-    ggplot(sim_results(), aes(x = r, y = rho, color = k)) +
-      geom_line(linewidth = 1.2) + geom_point(size = 3) +
-      labs(title = "Ranking Accuracy (Spearman's Rho)",
-           subtitle = sprintf("Method: %s | Noise: %s", input$judge_method, input$temp),
-           x = "Replications (r)", y = "Rho (Correlation)") +
-      theme_minimal(base_size = 14) + theme(legend.position = "bottom")
+    res <- sim_results()
+    if (nrow(res) == 0) return(NULL)
+    
+    tryCatch({
+      ggplot(res, aes(x = r, y = rho, color = k)) +
+        geom_line(linewidth = 1.2) + geom_point(size = 3) +
+        labs(title = "Ranking Accuracy (Spearman's Rho)",
+             subtitle = sprintf("Method: %s | Noise: %s", input$judge_method, input$temp),
+             x = "Replications (r)", y = "Rho (Correlation)") +
+        theme_minimal(base_size = 14) + theme(legend.position = "bottom")
+    }, error = function(e) {
+      plot(1, type='n', axes=FALSE, xlab='', ylab='', main="Error generating plot")
+      text(1, 1, paste("Error:", e$message), cex=1.2)
+    })
   })
   
   # Plot Spearman's Footrule
   output$footrulePlot <- renderPlot({
     req(sim_results())
-    ggplot(sim_results(), aes(x = r, y = footrule, color = k)) +
-      geom_line(linewidth = 1.2) + geom_point(size = 3) +
-      labs(title = "Ranking Error (Spearman's Footrule)",
-           subtitle = sprintf("Method: %s | Noise: %s", input$judge_method, input$temp),
-           x = "Replications (r)", y = "Total Error Score") +
-      theme_minimal(base_size = 14) + theme(legend.position = "bottom")
+    res <- sim_results()
+    if (nrow(res) == 0) return(NULL)
+    
+    tryCatch({
+      ggplot(res, aes(x = r, y = footrule, color = k)) +
+        geom_line(linewidth = 1.2) + geom_point(size = 3) +
+        labs(title = "Ranking Error (Spearman's Footrule)",
+             subtitle = sprintf("Method: %s | Noise: %s", input$judge_method, input$temp),
+             x = "Replications (r)", y = "Total Error Score") +
+        theme_minimal(base_size = 14) + theme(legend.position = "bottom")
+    }, error = function(e) {
+      plot(1, type='n', axes=FALSE, xlab='', ylab='', main="Error generating plot")
+      text(1, 1, paste("Error:", e$message), cex=1.2)
+    })
   })
 }
 
