@@ -1,0 +1,3 @@
+# Ignore Gemini CLI internal notes and skills
+.gemini/
+*.skill
