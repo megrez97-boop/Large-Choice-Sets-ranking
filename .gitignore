@@ -1,8 +1,16 @@
 # Ignore Gemini CLI internal notes and skills
 .gemini/
 *.skill
-discussion/dis_4-20.docx
-noise/gumbel/gumbel_comparison.pdf
-task/4-25/4-20.pdf
-task/4-20/claude.ai-Claude.pdf
-task/4-20/task.txt
+delivery/discussion/dis_4-20.docx
+studies/noise/gumbel/gumbel_comparison.pdf
+sync/task/4-25/4-20.pdf
+sync/task/4-20/claude.ai-Claude.pdf
+sync/task/4-20/task.txt
+
+# New ignore patterns
+sync/task/
+sync/problem/
+delivery/discussion/
+"sync/code bug/"
+studies/graphify-out/
+.gitignore
