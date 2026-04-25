@@ -1,3 +1,8 @@
 # Ignore Gemini CLI internal notes and skills
 .gemini/
 *.skill
+discussion/dis_4-20.docx
+noise/gumbel/gumbel_comparison.pdf
+task/4-25/4-20.pdf
+task/4-20/claude.ai-Claude.pdf
+task/4-20/task.txt
