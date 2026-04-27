@@ -7,18 +7,34 @@ rgumbel <- function(n, location = 0, scale = 1) {
 }
 
 # 模擬核心函數
-run_simulation <- function(temp = 1, t = 20, k = 2, r = 2) {
+run_simulation <- function(temp = 1, t = 20, k = 2, r = 2, noise_mode = "plot") {
+  # noise_mode: 
+  #   "plot" (Approach b): 每次出現都加新雜訊 (Momentary distraction)
+  #   "item" (Approach a): 每個項目固定雜訊 (Fixed individual perception)
+  
   # 1. 產生 Alpha Lattice 設計
   design <- alpha_lattice(t = t, k = k, r = r, seed = 123)
   fb <- design$fieldBook
   
   # 2. 設定真實價值 (True Value: 項目 1 最強, 20 最弱)
-  # 我們假設 V_i = 21 - i (所以項目 1 的 V=20, 項目 20 的 V=1)
+  # 我們假設 V_i = 21 - i
   true_values <- 21 - as.numeric(fb$ENTRY)
   
   # 3. 加入雜訊模擬受訪者決策
-  # U = V + Temp * Gumbel
-  fb$Utility <- true_values + temp * rgumbel(nrow(fb))
+  if (noise_mode == "plot") {
+    # Approach (b): 每一個 plot (nrow(fb)) 都有獨立雜訊
+    fb$Utility <- true_values + temp * rgumbel(nrow(fb))
+  } else if (noise_mode == "item") {
+    # Approach (a): 每個項目 (t 個) 產生一次雜訊，然後對應回 fb
+    item_noise <- data.frame(
+      TREATMENT = unique(as.character(fb$TREATMENT)),
+      Noise = rgumbel(t)
+    )
+    fb <- merge(fb, item_noise, by = "TREATMENT")
+    # 重新計算 Utility: V + Temp * Fixed_Item_Noise
+    # 注意：這裡的 true_values 需要重新從合併後的 fb 計算以確保順序正確
+    fb$Utility <- (21 - as.numeric(fb$ENTRY)) + temp * fb$Noise
+  }
   
   # 4. 根據 Utility 選出每一組的 Winner (Best) 與 Loser (Worst)
   results_list <- list()
@@ -51,17 +67,33 @@ run_simulation <- function(temp = 1, t = 20, k = 2, r = 2) {
   return(rho)
 }
 
-# --- 執行實驗：測試不同 Temperature ---
+# --- 執行實驗：測試不同 Temperature 與 Noise Modes ---
+set.seed(42)
 temps <- seq(0, 10, by = 1)
-results <- data.frame(Temperature = temps, Rho = sapply(temps, run_simulation))
 
-print(results)
+results_plot <- data.frame(
+  Temperature = temps, 
+  Rho = sapply(temps, function(x) run_simulation(temp = x, noise_mode = "plot")),
+  Mode = "Plot-level (Approach b)"
+)
+
+results_item <- data.frame(
+  Temperature = temps, 
+  Rho = sapply(temps, function(x) run_simulation(temp = x, noise_mode = "item")),
+  Mode = "Item-level (Approach a)"
+)
+
+final_results <- rbind(results_plot, results_item)
+print(final_results)
 
 # 繪製趨勢圖
 library(ggplot2)
-ggplot(results, aes(x = Temperature, y = Rho)) +
-  geom_line() + geom_point() +
-  labs(title = "Effect of Noise (Temperature) on Ranking Accuracy",
+ggplot(final_results, aes(x = Temperature, y = Rho, color = Mode, linetype = Mode)) +
+  geom_line(size = 1) + geom_point(size = 2) +
+  labs(title = "Comparison of Noise Modes on Ranking Accuracy",
        subtitle = "Alpha Lattice Design (t=20, k=2, r=2)",
-       y = "Spearman Rho (Higher is Better)") +
-  theme_minimal()
+       x = "Temperature (Noise Scale)",
+       y = "Spearman Rho (Accuracy)") +
+  theme_minimal() +
+  scale_color_brewer(palette = "Set1")
+
