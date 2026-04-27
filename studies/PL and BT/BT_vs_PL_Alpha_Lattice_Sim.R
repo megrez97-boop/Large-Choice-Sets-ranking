@@ -126,7 +126,8 @@ server <- function(input, output) {
     k_vec <- as.numeric(unlist(strsplit(input$k_values, ",")))
     run_multi_k_batch(t_val = input$t_val, k_values = k_vec, r_limit = input$r_limit, 
                       seed_val = input$seed_val, temp_values = temps, 
-                      error_strategies = input$strategies, model_selection = input$model_selection)
+                      error_strategies = input$strategies, model_selection = input$model_selection,
+                      cores_free = input$cores_free)
   })
   
   output$rhoPlot <- renderPlot({
@@ -163,6 +164,11 @@ server <- function(input, output) {
       ggsave(file_name, p, width = 10, height = 6)
     }
     showNotification("All files saved to project directory!", type = "message")
+  })
+}
+
+shinyApp(ui, server)
+ge")
   })
 }
 
