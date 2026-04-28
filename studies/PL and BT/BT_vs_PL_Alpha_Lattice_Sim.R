@@ -231,6 +231,16 @@ server <- function(input, output, session) {
       theme(legend.position = "bottom") +
       labs(title = sprintf("%s: %s", model_label, metric_label),
            x = "Replications (r)", y = metric_label, color = "Block Size (k)")
+    
+    # Dynamic Y-axis for Rho
+    if (metric_label == "Spearman Rho") {
+      min_rho <- min(df[[col_name]], na.rm = TRUE)
+      if (!is.infinite(min_rho)) {
+        y_start <- max(0, floor(min_rho * 10 - 1) / 10)
+        p <- p + coord_cartesian(ylim = c(y_start, 1))
+      }
+    }
+    
     current_plot(p)
     p
   }
@@ -251,6 +261,14 @@ server <- function(input, output, session) {
       labs(title = sprintf("Model Comparison: k = %s", target_k),
            subtitle = "Comparing Ranking Accuracy (Spearman Rho) across Noise Strategies",
            x = "Replications (r)", y = "Spearman Rho")
+    
+    # Dynamic Y-axis for Rho Comparison
+    min_rho <- min(df_long$Rho, na.rm = TRUE)
+    if (!is.infinite(min_rho)) {
+      y_start <- max(0, floor(min_rho * 10 - 1) / 10)
+      p <- p + coord_cartesian(ylim = c(y_start, 1))
+    }
+    
     current_plot(p)
     p
   }
