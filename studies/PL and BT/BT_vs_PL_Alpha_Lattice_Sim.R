@@ -19,6 +19,13 @@ library(tidyr)
 library(shiny)
 library(dplyr)
 
+# Helper: Spearman's Footrule
+calc_footrule <- function(est_params, true_indices) {
+  est_ranks <- rank(-as.numeric(est_params))
+  true_ranks <- rank(-as.numeric(true_indices))
+  sum(abs(est_ranks - true_ranks))
+}
+
 # Core Simulation Engine
 run_multi_k_batch <- function(t_val = 120, k_values = c(3, 4), r_limit = 20, seed_val = 1006, 
                               temp_values = c(0.5, 5.0), error_strategies = c("block"), 
@@ -106,14 +113,9 @@ run_multi_k_batch <- function(t_val = 120, k_values = c(3, 4), r_limit = 20, see
     
     # Initialize res_row with ALL columns to ensure consistency
     res_row <- data.frame(
-      k = as.factor(task$k), 
-      r = task$r, 
-      temp = task$temp, 
-      strategy = task$strategy,
-      rho_bt = NA_real_,
-      time_bt = NA_real_,
-      rho_pl = NA_real_,
-      time_pl = NA_real_
+      k = as.factor(task$k), r = task$r, temp = task$temp, strategy = task$strategy,
+      rho_bt = NA_real_, foot_bt = NA_real_, time_bt = NA_real_,
+      rho_pl = NA_real_, foot_pl = NA_real_, time_pl = NA_real_
     )
     
     # 3. Model Fitting
@@ -127,9 +129,9 @@ run_multi_k_batch <- function(t_val = 120, k_values = c(3, 4), r_limit = 20, see
       if (!inherits(fit_bt, "try-error")) {
         abs_bt <- try(BradleyTerry2::BTabilities(fit_bt), silent = TRUE)
         if (!inherits(abs_bt, "try-error")) {
-          # Safe numeric conversion for names
           item_names <- as.numeric(gsub("[^0-9]", "", rownames(abs_bt)))
           res_row$rho_bt <- cor(abs_bt[,1], item_names, method = "spearman", use = "complete.obs")
+          res_row$foot_bt <- sum(abs(rank(-abs_bt[,1]) - rank(-item_names)))
           res_row$time_bt <- as.numeric(difftime(Sys.time(), start_t, units = "secs"))
         }
       }
@@ -138,17 +140,14 @@ run_multi_k_batch <- function(t_val = 120, k_values = c(3, 4), r_limit = 20, see
     # PL Model
     if (model_selection %in% c("pl", "both")) {
       start_t <- Sys.time()
-      # CRITICAL FIX: Treat matrix as orderings (item labels), not numeric ranks
       R <- try(PlackettLuce::as.rankings(pl_rankings_matrix, input = "orderings"), silent = TRUE)
       if (!inherits(R, "try-error")) {
-        # Increased iterations for large treatment sets (t=120)
         fit_pl <- try(PlackettLuce::PlackettLuce(R, maxit = c(500, 100), epsilon = 1e-6), silent = TRUE)
         if (!inherits(fit_pl, "try-error")) {
           abs_pl <- PlackettLuce::itempar(fit_pl, log = FALSE)
-          # Ensure we only use numeric parts of names for correlation
           item_names_pl <- as.numeric(gsub("[^0-9]", "", names(abs_pl)))
-          # Alignment check: correlate estimated parameters with their true entry numbers
           res_row$rho_pl <- cor(as.numeric(abs_pl), item_names_pl, method = "spearman", use = "complete.obs")
+          res_row$foot_pl <- sum(abs(rank(-as.numeric(abs_pl)) - rank(-item_names_pl)))
           res_row$time_pl <- as.numeric(difftime(Sys.time(), start_t, units = "secs"))
         }
       }
@@ -164,7 +163,7 @@ run_multi_k_batch <- function(t_val = 120, k_values = c(3, 4), r_limit = 20, see
 # Shiny UI
 ui <- fluidPage(
   tags$head(tags$style(HTML(".shiny-progress { position: fixed; top: 50% !important; left: 50% !important; margin-left: -150px !important; }"))),
-  titlePanel("BT vs PL v4.3: Real-time Progress Simulation"),
+  titlePanel("BT vs PL v4.4: Accuracy & Error Analysis"),
   sidebarLayout(
     sidebarPanel(
       numericInput("t_val", "Total Treatments (t):", 120),
@@ -183,7 +182,13 @@ ui <- fluidPage(
       actionButton("save_all", "💾 Save All Results", class = "btn-success", width = "100%")
     ),
     mainPanel(
-      plotOutput("rhoPlot", height = "600px"),
+      tabsetPanel(id = "sim_tabs",
+        tabPanel("BT Rho", value = "bt_rho", plotOutput("btRhoPlot", height = "600px")),
+        tabPanel("BT Footrule", value = "bt_foot", plotOutput("btFootPlot", height = "600px")),
+        tabPanel("PL Rho", value = "pl_rho", plotOutput("plRhoPlot", height = "600px")),
+        tabPanel("PL Footrule", value = "pl_foot", plotOutput("plFootPlot", height = "600px")),
+        tabPanel("Comparison", value = "both", plotOutput("compPlot", height = "600px"))
+      ),
       hr(),
       div(style = "display: none;", 
           h4("Simulation Log Summary"),
@@ -194,14 +199,12 @@ ui <- fluidPage(
 )
 
 server <- function(input, output, session) {
-  # Create a reactive value to store the plot for saving
   current_plot <- reactiveVal()
 
   sim_results <- eventReactive(input$run_sim, {
     k_vec <- as.numeric(unlist(strsplit(input$k_values, ",")))
     temps <- as.numeric(unlist(strsplit(input$temp_values, ",")))
     
-    # Initialize Shiny Progress
     progress <- shiny::Progress$new()
     progress$set(message = "Simulating Alpha Lattice...", value = 0)
     on.exit(progress$close())
@@ -214,42 +217,59 @@ server <- function(input, output, session) {
       shiny_progress = progress
     )
   })
-  
-  output$rhoPlot <- renderPlot({
-    df <- sim_results()
-    req(df)
-    
-    # Transform to long format for ggplot
-    df_long <- tidyr::pivot_longer(df, 
-                                  cols = starts_with("rho"), 
-                                  names_to = "Model", 
-                                  values_to = "Rho")
-    
-    # Clean up Model names for legend
-    df_long$Model <- ifelse(df_long$Model == "rho_bt", "Bradley-Terry (BT)", "Plackett-Luce (PL)")
-    
-    p <- ggplot(df_long, aes(x = r, y = Rho, color = Model, linetype = as.factor(k))) +
-      geom_line(size = 1.2) + 
-      geom_point(size = 2) +
+
+  # Helper for single-model plots
+  render_single_plot <- function(df, col_name, model_label, metric_label) {
+    p <- ggplot(df, aes(x = r, y = .data[[col_name]], color = as.factor(k), group = k)) +
+      geom_line(size = 1.2) + geom_point(size = 2) +
       facet_grid(strategy ~ temp, labeller = label_both) +
       theme_minimal(base_size = 14) +
-      theme(legend.position = "bottom",
-            panel.spacing = unit(2, "lines"),
-            strip.background = element_rect(fill = "#f0f0f0", color = NA)) +
-      labs(title = "Ranking Accuracy (Spearman Rho) vs Replications",
-           subtitle = sprintf("Treatments (t) = %d", input$t_val),
-           x = "Replications (r)", 
-           y = "Spearman Rho",
-           linetype = "Block Size (k)")
+      theme(legend.position = "bottom") +
+      labs(title = sprintf("%s: %s", model_label, metric_label),
+           x = "Replications (r)", y = metric_label, color = "Block Size (k)")
+    current_plot(p)
+    p
+  }
+
+  output$btRhoPlot <- renderPlot({
+    df <- sim_results()
+    req(df); if(input$sim_tabs == "bt_rho") render_single_plot(df, "rho_bt", "Bradley-Terry", "Spearman Rho")
+  })
+
+  output$btFootPlot <- renderPlot({
+    df <- sim_results()
+    req(df); if(input$sim_tabs == "bt_foot") render_single_plot(df, "foot_bt", "Bradley-Terry", "Footrule Error")
+  })
+
+  output$plRhoPlot <- renderPlot({
+    df <- sim_results()
+    req(df); if(input$sim_tabs == "pl_rho") render_single_plot(df, "rho_pl", "Plackett-Luce", "Spearman Rho")
+  })
+
+  output$plFootPlot <- renderPlot({
+    df <- sim_results()
+    req(df); if(input$sim_tabs == "pl_foot") render_single_plot(df, "foot_pl", "Plackett-Luce", "Footrule Error")
+  })
+  
+  output$compPlot <- renderPlot({
+    df <- sim_results()
+    req(df)
+    df_long <- tidyr::pivot_longer(df, cols = c("rho_bt", "rho_pl"), names_to = "Model", values_to = "Rho")
+    df_long$Model <- ifelse(df_long$Model == "rho_bt", "BT", "PL")
     
-    current_plot(p) # Store for saving
-    return(p)
+    p <- ggplot(df_long, aes(x = r, y = Rho, color = Model, linetype = as.factor(k))) +
+      geom_line(size = 1.1) + geom_point() +
+      facet_grid(strategy ~ temp, labeller = label_both) +
+      theme_minimal(base_size = 14) +
+      labs(title = "Combined Comparison (BT vs PL Rho)", x = "Replications (r)", y = "Rho", linetype = "k")
+    
+    if(input$sim_tabs == "both") current_plot(p)
+    p
   })
   
   output$summaryTable <- renderTable({
     df <- sim_results()
     req(df)
-    if ("rho_bt" %in% names(df) && "rho_pl" %in% names(df)) df$Advantage <- df$rho_pl - df$rho_bt
     head(df, 20)
   })
   
@@ -258,16 +278,15 @@ server <- function(input, output, session) {
     p <- current_plot()
     req(df, p)
     
-    base_name <- sprintf("results_t%d_r%d", input$t_val, input$r_limit)
+    tab_suffix <- input$sim_tabs
+    base_name <- sprintf("results_t%d_r%d_%s", input$t_val, input$r_limit, tab_suffix)
     
-    # Save CSV
     write.csv(df, paste0(base_name, ".csv"), row.names = FALSE)
-    
-    # Save Plot
     ggsave(paste0(base_name, ".png"), p, width = 12, height = 8, dpi = 300)
     
-    showNotification(sprintf("Saved CSV and PNG: %s", base_name), type = "message")
+    showNotification(sprintf("Saved %s view to CSV and PNG", tab_suffix), type = "message")
   })
 }
+
 
 shinyApp(ui, server)
