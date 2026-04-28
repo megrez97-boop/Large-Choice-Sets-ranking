@@ -172,7 +172,7 @@ ui <- fluidPage(
       textInput("temp_values", "Noise Levels:", "0.5, 5.0"),
       numericInput("seed_val", "Random Seed:", 1006),
       checkboxGroupInput("strategies", "Noise Strategies:", 
-                         choices = c("global", "block", "comparison"), selected = "block"),
+                         choices = c("global", "block"), selected = "block"),
       selectInput("model_selection", "Models:", choices = c("both", "bt", "pl")),
       numericInput("maxit", "Max Iterations:", 20),
       numericInput("cores_free", "Cores to Keep Free:", 2),
