@@ -81,20 +81,23 @@ run_multi_k_batch <- function(t_val = 120, k_values = c(3, 4), r_limit = 20, see
     # 2. Data Generation
     for (j in seq_along(blocks)) {
       block <- blocks[[j]]
+      
+      # [Shared Noise for Global/Block]
       u_scores <- if (task$strategy == "global") {
         block$TrueValue + task$temp * global_noise[as.character(block$ENTRY)]
       } else if (task$strategy == "block") {
         block$TrueValue + task$temp * evd::rgumbel(nrow(block), 0, 1)
-      } else block$TrueValue
+      } else {
+        block$TrueValue # Base values for comparison strategy
+      }
       
-      u_for_pl <- if(task$strategy == "comparison") {
-        block$TrueValue + task$temp * evd::rgumbel(nrow(block), 0, 1)
-      } else u_scores
+      # PL Data: Pre-fill ranking matrix (used for Global/Block)
+      pl_rankings_matrix[j, ] <- as.character(block$TREATMENT[order(-u_scores)])
       
-      pl_rankings_matrix[j, ] <- as.character(block$TREATMENT[order(-u_for_pl)])
-      
+      # BT Data: Pairwise matches
       pm <- combn(as.character(block$TREATMENT), 2)
       if (task$strategy == "comparison") {
+        # [Strict Parity] Generate noise at pair level - same for both models later
         u1 <- block$TrueValue[match(pm[1,], block$TREATMENT)] + task$temp * evd::rgumbel(ncol(pm), 0, 1)
         u2 <- block$TrueValue[match(pm[2,], block$TREATMENT)] + task$temp * evd::rgumbel(ncol(pm), 0, 1)
       } else {
@@ -111,7 +114,7 @@ run_multi_k_batch <- function(t_val = 120, k_values = c(3, 4), r_limit = 20, see
     
     bt_matches <- do.call(rbind, bt_matches_list)
     
-    # Initialize res_row with ALL columns to ensure consistency
+    # Initialize res_row
     res_row <- data.frame(
       k = as.factor(task$k), r = task$r, temp = task$temp, strategy = task$strategy,
       rho_bt = NA_real_, foot_bt = NA_real_, time_bt = NA_real_,
@@ -137,10 +140,19 @@ run_multi_k_batch <- function(t_val = 120, k_values = c(3, 4), r_limit = 20, see
       }
     }
     
-    # PL Model
+    # PL Model (Modified for strict parity)
     if (model_selection %in% c("pl", "both")) {
       start_t <- Sys.time()
-      R <- try(PlackettLuce::as.rankings(pl_rankings_matrix, input = "orderings"), silent = TRUE)
+      
+      # CRITICAL: If strategy is comparison, PL must use the EXACT same pairwise data as BT
+      R <- if (task$strategy == "comparison") {
+        # Feed PL the win/loss table directly
+        try(PlackettLuce::as.rankings(bt_matches[, c("Winner", "Loser")], input = "orderings"), silent = TRUE)
+      } else {
+        # Use the transitive rankings derived from u_scores
+        try(PlackettLuce::as.rankings(pl_rankings_matrix, input = "orderings"), silent = TRUE)
+      }
+      
       if (!inherits(R, "try-error")) {
         fit_pl <- try(PlackettLuce::PlackettLuce(R, maxit = c(500, 100), epsilon = 1e-6), silent = TRUE)
         if (!inherits(fit_pl, "try-error")) {
