@@ -138,14 +138,17 @@ run_multi_k_batch <- function(t_val = 120, k_values = c(3, 4), r_limit = 20, see
     # PL Model
     if (model_selection %in% c("pl", "both")) {
       start_t <- Sys.time()
-      R <- try(PlackettLuce::as.rankings(pl_rankings_matrix), silent = TRUE)
+      # CRITICAL FIX: Treat matrix as orderings (item labels), not numeric ranks
+      R <- try(PlackettLuce::as.rankings(pl_rankings_matrix, input = "orderings"), silent = TRUE)
       if (!inherits(R, "try-error")) {
-        fit_pl <- try(PlackettLuce::PlackettLuce(R, maxit = c(maxit, 100)), silent = TRUE)
+        # Increased iterations for large treatment sets (t=120)
+        fit_pl <- try(PlackettLuce::PlackettLuce(R, maxit = c(500, 100), epsilon = 1e-6), silent = TRUE)
         if (!inherits(fit_pl, "try-error")) {
           abs_pl <- PlackettLuce::itempar(fit_pl, log = FALSE)
-          # Safe numeric conversion for names
-          item_names <- as.numeric(gsub("[^0-9]", "", names(abs_pl)))
-          res_row$rho_pl <- cor(as.numeric(abs_pl), item_names, method = "spearman", use = "complete.obs")
+          # Ensure we only use numeric parts of names for correlation
+          item_names_pl <- as.numeric(gsub("[^0-9]", "", names(abs_pl)))
+          # Alignment check: correlate estimated parameters with their true entry numbers
+          res_row$rho_pl <- cor(as.numeric(abs_pl), item_names_pl, method = "spearman", use = "complete.obs")
           res_row$time_pl <- as.numeric(difftime(Sys.time(), start_t, units = "secs"))
         }
       }
