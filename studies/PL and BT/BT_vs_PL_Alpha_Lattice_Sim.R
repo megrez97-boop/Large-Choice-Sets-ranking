@@ -226,18 +226,24 @@ server <- function(input, output, session) {
   render_single_plot <- function(df, col_name, model_label, metric_label) {
     p <- ggplot(df, aes(x = r, y = .data[[col_name]], color = as.factor(k), group = k)) +
       geom_line(size = 1.2) + geom_point(size = 2) +
-      facet_grid(temp ~ strategy, labeller = label_both) +
+      facet_grid(temp ~ strategy, labeller = label_both, scales = "free_y") +
       theme_minimal(base_size = 14) +
       theme(legend.position = "bottom") +
+      expand_limits(y = 1) +
       labs(title = sprintf("%s: %s", model_label, metric_label),
            x = "Replications (r)", y = metric_label, color = "Block Size (k)")
     
-    # Dynamic Y-axis for Rho
+    # Dynamic Y-axis for Rho: Zoom into relevant convergence range
     if (metric_label == "Spearman Rho") {
-      min_rho <- min(df[[col_name]], na.rm = TRUE)
-      if (!is.infinite(min_rho)) {
-        y_start <- max(0, floor(min_rho * 10 - 1) / 10)
-        p <- p + coord_cartesian(ylim = c(y_start, 1))
+      # Calculate zoom floor based on stabilized data (r >= 4) to avoid early noise
+      stable_data <- df[[col_name]][df$r >= 4]
+      if (length(stable_data) > 0) {
+        min_rho <- min(stable_data, na.rm = TRUE)
+        if (!is.infinite(min_rho)) {
+          # User logic: if min is 0.7, start at 0.6
+          y_start <- max(0, floor(min_rho * 10) / 10 - 0.1)
+          p <- p + coord_cartesian(ylim = c(y_start, 1))
+        }
       }
     }
     
@@ -255,18 +261,23 @@ server <- function(input, output, session) {
     
     p <- ggplot(df_long, aes(x = r, y = Rho, color = Model, group = Model)) +
       geom_line(size = 1.2) + geom_point(size = 2) +
-      facet_grid(temp ~ strategy, labeller = label_both) +
+      facet_grid(temp ~ strategy, labeller = label_both, scales = "free_y") +
       theme_minimal(base_size = 14) +
       theme(legend.position = "bottom") +
+      expand_limits(y = 1) +
       labs(title = sprintf("Model Comparison: k = %s", target_k),
-           subtitle = "Comparing Ranking Accuracy (Spearman Rho) across Noise Strategies",
+           subtitle = "Accuracy (Spearman Rho) | Zoomed into stabilized range (r >= 5)",
            x = "Replications (r)", y = "Spearman Rho")
     
-    # Dynamic Y-axis for Rho Comparison
-    min_rho <- min(df_long$Rho, na.rm = TRUE)
-    if (!is.infinite(min_rho)) {
-      y_start <- max(0, floor(min_rho * 10 - 1) / 10)
-      p <- p + coord_cartesian(ylim = c(y_start, 1))
+    # Aggressive Zoom: Find minimum Rho in the stabilized zone (r >= 5)
+    stable_vals <- df_long$Rho[df_long$r >= 5]
+    if (length(stable_vals) > 0) {
+      min_rho <- min(stable_vals, na.rm = TRUE)
+      if (!is.infinite(min_rho)) {
+        # e.g., if min is 0.72 -> start at 0.6
+        y_start <- max(0, floor(min_rho * 10) / 10 - 0.1)
+        p <- p + coord_cartesian(ylim = c(y_start, 1))
+      }
     }
     
     current_plot(p)
