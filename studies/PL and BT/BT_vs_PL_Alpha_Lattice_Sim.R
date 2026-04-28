@@ -165,15 +165,20 @@ ui <- fluidPage(
       actionButton("save_all", "💾 Save All Results", class = "btn-success", width = "100%")
     ),
     mainPanel(
-      plotOutput("rhoPlot", height = "500px"),
+      plotOutput("rhoPlot", height = "600px"),
       hr(),
-      h4("Simulation Log Summary"),
-      tableOutput("summaryTable")
+      div(style = "display: none;", 
+          h4("Simulation Log Summary"),
+          tableOutput("summaryTable")
+      )
     )
   )
 )
 
 server <- function(input, output, session) {
+  # Create a reactive value to store the plot for saving
+  current_plot <- reactiveVal()
+
   sim_results <- eventReactive(input$run_sim, {
     k_vec <- as.numeric(unlist(strsplit(input$k_values, ",")))
     temps <- as.numeric(unlist(strsplit(input$temp_values, ",")))
@@ -195,12 +200,32 @@ server <- function(input, output, session) {
   output$rhoPlot <- renderPlot({
     df <- sim_results()
     req(df)
-    df_long <- tidyr::pivot_longer(df, cols = starts_with("rho"), names_to = "Model", values_to = "Rho")
-    ggplot(df_long, aes(x = r, y = Rho, color = interaction(k, Model), linetype = Model)) +
-      geom_line(size = 1.2) + geom_point() +
-      facet_wrap(~strategy + temp, labeller = label_both) +
+    
+    # Transform to long format for ggplot
+    df_long <- tidyr::pivot_longer(df, 
+                                  cols = starts_with("rho"), 
+                                  names_to = "Model", 
+                                  values_to = "Rho")
+    
+    # Clean up Model names for legend
+    df_long$Model <- ifelse(df_long$Model == "rho_bt", "Bradley-Terry (BT)", "Plackett-Luce (PL)")
+    
+    p <- ggplot(df_long, aes(x = r, y = Rho, color = Model, linetype = as.factor(k))) +
+      geom_line(size = 1.2) + 
+      geom_point(size = 2) +
+      facet_grid(strategy ~ temp, labeller = label_both) +
       theme_minimal(base_size = 14) +
-      labs(title = "Ranking Accuracy Improvement by Replication", x = "Replications (r)", y = "Spearman Rho")
+      theme(legend.position = "bottom",
+            panel.spacing = unit(2, "lines"),
+            strip.background = element_rect(fill = "#f0f0f0", color = NA)) +
+      labs(title = "Ranking Accuracy (Spearman Rho) vs Replications",
+           subtitle = sprintf("Treatments (t) = %d", input$t_val),
+           x = "Replications (r)", 
+           y = "Spearman Rho",
+           linetype = "Block Size (k)")
+    
+    current_plot(p) # Store for saving
+    return(p)
   })
   
   output$summaryTable <- renderTable({
@@ -212,10 +237,18 @@ server <- function(input, output, session) {
   
   observeEvent(input$save_all, {
     df <- sim_results()
-    req(df)
-    filename <- sprintf("results_t%d_r%d.csv", input$t_val, input$r_limit)
-    write.csv(df, filename, row.names = FALSE)
-    showNotification(paste("Saved to", filename), type = "message")
+    p <- current_plot()
+    req(df, p)
+    
+    base_name <- sprintf("results_t%d_r%d", input$t_val, input$r_limit)
+    
+    # Save CSV
+    write.csv(df, paste0(base_name, ".csv"), row.names = FALSE)
+    
+    # Save Plot
+    ggsave(paste0(base_name, ".png"), p, width = 12, height = 8, dpi = 300)
+    
+    showNotification(sprintf("Saved CSV and PNG: %s", base_name), type = "message")
   })
 }
 

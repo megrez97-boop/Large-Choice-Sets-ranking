@@ -1,0 +1,81 @@
+{
+  "files": {
+    "code": [
+      "detect_corpus.py",
+      "sim_temperature_study.R",
+      "studies\\alpha lattice + BT\\test.R",
+      "studies\\error cal\\rho vs footrule, with reverse  ranking 4-7.R",
+      "studies\\error cal\\simulation ranking error.R",
+      "studies\\error cal\\spearman\u2018s cor, r.R",
+      "studies\\noise\\noise 4-14 v2.R",
+      "studies\\noise\\noise 4-14.R",
+      "studies\\PL and BT\\BT_vs_PL_Alpha_Lattice_Sim.R",
+      "studies\\noise\\gumbel\\error in rankings or comparisons.R",
+      "studies\\noise\\gumbel\\gumbel_plots.R",
+      "studies\\alpha lattice 1\\Feildhub\\Alpha Lattice Simulation.R",
+      "studies\\alpha lattice 1\\Feildhub\\FielDHub.R",
+      "studies\\alpha lattice 1\\Feildhub\\Simple Alpha Lattice Example.R",
+      "delivery\\final code\\Algorithm.R"
+    ],
+    "document": [
+      "gemini.md",
+      "THESIS_NOTES.md",
+      "studies\\graphify-out\\GRAPH_REPORT.md",
+      "studies\\graphify-out\\TASK_PROGRESS_4_14.md",
+      "sync\\task\\4-20\\task.txt",
+      "sync\\task\\4-27\\task.txt"
+    ],
+    "paper": [
+      "delivery\\GPS Research.pdf",
+      "library\\Related paper\\Manski-DanielMcFaddenEconometric-2001.pdf",
+      "library\\Related paper\\Rank Correlation Methods (Charles Griffin Book Series) -- Kendall, Maurice G_ (Maurice George), 1907-1983, Gibbons, -- 5th ed.pdf",
+      "library\\Related paper\\Spearman-ProofMeasurementAssociation-1904.pdf",
+      "library\\Related paper\\gumbel\\Kenneth Train Discrete Choice Methods with Simulation.pdf",
+      "library\\Related paper\\gumbel\\Kotz, S., & Nadarajah, S. (2000). Extreme Value Distributions Theory and Applications..pdf",
+      "library\\Related paper\\wiki\\en.wikipedia.org-Gumbel distribution - Wikipedia.pdf",
+      "studies\\noise\\gumbel\\gumbel_comparison.pdf",
+      "sync\\task\\4-20\\claude.ai-Claude.pdf",
+      "sync\\task\\4-25\\4-20.pdf"
+    ],
+    "image": [
+      "studies\\error cal\\0~1 r 20, t 240.png",
+      "studies\\error cal\\spearman footrule\uff0c k = 2~5.png",
+      "studies\\error cal\\spearman rho, k= 2~5.png",
+      "studies\\error cal\\\u507d.png",
+      "studies\\error cal\\graph\\ggplot2 line chart 1.png",
+      "studies\\error cal\\graph\\ggplot2 line chart 4.png",
+      "studies\\error cal\\graph\\graph_r = 20, k =3.png",
+      "studies\\error cal\\graph\\k=2,4, r=30.png",
+      "studies\\error cal\\graph\\k=2,4,r=50.png",
+      "studies\\error cal\\graph\\k=4,r=100.png",
+      "studies\\error cal\\graph\\k=4,r=20.png",
+      "studies\\noise\\graph\\noise 0.5\uff0cranking.png",
+      "studies\\noise\\graph\\noise 2\uff0c ranking\uff0c footrule.png",
+      "studies\\noise\\graph\\noise 2\uff0cbws.png",
+      "studies\\noise\\graph\\noise 2\uff0cranking.png",
+      "studies\\noise\\graph\\noise0.5\uff0c bws\uff0c footrule.png",
+      "studies\\noise\\graph\\noise0.5\uff0c ranking\uff0c footrule.png",
+      "studies\\noise\\graph\\Screenshot 2026-04-14 110123.png",
+      "studies\\noise\\graph\\Screenshot 2026-04-14 110140.png",
+      "studies\\noise\\gumbel\\plot\\footrule_plot_ranking_comparisons_T200\uff0ct100\uff0ck 2,4\uff0c r 14.png",
+      "studies\\noise\\gumbel\\plot\\footrule_plot_ranking_comparisons_T200\uff0ct100\uff0ck 2,4\uff0c r 14\uff0cv2.png",
+      "studies\\noise\\gumbel\\plot\\footrule_plot_ranking_rankings_T200\uff0ct100\uff0ck 2,4\uff0c r 14.png",
+      "studies\\noise\\gumbel\\plot\\footrule_plot_ranking_rankings_T200\uff0ct100\uff0ck 2,4\uff0c r 14\uff0cv2.png",
+      "studies\\noise\\gumbel\\plot\\rho_plot_ranking_comparisons_T200\uff0ct100\uff0ck 2,4\uff0c r 14.png",
+      "studies\\noise\\gumbel\\plot\\rho_plot_ranking_comparisons_T200\uff0ct100\uff0ck 2,4\uff0c r 14\uff0cv2.png",
+      "studies\\noise\\gumbel\\plot\\rho_plot_ranking_rankings_T200t100\uff0ck 2,4\uff0c r 14.png",
+      "studies\\noise\\gumbel\\plot\\rho_plot_ranking_rankings_T200t100\uff0ck 2,4\uff0c r 14\uff0cv2.png",
+      "sync\\code bug\\Screenshot 2026-04-28 064739.png",
+      "sync\\problem\\Screenshot 2026-04-14 065452.png",
+      "sync\\problem\\Screenshot 2026-04-14 065501.png"
+    ]
+  },
+  "total_files": 61,
+  "total_words": 95202,
+  "needs_graph": true,
+  "warning": null,
+  "skipped_sensitive": [
+    "delivery\\discussion\\dis_4-20.docx [office conversion failed - pip install graphifyy[office]]"
+  ],
+  "graphifyignore_patterns": 0
+}
