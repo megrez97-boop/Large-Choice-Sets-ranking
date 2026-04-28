@@ -229,61 +229,45 @@ server <- function(input, output, session) {
       facet_grid(temp ~ strategy, labeller = label_both, scales = "free_y") +
       theme_minimal(base_size = 14) +
       theme(legend.position = "bottom") +
-      expand_limits(y = 1) +
       labs(title = sprintf("%s: %s", model_label, metric_label),
            x = "Replications (r)", y = metric_label, color = "Block Size (k)")
-    
-    # Dynamic Y-axis for Rho: Zoom into relevant convergence range
+
+    # Smart Zoom for Rho: Independent per facet, buffer below min, cap at 1.0
     if (metric_label == "Spearman Rho") {
-      # Calculate zoom floor based on stabilized data (r >= 4) to avoid early noise
-      stable_data <- df[[col_name]][df$r >= 4]
-      if (length(stable_data) > 0) {
-        min_rho <- min(stable_data, na.rm = TRUE)
-        if (!is.infinite(min_rho)) {
-          # User logic: if min is 0.7, start at 0.6
-          y_start <- max(0, floor(min_rho * 10) / 10 - 0.1)
-          p <- p + coord_cartesian(ylim = c(y_start, 1))
-        }
-      }
+      p <- p + scale_y_continuous(
+        expand = expansion(mult = c(0.2, 0.05)), 
+        limits = c(NA, 1)
+      )
     }
-    
+
     current_plot(p)
     p
   }
-  
+
   # Helper for comparison plots fixed by K
   render_comp_plot <- function(df, target_k) {
     df_sub <- df[df$k == target_k, ]
     if (nrow(df_sub) == 0) return(NULL)
-    
+
     df_long <- tidyr::pivot_longer(df_sub, cols = c("rho_bt", "rho_pl"), names_to = "Model", values_to = "Rho")
     df_long$Model <- ifelse(df_long$Model == "rho_bt", "Bradley-Terry (BT)", "Plackett-Luce (PL)")
-    
+
     p <- ggplot(df_long, aes(x = r, y = Rho, color = Model, group = Model)) +
       geom_line(size = 1.2) + geom_point(size = 2) +
       facet_grid(temp ~ strategy, labeller = label_both, scales = "free_y") +
       theme_minimal(base_size = 14) +
       theme(legend.position = "bottom") +
-      expand_limits(y = 1) +
+      scale_y_continuous(
+        expand = expansion(mult = c(0.2, 0.05)), 
+        limits = c(NA, 1)
+      ) +
       labs(title = sprintf("Model Comparison: k = %s", target_k),
-           subtitle = "Accuracy (Spearman Rho) | Zoomed into stabilized range (r >= 5)",
+           subtitle = "Accuracy (Spearman Rho) | Subplot Independent Zoom",
            x = "Replications (r)", y = "Spearman Rho")
-    
-    # Aggressive Zoom: Find minimum Rho in the stabilized zone (r >= 5)
-    stable_vals <- df_long$Rho[df_long$r >= 5]
-    if (length(stable_vals) > 0) {
-      min_rho <- min(stable_vals, na.rm = TRUE)
-      if (!is.infinite(min_rho)) {
-        # e.g., if min is 0.72 -> start at 0.6
-        y_start <- max(0, floor(min_rho * 10) / 10 - 0.1)
-        p <- p + coord_cartesian(ylim = c(y_start, 1))
-      }
-    }
-    
+
     current_plot(p)
     p
   }
-
   output$btRhoPlot <- renderPlot({
     df <- sim_results()
     req(df); if(input$sim_tabs == "bt_rho") render_single_plot(df, "rho_bt", "Bradley-Terry", "Spearman Rho")
