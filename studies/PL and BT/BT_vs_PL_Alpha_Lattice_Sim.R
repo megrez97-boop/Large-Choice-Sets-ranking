@@ -172,7 +172,10 @@ ui <- fluidPage(
       textInput("temp_values", "Noise Levels:", "0.5, 5.0"),
       numericInput("seed_val", "Random Seed:", 1006),
       checkboxGroupInput("strategies", "Noise Strategies:", 
-                         choices = c("global", "block"), selected = "block"),
+                         choices = c("Global (Inherent)" = "global", 
+                                     "Block (Local Env)" = "block", 
+                                     "Pairwise (Decision/Circular)" = "comparison"), 
+                         selected = c("global", "block", "comparison")),
       selectInput("model_selection", "Models:", choices = c("both", "bt", "pl")),
       numericInput("maxit", "Max Iterations:", 20),
       numericInput("cores_free", "Cores to Keep Free:", 2),
@@ -187,7 +190,8 @@ ui <- fluidPage(
         tabPanel("BT Footrule", value = "bt_foot", plotOutput("btFootPlot", height = "600px")),
         tabPanel("PL Rho", value = "pl_rho", plotOutput("plRhoPlot", height = "600px")),
         tabPanel("PL Footrule", value = "pl_foot", plotOutput("plFootPlot", height = "600px")),
-        tabPanel("Comparison", value = "both", plotOutput("compPlot", height = "600px"))
+        tabPanel("Comp (k=3)", value = "comp_k3", plotOutput("compK3Plot", height = "600px")),
+        tabPanel("Comp (k=4)", value = "comp_k4", plotOutput("compK4Plot", height = "600px"))
       ),
       hr(),
       div(style = "display: none;", 
@@ -222,11 +226,31 @@ server <- function(input, output, session) {
   render_single_plot <- function(df, col_name, model_label, metric_label) {
     p <- ggplot(df, aes(x = r, y = .data[[col_name]], color = as.factor(k), group = k)) +
       geom_line(size = 1.2) + geom_point(size = 2) +
-      facet_grid(strategy ~ temp, labeller = label_both) +
+      facet_grid(temp ~ strategy, labeller = label_both) +
       theme_minimal(base_size = 14) +
       theme(legend.position = "bottom") +
       labs(title = sprintf("%s: %s", model_label, metric_label),
            x = "Replications (r)", y = metric_label, color = "Block Size (k)")
+    current_plot(p)
+    p
+  }
+  
+  # Helper for comparison plots fixed by K
+  render_comp_plot <- function(df, target_k) {
+    df_sub <- df[df$k == target_k, ]
+    if (nrow(df_sub) == 0) return(NULL)
+    
+    df_long <- tidyr::pivot_longer(df_sub, cols = c("rho_bt", "rho_pl"), names_to = "Model", values_to = "Rho")
+    df_long$Model <- ifelse(df_long$Model == "rho_bt", "Bradley-Terry (BT)", "Plackett-Luce (PL)")
+    
+    p <- ggplot(df_long, aes(x = r, y = Rho, color = Model, group = Model)) +
+      geom_line(size = 1.2) + geom_point(size = 2) +
+      facet_grid(temp ~ strategy, labeller = label_both) +
+      theme_minimal(base_size = 14) +
+      theme(legend.position = "bottom") +
+      labs(title = sprintf("Model Comparison: k = %s", target_k),
+           subtitle = "Comparing Ranking Accuracy (Spearman Rho) across Noise Strategies",
+           x = "Replications (r)", y = "Spearman Rho")
     current_plot(p)
     p
   }
@@ -251,20 +275,14 @@ server <- function(input, output, session) {
     req(df); if(input$sim_tabs == "pl_foot") render_single_plot(df, "foot_pl", "Plackett-Luce", "Footrule Error")
   })
   
-  output$compPlot <- renderPlot({
+  output$compK3Plot <- renderPlot({
     df <- sim_results()
-    req(df)
-    df_long <- tidyr::pivot_longer(df, cols = c("rho_bt", "rho_pl"), names_to = "Model", values_to = "Rho")
-    df_long$Model <- ifelse(df_long$Model == "rho_bt", "BT", "PL")
-    
-    p <- ggplot(df_long, aes(x = r, y = Rho, color = Model, linetype = as.factor(k))) +
-      geom_line(size = 1.1) + geom_point() +
-      facet_grid(strategy ~ temp, labeller = label_both) +
-      theme_minimal(base_size = 14) +
-      labs(title = "Combined Comparison (BT vs PL Rho)", x = "Replications (r)", y = "Rho", linetype = "k")
-    
-    if(input$sim_tabs == "both") current_plot(p)
-    p
+    req(df); if(input$sim_tabs == "comp_k3") render_comp_plot(df, 3)
+  })
+
+  output$compK4Plot <- renderPlot({
+    df <- sim_results()
+    req(df); if(input$sim_tabs == "comp_k4") render_comp_plot(df, 4)
   })
   
   output$summaryTable <- renderTable({
