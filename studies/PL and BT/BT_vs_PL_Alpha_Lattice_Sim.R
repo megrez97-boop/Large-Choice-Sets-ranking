@@ -103,7 +103,18 @@ run_multi_k_batch <- function(t_val = 120, k_values = c(3, 4), r_limit = 20, see
     }
     
     bt_matches <- do.call(rbind, bt_matches_list)
-    res_row <- data.frame(k = as.factor(task$k), r = task$r, temp = task$temp, strategy = task$strategy)
+    
+    # Initialize res_row with ALL columns to ensure consistency
+    res_row <- data.frame(
+      k = as.factor(task$k), 
+      r = task$r, 
+      temp = task$temp, 
+      strategy = task$strategy,
+      rho_bt = NA_real_,
+      time_bt = NA_real_,
+      rho_pl = NA_real_,
+      time_pl = NA_real_
+    )
     
     # 3. Model Fitting
     # BT Model
@@ -116,7 +127,9 @@ run_multi_k_batch <- function(t_val = 120, k_values = c(3, 4), r_limit = 20, see
       if (!inherits(fit_bt, "try-error")) {
         abs_bt <- try(BradleyTerry2::BTabilities(fit_bt), silent = TRUE)
         if (!inherits(abs_bt, "try-error")) {
-          res_row$rho_bt <- cor(abs_bt[,1], as.numeric(gsub("[^0-9]", "", rownames(abs_bt))), method = "spearman")
+          # Safe numeric conversion for names
+          item_names <- as.numeric(gsub("[^0-9]", "", rownames(abs_bt)))
+          res_row$rho_bt <- cor(abs_bt[,1], item_names, method = "spearman", use = "complete.obs")
           res_row$time_bt <- as.numeric(difftime(Sys.time(), start_t, units = "secs"))
         }
       }
@@ -130,7 +143,9 @@ run_multi_k_batch <- function(t_val = 120, k_values = c(3, 4), r_limit = 20, see
         fit_pl <- try(PlackettLuce::PlackettLuce(R, maxit = c(maxit, 100)), silent = TRUE)
         if (!inherits(fit_pl, "try-error")) {
           abs_pl <- PlackettLuce::itempar(fit_pl, log = FALSE)
-          res_row$rho_pl <- cor(as.numeric(abs_pl), as.numeric(names(abs_pl)), method = "spearman")
+          # Safe numeric conversion for names
+          item_names <- as.numeric(gsub("[^0-9]", "", names(abs_pl)))
+          res_row$rho_pl <- cor(as.numeric(abs_pl), item_names, method = "spearman", use = "complete.obs")
           res_row$time_pl <- as.numeric(difftime(Sys.time(), start_t, units = "secs"))
         }
       }
