@@ -1,0 +1,229 @@
+"Model","Temp","K","Rep","Block","AI_Ranking"
+"llama3.2",0,4,"1","1","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","2","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","3","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","4","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","5","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","6","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","7","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","8","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","9","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","10","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","11","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","12","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","13","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","14","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","15","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","16","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","17","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","18","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","19","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","20","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","21","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","22","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","23","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","24","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0.5,4,"1","1","[ID_1] > ID_4 > ID_2 > ID_3"
+"llama3.2",0.5,4,"1","2","[ID_3] > ID_4 > ID_1"
+"llama3.2",0.5,4,"1","3","ID_3 > ID_2 > ID_8 > ID_1 > ID_4"
+"llama3.2",0.5,4,"1","4","1 > ID_3 > ID_4 > ID_2"
+"llama3.2",0.5,4,"1","5","[ID_3] > [ID_2] > [ID_4] > [ID_1]"
+"llama3.2",0.5,4,"1","6","[ID_3] > ID_1 > ID_4 > ID_2"
+"llama3.2",0.5,4,"1","7","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0.5,4,"1","8","[ID_1] > [ID_4] > [ID_3] > [ID_2]"
+"llama3.2",0.5,4,"1","9","ID_3 > ID_2 > ID_4 > ID_1"
+"llama3.2",0.5,4,"1","10","[ID_1] > ID_4 > ID_2 > ID_3"
+"llama3.2",0.5,4,"1","11","[ID_1] > ID_4 > ID_3 > ID_2"
+"llama3.2",0.5,4,"1","12","ID_3 > ID_4 > ID_1"
+"llama3.2",0.5,4,"2","13","[ID_3] > ID_1 > ID_8 > ID_4 > ID_2"
+"llama3.2",0.5,4,"2","14","[ID_3] > [ID_1] > [ID_4] > [ID_2]"
+"llama3.2",0.5,4,"2","15","[ID_1] > ID_4 > ID_2 > ID_3"
+"llama3.2",0.5,4,"2","16","[ID_1] > ID_4 > ID_2 > ID_3"
+"llama3.2",0.5,4,"2","17","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0.5,4,"2","18","[ID_3] > [ID_1] > [ID_4]
+ 
+[ID_2], [ID_4], and [ID_1] are not ranked as they were not airport guidance items."
+"llama3.2",0.5,4,"2","19","[ID_3] > [ID_4] > [ID_1]"
+"llama3.2",0.5,4,"2","20","[ID_3] > [ID_4] > [ID_1]"
+"llama3.2",0.5,4,"2","21","[ID_1] > ID_4 > ID_2 > ID_3"
+"llama3.2",0.5,4,"2","22","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0.5,4,"2","23","[ID_1] > ID_3 > ID_4 > ID_2"
+"llama3.2",0.5,4,"2","24","[ID_1] > ID_4 > ID_3 > ID_2"
+"llama3.2",1,4,"1","1","[ID_3] > [ID_4] > [ID_1]"
+"llama3.2",1,4,"1","2","[ID_3] > [ID_4] > ID_2"
+"llama3.2",1,4,"1","3","ID_3 > ID_2 > ID_4 > ID_1"
+"llama3.2",1,4,"1","4","(ID_3) > ID_4 > ID_1"
+"llama3.2",1,4,"1","5","ID_1 > ID_3 > ID_4 > ID_2"
+"llama3.2",1,4,"1","6","[ID_1] > ID_4 > ID_2 > ID_3"
+"llama3.2",1,4,"1","7","[ID_8] > [ID_5] > [ID_3] > [ID_4] > [ID_2]> 
+
+Note: ID_1 is not ranked as it was not provided in the list."
+"llama3.2",1,4,"1","8","[ID_3] > ID_2 > ID_1 > ID_4"
+"llama3.2",1,4,"1","9","[ID_3] > [ID_2] > [ID_4] > ID_1"
+"llama3.2",1,4,"1","10","(ID_3) > ID_2 > ID_4 > ID_1"
+"llama3.2",1,4,"1","11","[ID_3] > [ID_4] > [ID_1]
+
+Let me know if I can assist in Part 2 of the task."
+"llama3.2",1,4,"1","12","[ID_1] > ID_2 > ID_3 > ID_4 > 
+ID_8
+ID_6
+ID_7
+ID_5
+ID_9
+ID_2"
+"llama3.2",1,4,"2","13","[ID_3] > [ID_1] > [ID_4] > [ID_2]"
+"llama3.2",1,4,"2","14","[ID_2] > ID_1 > ID_3 > ID_4"
+"llama3.2",1,4,"2","15","[ID_1] > [ID_4] > [ID_2] > [ID_3] > [ID_8] > [ID_7] > [ID_6] > [ID_5] > [ID_9] 
+
+Note: Since ID 9 was not in the provided list, I left it as is."
+"llama3.2",1,4,"2","16","ID_3 > ID_2 > ID_8 > ID_4 > ID_1 > ID_7"
+"llama3.2",1,4,"2","17","ID_3 > ID_1 > ID_4 > ID_2 > ID_8"
+"llama3.2",1,4,"2","18","ID_3 > ID_4 > ID_2"
+"llama3.2",1,4,"2","19","[ID_3] > [ID_2] > [ID_1] > [ID_4]"
+"llama3.2",1,4,"2","20","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",1,4,"2","21","[ID_3] > ID_2 > ID_4 > ID_1"
+"llama3.2",1,4,"2","22","<ID_2 > ID_3 > ID_4 > ID_1>"
+"llama3.2",1,4,"2","23","[ID_2] > [ID_4] > [ID_1] > [ID_3]"
+"llama3.2",1,4,"2","24","[ID_3] > ID_4 > ID_2"
+"llama3.2",10,4,"1","1","<ID_1 > ID_3 > ID_4 > ID_2"
+"llama3.2",10,4,"1","2","1. ID_3 > ID_4 > ID_2 > ID_1
+
+3. ID_2
+ Follow liquids and electronics rules strictly to avoid delays at security.
+ 
+2. ID_4 
+ Exchange some of your money into yen before leaving the airport area, purchase a sim card or pocket wifi.
+
+1. ID_3"
+"llama3.2",10,4,"1","3","1 > ID_4 > ID_3 > ID_2"
+"llama3.2",10,4,"1","4","To determine a ranked airport guidance item, consider both usefulness and ease-of-fuility within airport environments.
+
+1. Check-in (ID_2) > ID_3
+2. Have all necessary travel documents and flight information ready
+3. Proceed through security efficiently
+4. Listen to announcements about flights, luggage claim ID's  (no ID_6 list value available)
+5. Find available public transportation near you  no clear best 
+6. Learn where important locations like the post office are.
+7. Make all the payments online using online banking"
+"llama3.2",10,4,"1","5",">ID_1 > ID_2 > ID_4 > ID_3 > ID_5 is not an available ID
+
+Example:
+[ID_3] 1 > [ID_3]
+<ID_2 is incorrect ranking
+>ID_5> 
+Correct response for top items based on best to worst
+.getID_2
+	ID_8  then.ID_4 >ID_6then>ID_5"
+"llama3.2",10,4,"1","6","	ID_2 > ID_1 > ID_3
+ID_4 > 
+>ID_6 >
+.ID_5 > ID_7"
+"llama3.2",10,4,"1","7","-ID_1 > ID_3 > ID_2 > ID_4 > 
+-ID_2 (added to correct ordering)
+>ID_1 now on top after re-ordered ID 4 
+> ID_4 
+
+> ID_1 
+.ID_2 then #3 
+ >ID_3 
+,ID_4 still bottom."
+"llama3.2",10,4,"1","8","1 > ID_2 > ID_4 > ID_3 > ID_1"
+"llama3.2",10,4,"1","9",">ID_1 > ID_3 > ID_4 > ID_2."
+"llama3.2",10,4,"1","10","ID_3 > ID_2 > ID_8 > ID_1 > ID_4 > ID_5 > ID_7 > ID_6 > ID_9 is not available. 
+ ID_3 > ID_2 > ID_4 is also possible.
+Since the problem required two separate output values - one guide and advice section I solved with two solutions:
+Part 1:
+
+Check-in counter; have your passport and flight details ready.
+
+Produce an extra slip for items in check in luggage 
+Remove any metal objects and electronics from your bag.
+Follow liquids and electronics rules strictly to avoid delays at security.  
+
+Check out when ready on your ticket 
+Look at departure screens on display in terminal  airport 
+
+Gate information available at departure"
+"llama3.2",10,4,"1","11","<ID_3> > ID_1> ID_2> ID_4> 
+
+Note: Given the item IDs are part of the requirements, I did not consider them when generating the final ranking since none were in your question but ID_3 is very clear as an instruction guide to pass the first check with most people for travel.
+
+(ID_1) and (ID_4) items are focused on after-airport tasks; which was NOT a main task. The first part was focused solely on what would take place right within that airport, ID_2 wasn't needed."
+"llama3.2",10,4,"1","12","To complete the task as requested, I need to:
+
+1. Extract all unique ID elements.
+2. Develop part 1 guide according to specifications (a step-by-step process from arrival to boarding).
+3. Write top bits of advice as a single sentence per bit to achieve ""Preventing most common mistakes.""
+4. rank airport guidance items
+
+ID Elements List:
+
+ID_1, ID_2, ID_3, ID_4
+
+
+Guiding Travelers Through Airport: Step-by-Step
+
+* Arrive at the major Japanese airport (e.g. Narita, Haneda) at least 4 hours prior to flight to accommodate immigration, security and check-in process.\
+Follow international passenger flow through arrivals building.\
+Visit the ticket"
+"llama3.2",10,4,"2","13","	ID_3 > ID_2 > ID_8 > ID_4 > ID_1"
+"llama3.2",10,4,"2","14",">ID_1 > ID_3 > ID_2 > ID_4"
+"llama3.2",10,4,"2","15","(ID_2) > ID_1 > ID_4 > ID_3 > 
+-ID does not seem relevant for the ranking of airport guidance.
+3>2 > 8
+-A general guide and not relevant here - also very basic so was put in bottom position by myself  
+1>6>5>
+-The two other tips for advice (keep your boarding pass passport and follow liquid rules ) could have easily placed second, as first in these were some additional details."
+"llama3.2",10,4,"2","16",">ID_3 > ID_1 > ID_4 > ID_2"
+"llama3.2",10,4,"2","17","To solve this problem we can follow these steps:
+- Understand what information we need for Part 1: step-by-step guide 
+  We must now convert these requirements into items.
+
+2) Identify all Items
+
+  We already have them
+ID_3 
+
+We can rank it now 
+(ID_3: check-in-counter)
+-ID_2: (No relevance to a trip)
+ID_4 
+[ID_1]
+
+Here are the ranking from highest importance for a trip 
+
+ID_3 > ID_1 > ID_4."
+"llama3.2",10,4,"2","18","To solve this problem I will need to first put everything in a list: 
+
+[ID_1]
+[ID_2] Arrive at the airport 3 hours before your flight
+(ID_3)
+[Item 2]
+[Item 4]
+[ID_4] Always double-check your gate number as it can change
+Keep your boarding pass and passport accessible
+Follow liquids and electronics rules strictly to avoid delays at security
+
+[Step_7] 
+[LID 8] 
+
+Now, using all this data I will write the first post: 
+**Guide through airport to get ready for Flight** Part one. 
+- After you land: follow # [Step_1] then check-in ID ( Item [3]), get luggage [3"
+"llama3.2",10,4,"2","19","To determine if Groupon has listings for items 1,2,3,4 and/or item 5, visit www.groupon.com first.
+
+ ID_5 > ID_3 > ID_4 > ID_2"
+"llama3.2",10,4,"2","20","[ID_1] > ID_4 > ID_2 > ID_3"
+"llama3.2",10,4,"2","21","[ID_2] > ID_4 > ID_3 > 
+(IDs 1 and 5 do not fall into the original guidelines)"
+"llama3.2",10,4,"2","22","<ID_3 > ID_4 > ID_2 >
+
+Let me know if I can assist with any further updates on this task!"
+"llama3.2",10,4,"2","23","<ID_4 > ID_3 > ID_1 >
+ 
+[ID_3], ID_2
+	ID_3, no travel planning tips.
+ID_4
+	ID_4
+	ID_4 and check in before security check in step 6 (listen for boarding announcement and find gate), also do more research about airport check-in."
+"llama3.2",10,4,"2","24","(ID_1) > ID_3 > ID_4 > ID_2"

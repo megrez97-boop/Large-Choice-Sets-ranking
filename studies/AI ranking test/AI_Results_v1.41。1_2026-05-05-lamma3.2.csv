@@ -1,0 +1,201 @@
+"Model","Temp","K","Rep","Block","AI_Ranking"
+"llama3.2",0,4,"1","1","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","2","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","3","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","4","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","5","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","6","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","7","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","8","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","9","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","10","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","11","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"1","12","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","13","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","14","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","15","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","16","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","17","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","18","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","19","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","20","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","21","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","22","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","23","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0,4,"2","24","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0.5,4,"1","1","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0.5,4,"1","2","[ID_3] > ID_4 > ID_2 > ID_1"
+"llama3.2",0.5,4,"1","3","ID_3 > ID_2 > ID_1 > ID_4"
+"llama3.2",0.5,4,"1","4","[ID_2] > ID_1 > ID_3 > ID_4"
+"llama3.2",0.5,4,"1","5","[ID_3] > ID_1 > ID_4 > ID_2"
+"llama3.2",0.5,4,"1","6","ID_3 > ID_1 > ID_4 > ID_2"
+"llama3.2",0.5,4,"1","7","[ID_3] > ID_4 > ID_2"
+"llama3.2",0.5,4,"1","8","[ID_3] > [ID_4] > [ID_1]"
+"llama3.2",0.5,4,"1","9","[ID_3] > [ID_4] > [ID_1]"
+"llama3.2",0.5,4,"1","10","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0.5,4,"1","11","[ID_3] > ID_4 > ID_2"
+"llama3.2",0.5,4,"1","12","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",0.5,4,"2","13","ID_3 > ID_8 > ID_4 > ID_2"
+"llama3.2",0.5,4,"2","14","ID_3 > ID_4 > ID_2 > ID_1"
+"llama3.2",0.5,4,"2","15","[ID_3] > [ID_2] > [ID_1] > [ID_4]"
+"llama3.2",0.5,4,"2","16","[ID_3] > ID_1 > ID_4 > ID_2"
+"llama3.2",0.5,4,"2","17","[ID_2] > [ID_3] > [ID_4] > [ID_1]"
+"llama3.2",0.5,4,"2","18","[ID_3] > [ID_1] > [ID_4] > [ID_2]"
+"llama3.2",0.5,4,"2","19","[ID_3] > ID_4 > ID_1"
+"llama3.2",0.5,4,"2","20","[ID_3] > [ID_4] > [ID_1]"
+"llama3.2",0.5,4,"2","21","[ID_3] > [ID_4] > [ID_2] > [ID_1]"
+"llama3.2",0.5,4,"2","22","[ID_3] > ID_4 > ID_2"
+"llama3.2",0.5,4,"2","23","(ID_3) > ID_4 > ID_1"
+"llama3.2",0.5,4,"2","24","[ID_3] > [ID_2] > [ID_4] > [ID_1]"
+"llama3.2",1,4,"1","1","[ID_1] > ID_4 > ID_3 > ID_2"
+"llama3.2",1,4,"1","2","-ID_2 > ID_3 > ID_1 > ID_4> 
+
+-ID_3 is ranked the highest due to its comprehensive nature covering essential steps from arrival at the airport, check-in, security, boarding, immigration, customs, money exchange, and transportation.
+-ID_3 provides more detailed guidance for each step, allowing travelers to navigate through Japan's complex airports with more confidence.
+-ID_2 ranks second as it offers a travel idea that focuses on finding a suitable destination, which although not directly related to airport navigation, can impact the overall travel experience.
+-ID_4 ranks lowest due to its less structured approach and lack of comprehensive steps from check-in to immigration, customs, money exchange, and transportation."
+"llama3.2",1,4,"1","3","[ID_1] > [ID_3] > [ID_4] > [ID_2] > 
+(ID_2 is ranked as the worst as it doesn't pertain to airport guidance and travel specifically.)"
+"llama3.2",1,4,"1","4","ID_3 > ID_8 > ID_4 > ID_2"
+"llama3.2",1,4,"1","5","ID_1 > ID_3 > ID_4 > ID_2"
+"llama3.2",1,4,"1","6","<ID_2 > ID_3 > ID_4
+	ID_1 > ID_4 > ID_3"
+"llama3.2",1,4,"1","7","ID_8 > ID_4 > ID_1 > ID_2 > ID_3"
+"llama3.2",1,4,"1","8","-ID_2 > ID_4 > ID_1 > ID_3>"
+"llama3.2",1,4,"1","9","[ID_1] > [ID_3] > [ID_4] > [ID_2]"
+"llama3.2",1,4,"1","10","1 > ID_3 > ID_2 > ID_4 > ID_1"
+"llama3.2",1,4,"1","11","[ID_8] > [ID_1] > [ID_3] > [ID_4]"
+"llama3.2",1,4,"1","12","ID_3 > ID_8 > ID_4 > ID_2"
+"llama3.2",1,4,"2","13","[ID_3] > [ID_2] > [ID_1] > [ID_4]"
+"llama3.2",1,4,"2","14","<ID_3 > ID_4 > ID_1
+(ID_2 is not an airport guidance item)
+ 
+  Note: ID_2 seems unrelated to airport guidance, it's more of a general travel idea."
+"llama3.2",1,4,"2","15","ID_3 > ID_4 > ID_2 > ID_1"
+"llama3.2",1,4,"2","16","-ID_2 > ID_1 > ID_4 > ID_3"
+"llama3.2",1,4,"2","17","[ID_3] > [ID_1] > [ID_4]
+
+Note: The items listed are not airport-specific guidance, but rather general travel tips and advice. As such, they were not ranked according to the specific requirements of navigating a major airport in Japan."
+"llama3.2",1,4,"2","18","[ID_8] > [ID_3] > [ID_4] > [ID_1]"
+"llama3.2",1,4,"2","19","[ID_3] > [ID_4] > [ID_2]"
+"llama3.2",1,4,"2","20","ID_3 > ID_1 > ID_4 > ID_2"
+"llama3.2",1,4,"2","21","[ID_3] > ID_1 > ID_4 > ID_2"
+"llama3.2",1,4,"2","22","1 > ID_3 > ID_2 > ID_4"
+"llama3.2",1,4,"2","23","[ID_3] > [ID_1] > [ID_4] > [ID_2]"
+"llama3.2",1,4,"2","24",">ID_3 > ID_1 > ID_4
+(ID_2 is an item for travel idea and not airport guidance)"
+"llama3.2",10,4,"1","1","To rank airport guidance items from best to worst based on the mission context, I would:
+
+ID_3 > ID_4 > ID_2
+
+[ID_1] not included as it is not relevant to airport guidance"
+"llama3.2",10,4,"1","2","[ID_8] > ID_1 > ID_4 > ID_2 > ID_3"
+"llama3.2",10,4,"1","3","[ID_3] > ID_2 > ID_4 > ID_1"
+"llama3.2",10,4,"1","4","(ID_1) > ID_2 > ID_4 > ID_3 > 
+[ID_8] > 
+[No applicable items are ranked here]"
+"llama3.2",10,4,"1","5","-ID_3 > ID_2 > ID_1 > ID_4> 
+
+Note: I have ranked items as per best practice guidelines of aviation service quality and post the message following all given format requirements as instructed.
+ 
+As a professional Aviation Service Quality Evaluator, 
+ID_3 seems the ideal answer because in airport arrival timing before checkin there are generally few slots for checking at different regions like check in to checkin drop. However that may differ by specific destinations with smaller passenger capacities but on the average this tends to work across board.
+ ID_2 seems appropriate answer too and is correct if not first it follows all standard guidelines to pass check-in then luggage drop followed be Security
+ then finding airline gates so its the next ideal as most"
+"llama3.2",10,4,"1","6","ID_1 > ID_8 > ID_3 > ID_2 > ID_7 > ID_4 > ID_6 > ID_5 > ID_9 ( missing items)
+
+ID_10 (missing)  should be moved before ID_3
+
+Since Item_ID 10 and item _ID9 are the missing pieces in your list - The new Ranking will include 
+(ID_1): a good travel idea would be getting the proper deal on a website like Groupon to combine different deals into one such as hotel , rides , and food. It would be good to go to a popular destination such as Dominican republic. having a nice beach around you with friendly tourists who are social and nice weather is optimal for the best experience in"
+"llama3.2",10,4,"1","7","ID_2 > ID_1 > ID_4"
+"llama3.2",10,4,"1","8","To complete the task, I need to add missing guidance items and provide advice, but it cannot be determined which one comes first in ranking since they can not meet  all other guidelines without context or relevance information on both of those.
+
+1  ID_4 > ID_2 > ID_3
+  Please provide additional relevant context regarding other guideline that can aid in guiding passengers for airport guidance.
+
+However the ID 1 is completely off topic"
+"llama3.2",10,4,"1","9","[ID_2] > ID_3 > ID_4"
+"llama3.2",10,4,"1","10","To answer your prompt, I'll follow all your instructions:
+
+Here is the post Part 1:
+""Guide for First-Time Travelers in Japan: Navigating Major Airport in Japan
+ Step 1: Arrive at least 3 hours before your flight. ID_3 > Step 2: Check-in and have all necessary documents ready. No ID provided > Step 3: Go through security check, removing electronics and liquids from carry-ons. No ID provided > Step 4: Locate the airline's counter; find the check-in number to receive the correct flight details.
+-ID provided >
+ 
+ID_4 has additional information of not just these airport guidelines but traveling further into Japan beyond airport guidelines.
+
+
+
+Part 2: ""To Prevent Mist"
+"llama3.2",10,4,"1","11",">ID_2 > ID_4 > ID_3"
+"llama3.2",10,4,"1","12","1. ID_3 > 
+2. ID_3 > 
+3. ID_3 > 
+4. ID_1
+5. ID_2
+6. ID_4
+7. ID_8
+8. ID_7
+9. ID_6
+10. ID_5
+11. ID_9"
+"llama3.2",10,4,"2","13","To answer the task and produce an acceptable solution we can do the following:
+- Rank the given list using '->' (great to very poor)
+First ID:  ID_2 ->  ID_3 > ID_1 >  ID_4"
+"llama3.2",10,4,"2","14",">ID_2 > ID_3 > ID_1
+-ID_8 >
+-ID_6 > 
+-ID_7 > 
+-ID_5 > 
+-ID_4"
+"llama3.2",10,4,"2","15",">ID_1 > ID_3 > ID_4 > ID_2.
+
+Note: IDs were re-labeled according to standard formatting guidelines.
+
+ID_3 > is not in original format as was originally intended; 
+thus had to do ID #4. ID#3 could only use standard lettered format"
+"llama3.2",10,4,"2","16","(ID_1) > ID_2 > ID_3 > ID_4 > ID_5 (Note: Item IDs were provided for completeness but not explicitly requested as an output. Thus the item list ended on #4 which is available) 
+
+1. > 5. > 8.
+2. > 7. > 6.
+3. > 
+4. >"
+"llama3.2",10,4,"2","17","ID_8 > ID_1 > ID_3 > ID_2 > ID_7 > ID_6 > ID_5 > ID_4"
+"llama3.2",10,4,"2","18","<ID_2 > ID_1 > ID_3 > ID_4 > 
+ IDs for liquids & electronics should rank as better because you avoid the ""delays at security"". It makes you feel better when navigating through the airport process.
+ ID_1 was omitted since I didn't include anything from that prompt; ID_5 also does not rank within that ID."
+"llama3.2",10,4,"2","19",">ID_3 > ID_4 > ID_1"
+"llama3.2",10,4,"2","20","(ID_2) > (ID_4) > (ID_3) > (ID_1)
+
+(ID_4 is out of place; move down in rank from item 8.) 
+
+(ID_4 moves to top of guide)
+-ID_3 remains 
+	ID_1 and other steps added for consistency:
+8. ID_2 and onwards
+7. At immigration, undergo iris scan and fingerprinting.
+
+
+ID_5 = use airport time: Relax eat or shop
+
+6. Use any available time to relax, eat, or shop in the terminal.
+
+ID_3 and above stay unchanged but new guide has ID 9 at the bottom as an addendum that can serve a more extensive airport context.
+
+ID_10 added to"
+"llama3.2",10,4,"2","21","(ID_1) > (ID_4) > (ID_3) > (ID_2)
+
+ 
+
+Please let me know if you want anything else added."
+"llama3.2",10,4,"2","22","<ID_1 > ID_4 > ID_2 > ID_3 >
+
+-ID_3's timing guidelines can lead to long waits, but the others lack airport-specific advice; 
+
+-ID_4 doesn't list airport specifics, and 
+-ID_2 is an idea that has nothing to do with a step-by-step travel process through a major Japanese airport"
+"llama3.2",10,4,"2","23","	ID_3 > ID_2 > ID_8 > ID_1 > ID_4"
+"llama3.2",10,4,"2","24","<ID_2 > ID_3 > ID_1 > ID_8 > ID_4 > 
+
+1"
