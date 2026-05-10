@@ -27,10 +27,12 @@ Analyze and compare the accuracy of **Bradley-Terry (BT)** and **Plackett-Luce (
 3. **Comparison-level**: Independent noise per pairwise comparison (allows circular triads).
 
 ### 🛠️ Key Files
-- `studies/PL and BT/BT_vs_PL_Alpha_Lattice_Sim.R`: Main simulation engine.
+- `studies/SLM and alpha lattice expansion/SLM_BT_PL_MultiSeed_Viz.R`: New robust simulation engine with checkpointing (v5.5).
+- `studies/PL and BT/BT_vs_PL_Alpha_Lattice_Sim.R`: Legacy simulation engine.
 - `sync/task/4-27/task.txt`: Active development goals.
 
 ### 📅 Current Progress
+- **2026-05-10**: Upgraded simulation engine to **v5.5**. Integrated Multi-Seed ribbon plots, Smart Resume (checkpointing), and independent Y-axis scaling for k=3, 4, 8, 10. Prepared workspace for SLM-R integration.
 - **2026-04-28**: Updated theoretical ARE formula and enforced strict No-LaTeX mandate in English.
 - Finalizing simulation engine to compare BT vs PL models under t = 120, r = 20, k = 3 & 4.
 - Integrated computation time tracking into the simulation engine.

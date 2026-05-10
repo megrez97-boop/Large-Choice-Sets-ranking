@@ -172,13 +172,19 @@ run_multi_k_batch <- function(t_val = 120, k_values = c(3, 4, 8, 10), r_limit = 
   
   if (length(to_run_indices) == 0) {
     cat("\n✅ All tasks already completed! Loading results.\n")
+    if (!is.null(shiny_progress)) shiny_progress$set(value = 1.0, detail = "All tasks completed!")
   } else {
     cat(sprintf("\n🚀 Running %d remaining tasks out of %d...\n", length(to_run_indices), total_tasks))
+    
+    # 【新增】初始定位：先讓進度條跳到上次中斷的位置
+    if (!is.null(shiny_progress)) {
+      init_prog <- (total_tasks - length(to_run_indices)) / total_tasks
+      shiny_progress$set(value = init_prog, detail = sprintf("Resuming from %.0f%%...", init_prog * 100))
+    }
     
     num_cores <- max(1, parallel::detectCores() - cores_free) 
     cl <- makeCluster(num_cores)
     
-    # 【CRITICAL】導出全域函數到平行節點
     clusterExport(cl, varlist = c("sim_worker", "calc_footrule"))
     
     chunk_size <- num_cores * 2
@@ -192,11 +198,15 @@ run_multi_k_batch <- function(t_val = 120, k_values = c(3, 4, 8, 10), r_limit = 
       saveRDS(results_list, checkpoint_file)
       
       if (!is.null(shiny_progress)) {
-        prog_val <- (total_tasks - length(to_run_indices) + i * chunk_size) / total_tasks
-        prog_val <- min(prog_val, 1.0)
+        # 計算總體進度：已完成 + 本次已完成
+        completed_so_far <- total_tasks - length(to_run_indices) + (i * chunk_size)
+        prog_val <- min(completed_so_far / total_tasks, 1.0)
+        
         shiny_progress$set(value = prog_val, 
-                           detail = sprintf("Progress: %d/%d tasks", 
-                                           min(total_tasks - length(to_run_indices) + i * chunk_size, total_tasks), total_tasks))
+                           detail = sprintf("Progress: %d/%d (%.0f%%)", 
+                                           min(completed_so_far, total_tasks), total_tasks, prog_val * 100))
+        # 給 UI 一點點時間刷新
+        Sys.sleep(0.05)
       }
     }
     stopCluster(cl)
