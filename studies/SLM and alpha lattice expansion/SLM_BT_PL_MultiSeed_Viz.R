@@ -282,7 +282,7 @@ server <- function(input, output, session) {
 
   render_band_plot <- function(df, col_name, model_label, metric_label) {
     p <- ggplot(df, aes(x = r, y = .data[[col_name]], color = as.factor(k), fill = as.factor(k), group = k)) +
-      stat_summary(fun.min = min, fun.max = max, geom = "ribbon", alpha = 0.3, color = NA) +
+      stat_summary(fun.min = min, fun.max = max, geom = "ribbon", alpha = 0.5, color = NA) +
       stat_summary(fun = mean, geom = "line", size = 1.2) +
       facet_grid(temp ~ strategy, labeller = label_both, scales = "free_y") +
       theme_minimal(base_size = 14) +
@@ -302,7 +302,7 @@ server <- function(input, output, session) {
     df_long$Model <- ifelse(df_long$Model == "rho_bt", "Bradley-Terry (BT)", "Plackett-Luce (PL)")
 
     ggplot(df_long, aes(x = r, y = Rho, color = Model, fill = Model, group = Model)) +
-      stat_summary(fun.min = min, fun.max = max, geom = "ribbon", alpha = 0.3, color = NA) +
+      stat_summary(fun.min = min, fun.max = max, geom = "ribbon", alpha = 0.5, color = NA) +
       stat_summary(fun = mean, geom = "line", size = 1.2) +
       facet_grid(temp ~ strategy, labeller = label_both, scales = "free_y") +
       theme_minimal(base_size = 14) +
@@ -334,7 +334,7 @@ server <- function(input, output, session) {
     df_long$Model <- ifelse(df_long$Model == "time_bt", "Bradley-Terry (BT)", "Plackett-Luce (PL)")
 
     ggplot(df_long, aes(x = r, y = Time, color = Model, fill = Model, group = Model)) +
-      stat_summary(fun.min = min, fun.max = max, geom = "ribbon", alpha = 0.3, color = NA) +
+      stat_summary(fun.min = min, fun.max = max, geom = "ribbon", alpha = 0.5, color = NA) +
       stat_summary(fun = mean, geom = "line", size = 1.2) +
       facet_grid(temp ~ strategy, labeller = label_both, scales = "free") +
       theme_minimal(base_size = 14) +
