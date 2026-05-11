@@ -1,0 +1,11 @@
+1)Start playing with small language models: see how to use hugging face or ollama to download and interact with a language model ([conversation with claude](https://claude.ai/share/2dd227c1-bd33-4b39-98f3-a7fa328a30f7)) —— （simple comparison for slm，dont need ranking for now）
+2)SIM: k=3,4,5..10, etc. for BT and PL (can limit to 20 reps) —— ( use same y-axis that can reduce our effort for comparing 2 graph！)
+3)SIM+VIZ: Use a band instead of a line with multiple seed values
+4)DEV-SLM: (1) have AI write a R function that given id numbers, returns a json of block-solutions (see chat); (2) use that function to compare 'solutions' given id number; (3) validation -- for one block, ask it why it chose those rankings——       
+{"block":[
+  { "id":"5", "solution":"..." },
+  { "id":"3", "solution":"..." },
+  { "id":"8", "solution":"..." }
+]}
+5)RESEARCH: Should BT or PL be theoretically faster? And what about operationally in your sims?
+6)BWS sims

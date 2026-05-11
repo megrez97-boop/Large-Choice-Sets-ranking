@@ -1,0 +1,14 @@
+RESEARCH: Which is better for k>2? BT (our implementation) or Plackett-Luce Model? (Try PL model)
+我要去了解什麼是PL model，然後要有權威性的書或paper 告訴我這是什麼
+
+- PL model 是什麼，假設，公式，BT 差別
+- k = 3， k = 4的時候，兩者效率 比較
+
+ANALYSIS: Try adding noise both ways: (a) add noise to true rankings and then do alpha+BT procedure; (b) add noise only at the time of each block comparison (add noise to rankings, then compare); IDEALLY: your code just takes approach a/b as a parameter (i.e., you don't write your code twice)
+我的code裡面應該有類似東西，要去檢查
+更新：我要讓我的code也能自由選擇PL model和BT model 和 both。
+本次實驗我打算用 ,t =120， r = 20，k = 3 & 4
+然後如果選both 我希望能算出兩者之間的效率差（是不是看converge速度？還是其他方法？）
+
+Start playing with small language models: see how to use hugging face or ollama to download and interact with a language model ([conversation with claude](https://claude.ai/share/2dd227c1-bd33-4b39-98f3-a7fa328a30f7))
+ollama下載了，interact with a language model這件事，我打算把老師給的data抓大概40筆出來做個模擬
