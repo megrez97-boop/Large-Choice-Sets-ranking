@@ -274,12 +274,12 @@ server <- function(input, output, session) {
 
   render_band_plot <- function(df, col_name, model_label, metric_label) {
     p <- ggplot(df, aes(x = r, y = .data[[col_name]], color = as.factor(k), fill = as.factor(k), group = k)) +
+      stat_summary(fun.min = min, fun.max = max, geom = "ribbon", alpha = 0.3, color = NA) +
       stat_summary(fun = mean, geom = "line", size = 1.2) +
-      stat_summary(fun.data = mean_se, geom = "ribbon", alpha = 0.2, color = NA) +
       facet_grid(temp ~ strategy, labeller = label_both, scales = "free_y") +
       theme_minimal(base_size = 14) +
       theme(legend.position = "bottom") +
-      labs(title = sprintf("%s: %s (Mean ± SE Band)", model_label, metric_label),
+      labs(title = sprintf("%s: %s (Band: Min-Max Range)", model_label, metric_label),
            x = "Replications (r)", y = metric_label, color = "k", fill = "k")
 
     if (grepl("Rho", metric_label)) p <- p + scale_y_continuous(limits = c(NA, 1))
@@ -294,14 +294,14 @@ server <- function(input, output, session) {
     df_long$Model <- ifelse(df_long$Model == "rho_bt", "Bradley-Terry (BT)", "Plackett-Luce (PL)")
 
     ggplot(df_long, aes(x = r, y = Rho, color = Model, fill = Model, group = Model)) +
+      stat_summary(fun.min = min, fun.max = max, geom = "ribbon", alpha = 0.3, color = NA) +
       stat_summary(fun = mean, geom = "line", size = 1.2) +
-      stat_summary(fun.data = mean_se, geom = "ribbon", alpha = 0.2, color = NA) +
       facet_grid(temp ~ strategy, labeller = label_both, scales = "free_y") +
       theme_minimal(base_size = 14) +
       theme(legend.position = "bottom") +
       scale_y_continuous(limits = c(NA, 1)) +
       labs(title = sprintf("Model Comparison (k=%s): Spearman Rho", target_k),
-           subtitle = "Ribbon represents Mean ± Standard Error",
+           subtitle = "Ribbon represents the Min-Max range across seeds",
            x = "Replications (r)", y = "Spearman Rho")
   }
 
