@@ -8,9 +8,7 @@ sync/task/4-20/claude.ai-Claude.pdf
 sync/task/4-20/task.txt
 
 # New ignore patterns
-sync/task/
-sync/problem/
 delivery/discussion/
 "sync/code bug/"
 studies/graphify-out/
-.gitignore
+
