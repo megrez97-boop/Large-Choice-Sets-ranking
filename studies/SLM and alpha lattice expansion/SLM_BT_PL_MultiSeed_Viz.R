@@ -247,7 +247,10 @@ ui <- fluidPage(
         tabPanel("Comp (k=3)", plotOutput("compK3Plot", height = "600px")),
         tabPanel("Comp (k=4)", plotOutput("compK4Plot", height = "600px")),
         tabPanel("Comp (k=8)", plotOutput("compK8Plot", height = "600px")),
-        tabPanel("Comp (k=10)", plotOutput("compK10Plot", height = "600px"))
+        tabPanel("Comp (k=10)", plotOutput("compK10Plot", height = "600px")),
+        tabPanel("Computing Time", 
+                 radioButtons("time_k_select", "Select k for Time Comparison:", choices = c("3", "4", "8", "10"), inline = TRUE),
+                 plotOutput("timeCompPlot", height = "600px"))
       )
     )
   )
@@ -270,6 +273,11 @@ server <- function(input, output, session) {
       model_selection = input$model_selection, cores_free = input$cores_free,
       shiny_progress = progress
     )
+  })
+
+  observe({
+    k_vec <- as.numeric(unlist(strsplit(input$k_values, ",")))
+    updateRadioButtons(session, "time_k_select", choices = as.character(k_vec), inline = TRUE)
   })
 
   render_band_plot <- function(df, col_name, model_label, metric_label) {
@@ -314,6 +322,27 @@ server <- function(input, output, session) {
   output$compK4Plot <- renderPlot({ req(sim_results()); render_comp_band_plot(sim_results(), 4) })
   output$compK8Plot <- renderPlot({ req(sim_results()); render_comp_band_plot(sim_results(), 8) })
   output$compK10Plot <- renderPlot({ req(sim_results()); render_comp_band_plot(sim_results(), 10) })
+
+  output$timeCompPlot <- renderPlot({
+    df <- sim_results()
+    req(df)
+    target_k <- input$time_k_select
+    df_sub <- df[df$k == target_k, ]
+    req(nrow(df_sub) > 0)
+
+    df_long <- tidyr::pivot_longer(df_sub, cols = c("time_bt", "time_pl"), names_to = "Model", values_to = "Time")
+    df_long$Model <- ifelse(df_long$Model == "time_bt", "Bradley-Terry (BT)", "Plackett-Luce (PL)")
+
+    ggplot(df_long, aes(x = r, y = Time, color = Model, fill = Model, group = Model)) +
+      stat_summary(fun.min = min, fun.max = max, geom = "ribbon", alpha = 0.3, color = NA) +
+      stat_summary(fun = mean, geom = "line", size = 1.2) +
+      facet_grid(temp ~ strategy, labeller = label_both, scales = "free") +
+      theme_minimal(base_size = 14) +
+      theme(legend.position = "bottom") +
+      labs(title = sprintf("Computing Time Comparison (k=%s)", target_k),
+           subtitle = "Time in seconds. Ribbon represents variation across seeds.",
+           x = "Replications (r)", y = "Time (seconds)")
+  })
 }
 
 shinyApp(ui, server)
