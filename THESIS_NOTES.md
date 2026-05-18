@@ -1,4 +1,6 @@
 ﻿
+- **2026-05-18**: Initiated session to address BWS simulations and graph alignment. Focusing on theoretical research regarding BT vs PL computational efficiency and model mechanisms.
+- **2026-05-10**: Upgraded simulation engine to **v5.5**. Integrated Multi-Seed ribbon plots, Smart Resume (checkpointing), and independent Y-axis scaling for k=3, 4, 8, 10. Prepared workspace for SLM-R integration.
 - **2026-05-05**: Pilot study (48 items, r=40) identified critical failures in small model (Llama 3.2) stability and data contamination from automated system memory. Initiated a strategic reset. Developed **Neutral Evaluator v1.5** with ID obfuscation (Sug_XX) and internal block shuffling to eliminate position and numerical bias. Ready for Ground Truth data collection via Gemini Pro.
 - **2026-04-27**: Completed PL model theoretical deep-dive (MLE & Agronomy Applications).
 - **2026-04-28**: Finalized Simulation Engine v4.4. Implemented detailed K-split comparison views (k=3, 4) and added Spearman's Footrule. Refined noise strategies for inherent, local, and pairwise/circular scenarios to support academic reporting. Optimized Plackett-Luce convergence logic for large T=120 datasets.
