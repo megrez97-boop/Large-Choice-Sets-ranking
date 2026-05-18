@@ -1,0 +1,5 @@
+BWS sims
+y axis alignment in every graph u want to compare
+RESEARCH: Should BT or PL be theoretically faster? And what about operationally in your sims?
+update slides about BT: that it does pairwise comparisons ultimately
+how PL model works
