@@ -381,24 +381,3 @@ server <- function(input, output, session) {
 }
 
 shinyApp(ui, server)
-
-    target_k <- input$time_k_select
-    df_sub <- df[df$k == target_k, ]
-    req(nrow(df_sub) > 0)
-
-    df_long <- tidyr::pivot_longer(df_sub, cols = c("time_bt", "time_pl"), names_to = "Model", values_to = "Time")
-    df_long$Model <- ifelse(df_long$Model == "time_bt", "Bradley-Terry (BT)", "Plackett-Luce (PL)")
-
-    ggplot(df_long, aes(x = r, y = Time, color = Model, fill = Model, group = Model)) +
-      stat_summary(fun.min = min, fun.max = max, geom = "ribbon", alpha = 0.5, color = NA) +
-      stat_summary(fun = mean, geom = "line", size = 1.2) +
-      facet_grid(temp ~ strategy, labeller = label_both, scales = "free") +
-      theme_minimal(base_size = 14) +
-      theme(legend.position = "bottom") +
-      labs(title = sprintf("Computing Time Comparison (k=%s)", target_k),
-           subtitle = "Time in seconds. Ribbon represents variation across seeds.",
-           x = "Replications (r)", y = "Time (seconds)")
-  })
-}
-
-shinyApp(ui, server)
