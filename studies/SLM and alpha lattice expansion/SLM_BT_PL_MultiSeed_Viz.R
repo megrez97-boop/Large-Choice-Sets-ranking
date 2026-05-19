@@ -290,7 +290,7 @@ server <- function(input, output, session) {
       labs(title = sprintf("%s: %s (Band: Min-Max Range)", model_label, metric_label),
            x = "Replications (r)", y = metric_label, color = "k", fill = "k")
 
-    if (grepl("Rho", metric_label)) p <- p + scale_y_continuous(limits = c(NA, 1))
+    if (grepl("Rho", metric_label)) p <- p + scale_y_continuous(limits = c(0.4, 1)) # Align Rho axis for better comparison
     p
   }
 
@@ -304,12 +304,12 @@ server <- function(input, output, session) {
     ggplot(df_long, aes(x = r, y = Rho, color = Model, fill = Model, group = Model)) +
       stat_summary(fun.min = min, fun.max = max, geom = "ribbon", alpha = 0.5, color = NA) +
       stat_summary(fun = mean, geom = "line", size = 1.2) +
-      facet_grid(temp ~ strategy, labeller = label_both, scales = "free_y") +
+      facet_grid(temp ~ strategy, labeller = label_both, scales = "fixed") + # ALIGNED Y-AXIS
       theme_minimal(base_size = 14) +
       theme(legend.position = "bottom") +
-      scale_y_continuous(limits = c(NA, 1)) +
+      scale_y_continuous(limits = c(0.4, 1)) + # ALIGNED LIMITS
       labs(title = sprintf("Model Comparison (k=%s): Spearman Rho", target_k),
-           subtitle = "Ribbon represents the Min-Max range across seeds",
+           subtitle = "Ribbon represents the Min-Max range across seeds. Y-axis aligned.",
            x = "Replications (r)", y = "Spearman Rho")
   }
 
@@ -361,6 +361,27 @@ server <- function(input, output, session) {
   output$timeCompPlot <- renderPlot({
     df <- sim_results()
     req(df)
+    target_k <- input$time_k_select
+    df_sub <- df[df$k == target_k, ]
+    req(nrow(df_sub) > 0)
+
+    df_long <- tidyr::pivot_longer(df_sub, cols = c("time_bt", "time_pl"), names_to = "Model", values_to = "Time")
+    df_long$Model <- ifelse(df_long$Model == "time_bt", "Bradley-Terry (BT)", "Plackett-Luce (PL)")
+
+    ggplot(df_long, aes(x = r, y = Time, color = Model, fill = Model, group = Model)) +
+      stat_summary(fun.min = min, fun.max = max, geom = "ribbon", alpha = 0.5, color = NA) +
+      stat_summary(fun = mean, geom = "line", size = 1.2) +
+      facet_grid(temp ~ strategy, labeller = label_both, scales = "free") +
+      theme_minimal(base_size = 14) +
+      theme(legend.position = "bottom") +
+      labs(title = sprintf("Computing Time Comparison (k=%s)", target_k),
+           subtitle = "Time in seconds. Ribbon represents variation across seeds.",
+           x = "Replications (r)", y = "Time (seconds)")
+  })
+}
+
+shinyApp(ui, server)
+
     target_k <- input$time_k_select
     df_sub <- df[df$k == target_k, ]
     req(nrow(df_sub) > 0)
