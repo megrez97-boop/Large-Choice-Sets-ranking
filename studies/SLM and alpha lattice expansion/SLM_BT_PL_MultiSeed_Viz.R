@@ -323,6 +323,41 @@ server <- function(input, output, session) {
   output$compK8Plot <- renderPlot({ req(sim_results()); render_comp_band_plot(sim_results(), 8) })
   output$compK10Plot <- renderPlot({ req(sim_results()); render_comp_band_plot(sim_results(), 10) })
 
+  output$summaryTable <- renderTable({
+    df <- sim_results()
+    req(df)
+    df %>%
+      group_by(k, temp, strategy) %>%
+      summarise(
+        Avg_Rho_BT = mean(rho_bt, na.rm = TRUE),
+        Avg_Rho_PL = mean(rho_pl, na.rm = TRUE),
+        RMSE_BT = mean(rmse_bt, na.rm = TRUE),
+        RMSE_PL = mean(rmse_pl, na.rm = TRUE),
+        Time_Ratio_BT_PL = mean(time_bt / time_pl, na.rm = TRUE),
+        .groups = "drop"
+      ) %>%
+      mutate(across(where(is.numeric), ~ round(., 4)))
+  }, caption = "Model Efficiency Summary (Averaged across Seeds and Replications)", caption.placement = "top")
+
+  output$totalTimePlot <- renderPlot({
+    df <- sim_results()
+    req(df)
+    # Aggregate total time per scenario (summed across r and seeds)
+    df_time <- df %>%
+      group_by(k, temp, strategy) %>%
+      summarise(BT = sum(time_bt, na.rm = TRUE), PL = sum(time_pl, na.rm = TRUE), .groups = "drop") %>%
+      pivot_longer(cols = c("BT", "PL"), names_to = "Model", values_to = "TotalTime")
+
+    ggplot(df_time, aes(x = as.factor(k), y = TotalTime, fill = Model)) +
+      geom_bar(stat = "identity", position = "dodge") +
+      facet_grid(temp ~ strategy, labeller = label_both) +
+      scale_fill_manual(values = c("BT" = "#F8766D", "PL" = "#00BFC4")) +
+      theme_minimal() +
+      labs(title = "Total Computation Time per Scenario",
+           subtitle = "Sum of all replications and seeds",
+           x = "Block size (k)", y = "Total Time (seconds)")
+  })
+
   output$timeCompPlot <- renderPlot({
     df <- sim_results()
     req(df)
