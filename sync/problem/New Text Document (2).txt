@@ -1,0 +1,29 @@
+Warning Error in summarise ℹ In argument `RMSE_BT = mean(rmse_bt, na.rm = TRUE)`.
+ℹ In group 1 `k = 4`, `temp = 0`, `strategy = global`.
+Caused by error
+! object 'rmse_bt' not found
+  122 Anonymous
+  121 signalCondition
+  120 signal_abort
+  119 abort
+  118 handler
+  117 h
+  116 .handleSimpleError
+  115 mean
+  114 eval
+  113 mask$eval_all_summarise
+  112 FUN
+  111 lapply
+  110 map
+  108 summarise_cols
+  107 summarise.grouped_df
+  106 summarise
+  105 mutate
+  104 %%
+  103 renderTable [gitc%3AUsersuserDocumentsRThesisLarge-Choice-Sets-rankingstudiesSLM%20and%20alpha%20lattice%20expansionSLM_BT_PL_MultiSeed_Viz.R%7B%22path%22%3A%22c%3A%5C%5CUsers%5C%5Cuser%5C%5CDocuments%5C%5CR%5C%5CThesis%5C%5CLarge-Choice-Sets-ranking%5C%5Cstudies%5C%5CSLM%20and%20alpha%20lattice%20expansion%5C%5CSLM_BT_PL_MultiSeed_Viz.R%22%2C%22ref%22%3A%22f1ad53360d11e5a4a7cacaf633f05be955ec20cc%22%7D#332]
+  102 func
+   89 renderFunc
+   88 output$summaryTable
+    3 runApp
+    2 print.shiny.appobj
+    1 Anonymous
