@@ -334,8 +334,8 @@ server <- function(input, output, session) {
       summarise(
         Avg_Rho_BT = mean(rho_bt, na.rm = TRUE),
         Avg_Rho_PL = mean(rho_pl, na.rm = TRUE),
-        RMSE_BT = mean(rmse_bt, na.rm = TRUE),
-        RMSE_PL = mean(rmse_pl, na.rm = TRUE),
+        Avg_Foot_BT = mean(foot_bt, na.rm = TRUE),
+        Avg_Foot_PL = mean(foot_pl, na.rm = TRUE),
         Time_Ratio_BT_PL = mean(time_bt / time_pl, na.rm = TRUE),
         .groups = "drop"
       ) %>%
