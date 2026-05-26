@@ -293,7 +293,10 @@ server <- function(input, output, session) {
       labs(title = sprintf("%s: %s (Band: Min-Max Range)", model_label, metric_label),
            x = "Replications (r)", y = metric_label, color = "k", fill = "k")
 
-    if (grepl("Rho", metric_label)) p <- p + scale_y_continuous(limits = c(0.4, 1)) # Align Rho axis for better comparison
+    # 依照搭檔要求：統一 Rho 軸下限 0.6，刻度間距 0.05
+    if (grepl("Rho", metric_label)) {
+      p <- p + scale_y_continuous(limits = c(0.6, 1), breaks = seq(0.6, 1, by = 0.05))
+    }
     p
   }
 
@@ -310,7 +313,8 @@ server <- function(input, output, session) {
       facet_grid(temp ~ strategy, labeller = label_both) + # ALIGNED Y-AXIS
       theme_minimal(base_size = 14) +
       theme(legend.position = "bottom") +
-      # Removed hardcoded scale_y_continuous(limits = c(0.4, 1)) to prevent whitespace
+      # 依照搭檔要求：統一 Rho 軸下限 0.6，刻度間距 0.05
+      scale_y_continuous(limits = c(0.6, 1), breaks = seq(0.6, 1, by = 0.05)) +
       labs(title = sprintf("Model Comparison (k=%s): Spearman Rho", target_k),
            subtitle = "Ribbon represents the Min-Max range across seeds. Y-axis aligned.",
            x = "Replications (r)", y = "Spearman Rho")
@@ -398,11 +402,6 @@ server <- function(input, output, session) {
       labs(title = sprintf("Computing Time Comparison (k=%s)", target_k),
            subtitle = "Time in seconds. Ribbon represents variation across seeds.",
            x = "Replications (r)", y = "Time (seconds)")
-  })
-}
-
-shinyApp(ui, server)
-, y = "Time (seconds)")
   })
 }
 
