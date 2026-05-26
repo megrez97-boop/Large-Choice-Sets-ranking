@@ -252,6 +252,7 @@ ui <- fluidPage(
                  radioButtons("time_k_select", "Select k for Time Comparison:", choices = c("3", "4", "8", "10"), inline = TRUE),
                  plotOutput("timeCompPlot", height = "600px")),
         tabPanel("Total Time", plotOutput("totalTimePlot", height = "600px")),
+        tabPanel("Time by R", plotOutput("timeByRPlot", height = "600px")),
         tabPanel("Summary", tableOutput("summaryTable"))
       )
     )
@@ -358,6 +359,24 @@ server <- function(input, output, session) {
       labs(title = "Total Computation Time per Scenario",
            subtitle = "Sum of all replications and seeds",
            x = "Block size (k)", y = "Total Time (seconds)")
+  })
+
+  output$timeByRPlot <- renderPlot({
+    df <- sim_results()
+    req(df)
+    # Aggregate time by r (summed across all scenarios and seeds)
+    df_r_time <- df %>%
+      group_by(r) %>%
+      summarise(BT = sum(time_bt, na.rm = TRUE), PL = sum(time_pl, na.rm = TRUE), .groups = "drop") %>%
+      pivot_longer(cols = c("BT", "PL"), names_to = "Model", values_to = "TotalTime")
+
+    ggplot(df_r_time, aes(x = as.factor(r), y = TotalTime, fill = Model)) +
+      geom_bar(stat = "identity", position = "dodge") +
+      theme_minimal(base_size = 14) +
+      scale_fill_manual(values = c("BT" = "#F8766D", "PL" = "#00BFC4")) +
+      labs(title = "Total Computing Cost by Replication (r)",
+           subtitle = "Sum of time across all k, temp, and seeds for each r",
+           x = "Replications (r)", y = "Total Time (seconds)")
   })
 
   output$timeCompPlot <- renderPlot({
