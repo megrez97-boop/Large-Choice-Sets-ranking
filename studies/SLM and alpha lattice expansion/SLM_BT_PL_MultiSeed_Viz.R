@@ -307,10 +307,10 @@ server <- function(input, output, session) {
     ggplot(df_long, aes(x = r, y = Rho, color = Model, fill = Model, group = Model)) +
       stat_summary(fun.min = min, fun.max = max, geom = "ribbon", alpha = 0.5, color = NA) +
       stat_summary(fun = mean, geom = "line", size = 1.2) +
-      facet_grid(temp ~ strategy, labeller = label_both, scales = "fixed") + # ALIGNED Y-AXIS
+      facet_grid(temp ~ strategy, labeller = label_both) + # ALIGNED Y-AXIS
       theme_minimal(base_size = 14) +
       theme(legend.position = "bottom") +
-      scale_y_continuous(limits = c(0.4, 1)) + # ALIGNED LIMITS
+      # Removed hardcoded scale_y_continuous(limits = c(0.4, 1)) to prevent whitespace
       labs(title = sprintf("Model Comparison (k=%s): Spearman Rho", target_k),
            subtitle = "Ribbon represents the Min-Max range across seeds. Y-axis aligned.",
            x = "Replications (r)", y = "Spearman Rho")
@@ -392,12 +392,17 @@ server <- function(input, output, session) {
     ggplot(df_long, aes(x = r, y = Time, color = Model, fill = Model, group = Model)) +
       stat_summary(fun.min = min, fun.max = max, geom = "ribbon", alpha = 0.5, color = NA) +
       stat_summary(fun = mean, geom = "line", size = 1.2) +
-      facet_grid(temp ~ strategy, labeller = label_both, scales = "free") +
+      facet_grid(temp ~ strategy, labeller = label_both) + # 指導教授建議：統一 Y 軸 (fixed scales)
       theme_minimal(base_size = 14) +
       theme(legend.position = "bottom") +
       labs(title = sprintf("Computing Time Comparison (k=%s)", target_k),
            subtitle = "Time in seconds. Ribbon represents variation across seeds.",
            x = "Replications (r)", y = "Time (seconds)")
+  })
+}
+
+shinyApp(ui, server)
+, y = "Time (seconds)")
   })
 }
 
