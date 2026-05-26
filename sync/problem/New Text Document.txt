@@ -1,0 +1,51 @@
+Slide 4: Step 1 & 2 - Data Input & Dynamic Pruning
+  Title: Step 1 & 2: Ranking Definition & Dynamic Pruning
+
+   * Step 1: Ranking Definition (R)
+       * Converts group outcomes into a sequence of "winning clusters": R = {C₁, C₂, …, C_J}.
+       * Example: For Block 1 (t₁, t₅, t₉), if t₅ > (t₁ = t₉), then R₁ = { {t₅}, {t₁, t₉} }.
+       * Note: Ties are grouped into the same cluster (C₂).
+   * Step 2: Dynamic Pruning (Exclusion Rule) – [Crucial for Performance]
+       * Data Scan: Determines the maximum tie order (D) observed in the dataset.
+       * Restriction: If 3-way ties never occur, it forces δ_3 = 0.
+       * Impact: Trims down the denominator formula (e.g., from 15 combinations to 10 for $k=4$), preventing combinatorial     
+         explosion.
+
+  ---
+
+  Slide 5: Step 3 & 4 - Worth Function & Iteration
+  Title: Step 3 & 4: Worth Function & Iterative Estimation
+
+   * Step 3: Worth Function ($f(S)$)
+       * Single Item: f({i}) = α_i
+       * Tied Cluster: f({i, j}) = δ_2 · (α_i · α_j)^{0.5} (Geometric Mean).
+       * Advantage: Perfectly absorbs tie information without data loss.
+   * Step 4: Iterative Estimation (Stage-wise Selection)
+       * Probability: P(R) = ∏ (Worth of the selected cluster)/(Sum of worths for all possible clusters (Denominator))
+       * MLE Process: Iterates thousands of times to refine α and δ values until the joint probability is maximized.
+
+  ---
+
+  Slide 6: Step 5 - Agronomic Interpretation
+  Title: Step 5: Interpretation of Parameters
+
+   * Worth Parameter (α) = Winning Probability
+       * If αₜ₅ = 0.4, t₅ has a 40% probability of coming in first (assuming no ties).
+       * The α values provide the final aggregated ranking for all 12 treatments.
+   * Tie Prevalence (δ_2) = Environmental Noise Indicator
+       * Probability of a 2-way tie: P(tie) = δ_2 / (2 + δ_2).
+       * Quantifies the noise level (resolution) in the Alpha Lattice trial environment.
+
+  ---
+
+  Slide 7: BT vs PL & Computational Cost
+  Title: BT vs. PL: Trade-off Between Accuracy and Time
+
+   * Information Utilization (ARE)
+       * BT Model: Evaluates only pairwise comparisons (6 edges for $k=4$).
+       * PL Model: Evaluates all 15 competitive combinations simultaneously.
+       * Conclusion: As block size (k) increases, BT efficiency drops rapidly; PL is strictly required.
+   * Computational Cost (Computation Time)
+       * Complexity shifts from $k=3$ (7 denominator terms) to $k=4$ (15 terms).
+       * Impact of Noise: High noise introduces high-order ties (D ↑). Pruning becomes less effective, denominator terms       
+         explode, which drastically increases simulation time.
