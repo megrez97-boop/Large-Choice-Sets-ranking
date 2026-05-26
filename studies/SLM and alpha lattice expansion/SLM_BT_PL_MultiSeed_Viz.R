@@ -250,7 +250,9 @@ ui <- fluidPage(
         tabPanel("Comp (k=10)", plotOutput("compK10Plot", height = "600px")),
         tabPanel("Computing Time", 
                  radioButtons("time_k_select", "Select k for Time Comparison:", choices = c("3", "4", "8", "10"), inline = TRUE),
-                 plotOutput("timeCompPlot", height = "600px"))
+                 plotOutput("timeCompPlot", height = "600px")),
+        tabPanel("Total Time", plotOutput("totalTimePlot", height = "600px")),
+        tabPanel("Summary", tableOutput("summaryTable"))
       )
     )
   )
