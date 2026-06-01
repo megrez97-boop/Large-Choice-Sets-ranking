@@ -38,11 +38,12 @@ sim_worker <- function(args) {
   model_sel_local <- args$model_selection
   idx_local <- args$idx
   
-  current_seed <- task$seed_iter * 1000 + idx_local
-  set.seed(current_seed)
+  # 【關鍵修正】建立穩定種子：僅與 k, r, seed_iter 相關，不受 strategy 或 temp 影響
+  # 這確保了同一組實驗參數下，不論雜訊策略為何，其試驗設計與模型初始狀態完全一致
+  stable_seed <- (as.numeric(task$seed_iter) * 100000) + (as.numeric(task$k) * 1000) + as.numeric(task$r)
   
   # 1. Generate Design
-  design <- try(alpha_lattice(t = t_val_local, k = task$k, r = task$r, seed = current_seed), silent = TRUE)
+  design <- try(alpha_lattice(t = t_val_local, k = task$k, r = task$r, seed = stable_seed), silent = TRUE)
   if (inherits(design, "try-error")) return(NULL) 
   
   fb <- design$fieldBook
@@ -53,6 +54,9 @@ sim_worker <- function(args) {
   
   pl_rankings_matrix <- matrix(NA, nrow = length(blocks), ncol = task$k)
   bt_matches_list <- vector("list", length(blocks))
+  
+  # 重設亂數序列，確保後續噪音與模型擬合的起始狀態與策略無關
+  set.seed(stable_seed)
   
   global_noise <- if (task$strategy == "global") {
     if (task$temp == 0) {
