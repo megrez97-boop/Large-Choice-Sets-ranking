@@ -55,13 +55,19 @@ sim_worker <- function(args) {
   bt_matches_list <- vector("list", length(blocks))
   
   global_noise <- if (task$strategy == "global") {
-    setNames(evd::rgumbel(t_val_local, 0, 1), unique(as.character(fb$ENTRY)))
+    if (task$temp == 0) {
+      setNames(numeric(t_val_local), unique(as.character(fb$ENTRY)))
+    } else {
+      setNames(evd::rgumbel(t_val_local, 0, 1), unique(as.character(fb$ENTRY)))
+    }
   } else NULL
   
   # 2. Data Generation
   for (j in seq_along(blocks)) {
     block <- blocks[[j]]
-    u_scores <- if (task$strategy == "global") {
+    u_scores <- if (task$temp == 0) {
+      block$TrueValue
+    } else if (task$strategy == "global") {
       block$TrueValue + task$temp * global_noise[as.character(block$ENTRY)]
     } else if (task$strategy == "block") {
       block$TrueValue + task$temp * evd::rgumbel(nrow(block), 0, 1)
@@ -72,9 +78,14 @@ sim_worker <- function(args) {
     pl_rankings_matrix[j, ] <- as.character(block$TREATMENT[order(-u_scores)])
     
     pm <- combn(as.character(block$TREATMENT), 2)
-    if (task$strategy == "comparison") {
-      u1 <- block$TrueValue[match(pm[1,], block$TREATMENT)] + task$temp * evd::rgumbel(ncol(pm), 0, 1)
-      u2 <- block$TrueValue[match(pm[2,], block$TREATMENT)] + task$temp * evd::rgumbel(ncol(pm), 0, 1)
+    if (task$strategy == "pairwise") {
+      if (task$temp == 0) {
+        u1 <- block$TrueValue[match(pm[1,], block$TREATMENT)]
+        u2 <- block$TrueValue[match(pm[2,], block$TREATMENT)]
+      } else {
+        u1 <- block$TrueValue[match(pm[1,], block$TREATMENT)] + task$temp * evd::rgumbel(ncol(pm), 0, 1)
+        u2 <- block$TrueValue[match(pm[2,], block$TREATMENT)] + task$temp * evd::rgumbel(ncol(pm), 0, 1)
+      }
     } else {
       u1 <- u_scores[match(pm[1,], block$TREATMENT)]
       u2 <- u_scores[match(pm[2,], block$TREATMENT)]
@@ -115,7 +126,7 @@ sim_worker <- function(args) {
   
   if (model_sel_local %in% c("pl", "both")) {
     start_t <- Sys.time()
-    R <- if (task$strategy == "comparison") {
+    R <- if (task$strategy == "pairwise") {
       try(PlackettLuce::as.rankings(bt_matches[, c("Winner", "Loser")], input = "orderings"), silent = TRUE)
     } else {
       try(PlackettLuce::as.rankings(pl_rankings_matrix, input = "orderings"), silent = TRUE)
@@ -231,8 +242,8 @@ ui <- fluidPage(
       numericInput("num_seeds", "Number of Seeds:", 5),
       textInput("temp_values", "Noise Levels:", "0.5, 5.0"),
       checkboxGroupInput("strategies", "Noise Strategies:", 
-                         choices = c("Global" = "global", "Block" = "block", "Pairwise" = "comparison"), 
-                         selected = c("global", "block", "comparison")),
+                         choices = c("Global" = "global", "Block" = "block", "Pairwise" = "pairwise"), 
+                         selected = c("global", "block", "pairwise")),
       selectInput("model_selection", "Models:", choices = c("both", "bt", "pl")),
       numericInput("cores_free", "Cores to Keep Free:", 2),
       hr(),
