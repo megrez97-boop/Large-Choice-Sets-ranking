@@ -1,0 +1,26 @@
+item_id,rank,reason,Block
+G-6,1,Provides a clear and concise step-by-step guide for first-time travelers to navigate the airport experience.,Rep1_B1
+G-7,2,Offers valuable advice on how to prevent common mistakes that travelers might make at the airport.,Rep1_B1
+G-3,3,"Lacks specific details and steps for first-time travelers to follow, making it less effective than other options.",Rep1_B1
+G-11,4,"Does not provide a comprehensive guide for navigating the airport experience, leaving travelers feeling uncertain and overwhelmed.",Rep1_B1
+G-4,1,Provides a clear and concise step-by-step guide for first-time travelers to navigate the airport experience.,Rep1_B2
+G-2,2,Offers valuable advice on how to prevent common mistakes that travelers might make at the airport.,Rep1_B2
+G-12,3,Lacks specific details and steps for first-time travelers to follow.,Rep1_B2
+G-8,4,Does not provide a clear guide for navigating the airport experience from arrival to boarding.,Rep1_B2
+G-10,1,"Provides a clear, step-by-step guide for first-time travelers to navigate the airport experience.",Rep1_B3
+G-9,2,Offers valuable advice on how to prevent common mistakes and ensure a smooth travel experience.,Rep1_B3
+G-5,3,"Serves as a general guide for travelers, but may not provide enough specific details for navigating the airport.",Rep1_B3
+G-1,4,"Lacks detail and clarity, making it less effective than other options.",Rep1_B3
+,,,
+G-4,1,Provides a clear and concise step-by-step guide for first-time travelers to navigate the airport experience.,Rep2_B1
+G-6,2,Offers valuable advice on how to avoid common mistakes that can lead to delays or stress during travel.,Rep2_B1
+G-1,3,"Lacks specific details and examples for travelers to follow, making it less effective than other guides.",Rep2_B1
+G-11,4,"Does not provide a comprehensive guide that covers all aspects of the airport experience, leaving some areas unaddressed.",Rep2_B1
+G-7,1,"Provides a clear, step-by-step guide for first-time travelers to navigate the airport experience.",Rep2_B2
+G-5,2,Offers valuable advice on how to prevent common mistakes and ensure a smooth travel experience.,Rep2_B2
+G-9,3,Lacks specific details and examples to support the guide.,Rep2_B2
+G-12,4,Does not provide any actionable advice or guidance for first-time travelers.,Rep2_B2
+G-2,1,"Provides a clear, step-by-step guide for first-time travelers to navigate the airport experience.",Rep2_B3
+G-8,2,Offers valuable advice on how to prevent common mistakes and enhance the overall travel experience.,Rep2_B3
+G-3,3,Serves as a useful resource for travelers to learn about airport procedures and protocols.,Rep2_B3
+G-10,4,Helps travelers understand the importance of preparation and planning in ensuring a smooth travel experience.,Rep2_B3
