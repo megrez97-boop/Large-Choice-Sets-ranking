@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best alignment with the influencer persona, providing practical tech-focused advice and clear, professional instructions for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Very structured and informative, though it focuses too specifically on KIX rather than general Japanese airports.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Good tone, but the advice in Part 2 is presented as a list of mistakes rather than actionable tips.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too informal and lacks the specific, structured guidance required for a comprehensive step-by-step airport guide.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most structured, clear, and professional step-by-step guide suitable for a travel influencer's audience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Comprehensive and helpful, though it lacks the concise formatting and professional tone of Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Includes necessary immigration steps for Japan, but the instructions are slightly less detailed than the top options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too informal and focuses on U.S. airport procedures rather than the specific context of Japanese airports.",
+      "rank": 4
+    }
+  ]
+}

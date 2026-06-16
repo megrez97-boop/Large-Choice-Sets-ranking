@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most structured, clear, and actionable step-by-step guide tailored perfectly for a first-time traveler.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Excellent context regarding Japan, but focuses more on arrival/transit than the requested departure process.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Includes helpful practical advice, but the formatting is messy and lacks the professional tone required.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too vague and lacks the specific, structured guidance necessary for navigating a major international airport.",
+      "rank": 4
+    }
+  ]
+}

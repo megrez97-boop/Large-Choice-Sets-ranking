@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most structured, clear, and actionable step-by-step guide perfectly suited for a social media post.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes helpful tech-focused advice like using airport apps, though it lacks a clear step-by-step process.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers good general travel tips but fails to provide a concrete, logical sequence for navigating the airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses too heavily on etiquette rather than providing the essential logistical steps required for airport navigation.",
+      "rank": 4
+    }
+  ]
+}

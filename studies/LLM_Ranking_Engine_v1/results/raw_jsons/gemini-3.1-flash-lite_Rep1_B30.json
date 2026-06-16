@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most comprehensive, structured, and accurate step-by-step guide for the entire airport process.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers helpful practical advice but lacks the clear, sequential step-by-step structure required for the guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on general travel tips rather than providing the requested step-by-step airport navigation guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The content is poorly written, confusing, and fails to provide a clear, actionable step-by-step guide.",
+      "rank": 4
+    }
+  ]
+}

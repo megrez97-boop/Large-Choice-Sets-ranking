@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Perfectly targets Narita Airport in Japan, meets the word count, and includes both required parts with three clear tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a clear generic guide but lacks the specific Japanese airport context and the requested three-tip format.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a basic generic guide but completely fails to include the top three tips requested in Part 2.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the prompt, discussing sci-fi transportation ideas instead of an airport guide.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, professional, and comprehensive step-by-step guide that perfectly matches the influencer persona's requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Good structure, but lacks the specific airport navigation details requested for a first-time traveler in Japan.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains useful specific location details but fails to provide the required three-sentence advice section at the end.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the task; it discusses fictional transportation concepts rather than airport navigation.",
+      "rank": 4
+    }
+  ]
+}

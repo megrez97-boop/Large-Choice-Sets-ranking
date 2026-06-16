@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly matches the influencer persona, provides a clear step-by-step guide, and maintains a helpful, encouraging tone.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Professional and accurate, though slightly less engaging for a social media influencer's Facebook fan page.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The advice is practical but the writing style is repetitive and lacks the polish expected of an influencer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains highly inaccurate, inappropriate, and harmful misinformation regarding Japanese airport security procedures.",
+      "rank": 4
+    }
+  ]
+}

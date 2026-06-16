@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly follows the prompt, covering Japan airport departure with the correct two-part structure and three one-sentence tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses on arrival instead of departure and fails to format the three tips as individual sentences.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a generic departure guide but lacks Japan-specific context and the required three-sentence advice format.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely off-topic, discussing vacation deals in the Dominican Republic instead of Japanese airport navigation.",
+      "rank": 4
+    }
+  ]
+}

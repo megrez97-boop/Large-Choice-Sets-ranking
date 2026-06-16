@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, structured step-by-step guide and clear advice tailored to the prompt's requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers excellent logistical details for Narita, though it lacks a clear step-by-step departure process for the user.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Contains helpful cultural tips but fails to provide the required step-by-step guide for navigating the airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Too informal and lacks specific guidance for navigating a major Japanese airport, focusing instead on general travel advice.",
+      "rank": 4
+    }
+  ]
+}

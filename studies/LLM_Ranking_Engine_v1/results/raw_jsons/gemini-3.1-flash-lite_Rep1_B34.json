@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most comprehensive, structured, and actionable step-by-step guide that perfectly matches the requested influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers helpful practical advice for arrivals but lacks the structured step-by-step departure guide requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Includes the required sections but the guide is too vague and lacks specific procedural steps for airport navigation.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to follow the requested structure and provides poor advice like using Google instead of official airport screens.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most relevant, actionable advice for Japan airports and includes a clear, professional structure.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Clear and concise, but lacks specific context regarding Japanese airport procedures compared to Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Grammatically awkward and lacks the professional tone expected from a travel influencer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival and customs rather than the departure process requested in the prompt.",
+      "rank": 4
+    }
+  ]
+}

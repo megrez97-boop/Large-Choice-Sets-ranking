@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, actionable, and professional step-by-step guide while adhering perfectly to all constraints.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Clear and concise, though it lacks the specific practical tips for security screening found in the top option.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Follows the structure but is less detailed and lacks the professional tone required for a travel influencer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely fails the prompt as it provides travel advice for the city instead of airport navigation steps.",
+      "rank": 4
+    }
+  ]
+}

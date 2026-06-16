@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most professional, clear, and accurate step-by-step guide that perfectly matches the requested persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good structure and tone, but the advice in Part 2 is slightly vague compared to Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is helpful but lacks the professional polish and formatting required for a high-quality influencer post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Contains confusing instructions and inappropriate, alarmist language that does not fit a helpful travel guide.",
+      "rank": 4
+    }
+  ]
+}

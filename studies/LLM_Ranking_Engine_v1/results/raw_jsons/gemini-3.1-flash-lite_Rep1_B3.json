@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most comprehensive, clear, and actionable step-by-step guide that perfectly matches the requested format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers excellent advice but includes irrelevant tips like the Japan Rail Pass instead of airport-specific guidance.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is too vague and lacks the professional, tech-savvy tone expected for a travel influencer's post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to provide any step-by-step guide, serving only as a general introduction rather than a functional manual.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best alignment with the persona and prompt requirements, providing a clear, structured guide and relevant advice for Japan.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a decent narrative guide, but lacks the professional polish and specific focus on Japanese airport nuances.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too generic and lacks a cohesive step-by-step flow, focusing more on general tips than a navigational guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Poorly written with typos and fails to meet the word count and structural expectations for a professional post.",
+      "rank": 4
+    }
+  ]
+}

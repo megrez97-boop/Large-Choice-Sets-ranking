@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best tone for an influencer and provides a clear, helpful step-by-step guide with essential travel advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Good advice, but lacks a detailed step-by-step process for navigating the airport from arrival to boarding.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a functional guide but lacks the engaging influencer persona and formatting required for a Facebook post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Too fragmented and lacks the professional, cohesive narrative flow expected for a travel influencer's guide.",
+      "rank": 4
+    }
+  ]
+}

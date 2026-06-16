@@ -1,0 +1,25 @@
+"item_id","rank","reason","presentation_pos","block_id","REP","IBLOCK"
+"G-4",1,"Provides a clear and concise step-by-step guide for first-time travelers to navigate the airport experience.",NA,"Rep1_B1",1,1
+"G-7",2,"Offers valuable advice on how to prevent common mistakes that travelers might make at the airport.",NA,"Rep1_B1",1,1
+"G-1",3,"Lacks specific details and steps for first-time travelers to follow, making it less effective than other options.",NA,"Rep1_B1",1,1
+"G-2",4,"Does not provide a comprehensive guide for navigating the airport experience, leaving travelers feeling uncertain and overwhelmed.",NA,"Rep1_B1",1,1
+"G-11",1,"Provides a clear and concise step-by-step guide for first-time travelers to navigate the airport experience.",NA,"Rep1_B2",1,2
+"G-5",2,"Offers valuable advice on how to prevent common mistakes that travelers might make at the airport.",NA,"Rep1_B2",1,2
+"G-10",3,"Could benefit from more detailed information and specific examples to support its guidance.",NA,"Rep1_B2",1,2
+"G-12",4,"Lacks a clear structure and organization, making it difficult for travelers to follow along.",NA,"Rep1_B2",1,2
+"G-9",1,"Providing a clear, step-by-step guide for first-time travelers to navigate the airport experience.",NA,"Rep1_B3",1,3
+"G-8",2,"Offering top three bits of advice to prevent common mistakes and enhance the overall travel experience.",NA,"Rep1_B3",1,3
+"G-6",3,"Ensuring all item IDs are included in the final output.",NA,"Rep1_B3",1,3
+"G-3",4,"Providing a concise guide that a traveler needs to follow from arrival to boarding their plane.",NA,"Rep1_B3",1,3
+"G-5",1,"Clear and concise step-by-step guide",NA,"Rep2_B1",2,1
+"G-11",2,"Provides essential information for navigating the airport experience",NA,"Rep2_B1",2,1
+"G-4",3,"Lacks specific details on common mistakes to avoid",NA,"Rep2_B1",2,1
+"G-3",4,"Does not provide actionable advice for preventing common mistakes",NA,"Rep2_B1",2,1
+"G-2",1,"Provides a clear and concise step-by-step guide for first-time travelers to navigate the airport experience.",NA,"Rep2_B2",2,2
+"G-6",2,"Offers valuable advice on how to avoid common mistakes that can lead to delays or stress during travel.",NA,"Rep2_B2",2,2
+"G-1",3,"Serves as a general introduction to the guide, but lacks specific details and steps for travelers to follow.",NA,"Rep2_B2",2,2
+"G-12",4,"Lacks concrete information and is more of an introductory statement rather than actionable advice.",NA,"Rep2_B2",2,2
+"G-9",1,"Most relevant to the task",NA,"Rep2_B3",2,3
+"G-10",2,"Second most relevant to the task",NA,"Rep2_B3",2,3
+"G-7",3,"Third most relevant to the task",NA,"Rep2_B3",2,3
+"G-8",4,"Least relevant to the task",NA,"Rep2_B3",2,3

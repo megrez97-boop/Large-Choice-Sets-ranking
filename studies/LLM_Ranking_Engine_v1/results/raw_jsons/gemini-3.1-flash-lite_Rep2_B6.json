@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly follows the persona and structure requirements, providing a clear, engaging, and actionable guide for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a good step-by-step guide, but the advice section is formatted as a list rather than sentences.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to provide the required step-by-step guide from arrival to boarding, focusing instead on general travel tips.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely misses the step-by-step guide requirement and focuses only on common mistakes, failing the prompt instructions.",
+      "rank": 4
+    }
+  ]
+}

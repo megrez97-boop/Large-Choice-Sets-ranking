@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Captures the influencer persona perfectly while providing a practical, engaging, and comprehensive step-by-step guide for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a very clear, logical, and easy-to-follow list, though it lacks the engaging influencer tone requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers good cultural context but fails to provide a complete step-by-step guide from arrival to boarding.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains significant grammatical errors and lacks the professional structure required for a helpful travel guide.",
+      "rank": 4
+    }
+  ]
+}

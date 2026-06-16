@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most specific, actionable step-by-step navigation guide for airport departure procedures requested in the prompt.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers helpful general advice but focuses more on arrivals and city transit rather than the departure process.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains good general travel tips but lacks the specific airport navigation details required for a first-time traveler.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "This is a general Japan travel itinerary rather than an airport navigation guide, making it irrelevant to the prompt.",
+      "rank": 4
+    }
+  ]
+}

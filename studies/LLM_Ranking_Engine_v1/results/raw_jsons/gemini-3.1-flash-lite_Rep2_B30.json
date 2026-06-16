@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly follows the prompt structure, includes immigration steps, and provides clear, actionable advice for Japan travel.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a clear step-by-step guide, though it lacks the specific context of Japanese airport procedures like immigration.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is written in a narrative paragraph format rather than the requested step-by-step list structure.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to provide the required step-by-step guide format and focuses more on general travel tips than airport navigation.",
+      "rank": 4
+    }
+  ]
+}

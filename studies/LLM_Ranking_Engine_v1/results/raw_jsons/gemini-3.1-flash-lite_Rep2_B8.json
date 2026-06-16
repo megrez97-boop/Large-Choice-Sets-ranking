@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, tech-focused, step-by-step guide tailored to the influencer persona and Japanese airport innovation.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers practical advice for Japan, but lacks a comprehensive step-by-step guide from arrival to boarding.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is poorly written, repetitive, and lacks the professional tone expected from a travel influencer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Fails to provide a structured step-by-step guide and uses an overly informal, rambling tone.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Best alignment with the persona by providing practical, culturally relevant advice and a clear step-by-step departure guide.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, logical departure guide, though it lacks the specific cultural nuance requested for a Japan-focused post.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival rather than the requested departure process, making it less relevant to the specific prompt requirements.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to provide a step-by-step departure guide and focuses primarily on transportation logistics instead of airport navigation.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+# 備用 Prompt：長篇詳細推論版 (Detailed Comparative Reasoning)
+# 適用情境：未來若切換至大型模型 (如 Gemini Pro, GPT-4)，不怕格式崩潰時，可替換回此版本的 Prompt 以獲取最深度的學術推論。
+
+json_template <- paste0(
+  "    { \"item_id\": \"", obfuscated_ids, "\", \"rank\": <number_from_1_to_", length(obfuscated_ids), ">, \"reason\": \"<detailed_comparative_reasoning>\" }", 
+  c(rep(",", length(obfuscated_ids) - 1), ""), collapse = "\n"
+)
+
+prompt_text <- paste0(
+  "You are a professional airport service quality evaluator.\n",
+  "CONTEXT:\n", mission_context, "\n\n",
+  "DATA (Evaluate these items):\n", toJSON(list(block = current_block_data), auto_unbox = TRUE, pretty = TRUE), "\n\n",
+  "TASK:\n",
+  sprintf("1. Rank ALL %d items from best to worst based on the context.\n", nrow(current_block_data)),
+  "2. For EACH item, provide a DETAILED 'reason' explaining EXACTLY why it received this specific rank compared to the others. Cite specific strengths or weaknesses from the text.\n\n",
+  "STRICT OUTPUT REQUIREMENT:\n",
+  "1. Respond ONLY with a valid JSON object.\n",
+  "2. NO markdown formatting, NO ```json blocks, NO preamble, NO explanations.\n",
+  "3. Format must be exactly:\n",
+  "{\n",
+  "  \"rankings\": [\n",
+  json_template,
+  "\n  ]\n",
+  "}\n",
+  sprintf("4. CRITICAL: You MUST rank EXACTLY %d items. Ensure ALL these IDs are included: [%s]. DO NOT MISS ANY.", 
+          nrow(current_block_data), paste(obfuscated_ids, collapse=", "))
+)

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most accurate, step-by-step procedural flow for the airport experience requested in the prompt.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a decent guide but lacks the specific detail regarding security protocols found in Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival procedures rather than the departure process required for the Facebook post guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely fails to address the airport navigation guide requirement, focusing instead on general travel tips.",
+      "rank": 4
+    }
+  ]
+}

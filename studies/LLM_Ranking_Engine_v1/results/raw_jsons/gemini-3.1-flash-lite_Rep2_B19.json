@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, structured, and professional step-by-step guide that perfectly matches the requested format and tone.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a helpful narrative tone but lacks the specific, actionable step-by-step structure required for a guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Includes a functional list but fails to provide the required three bits of advice in Part 2.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the prompt as it discusses travel costs and experiences instead of airport navigation.",
+      "rank": 4
+    }
+  ]
+}

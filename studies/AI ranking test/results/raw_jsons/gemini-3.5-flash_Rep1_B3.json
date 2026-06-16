@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Best because it includes both parts, features Japan-specific biometric technology, and provides three concise, single-sentence tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Ranked second; well-structured but incorrectly references US-specific 'TSA' guidelines and irrelevant arrival advice for a departure guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Ranked third; it is overly generic, lacks Japan-specific or tech elements, and has a poorly formatted guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Worst because it completely fails to include Part 2, omitting the requested three bits of advice entirely.",
+      "rank": 4
+    }
+  ]
+}

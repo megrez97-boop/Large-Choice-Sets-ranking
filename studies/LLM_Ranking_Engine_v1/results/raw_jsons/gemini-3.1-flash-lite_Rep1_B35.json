@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most structured, clear, and accurate step-by-step guide for navigating a Japanese airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a helpful narrative, but lacks the professional clarity and logical flow found in Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on a travel itinerary rather than the requested airport navigation guide, making it irrelevant.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to provide a step-by-step airport navigation guide entirely, focusing instead on general travel tips.",
+      "rank": 4
+    }
+  ]
+}

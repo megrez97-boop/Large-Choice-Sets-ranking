@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, logical, and professional step-by-step guide that aligns perfectly with the influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a friendly, conversational tone suitable for social media, though it lacks the structure of Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses only on arrival procedures rather than the full departure process required for a complete travel guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to provide a clear step-by-step guide and includes irrelevant travel recommendations instead of airport navigation.",
+      "rank": 4
+    }
+  ]
+}

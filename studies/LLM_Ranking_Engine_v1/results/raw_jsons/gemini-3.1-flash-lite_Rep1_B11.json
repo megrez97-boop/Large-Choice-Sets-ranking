@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "This is the only option that correctly follows the prompt's requirement to guide travelers from arrival to boarding.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides useful travel tips but incorrectly focuses on arrival procedures rather than the requested departure/boarding process.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses entirely on arrival logistics in Japan rather than the requested airport departure and boarding guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The content is disorganized, lacks professional tone, and fails to provide a clear, actionable step-by-step guide.",
+      "rank": 4
+    }
+  ]
+}

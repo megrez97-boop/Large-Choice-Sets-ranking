@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most comprehensive, structured guide tailored to a specific Japanese airport with helpful local context.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a clear, logical step-by-step process, though it lacks the specific Japanese airport context of Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival procedures rather than the departure process requested for the Facebook post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely fails to provide the required step-by-step airport navigation guide or specific travel advice.",
+      "rank": 4
+    }
+  ]
+}

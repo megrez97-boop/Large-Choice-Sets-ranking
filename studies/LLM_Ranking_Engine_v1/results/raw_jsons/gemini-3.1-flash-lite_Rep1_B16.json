@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most comprehensive, structured, and actionable step-by-step guide suitable for a professional travel influencer's post.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a clear sequence of events but lacks the professional depth and specific timing advice found in Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses only on preparation rather than the requested step-by-step navigation process from arrival to boarding.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "This is a personal anecdote rather than a functional guide, making it useless for first-time travelers.",
+      "rank": 4
+    }
+  ]
+}

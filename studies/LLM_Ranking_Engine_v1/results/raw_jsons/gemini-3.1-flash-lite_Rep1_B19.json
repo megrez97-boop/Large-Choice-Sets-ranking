@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, logical step-by-step process including immigration, which is essential for international travel.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Very concise and easy to follow, though it lacks the depth of immigration procedures found in Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Helpful tips, but the guide is less structured and misses critical steps like check-in and immigration procedures.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Too descriptive and lacks a clear, actionable step-by-step guide for a traveler to follow upon arrival.",
+      "rank": 4
+    }
+  ]
+}

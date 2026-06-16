@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly follows the two-part structure and word count requirements while providing clear, actionable advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a clear, professional step-by-step guide but fails to include the required second part of advice.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes both parts but the formatting is messy and the advice is less professional than Option D.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to provide a step-by-step departure guide and contains significant grammatical errors throughout the text.",
+      "rank": 4
+    }
+  ]
+}

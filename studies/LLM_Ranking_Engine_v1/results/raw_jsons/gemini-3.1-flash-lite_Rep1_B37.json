@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most accurate, professional, and comprehensive step-by-step guide for departing travelers in Japan.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Follows the requested structure well, though the steps are slightly less detailed and professional than Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The sequence of steps is logically incorrect for a departing traveler, confusing arrival and departure procedures.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to provide a departure guide, focusing instead on arrival procedures which contradicts the prompt requirements.",
+      "rank": 4
+    }
+  ]
+}

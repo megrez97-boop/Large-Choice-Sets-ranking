@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "It perfectly follows the two-part structure requested and provides clear, actionable steps and advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a very detailed step-by-step guide, though it lacks the specific top three advice section requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers good general travel tips but fails to provide the required step-by-step airport navigation guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too brief and focuses on arrival rather than the departure process required for the Facebook post.",
+      "rank": 4
+    }
+  ]
+}

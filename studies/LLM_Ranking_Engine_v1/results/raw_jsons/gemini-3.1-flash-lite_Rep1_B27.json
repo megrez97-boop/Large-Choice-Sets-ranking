@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most practical, clear, and structured step-by-step guide for first-time travelers as requested.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a good narrative flow but lacks the specific, actionable step-by-step instructions required for the guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses too much on general travel tips rather than the specific airport navigation guide requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The tone is overly aggressive and lacks the professional, helpful structure required for a travel influencer post.",
+      "rank": 4
+    }
+  ]
+}

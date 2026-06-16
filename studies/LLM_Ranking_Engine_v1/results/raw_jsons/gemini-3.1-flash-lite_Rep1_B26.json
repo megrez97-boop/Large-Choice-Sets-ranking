@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, structured, and actionable guide while clearly separating the requested advice section.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Follows the requested format well, though the advice section is slightly less professional than Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses too much on airport amenities rather than the essential step-by-step navigation process for first-time travelers.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Poorly written, lacks a clear step-by-step flow, and fails to provide the required two-part structure.",
+      "rank": 4
+    }
+  ]
+}

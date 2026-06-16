@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfect step-by-step departure guide within word count, featuring advanced airport tech and three clear, single-sentence tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes both parts but lacks a clear step-by-step structure and falls slightly short of the word count.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Incorrectly focuses on the arrival process instead of boarding, though it includes both required parts.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to include Part 2 entirely, completely omitting the three required bits of advice.",
+      "rank": 4
+    }
+  ]
+}

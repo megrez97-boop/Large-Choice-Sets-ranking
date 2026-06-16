@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best adheres to the structure, providing a well-sized guide and exactly three sentences of advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Excellent tech-focused guide fitting the persona, but completely omits the three advice sentences in Part 2.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Follows the guide format but fails the advice constraint by providing only one sentence instead of three.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely irrelevant to the prompt, listing global travel destinations instead of an airport guide.",
+      "rank": 4
+    }
+  ]
+}

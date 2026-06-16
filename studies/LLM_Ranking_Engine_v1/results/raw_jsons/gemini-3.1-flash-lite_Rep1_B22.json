@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most accurate, structured, and comprehensive step-by-step guide tailored to the specific prompt requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a logical flow for the departure process, though it lacks the specific cultural context of Japanese airports.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains helpful preparation tips but fails to provide the required step-by-step guide for navigating the airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains dangerous misinformation regarding baggage drop-off procedures that could cause significant travel issues for a novice.",
+      "rank": 4
+    }
+  ]
+}

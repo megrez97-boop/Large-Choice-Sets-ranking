@@ -1,0 +1,31 @@
+MODEL,ID,LOCATION,PLOT,REP,IBLOCK,UNIT,ENTRY,TREATMENT,reason,rank,presentation_pos
+gemini-3.5-flash,2,1,102,1,1,2,4,4,Best because it includes both a step-by-step guide and attempts to provide three important travel tips.,1,2
+gemini-3.5-flash,1,1,101,1,1,1,1,1,"Good departure guide matching the boarding requirement, but completely fails to include the three tips in Part 2.",2,4
+gemini-3.5-flash,4,1,104,1,1,4,10,10,Provides an arrival guide but lacks the required three tips and has minor writing errors.,3,1
+gemini-3.5-flash,3,1,103,1,1,3,9,9,Completely irrelevant as it lists random global travel experiences instead of an airport guide.,4,3
+,,,,,,,,,,,
+gemini-3.5-flash,8,1,108,1,2,4,5,5,"Perfectly follows the prompt, covering Japan airport departure with the correct two-part structure and three one-sentence tips.",1,4
+gemini-3.5-flash,7,1,107,1,2,3,12,12,Focuses on arrival instead of departure and fails to format the three tips as individual sentences.,2,1
+gemini-3.5-flash,5,1,105,1,2,1,7,7,Provides a generic departure guide but lacks Japan-specific context and the required three-sentence advice format.,3,3
+gemini-3.5-flash,6,1,106,1,2,2,2,2,"Completely off-topic, discussing vacation deals in the Dominican Republic instead of Japanese airport navigation.",4,2
+,,,,,,,,,,,
+gemini-3.5-flash,11,1,111,1,3,3,3,3,"Best because it includes both parts, features Japan-specific biometric technology, and provides three concise, single-sentence tips.",1,1
+gemini-3.5-flash,9,1,109,1,3,1,8,8,Ranked second; well-structured but incorrectly references US-specific 'TSA' guidelines and irrelevant arrival advice for a departure guide.,2,4
+gemini-3.5-flash,12,1,112,1,3,4,11,11,"Ranked third; it is overly generic, lacks Japan-specific or tech elements, and has a poorly formatted guide.",3,2
+gemini-3.5-flash,10,1,110,1,3,2,6,6,"Worst because it completely fails to include Part 2, omitting the requested three bits of advice entirely.",4,3
+,,,,,,,,,,,
+,,,,,,,,,,,
+gemini-3.5-flash,14,1,202,2,1,2,8,8,Perfectly follows the departure-to-boarding instructions with a well-structured guide and exactly three concise tips.,1,3
+gemini-3.5-flash,13,1,201,2,1,1,4,4,"Focuses on arrival instead of departure, but still provides a structured guide and tips for Japan travelers.",2,4
+gemini-3.5-flash,16,1,204,2,1,4,10,10,"Focuses on arrival rather than departure and lacks the requested three distinct, concise tips for preventing mistakes.",3,2
+gemini-3.5-flash,15,1,203,2,1,3,2,2,Completely irrelevant as it discusses the Dominican Republic and Groupon instead of Japanese airport procedures.,4,1
+,,,,,,,,,,,
+gemini-3.5-flash,19,1,207,2,2,3,11,11,"Best adheres to the structure, providing a well-sized guide and exactly three sentences of advice.",1,2
+gemini-3.5-flash,17,1,205,2,2,1,6,6,"Excellent tech-focused guide fitting the persona, but completely omits the three advice sentences in Part 2.",2,4
+gemini-3.5-flash,20,1,208,2,2,4,7,7,Follows the guide format but fails the advice constraint by providing only one sentence instead of three.,3,3
+gemini-3.5-flash,18,1,206,2,2,2,9,9,"Completely irrelevant to the prompt, listing global travel destinations instead of an airport guide.",4,1
+,,,,,,,,,,,
+gemini-3.5-flash,24,1,212,2,3,4,3,3,"Perfect step-by-step departure guide within word count, featuring advanced airport tech and three clear, single-sentence tips.",1,4
+gemini-3.5-flash,22,1,210,2,3,2,5,5,Includes both parts but lacks a clear step-by-step structure and falls slightly short of the word count.,2,1
+gemini-3.5-flash,21,1,209,2,3,1,12,12,"Incorrectly focuses on the arrival process instead of boarding, though it includes both required parts.",3,2
+gemini-3.5-flash,23,1,211,2,3,3,1,1,"Fails to include Part 2 entirely, completely omitting the three required bits of advice.",4,3

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most structured, step-by-step guide specifically tailored for a Japanese airport context.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a comprehensive narrative, though it lacks the clear, concise formatting requested for a social media post.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Includes helpful tips but fails to mention immigration, which is a critical step for international travel in Japan.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely irrelevant to the task as it discusses futuristic transportation concepts rather than airport navigation.",
+      "rank": 4
+    }
+  ]
+}

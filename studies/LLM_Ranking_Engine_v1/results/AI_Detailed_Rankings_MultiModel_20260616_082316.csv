@@ -1,0 +1,381 @@
+MODEL,ID,LOCATION,PLOT,REP,IBLOCK,UNIT,ENTRY,TREATMENT,reason,rank,presentation_pos
+gemini-3.1-flash-lite,3,1,103,1,1,3,37,37,"Provides a clear, professional, and comprehensive step-by-step guide that perfectly matches the influencer persona's requirements.",1,4
+gemini-3.1-flash-lite,4,1,104,1,1,4,119,119,"Good structure, but lacks the specific airport navigation details requested for a first-time traveler in Japan.",2,3
+gemini-3.1-flash-lite,1,1,101,1,1,1,51,51,Contains useful specific location details but fails to provide the required three-sentence advice section at the end.,3,1
+gemini-3.1-flash-lite,2,1,102,1,1,2,56,56,Completely irrelevant to the task; it discusses fictional transportation concepts rather than airport navigation.,4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,8,1,108,1,2,4,128,128,"Best alignment with the persona, providing a clear, professional, and comprehensive guide tailored for Japan travel.",1,1
+gemini-3.1-flash-lite,6,1,106,1,2,2,150,150,"Good cultural context regarding Japanese politeness and transport, though slightly less structured than Option A.",2,4
+gemini-3.1-flash-lite,7,1,107,1,2,3,115,115,"Includes helpful TSA references, but lacks the specific influencer tone and cultural nuance required for Japan.",3,3
+gemini-3.1-flash-lite,5,1,105,1,2,1,79,79,Too generic and lacks specific advice relevant to navigating a major Japanese airport compared to other options.,4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,12,1,112,1,3,4,111,111,"Provides the most comprehensive, clear, and actionable step-by-step guide that perfectly matches the requested format.",1,3
+gemini-3.1-flash-lite,9,1,109,1,3,1,8,8,Offers excellent advice but includes irrelevant tips like the Japan Rail Pass instead of airport-specific guidance.,2,4
+gemini-3.1-flash-lite,10,1,110,1,3,2,62,62,"The guide is too vague and lacks the professional, tech-savvy tone expected for a travel influencer's post.",3,1
+gemini-3.1-flash-lite,11,1,111,1,3,3,40,40,"Fails to provide any step-by-step guide, serving only as a general introduction rather than a functional manual.",4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,16,1,116,1,4,4,39,39,"Provides the most comprehensive, professional, and logical step-by-step guide suitable for international travel in Japan.",1,2
+gemini-3.1-flash-lite,14,1,114,1,4,2,132,132,"Clear and actionable, though it lacks the specific mention of immigration procedures required for international travel.",2,1
+gemini-3.1-flash-lite,15,1,115,1,4,3,7,7,The instructions are disorganized and lack the professional tone required for a helpful travel guide.,3,3
+gemini-3.1-flash-lite,13,1,113,1,4,1,22,22,Completely irrelevant to the task as it provides general travel advice rather than airport navigation steps.,4,4
+,,,,,,,,,,,
+gemini-3.1-flash-lite,17,1,117,1,5,1,19,19,"Provides a clear, concise step-by-step guide and distinct, actionable advice that perfectly fits the influencer persona.",1,3
+gemini-3.1-flash-lite,18,1,118,1,5,2,52,52,"Very structured and easy to follow, though the tone is slightly less professional than Option C.",2,2
+gemini-3.1-flash-lite,19,1,119,1,5,3,27,27,"Good tone, but lacks the structured step-by-step list format requested for a guide.",3,4
+gemini-3.1-flash-lite,20,1,120,1,5,4,84,84,"Contains repetitive, disorganized information and lacks the requested two-part structure for the Facebook post.",4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,23,1,123,1,6,3,105,105,"Provides the most accurate, structured, and comprehensive step-by-step guide specifically tailored for Japanese airport procedures.",1,4
+gemini-3.1-flash-lite,21,1,121,1,6,1,74,74,Offers a good tone for social media but includes slightly less precise procedural steps than Option D.,2,2
+gemini-3.1-flash-lite,24,1,124,1,6,4,135,135,The guide is too generic and fails to address the specific complexities of Japanese airports mentioned in the prompt.,3,1
+gemini-3.1-flash-lite,22,1,122,1,6,2,13,13,"Fails to provide the required step-by-step navigation guide, focusing only on general travel tips instead.",4,3
+,,,,,,,,,,,
+gemini-3.1-flash-lite,26,1,126,1,7,2,16,16,"Best alignment with the influencer persona, providing a clear, professional, and helpful guide for travelers.",1,2
+gemini-3.1-flash-lite,28,1,128,1,7,4,114,114,"Provides a decent, concise guide, though it lacks the engaging tone and structure of the top option.",2,4
+gemini-3.1-flash-lite,27,1,127,1,7,3,58,58,The guide is functional but lacks the specific focus on Japanese airport nuances requested in the prompt.,3,3
+gemini-3.1-flash-lite,25,1,125,1,7,1,110,110,"Contains highly inappropriate, false, and offensive content that violates professional standards for travel advice.",4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,30,1,130,1,8,2,3,3,"Provides the most comprehensive, accurate, and professional step-by-step guide specifically tailored for international travel in Japan.",1,3
+gemini-3.1-flash-lite,29,1,129,1,8,1,107,107,"Clear and concise, though it lacks the specific detail regarding immigration procedures found in the top-ranked option.",2,2
+gemini-3.1-flash-lite,32,1,132,1,8,4,141,141,"The guide is functional but includes unnecessary advice about parking, which is less relevant for international travelers.",3,1
+gemini-3.1-flash-lite,31,1,131,1,8,3,83,83,Fails to provide a complete step-by-step guide and uses an unprofessional tone unsuitable for a travel influencer.,4,4
+,,,,,,,,,,,
+gemini-3.1-flash-lite,33,1,133,1,9,1,137,137,"Captures the influencer persona perfectly while providing a practical, step-by-step guide tailored to the Japanese airport experience.",1,4
+gemini-3.1-flash-lite,35,1,135,1,9,3,71,71,"Very concise and professional, though it lacks the engaging influencer tone requested in the context.",2,2
+gemini-3.1-flash-lite,34,1,134,1,9,2,89,89,"Provides good tips but fails to follow the requested structure of a clear, step-by-step airport navigation guide.",3,3
+gemini-3.1-flash-lite,36,1,136,1,9,4,24,24,Includes irrelevant pre-travel steps like booking flights instead of focusing on the actual airport navigation process.,4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,40,1,140,1,10,4,18,18,Perfectly matches the influencer persona and provides both a clear step-by-step guide and three distinct tips.,1,4
+gemini-3.1-flash-lite,37,1,137,1,10,1,30,30,Provides a logical step-by-step flow but lacks the specific advice section requested for the Facebook post.,2,1
+gemini-3.1-flash-lite,38,1,138,1,10,2,149,149,Offers helpful advice but fails to provide a comprehensive step-by-step guide for the entire airport process.,3,3
+gemini-3.1-flash-lite,39,1,139,1,10,3,50,50,This is merely a list of tips and lacks the required step-by-step narrative guide for travelers.,4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,43,1,143,1,11,3,48,48,This is the only option that correctly follows the prompt's requirement to guide travelers from arrival to boarding.,1,1
+gemini-3.1-flash-lite,42,1,142,1,11,2,81,81,Provides useful travel tips but incorrectly focuses on arrival procedures rather than the requested departure/boarding process.,2,4
+gemini-3.1-flash-lite,44,1,144,1,11,4,4,4,Focuses entirely on arrival logistics in Japan rather than the requested airport departure and boarding guide.,3,3
+gemini-3.1-flash-lite,41,1,141,1,11,1,69,69,"The content is disorganized, lacks professional tone, and fails to provide a clear, actionable step-by-step guide.",4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,46,1,146,1,12,2,43,43,"Provides the most structured, professional, and clear step-by-step guide specifically tailored for a major Japanese airport.",1,1
+gemini-3.1-flash-lite,45,1,145,1,12,1,29,29,Offers a logical flow but includes unnecessary conversational filler that detracts from the concise guide requirement.,2,4
+gemini-3.1-flash-lite,47,1,147,1,12,3,138,138,"Lacks a clear, professional structure and fails to provide a cohesive step-by-step process for the airport experience.",3,2
+gemini-3.1-flash-lite,48,1,148,1,12,4,2,2,Completely irrelevant to the prompt as it discusses vacation planning instead of airport navigation procedures.,4,3
+,,,,,,,,,,,
+gemini-3.1-flash-lite,51,1,151,1,13,3,117,117,It is the only option that specifically addresses the Japan airport context requested in the prompt.,1,3
+gemini-3.1-flash-lite,49,1,149,1,13,1,23,23,"Provides a clear, structured guide, but fails to incorporate the specific Japan-related context requested.",2,1
+gemini-3.1-flash-lite,52,1,152,1,13,4,66,66,Offers general travel advice but lacks the requested step-by-step airport navigation guide format.,3,4
+gemini-3.1-flash-lite,50,1,150,1,13,2,94,94,Completely ignores the prompt's requirement for an airport navigation guide and focuses on general travel philosophy.,4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,54,1,154,1,14,2,47,47,"Provides the most comprehensive, structured, and actionable guide that perfectly aligns with the requested format and content.",1,4
+gemini-3.1-flash-lite,56,1,156,1,14,4,121,121,"Offers a clear step-by-step process, though it lacks the professional polish and specific advice requested for the post.",2,1
+gemini-3.1-flash-lite,55,1,155,1,14,3,87,87,Contains grammatical errors and lacks the necessary technical detail required for a professional travel influencer's guide.,3,3
+gemini-3.1-flash-lite,53,1,153,1,14,1,123,123,"Focuses on arrival procedures rather than the departure process requested, making it irrelevant to the specific task.",4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,58,1,158,1,15,2,143,143,"Provides the most structured, clear, and actionable step-by-step guide tailored perfectly for a first-time traveler.",1,3
+gemini-3.1-flash-lite,57,1,157,1,15,1,96,96,"Excellent context regarding Japan, but focuses more on arrival/transit than the requested departure process.",2,4
+gemini-3.1-flash-lite,60,1,160,1,15,4,120,120,"Includes helpful practical advice, but the formatting is messy and lacks the professional tone required.",3,2
+gemini-3.1-flash-lite,59,1,159,1,15,3,146,146,"Too vague and lacks the specific, structured guidance necessary for navigating a major international airport.",4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,62,1,162,1,16,2,103,103,"Provides the most comprehensive, structured, and actionable step-by-step guide suitable for a professional travel influencer's post.",1,2
+gemini-3.1-flash-lite,64,1,164,1,16,4,63,63,Offers a clear sequence of events but lacks the professional depth and specific timing advice found in Option B.,2,3
+gemini-3.1-flash-lite,61,1,161,1,16,1,46,46,Focuses only on preparation rather than the requested step-by-step navigation process from arrival to boarding.,3,1
+gemini-3.1-flash-lite,63,1,163,1,16,3,93,93,"This is a personal anecdote rather than a functional guide, making it useless for first-time travelers.",4,4
+,,,,,,,,,,,
+gemini-3.1-flash-lite,66,1,166,1,17,2,49,49,"This option perfectly follows the requested structure, includes immigration, and provides the most professional, actionable advice.",1,2
+gemini-3.1-flash-lite,65,1,165,1,17,1,129,129,"Clear and concise, but it misses the immigration step which is crucial for international travel in Japan.",2,1
+gemini-3.1-flash-lite,67,1,167,1,17,3,32,32,"The tone is helpful but lacks a clear, step-by-step chronological flow required for a first-time traveler guide.",3,4
+gemini-3.1-flash-lite,68,1,168,1,17,4,124,124,"This response is poorly written, lacks professional tone, and fails to provide a structured step-by-step guide.",4,3
+,,,,,,,,,,,
+gemini-3.1-flash-lite,71,1,171,1,18,3,116,116,"Best alignment with the persona by providing practical, culturally relevant advice and a clear step-by-step departure guide.",1,3
+gemini-3.1-flash-lite,69,1,169,1,18,1,44,44,"Provides a clear, logical departure guide, though it lacks the specific cultural nuance requested for a Japan-focused post.",2,1
+gemini-3.1-flash-lite,72,1,172,1,18,4,82,82,"Focuses on arrival rather than the requested departure process, making it less relevant to the specific prompt requirements.",3,4
+gemini-3.1-flash-lite,70,1,170,1,18,2,15,15,Fails to provide a step-by-step departure guide and focuses primarily on transportation logistics instead of airport navigation.,4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,74,1,174,1,19,2,68,68,"Provides the most comprehensive, logical step-by-step process including immigration, which is essential for international travel.",1,4
+gemini-3.1-flash-lite,76,1,176,1,19,4,70,70,"Very concise and easy to follow, though it lacks the depth of immigration procedures found in Option D.",2,1
+gemini-3.1-flash-lite,75,1,175,1,19,3,33,33,"Helpful tips, but the guide is less structured and misses critical steps like check-in and immigration procedures.",3,3
+gemini-3.1-flash-lite,73,1,173,1,19,1,100,100,"Too descriptive and lacks a clear, actionable step-by-step guide for a traveler to follow upon arrival.",4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,78,1,178,1,20,2,38,38,"Provides the most structured, clear, and actionable step-by-step guide perfectly suited for a social media post.",1,4
+gemini-3.1-flash-lite,79,1,179,1,20,3,95,95,"Includes helpful tech-focused advice like using airport apps, though it lacks a clear step-by-step process.",2,1
+gemini-3.1-flash-lite,77,1,177,1,20,1,5,5,"Offers good general travel tips but fails to provide a concrete, logical sequence for navigating the airport.",3,2
+gemini-3.1-flash-lite,80,1,180,1,20,4,45,45,Focuses too heavily on etiquette rather than providing the essential logistical steps required for airport navigation.,4,3
+,,,,,,,,,,,
+gemini-3.1-flash-lite,82,1,182,1,21,2,133,133,"Provides the most structured, clear, and professional step-by-step guide suitable for a travel influencer's audience.",1,2
+gemini-3.1-flash-lite,81,1,181,1,21,1,101,101,"Comprehensive and helpful, though it lacks the concise formatting and professional tone of Option B.",2,3
+gemini-3.1-flash-lite,84,1,184,1,21,4,118,118,"Includes necessary immigration steps for Japan, but the instructions are slightly less detailed than the top options.",3,4
+gemini-3.1-flash-lite,83,1,183,1,21,3,73,73,Too informal and focuses on U.S. airport procedures rather than the specific context of Japanese airports.,4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,86,1,186,1,22,2,126,126,"Provides the most accurate, structured, and comprehensive step-by-step guide tailored to the specific prompt requirements.",1,3
+gemini-3.1-flash-lite,87,1,187,1,22,3,6,6,"Offers a logical flow for the departure process, though it lacks the specific cultural context of Japanese airports.",2,4
+gemini-3.1-flash-lite,85,1,185,1,22,1,14,14,Contains helpful preparation tips but fails to provide the required step-by-step guide for navigating the airport.,3,1
+gemini-3.1-flash-lite,88,1,188,1,22,4,25,25,Contains dangerous misinformation regarding baggage drop-off procedures that could cause significant travel issues for a novice.,4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,90,1,190,1,23,2,76,76,"It follows the two-part structure perfectly and provides the most professional, concise, and actionable advice for travelers.",1,4
+gemini-3.1-flash-lite,89,1,189,1,23,1,60,60,"Provides a clear step-by-step guide, though the formatting is slightly less polished than Option D.",2,1
+gemini-3.1-flash-lite,91,1,191,1,23,3,11,11,The guide is helpful but lacks the specific two-part structure requested in the prompt instructions.,3,3
+gemini-3.1-flash-lite,92,1,192,1,23,4,64,64,This content is completely irrelevant as it discusses city travel rather than navigating the airport process.,4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,96,1,196,1,24,4,97,97,"Provides the most relevant, actionable advice for Japan airports and includes a clear, professional structure.",1,2
+gemini-3.1-flash-lite,94,1,194,1,24,2,112,112,"Clear and concise, but lacks specific context regarding Japanese airport procedures compared to Option B.",2,1
+gemini-3.1-flash-lite,95,1,195,1,24,3,122,122,Grammatically awkward and lacks the professional tone expected from a travel influencer.,3,3
+gemini-3.1-flash-lite,93,1,193,1,24,1,61,61,Focuses on arrival and customs rather than the departure process requested in the prompt.,4,4
+,,,,,,,,,,,
+gemini-3.1-flash-lite,100,1,200,1,25,4,98,98,"Provides the most comprehensive, structured, and accurate step-by-step guide specifically tailored for a major Japanese airport.",1,3
+gemini-3.1-flash-lite,98,1,198,1,25,2,12,12,"Clear and concise, though it focuses on arrival rather than the departure process requested in the prompt.",2,1
+gemini-3.1-flash-lite,99,1,199,1,25,3,41,41,"Lacks a clear, numbered step-by-step structure, making it difficult for a first-time traveler to follow easily.",3,4
+gemini-3.1-flash-lite,97,1,197,1,25,1,140,140,"Contains inaccurate procedural steps, such as checking in after arriving at the airport for a flight.",4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,101,1,201,1,26,1,54,54,"Provides the most comprehensive, structured, and actionable guide while clearly separating the requested advice section.",1,4
+gemini-3.1-flash-lite,104,1,204,1,26,4,102,102,"Follows the requested format well, though the advice section is slightly less professional than Option D.",2,1
+gemini-3.1-flash-lite,102,1,202,1,26,2,109,109,Focuses too much on airport amenities rather than the essential step-by-step navigation process for first-time travelers.,3,2
+gemini-3.1-flash-lite,103,1,203,1,26,3,85,85,"Poorly written, lacks a clear step-by-step flow, and fails to provide the required two-part structure.",4,3
+,,,,,,,,,,,
+gemini-3.1-flash-lite,107,1,207,1,27,3,67,67,"Provides the most practical, clear, and structured step-by-step guide for first-time travelers as requested.",1,3
+gemini-3.1-flash-lite,106,1,206,1,27,2,1,1,"Offers a good narrative flow but lacks the specific, actionable step-by-step instructions required for the guide.",2,2
+gemini-3.1-flash-lite,108,1,208,1,27,4,92,92,Focuses too much on general travel tips rather than the specific airport navigation guide requested.,3,4
+gemini-3.1-flash-lite,105,1,205,1,27,1,72,72,"The tone is overly aggressive and lacks the professional, helpful structure required for a travel influencer post.",4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,110,1,210,1,28,2,152,152,"Provides the most clear, concise, and accurate step-by-step guide for navigating a Japanese airport departure process.",1,1
+gemini-3.1-flash-lite,111,1,211,1,28,3,26,26,Captures the influencer persona well but focuses on arrival rather than the requested departure process guide.,2,2
+gemini-3.1-flash-lite,112,1,212,1,28,4,147,147,Offers generic travel advice but fails to provide the specific airport navigation guide requested in the prompt.,3,3
+gemini-3.1-flash-lite,109,1,209,1,28,1,127,127,"Focuses entirely on arrival and ground transportation, completely ignoring the departure process required for the post.",4,4
+,,,,,,,,,,,
+gemini-3.1-flash-lite,113,1,213,1,29,1,57,57,"Provides a clear, logical, and comprehensive step-by-step guide for the departure process requested in the prompt.",1,2
+gemini-3.1-flash-lite,114,1,214,1,29,2,36,36,"Helpful for arrival, but fails to address the departure process required for the Facebook post guide.",2,3
+gemini-3.1-flash-lite,116,1,216,1,29,4,55,55,The guide is too brief and lacks the necessary detail to be a useful resource for travelers.,3,1
+gemini-3.1-flash-lite,115,1,215,1,29,3,125,125,Completely ignores the prompt's requirement to provide a step-by-step guide for navigating a Japanese airport.,4,4
+,,,,,,,,,,,
+gemini-3.1-flash-lite,118,1,218,1,30,2,75,75,"Provides the most comprehensive, structured, and accurate step-by-step guide for the entire airport process.",1,3
+gemini-3.1-flash-lite,120,1,220,1,30,4,65,65,"Offers helpful practical advice but lacks the clear, sequential step-by-step structure required for the guide.",2,1
+gemini-3.1-flash-lite,119,1,219,1,30,3,31,31,Focuses on general travel tips rather than providing the requested step-by-step airport navigation guide.,3,2
+gemini-3.1-flash-lite,117,1,217,1,30,1,80,80,"The content is poorly written, confusing, and fails to provide a clear, actionable step-by-step guide.",4,4
+,,,,,,,,,,,
+gemini-3.1-flash-lite,122,1,222,1,31,2,35,35,"Best alignment with the influencer persona, providing practical cultural advice and tech-savvy tips for Japan travel.",1,2
+gemini-3.1-flash-lite,123,1,223,1,31,3,134,134,"Provides a clear, professional, and logical step-by-step guide that is easy for first-time travelers to follow.",2,4
+gemini-3.1-flash-lite,121,1,221,1,31,1,86,86,The guide is functional but overly simplistic and lacks the engaging tone expected from a travel influencer.,3,1
+gemini-3.1-flash-lite,124,1,224,1,31,4,21,21,Contains potentially confusing or inaccurate information regarding magnetic baggage systems and fails to provide a complete guide.,4,3
+,,,,,,,,,,,
+gemini-3.1-flash-lite,127,1,227,1,32,3,130,130,"Best alignment with the influencer persona, providing practical tech-focused advice and clear, professional instructions for travelers.",1,4
+gemini-3.1-flash-lite,125,1,225,1,32,1,20,20,"Very structured and informative, though it focuses too specifically on KIX rather than general Japanese airports.",2,2
+gemini-3.1-flash-lite,126,1,226,1,32,2,88,88,"Good tone, but the advice in Part 2 is presented as a list of mistakes rather than actionable tips.",3,3
+gemini-3.1-flash-lite,128,1,228,1,32,4,113,113,"Too informal and lacks the specific, structured guidance required for a comprehensive step-by-step airport guide.",4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,129,1,229,1,33,1,77,77,"Provides the most comprehensive, structured step-by-step guide and clear advice tailored to the prompt's requirements.",1,4
+gemini-3.1-flash-lite,131,1,231,1,33,3,106,106,"Offers excellent logistical details for Narita, though it lacks a clear step-by-step departure process for the user.",2,1
+gemini-3.1-flash-lite,132,1,232,1,33,4,90,90,Contains helpful cultural tips but fails to provide the required step-by-step guide for navigating the airport.,3,3
+gemini-3.1-flash-lite,130,1,230,1,33,2,99,99,"Too informal and lacks specific guidance for navigating a major Japanese airport, focusing instead on general travel advice.",4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,135,1,235,1,34,3,108,108,"Provides the most comprehensive, structured, and actionable step-by-step guide that perfectly matches the requested influencer persona.",1,2
+gemini-3.1-flash-lite,136,1,236,1,34,4,59,59,Offers helpful practical advice for arrivals but lacks the structured step-by-step departure guide requested in the prompt.,2,1
+gemini-3.1-flash-lite,133,1,233,1,34,1,144,144,Includes the required sections but the guide is too vague and lacks specific procedural steps for airport navigation.,3,3
+gemini-3.1-flash-lite,134,1,234,1,34,2,131,131,Fails to follow the requested structure and provides poor advice like using Google instead of official airport screens.,4,4
+,,,,,,,,,,,
+gemini-3.1-flash-lite,137,1,237,1,35,1,17,17,"Provides the most structured, clear, and accurate step-by-step guide for navigating a Japanese airport.",1,2
+gemini-3.1-flash-lite,140,1,240,1,35,4,10,10,"Offers a helpful narrative, but lacks the professional clarity and logical flow found in Option B.",2,1
+gemini-3.1-flash-lite,138,1,238,1,35,2,53,53,"Focuses on a travel itinerary rather than the requested airport navigation guide, making it irrelevant.",3,4
+gemini-3.1-flash-lite,139,1,239,1,35,3,148,148,"Fails to provide a step-by-step airport navigation guide entirely, focusing instead on general travel tips.",4,3
+,,,,,,,,,,,
+gemini-3.1-flash-lite,143,1,243,1,36,3,151,151,"Provides the most clear, structured, and actionable step-by-step guide for navigating an airport efficiently.",1,4
+gemini-3.1-flash-lite,142,1,242,1,36,2,142,142,Offers excellent general travel advice but lacks the specific step-by-step airport navigation requested in the prompt.,2,3
+gemini-3.1-flash-lite,144,1,244,1,36,4,42,42,"Contains helpful local context but is poorly written, disorganized, and lacks a clear step-by-step format.",3,2
+gemini-3.1-flash-lite,141,1,241,1,36,1,9,9,Completely irrelevant as it lists travel destinations instead of providing an airport navigation guide.,4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,147,1,247,1,37,3,139,139,"Provides the most accurate, professional, and comprehensive step-by-step guide for departing travelers in Japan.",1,2
+gemini-3.1-flash-lite,148,1,248,1,37,4,34,34,"Follows the requested structure well, though the steps are slightly less detailed and professional than Option B.",2,1
+gemini-3.1-flash-lite,145,1,245,1,37,1,136,136,"The sequence of steps is logically incorrect for a departing traveler, confusing arrival and departure procedures.",3,3
+gemini-3.1-flash-lite,146,1,246,1,37,2,78,78,"Fails to provide a departure guide, focusing instead on arrival procedures which contradicts the prompt requirements.",4,4
+,,,,,,,,,,,
+gemini-3.1-flash-lite,149,1,249,1,38,1,104,104,"Provides the most comprehensive, logical, and professional step-by-step guide that aligns perfectly with the influencer persona.",1,4
+gemini-3.1-flash-lite,151,1,251,1,38,3,91,91,"Offers a friendly, conversational tone suitable for social media, though it lacks the structure of Option D.",2,2
+gemini-3.1-flash-lite,150,1,250,1,38,2,28,28,Focuses only on arrival procedures rather than the full departure process required for a complete travel guide.,3,1
+gemini-3.1-flash-lite,152,1,252,1,38,4,145,145,Fails to provide a clear step-by-step guide and includes irrelevant travel recommendations instead of airport navigation.,4,3
+,,,,,,,,,,,
+,,,,,,,,,,,
+gemini-3.1-flash-lite,155,1,255,2,1,3,121,121,"Provides the most accurate, step-by-step procedural flow for the airport experience requested in the prompt.",1,3
+gemini-3.1-flash-lite,156,1,256,2,1,4,114,114,Offers a decent guide but lacks the specific detail regarding security protocols found in Option C.,2,2
+gemini-3.1-flash-lite,154,1,254,2,1,2,65,65,Focuses on arrival procedures rather than the departure process required for the Facebook post guide.,3,4
+gemini-3.1-flash-lite,153,1,253,2,1,1,147,147,"Completely fails to address the airport navigation guide requirement, focusing instead on general travel tips.",4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,160,1,260,2,2,4,48,48,"Provides the most professional, clear, and accurate step-by-step guide that perfectly matches the requested persona.",1,4
+gemini-3.1-flash-lite,159,1,259,2,2,3,88,88,"Good structure and tone, but the advice in Part 2 is slightly vague compared to Option D.",2,1
+gemini-3.1-flash-lite,158,1,258,2,2,2,141,141,The guide is helpful but lacks the professional polish and formatting required for a high-quality influencer post.,3,2
+gemini-3.1-flash-lite,157,1,257,2,2,1,42,42,"Contains confusing instructions and inappropriate, alarmist language that does not fit a helpful travel guide.",4,3
+,,,,,,,,,,,
+gemini-3.1-flash-lite,163,1,263,2,3,3,77,77,"Best alignment with the persona and prompt requirements, providing a clear, structured guide and relevant advice for Japan.",1,4
+gemini-3.1-flash-lite,164,1,264,2,3,4,11,11,"Provides a decent narrative guide, but lacks the professional polish and specific focus on Japanese airport nuances.",2,1
+gemini-3.1-flash-lite,162,1,262,2,3,2,89,89,"Too generic and lacks a cohesive step-by-step flow, focusing more on general tips than a navigational guide.",3,3
+gemini-3.1-flash-lite,161,1,261,2,3,1,55,55,Poorly written with typos and fails to meet the word count and structural expectations for a professional post.,4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,168,1,268,2,4,4,152,152,"Provides a clear, logical, and comprehensive step-by-step guide that perfectly matches the user's request for navigation.",1,1
+gemini-3.1-flash-lite,166,1,266,2,4,2,25,25,Offers helpful tips but contains inaccurate advice regarding baggage drop-off procedures that could confuse travelers.,2,4
+gemini-3.1-flash-lite,165,1,265,2,4,1,40,40,"Fails to provide the required step-by-step guide, focusing only on general travel enthusiasm instead.",3,3
+gemini-3.1-flash-lite,167,1,267,2,4,3,136,136,"The sequence is logically incorrect for a departure process, confusing arrival procedures with departure steps.",4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,172,1,272,2,5,4,103,103,"Provides the most comprehensive, structured, and professional step-by-step guide suitable for a travel influencer's audience.",1,4
+gemini-3.1-flash-lite,170,1,270,2,5,2,95,95,"Excellent focus on modern technology like airport apps, though it lacks a clear step-by-step arrival process.",2,3
+gemini-3.1-flash-lite,171,1,271,2,5,3,111,111,Covers the departure process well but lacks the specific context of navigating a Japanese airport arrival.,3,2
+gemini-3.1-flash-lite,169,1,269,2,5,1,12,12,"Focuses only on arrival, missing the departure steps required for a complete guide for first-time travelers.",4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,174,1,274,2,6,2,18,18,"Perfectly follows the persona and structure requirements, providing a clear, engaging, and actionable guide for travelers.",1,4
+gemini-3.1-flash-lite,175,1,275,2,6,3,16,16,"Provides a good step-by-step guide, but the advice section is formatted as a list rather than sentences.",2,1
+gemini-3.1-flash-lite,176,1,276,2,6,4,92,92,"Fails to provide the required step-by-step guide from arrival to boarding, focusing instead on general travel tips.",3,2
+gemini-3.1-flash-lite,173,1,273,2,6,1,13,13,"Completely misses the step-by-step guide requirement and focuses only on common mistakes, failing the prompt instructions.",4,3
+,,,,,,,,,,,
+gemini-3.1-flash-lite,177,1,277,2,7,1,91,91,"Best alignment with the prompt, providing a clear, step-by-step guide specifically tailored for a first-time Japan traveler.",1,3
+gemini-3.1-flash-lite,180,1,280,2,7,4,23,23,"Good structure, but it lacks the specific Japan-focused context requested in the prompt instructions.",2,2
+gemini-3.1-flash-lite,179,1,279,2,7,3,146,146,Too vague and lacks the required step-by-step procedural guide format requested for the airport experience.,3,4
+gemini-3.1-flash-lite,178,1,278,2,7,2,9,9,Completely irrelevant content that fails to address the airport guide task entirely.,4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,181,1,281,2,8,1,21,21,"Provides a clear, tech-focused, step-by-step guide tailored to the influencer persona and Japanese airport innovation.",1,4
+gemini-3.1-flash-lite,183,1,283,2,8,3,117,117,"Offers practical advice for Japan, but lacks a comprehensive step-by-step guide from arrival to boarding.",2,3
+gemini-3.1-flash-lite,184,1,284,2,8,4,85,85,"The guide is poorly written, repetitive, and lacks the professional tone expected from a travel influencer.",3,2
+gemini-3.1-flash-lite,182,1,282,2,8,2,83,83,"Fails to provide a structured step-by-step guide and uses an overly informal, rambling tone.",4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,186,1,286,2,9,2,3,3,"Provides the most structured, accurate, and comprehensive step-by-step guide including essential advice for Japanese airport procedures.",1,1
+gemini-3.1-flash-lite,188,1,288,2,9,4,135,135,"Offers a clear, encouraging narrative but lacks specific technical details regarding Japanese airport security and immigration processes.",2,4
+gemini-3.1-flash-lite,187,1,287,2,9,3,62,62,"Too informal and lacks a clear, logical sequence of steps for a first-time traveler to follow effectively.",3,2
+gemini-3.1-flash-lite,185,1,285,2,9,1,61,61,"Focuses on arrival and customs rather than the requested departure process, making it irrelevant for the specified task.",4,3
+,,,,,,,,,,,
+gemini-3.1-flash-lite,190,1,290,2,10,2,113,113,"Best tone for an influencer and provides a clear, helpful step-by-step guide with essential travel advice.",1,2
+gemini-3.1-flash-lite,192,1,292,2,10,4,5,5,"Good advice, but lacks a detailed step-by-step process for navigating the airport from arrival to boarding.",2,3
+gemini-3.1-flash-lite,191,1,291,2,10,3,101,101,Provides a functional guide but lacks the engaging influencer persona and formatting required for a Facebook post.,3,1
+gemini-3.1-flash-lite,189,1,289,2,10,1,29,29,"Too fragmented and lacks the professional, cohesive narrative flow expected for a travel influencer's guide.",4,4
+,,,,,,,,,,,
+gemini-3.1-flash-lite,195,1,295,2,11,3,126,126,"This is the only option that follows the specific two-part structure and provides a clear, accurate airport guide.",1,2
+gemini-3.1-flash-lite,193,1,293,2,11,1,90,90,It provides helpful cultural context but fails to include the required step-by-step guide for navigating the airport.,2,1
+gemini-3.1-flash-lite,196,1,296,2,11,4,73,73,The advice is generic and focuses on U.S. security procedures rather than the specific context of Japanese airports.,3,4
+gemini-3.1-flash-lite,194,1,294,2,11,2,66,66,"This response is poorly written, lacks the required structure, and does not address the Japanese airport context at all.",4,3
+,,,,,,,,,,,
+gemini-3.1-flash-lite,197,1,297,2,12,1,139,139,"Provides the most clear, concise, and actionable step-by-step guide tailored perfectly for a social media post format.",1,4
+gemini-3.1-flash-lite,198,1,298,2,12,2,54,54,"Very structured and easy to follow, though slightly less engaging in tone than Option D for an influencer.",2,3
+gemini-3.1-flash-lite,200,1,300,2,12,4,116,116,"Includes helpful cultural context but is too wordy and lacks the punchy, scannable format needed for Facebook.",3,2
+gemini-3.1-flash-lite,199,1,299,2,12,3,2,2,Completely irrelevant to the prompt as it discusses vacation planning rather than airport navigation procedures.,4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,202,1,302,2,13,2,34,34,"Provides the most structured, step-by-step guide specifically tailored for a Japanese airport context.",1,2
+gemini-3.1-flash-lite,203,1,303,2,13,3,57,57,"Offers a comprehensive narrative, though it lacks the clear, concise formatting requested for a social media post.",2,4
+gemini-3.1-flash-lite,204,1,304,2,13,4,67,67,"Includes helpful tips but fails to mention immigration, which is a critical step for international travel in Japan.",3,3
+gemini-3.1-flash-lite,201,1,301,2,13,1,56,56,Completely irrelevant to the task as it discusses futuristic transportation concepts rather than airport navigation.,4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,208,1,308,2,14,4,98,98,"Provides the most comprehensive, professional, and actionable step-by-step guide tailored for a major Japanese airport.",1,2
+gemini-3.1-flash-lite,206,1,306,2,14,2,37,37,"Clear and concise, though it lacks the specific terminal and document advice that makes Option B superior.",2,3
+gemini-3.1-flash-lite,207,1,307,2,14,3,118,118,"Lacks the required Part 2 advice section entirely, making it incomplete for the requested Facebook post format.",3,4
+gemini-3.1-flash-lite,205,1,305,2,14,1,58,58,The advice provided is generic and fails to address the specific complexities of navigating a Japanese airport.,4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,212,1,312,2,15,4,51,51,"Provides the most specific, actionable step-by-step navigation guide for airport departure procedures requested in the prompt.",1,1
+gemini-3.1-flash-lite,209,1,309,2,15,1,96,96,Offers helpful general advice but focuses more on arrivals and city transit rather than the departure process.,2,3
+gemini-3.1-flash-lite,210,1,310,2,15,2,71,71,Contains good general travel tips but lacks the specific airport navigation details required for a first-time traveler.,3,2
+gemini-3.1-flash-lite,211,1,311,2,15,3,53,53,"This is a general Japan travel itinerary rather than an airport navigation guide, making it irrelevant to the prompt.",4,4
+,,,,,,,,,,,
+gemini-3.1-flash-lite,216,1,316,2,16,4,30,30,"Provides the most accurate, logical, and concise step-by-step process for navigating a Japanese airport.",1,2
+gemini-3.1-flash-lite,214,1,314,2,16,2,35,35,"Captures the influencer persona well, though it lacks a clear, structured step-by-step guide for navigation.",2,1
+gemini-3.1-flash-lite,215,1,315,2,16,3,46,46,Focuses on preparation but fails to provide the required step-by-step guide for navigating the airport.,3,3
+gemini-3.1-flash-lite,213,1,313,2,16,1,148,148,Fails to provide a functional step-by-step guide and includes irrelevant advice about scams.,4,4
+,,,,,,,,,,,
+gemini-3.1-flash-lite,217,1,317,2,17,1,137,137,"Captures the influencer persona perfectly while providing a practical, engaging, and comprehensive step-by-step guide for travelers.",1,2
+gemini-3.1-flash-lite,218,1,318,2,17,2,102,102,"Provides a very clear, logical, and easy-to-follow list, though it lacks the engaging influencer tone requested.",2,3
+gemini-3.1-flash-lite,219,1,319,2,17,3,45,45,Offers good cultural context but fails to provide a complete step-by-step guide from arrival to boarding.,3,4
+gemini-3.1-flash-lite,220,1,320,2,17,4,87,87,Contains significant grammatical errors and lacks the professional structure required for a helpful travel guide.,4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,224,1,324,2,18,4,84,84,"Provides the most comprehensive, logical, and actionable step-by-step guide for navigating a Japanese airport experience.",1,1
+gemini-3.1-flash-lite,222,1,322,2,18,2,123,123,"Focuses only on arrival procedures, failing to provide the full departure guide requested by the prompt.",2,2
+gemini-3.1-flash-lite,223,1,323,2,18,3,74,74,Contains inaccurate procedural information regarding the sequence of security and immigration in Japanese airports.,3,4
+gemini-3.1-flash-lite,221,1,321,2,18,1,99,99,"Too informal and lacks a structured, professional guide for navigating the specific airport processes required.",4,3
+,,,,,,,,,,,
+gemini-3.1-flash-lite,225,1,325,2,19,1,38,38,"Provides a clear, structured, and professional step-by-step guide that perfectly matches the requested format and tone.",1,1
+gemini-3.1-flash-lite,227,1,327,2,19,3,1,1,"Offers a helpful narrative tone but lacks the specific, actionable step-by-step structure required for a guide.",2,4
+gemini-3.1-flash-lite,226,1,326,2,19,2,132,132,Includes a functional list but fails to provide the required three bits of advice in Part 2.,3,3
+gemini-3.1-flash-lite,228,1,328,2,19,4,94,94,Completely irrelevant to the prompt as it discusses travel costs and experiences instead of airport navigation.,4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,229,1,329,2,20,1,150,150,"Provides the most practical, step-by-step guide tailored to the Japanese airport experience with helpful cultural context.",1,3
+gemini-3.1-flash-lite,231,1,331,2,20,3,109,109,"Offers a decent narrative flow but lacks the structured, actionable clarity required for a quick traveler guide.",2,1
+gemini-3.1-flash-lite,232,1,332,2,20,4,122,122,Contains necessary steps but suffers from repetitive phrasing and lacks the professional tone expected of an influencer.,3,4
+gemini-3.1-flash-lite,230,1,330,2,20,2,125,125,Completely irrelevant to the task as it discusses airport evolution instead of providing a traveler guide.,4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,235,1,335,2,21,3,115,115,"Provides the most clear, concise, and actionable step-by-step guide for a first-time traveler.",1,3
+gemini-3.1-flash-lite,236,1,336,2,21,4,50,50,"Offers excellent practical tips for Japan-specific travel, though it lacks a cohesive step-by-step process.",2,2
+gemini-3.1-flash-lite,234,1,334,2,21,2,32,32,Contains helpful advice but is too wordy and lacks the structured flow required for a guide.,3,1
+gemini-3.1-flash-lite,233,1,333,2,21,1,14,14,Focuses on pre-travel preparation rather than the actual airport navigation process requested in the prompt.,4,4
+,,,,,,,,,,,
+gemini-3.1-flash-lite,238,1,338,2,22,2,63,63,"It perfectly follows the two-part structure requested and provides clear, actionable steps and advice.",1,4
+gemini-3.1-flash-lite,240,1,340,2,22,4,151,151,"Provides a very detailed step-by-step guide, though it lacks the specific top three advice section requested.",2,2
+gemini-3.1-flash-lite,239,1,339,2,22,3,31,31,Offers good general travel tips but fails to provide the required step-by-step airport navigation guide.,3,1
+gemini-3.1-flash-lite,237,1,337,2,22,1,78,78,Too brief and focuses on arrival rather than the departure process required for the Facebook post.,4,3
+,,,,,,,,,,,
+gemini-3.1-flash-lite,241,1,341,2,23,1,108,108,"Best alignment with the persona and context, including specific Japanese travel nuances like immigration and orderly queueing.",1,2
+gemini-3.1-flash-lite,243,1,343,2,23,3,129,129,"Provides a clear, professional guide, but lacks the specific cultural context required for a Japan-focused travel post.",2,1
+gemini-3.1-flash-lite,242,1,342,2,23,2,107,107,"Functional and concise, but the advice section is too generic and lacks the influencer's engaging tone.",3,3
+gemini-3.1-flash-lite,244,1,344,2,23,4,119,119,"Fails to include the required three bits of advice, making it incomplete based on the prompt's instructions.",4,4
+,,,,,,,,,,,
+gemini-3.1-flash-lite,245,1,345,2,24,1,143,143,"Provides the most comprehensive, actionable, and professional step-by-step guide while adhering perfectly to all constraints.",1,4
+gemini-3.1-flash-lite,246,1,346,2,24,2,43,43,"Clear and concise, though it lacks the specific practical tips for security screening found in the top option.",2,1
+gemini-3.1-flash-lite,248,1,348,2,24,4,105,105,Follows the structure but is less detailed and lacks the professional tone required for a travel influencer.,3,3
+gemini-3.1-flash-lite,247,1,347,2,24,3,64,64,Completely fails the prompt as it provides travel advice for the city instead of airport navigation steps.,4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,252,1,352,2,25,4,8,8,"Provides the most structured, actionable step-by-step guide and relevant advice tailored to the Japanese travel context.",1,1
+gemini-3.1-flash-lite,249,1,349,2,25,1,24,24,"Offers a clear, logical process for travelers, though it lacks specific cultural context relevant to Japan.",2,4
+gemini-3.1-flash-lite,250,1,350,2,25,2,100,100,"Contains useful descriptive information about Haneda, but fails to provide a clear, sequential guide for the user.",3,3
+gemini-3.1-flash-lite,251,1,351,2,25,3,145,145,"The content is disorganized, mixes arrival and departure processes, and provides irrelevant sightseeing advice instead of guidance.",4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,255,1,355,2,26,3,33,33,"Best structure, clear step-by-step guide, and provides three distinct, actionable tips as requested.",1,3
+gemini-3.1-flash-lite,254,1,354,2,26,2,59,59,"Good flow, but it focuses more on arrival logistics than the requested departure/boarding process.",2,1
+gemini-3.1-flash-lite,256,1,356,2,26,4,4,4,"Provides a decent guide, but fails to separate the advice into the requested three-sentence format.",3,4
+gemini-3.1-flash-lite,253,1,353,2,26,1,72,72,Lacks the required step-by-step airport navigation guide and uses unprofessional all-caps formatting.,4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,259,1,359,2,27,3,47,47,"Provides the most comprehensive, structured, and professional step-by-step guide suitable for a travel influencer's audience.",1,3
+gemini-3.1-flash-lite,258,1,358,2,27,2,6,6,"Offers clear, actionable advice with a modern touch, though it lacks the structured formatting of the top option.",2,4
+gemini-3.1-flash-lite,260,1,360,2,27,4,10,10,"Focuses on arrival rather than departure, failing to meet the prompt's requirement for a full boarding guide.",3,2
+gemini-3.1-flash-lite,257,1,357,2,27,1,69,69,"The content is disorganized, repetitive, and lacks the professional tone required for a travel influencer's guide.",4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,264,1,364,2,28,4,75,75,"Perfectly captures the influencer persona while providing a clear, comprehensive, and well-structured guide for first-time travelers.",1,3
+gemini-3.1-flash-lite,263,1,363,2,28,3,68,68,"Provides a very logical and easy-to-follow step-by-step process, though it lacks the engaging influencer tone of Option C.",2,1
+gemini-3.1-flash-lite,262,1,362,2,28,2,133,133,"Very clear and concise, but it fails to include the required three bits of advice for travelers.",3,4
+gemini-3.1-flash-lite,261,1,361,2,28,1,97,97,The guide is too vague and lacks the necessary step-by-step structure required for a first-time traveler's navigation.,4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,265,1,365,2,29,1,20,20,"Provides the most comprehensive, structured guide tailored to a specific Japanese airport with helpful local context.",1,3
+gemini-3.1-flash-lite,267,1,367,2,29,3,19,19,"Offers a clear, logical step-by-step process, though it lacks the specific Japanese airport context of Option C.",2,1
+gemini-3.1-flash-lite,266,1,366,2,29,2,127,127,Focuses on arrival procedures rather than the departure process requested for the Facebook post.,3,4
+gemini-3.1-flash-lite,268,1,368,2,29,4,22,22,Completely fails to provide the required step-by-step airport navigation guide or specific travel advice.,4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,269,1,369,2,30,1,128,128,"Perfectly follows the prompt structure, includes immigration steps, and provides clear, actionable advice for Japan travel.",1,4
+gemini-3.1-flash-lite,271,1,371,2,30,3,140,140,"Provides a clear step-by-step guide, though it lacks the specific context of Japanese airport procedures like immigration.",2,2
+gemini-3.1-flash-lite,272,1,372,2,30,4,27,27,The guide is written in a narrative paragraph format rather than the requested step-by-step list structure.,3,1
+gemini-3.1-flash-lite,270,1,370,2,30,2,142,142,Fails to provide the required step-by-step guide format and focuses more on general travel tips than airport navigation.,4,3
+,,,,,,,,,,,
+gemini-3.1-flash-lite,274,1,374,2,31,2,17,17,Provides the most comprehensive and accurate step-by-step arrival guide specifically tailored for Japan's unique airport procedures.,1,1
+gemini-3.1-flash-lite,276,1,376,2,31,4,15,15,"Offers excellent practical advice for Japan travel, though it mixes arrival and departure information confusingly.",2,3
+gemini-3.1-flash-lite,273,1,373,2,31,1,112,112,Focuses on general departure procedures rather than the arrival process requested for first-time travelers in Japan.,3,2
+gemini-3.1-flash-lite,275,1,375,2,31,3,7,7,Lacks professional tone and fails to address the specific context of navigating a major Japanese airport.,4,4
+,,,,,,,,,,,
+gemini-3.1-flash-lite,280,1,380,2,32,4,26,26,"Best alignment with the influencer persona and provides a clear, professional guide for Japan-specific airport procedures.",1,2
+gemini-3.1-flash-lite,277,1,377,2,32,1,120,120,"Provides the most practical, step-by-step instructions for a traveler, though it lacks the requested influencer tone.",2,4
+gemini-3.1-flash-lite,279,1,379,2,32,3,79,79,"Clear and helpful, but the guide is too generic and lacks the specific Japan-travel context requested.",3,3
+gemini-3.1-flash-lite,278,1,378,2,32,2,131,131,Weakest content; the instructions are vague and fail to provide a comprehensive step-by-step airport navigation guide.,4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,284,1,384,2,33,4,86,86,"Provides a clear, concise 10-step guide that perfectly matches the requested structure and word count constraints.",1,3
+gemini-3.1-flash-lite,283,1,383,2,33,3,76,76,"Offers a professional, influencer-style tone, though the advice section is slightly less polished than Option C.",2,4
+gemini-3.1-flash-lite,281,1,381,2,33,1,41,41,"The narrative flow is helpful, but it lacks the structured, easy-to-read step-by-step format required for a guide.",3,1
+gemini-3.1-flash-lite,282,1,382,2,33,2,81,81,"Focuses on arrival procedures rather than the requested departure process, making it irrelevant for the specific task.",4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,287,1,387,2,34,3,130,130,"Provides the most helpful, actionable advice for navigating the airport while maintaining a professional, encouraging tone.",1,3
+gemini-3.1-flash-lite,288,1,388,2,34,4,149,149,"Good flow and helpful tips, but it focuses on arrival rather than the full departure process requested.",2,4
+gemini-3.1-flash-lite,286,1,386,2,34,2,104,104,Too simplistic and repetitive; it lacks the engaging narrative style expected from a professional influencer.,3,1
+gemini-3.1-flash-lite,285,1,385,2,34,1,36,36,Incorrectly describes the arrival process instead of the departure process required for the Facebook post.,4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,290,1,390,2,35,2,52,52,"Best structure, tone, and completeness; it perfectly matches the influencer persona and provides clear, actionable steps.",1,3
+gemini-3.1-flash-lite,291,1,391,2,35,3,70,70,"Good tone and helpful tips, but the step-by-step guide is slightly less comprehensive than Option C.",2,1
+gemini-3.1-flash-lite,292,1,392,2,35,4,134,134,"Clear instructions, but lacks the engaging influencer tone and the specific formatting requested for the advice section.",3,2
+gemini-3.1-flash-lite,289,1,389,2,35,1,138,138,"Poorly structured and lacks a clear, logical step-by-step flow for a first-time traveler to follow.",4,4
+,,,,,,,,,,,
+gemini-3.1-flash-lite,295,1,395,2,36,3,28,28,"Perfectly matches the influencer persona, provides a clear step-by-step guide, and maintains a helpful, encouraging tone.",1,4
+gemini-3.1-flash-lite,294,1,394,2,36,2,82,82,"Professional and accurate, though slightly less engaging for a social media influencer's Facebook fan page.",2,3
+gemini-3.1-flash-lite,293,1,393,2,36,1,124,124,The advice is practical but the writing style is repetitive and lacks the polish expected of an influencer.,3,2
+gemini-3.1-flash-lite,296,1,396,2,36,4,110,110,"Contains highly inaccurate, inappropriate, and harmful misinformation regarding Japanese airport security procedures.",4,1
+,,,,,,,,,,,
+gemini-3.1-flash-lite,297,1,397,2,37,1,49,49,"Perfectly follows the two-part structure and word count requirements while providing clear, actionable advice.",1,4
+gemini-3.1-flash-lite,300,1,400,2,37,4,39,39,"Provides a clear, professional step-by-step guide but fails to include the required second part of advice.",2,3
+gemini-3.1-flash-lite,299,1,399,2,37,3,60,60,Includes both parts but the formatting is messy and the advice is less professional than Option D.,3,1
+gemini-3.1-flash-lite,298,1,398,2,37,2,80,80,Fails to provide a step-by-step departure guide and contains significant grammatical errors throughout the text.,4,2
+,,,,,,,,,,,
+gemini-3.1-flash-lite,302,1,402,2,38,2,44,44,"Provides a clear, logical step-by-step guide and follows the specific formatting requirements for the advice section.",1,4
+gemini-3.1-flash-lite,301,1,401,2,38,1,144,144,Follows the structure well but is less descriptive and actionable than Option D regarding the actual airport process.,2,1
+gemini-3.1-flash-lite,304,1,404,2,38,4,106,106,Contains useful cultural tips but fails to provide the required step-by-step guide for departing the airport.,3,3
+gemini-3.1-flash-lite,303,1,403,2,38,3,93,93,"This is a personal anecdote rather than a guide, failing to meet the instructional requirements of the prompt.",4,2

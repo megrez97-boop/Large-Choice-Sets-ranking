@@ -1,0 +1,77 @@
+MODEL,ID,LOCATION,PLOT,REP,IBLOCK,UNIT,ENTRY,TREATMENT,rank,reason,presentation_pos
+llama3.2,4,1,104,1,1,4,1,1,1,Clear and concise guide with essential tips for navigating Japan's airport,4
+llama3.2,2,1,102,1,1,2,7,7,2,Detailed step-by-step guide but lacks specific advice on handling luggage,1
+llama3.2,3,1,103,1,1,3,4,4,3,Overly focused on post-arrival procedures with limited guidance for pre-flight preparation,3
+llama3.2,1,1,101,1,1,1,2,2,4,Unrelated to airport navigation and lacks specific advice for travelers,2
+llama3.2,6,1,106,1,2,2,5,5,1,Clearly outlines top three bits of advice with a friendly tone and local etiquette,4
+llama3.2,5,1,105,1,2,1,11,11,2,Provides a concise step-by-step guide with clear instructions for navigating the airport,1
+llama3.2,8,1,108,1,2,4,12,12,3,Follows a logical order but lacks specific details and local insights,3
+llama3.2,7,1,107,1,2,3,10,10,4,Lacks clarity in instructions and assumes prior knowledge of airport procedures,2
+llama3.2,11,1,111,1,3,3,8,8,1,Comprehensive and specific guidance for Japan-specific travel,4
+llama3.2,10,1,110,1,3,2,3,3,2,Clear step-by-step guide with minimal extraneous information,1
+llama3.2,12,1,112,1,3,4,6,6,3,Good general airport navigation but lacks specific details for Japan,3
+llama3.2,9,1,109,1,3,1,9,9,4,Unrelated to airport travel and lacks relevant information,2
+,,,,,,,,,,,
+llama3.2,15,1,203,2,1,3,5,5,1,Clear and concise steps with emphasis on respect for local etiquette.,2
+llama3.2,13,1,201,2,1,1,11,11,2,Provides a detailed step-by-step guide to navigating the airport experience.,1
+llama3.2,16,1,204,2,1,4,3,3,3,"Follows a logical and sequential structure, but lacks specific details on customs and visa requirements.",4
+llama3.2,14,1,202,2,1,2,4,4,4,"Lacks clarity on the airport layout and security procedures, making it less user-friendly.",3
+llama3.2,19,1,207,2,2,3,6,6,1,Clear step-by-step instructions with specific details,3
+llama3.2,20,1,208,2,2,4,12,12,2,"Concise and easy-to-follow steps, but lacks specific details",1
+llama3.2,18,1,206,2,2,2,1,1,3,Lacks specificity in instructions and assumes prior knowledge,2
+llama3.2,17,1,205,2,2,1,2,2,4,Not related to airport navigation or travel process,4
+llama3.2,24,1,212,2,3,4,8,8,1,Comprehensive and detailed guide with clear steps,4
+llama3.2,21,1,209,2,3,1,9,9,2,Provides essential information but lacks specific airport navigation details,1
+llama3.2,22,1,210,2,3,2,10,10,3,Lacks detail on luggage handling and security procedures,2
+llama3.2,23,1,211,2,3,3,7,7,4,Outdated and incomplete guide with unclear steps,3
+,,,,,,,,,,,
+phi4-mini,2,1,102,1,1,2,7,7,1,Clear step-by-step guide; avoids irrelevant details.,2
+phi4-mini,4,1,104,1,1,4,1,1,2,Useful for first-time travelers but lacks detailed steps like Option B.,4
+phi4-mini,3,1,103,1,1,3,4,4,3,Includes useful tips (visa and yen) but less structured than others; redundant info on sim card/pocket wifi.,1
+phi4-mini,1,1,101,1,1,1,2,2,4,Irrelevant to airport navigation guide requirement. Focuses more on travel ideas rather than practical steps at the airport.,3
+phi4-mini,8,1,108,1,2,4,12,12,1,Detailed step-by-step guide with practical advice.,2
+phi4-mini,6,1,106,1,2,2,5,5,2,Clear instructions and concise top three bits of travel tips.,3
+phi4-mini,7,1,107,1,2,3,10,10,3,Useful but lacks detailed steps; some confusing language used.,1
+phi4-mini,5,1,105,1,2,1,11,11,4,Lacks comprehensive guidance and practical advice for travelers.,4
+phi4-mini,11,1,111,1,3,3,8,8,1,Detailed guide for first-time travelers; covers all steps comprehensively.,1
+phi4-mini,10,1,110,1,3,2,3,3,2,Clear step-by-step process but lacks cultural insights and tips like Option A.,4
+phi4-mini,12,1,112,1,3,4,6,6,3,Simple guide; misses detailed instructions compared to Options A & D.,3
+phi4-mini,9,1,109,1,3,1,9,9,4,Irrelevant content for airport travel guidance and lacks practical steps or advice.,2
+,,,,,,,,,,,
+phi4-mini,16,1,204,2,1,4,3,3,1,Most detailed step-by-step guide; includes top three bits of advice.,3
+phi4-mini,13,1,201,2,1,1,11,11,2,Clear instructions with emphasis on avoiding mistakes and preparation tips.,2
+phi4-mini,14,1,202,2,1,2,4,4,3,Good overview but lacks detailed steps; less comprehensive than Option_C or B.,1
+phi4-mini,15,1,203,2,1,3,5,5,4,General advice without specific step-by-step guidance for travelers.,4
+phi4-mini,20,1,208,2,2,4,12,12,1,Detailed step-by-step guide for airport navigation.,1
+phi4-mini,18,1,206,2,2,2,1,1,2,General travel advice but lacks specific steps at the airport.,2
+phi4-mini,19,1,207,2,2,3,6,6,3,Focuses on general tips without detailed step-by-step guide for travelers.,4
+phi4-mini,17,1,205,2,2,1,2,2,4,Irrelevant to context of navigating airport in Japan; unrelated travel ideas presented.,3
+phi4-mini,24,1,212,2,3,4,8,8,1,Comprehensive guide with practical steps and final tips.,3
+phi4-mini,22,1,210,2,3,2,10,10,2,Detailed but lacks concise step-by-step format for first-time travelers.,2
+phi4-mini,23,1,211,2,3,3,7,7,3,Simple instructions; missing practical details and final tips.,4
+phi4-mini,21,1,209,2,3,1,9,9,4,Irrelevant travel options unrelated to airport navigation in Japan.,1
+,,,,,,,,,,,
+gemma3,2,1,102,1,1,2,7,7,1,"Provides a clear, step-by-step sequence; most practical and actionable for first-time travelers.",4
+gemma3,3,1,103,1,1,3,4,4,2,"Offers useful advice but lacks a structured flow, prioritizing paperwork over overall guidance.",2
+gemma3,4,1,104,1,1,4,1,1,3,Too general and promotional; doesn't offer a clear process for navigating the airport.,1
+gemma3,1,1,101,1,1,1,2,2,4,Irrelevant to the task – focuses on travel planning rather than airport navigation advice.,3
+gemma3,6,1,106,1,2,2,5,5,1,"Provides a clear, step-by-step guide with actionable advice and concise top tips.",4
+gemma3,5,1,105,1,2,1,11,11,2,Offers a reasonable sequence but lacks specific detail and helpful advice for first-timers.,1
+gemma3,7,1,107,1,2,3,10,10,3,Too conversational and disorganized; misses key steps and doesn't clearly prioritize traveler needs.,3
+gemma3,8,1,108,1,2,4,12,12,4,"Simplistic and incomplete, lacking crucial information and failing to address common airport complexities.",2
+gemma3,11,1,111,1,3,3,8,8,1,"Provides a comprehensive, practical guide with essential Japan-specific advice and clear steps.",4
+gemma3,10,1,110,1,3,2,3,3,2,"Offers a solid, detailed sequence but lacks specific cultural context for Japanese airports.",3
+gemma3,12,1,112,1,3,4,6,6,3,"Contains useful steps, however, it's somewhat disjointed and doesn’t fully address traveler needs.",1
+gemma3,9,1,109,1,3,1,9,9,4,Completely irrelevant to the task; a list of unrelated travel destinations with no airport guidance.,2
+gemma3,13,1,201,2,1,1,11,11,1,"Provides a detailed, step-by-step process mirroring real airport procedures effectively.",2
+gemma3,16,1,204,2,1,4,3,3,2,Offers a clear sequence but lacks specific details regarding Japanese customs/security.,3
+gemma3,15,1,203,2,1,3,5,5,3,Too general and vague; doesn't offer actionable steps for a first-time traveler.,1
+gemma3,14,1,202,2,1,2,4,4,4,"Disorganized and focuses on extraneous details (money exchange, wifi) rather than core travel guidance.",4
+gemma3,19,1,207,2,2,3,6,6,1,"Provides a detailed, practical step-by-step guide with relevant considerations for airport navigation.",3
+gemma3,18,1,206,2,2,2,1,1,2,Offers basic instructions but lacks specific details and doesn't address potential challenges effectively.,1
+gemma3,20,1,208,2,2,4,12,12,3,Too focused on arrival procedures; misses crucial steps like security screening and boarding information.,4
+gemma3,17,1,205,2,2,1,2,2,4,"Irrelevant to the core task – a travel idea, not an airport navigation guide for first-timers.",2
+gemma3,24,1,212,2,3,4,8,8,1,"Provides a detailed, step-by-step guide with crucial pre-trip advice for first-time Japan travelers.",2
+gemma3,22,1,210,2,3,2,10,10,2,Offers basic instructions but lacks detail and includes potentially misleading navigation advice (shopping area).,3
+gemma3,23,1,211,2,3,3,7,7,3,Simplistic and incomplete; misses key steps like security and gate location information.,4
+gemma3,21,1,209,2,3,1,9,9,4,Irrelevant list of travel destinations with no connection to airport navigation or Japan travel.,1

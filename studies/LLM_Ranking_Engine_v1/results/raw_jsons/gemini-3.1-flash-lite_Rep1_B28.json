@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most clear, concise, and accurate step-by-step guide for navigating a Japanese airport departure process.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Captures the influencer persona well but focuses on arrival rather than the requested departure process guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers generic travel advice but fails to provide the specific airport navigation guide requested in the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses entirely on arrival and ground transportation, completely ignoring the departure process required for the post.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Best structure, clear step-by-step guide, and provides three distinct, actionable tips as requested.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good flow, but it focuses more on arrival logistics than the requested departure/boarding process.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a decent guide, but fails to separate the advice into the requested three-sentence format.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Lacks the required step-by-step airport navigation guide and uses unprofessional all-caps formatting.",
+      "rank": 4
+    }
+  ]
+}

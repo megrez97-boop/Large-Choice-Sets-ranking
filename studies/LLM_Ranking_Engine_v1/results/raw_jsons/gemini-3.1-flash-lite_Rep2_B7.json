@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Best alignment with the prompt, providing a clear, step-by-step guide specifically tailored for a first-time Japan traveler.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Good structure, but it lacks the specific Japan-focused context requested in the prompt instructions.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Too vague and lacks the required step-by-step procedural guide format requested for the airport experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely irrelevant content that fails to address the airport guide task entirely.",
+      "rank": 4
+    }
+  ]
+}

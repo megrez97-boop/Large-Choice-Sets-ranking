@@ -1,0 +1,6 @@
+DEV: move onto using real LLM APIs(start from gpt, warning, hide the api key)
+json schema 是什麼，怎麼寫，怎麼餵，參考 open ai json strict & gemini，可以看他的python， java 和 rest，確認他最後出來的東西使我們要的schema
+
+temp setting for api （0 1st）
+
+DEV: bugfix why some blocks are not found for llama/phi - some error checking to ensure it tries again

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best alignment with the influencer persona and provides a clear, professional guide for Japan-specific airport procedures.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most practical, step-by-step instructions for a traveler, though it lacks the requested influencer tone.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Clear and helpful, but the guide is too generic and lacks the specific Japan-travel context requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Weakest content; the instructions are vague and fail to provide a comprehensive step-by-step airport navigation guide.",
+      "rank": 4
+    }
+  ]
+}

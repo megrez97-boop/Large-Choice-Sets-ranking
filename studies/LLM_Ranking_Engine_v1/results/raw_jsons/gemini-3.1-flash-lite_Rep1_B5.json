@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a clear, concise step-by-step guide and distinct, actionable advice that perfectly fits the influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Very structured and easy to follow, though the tone is slightly less professional than Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Good tone, but lacks the structured step-by-step list format requested for a guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains repetitive, disorganized information and lacks the requested two-part structure for the Facebook post.",
+      "rank": 4
+    }
+  ]
+}

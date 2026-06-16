@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "This is the only option that follows the specific two-part structure and provides a clear, accurate airport guide.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "It provides helpful cultural context but fails to include the required step-by-step guide for navigating the airport.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The advice is generic and focuses on U.S. security procedures rather than the specific context of Japanese airports.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "This response is poorly written, lacks the required structure, and does not address the Japanese airport context at all.",
+      "rank": 4
+    }
+  ]
+}

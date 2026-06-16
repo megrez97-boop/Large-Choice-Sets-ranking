@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a clear, concise 10-step guide that perfectly matches the requested structure and word count constraints.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a professional, influencer-style tone, though the advice section is slightly less polished than Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The narrative flow is helpful, but it lacks the structured, easy-to-read step-by-step format required for a guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on arrival procedures rather than the requested departure process, making it irrelevant for the specific task.",
+      "rank": 4
+    }
+  ]
+}

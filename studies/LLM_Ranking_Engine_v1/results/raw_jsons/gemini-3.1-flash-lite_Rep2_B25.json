@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most structured, actionable step-by-step guide and relevant advice tailored to the Japanese travel context.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a clear, logical process for travelers, though it lacks specific cultural context relevant to Japan.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Contains useful descriptive information about Haneda, but fails to provide a clear, sequential guide for the user.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The content is disorganized, mixes arrival and departure processes, and provides irrelevant sightseeing advice instead of guidance.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most helpful, actionable advice for navigating the airport while maintaining a professional, encouraging tone.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Good flow and helpful tips, but it focuses on arrival rather than the full departure process requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too simplistic and repetitive; it lacks the engaging narrative style expected from a professional influencer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Incorrectly describes the arrival process instead of the departure process required for the Facebook post.",
+      "rank": 4
+    }
+  ]
+}

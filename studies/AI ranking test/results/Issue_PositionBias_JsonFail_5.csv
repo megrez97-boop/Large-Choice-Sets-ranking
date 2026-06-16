@@ -1,0 +1,90 @@
+MODEL,ID,LOCATION,PLOT,REP,IBLOCK,UNIT,ENTRY,TREATMENT,reason,rank,presentation_pos
+llama3.2,2,1,102,1,1,2,4,4,Clearly outlines the steps and provides essential tips for a smooth journey.,1,2
+llama3.2,4,1,104,1,1,4,10,10,"Provides a good overview, but lacks specific details on navigating customs and exchanging money.",2,1
+llama3.2,1,1,101,1,1,1,1,1,"Lacks concrete steps for check-in, security, and finding transportation options.",3,4
+llama3.2,3,1,103,1,1,3,9,9,Completely unrelated to airport navigation and lacks any useful information.,4,3
+,,,,,,,,,,,
+llama3.2,8,1,108,1,2,4,5,5,"Clearly outlines airport procedures and etiquette, providing a comprehensive guide.",1,4
+llama3.2,7,1,107,1,2,3,12,12,Provides a clear step-by-step guide for navigating the airport process.,2,1
+llama3.2,5,1,105,1,2,1,7,7,"Lacks specificity in some steps, but covers essential security and boarding procedures.",3,3
+llama3.2,6,1,106,1,2,2,2,2,"Not relevant to airport navigation, focuses on travel deals and destinations.",4,2
+,,,,,,,,,,,
+llama3.2,11,1,111,1,3,3,3,3,Clear and concise step-by-step guide with no unnecessary information.,1,1
+llama3.2,12,1,112,1,3,4,11,11,"Lacks specificity, relying on general airport signs for navigation.",2,2
+llama3.2,10,1,110,1,3,2,6,6,"Too vague, requiring too much interpretation and self-directed problem-solving.",3,3
+llama3.2,9,1,109,1,3,1,8,8,"Overly detailed, including unnecessary steps and information not relevant to airport navigation.",4,4
+,,,,,,,,,,,
+llama3.2,14,1,202,2,1,2,8,8,Comprehensive checklist with detailed steps for a seamless travel experience.,1,3
+llama3.2,16,1,204,2,1,4,10,10,"Clear instructions on navigating the airport, including visa and customs procedures.",2,2
+llama3.2,13,1,201,2,1,1,4,4,"Good advice on essential tasks after arrival, but lacks detailed steps for each task.",3,4
+llama3.2,15,1,203,2,1,3,2,2,Lacks specific guidance on navigating the airport and its procedures.,4,1
+,,,,,,,,,,,
+llama3.2,19,1,207,2,2,3,11,11,Clearly outlines the steps and provides specific guidance on security procedures.,1,2
+llama3.2,18,1,206,2,2,2,9,9,"Provides a general overview, but lacks detailed information on specific airport processes.",2,1
+llama3.2,17,1,205,2,2,1,6,6,"Emphasizes the importance of planning and checking banned items, but could be more concise.",3,4
+llama3.2,20,1,208,2,2,4,7,7,"Lacks specificity on security procedures and gate information, making it less helpful.",4,3
+,,,,,,,,,,,
+llama3.2,22,1,210,2,3,2,5,5,Clearly outlines the importance of arriving early and having necessary documents ready.,1,1
+llama3.2,21,1,209,2,3,1,12,12,"Provides a detailed, step-by-step guide but lacks specific advice on navigating the airport experience.",2,2
+llama3.2,23,1,211,2,3,3,1,1,"Lacks concrete details on security checks and health screenings, making it less informative.",3,3
+llama3.2,24,1,212,2,3,4,3,3,Overly detailed but may overwhelm first-time travelers with too many steps to follow.,4,4
+,,,,,,,,,,,
+phi4-mini,1,1,101,1,1,1,1,1,Clear guidance on passport and security; lacks detailed airport navigation.,1,4
+phi4-mini,4,1,104,1,1,4,10,10,"Detailed steps but confusing layout description, less helpful for first-timers.",2,1
+phi4-mini,2,1,102,1,1,2,4,4,Good preparation advice and currency conversion; lacks detailed airport navigation details.,3,3
+phi4-mini,3,1,103,1,1,3,9,9,"Irrelevant to context, unrelated travel options provided instead of guide content.",4,2
+,,,,,,,,,,,
+phi4-mini,8,1,108,1,2,4,5,5,Comprehensive guide with practical advice; missing step-by-step clarity.,1,1
+phi4-mini,7,1,107,1,2,3,12,12,"Clear, concise steps but lacks cultural etiquette emphasis and final travel tips.",2,2
+phi4-mini,5,1,105,1,2,1,7,7,Simple guide with practical advice; less detailed compared to others.,3,3
+phi4-mini,6,1,106,1,2,2,2,2,"Irrelevant content for airport navigation, lacks context-specific guidance.",4,4
+,,,,,,,,,,,
+phi4-mini,9,1,109,1,3,1,8,8,Comprehensive guide with practical steps; lacks brevity.,1,1
+phi4-mini,11,1,111,1,3,3,3,3,"Clear and concise, but less detailed than Option A.",2,2
+phi4-mini,12,1,112,1,3,4,11,11,Too vague on specific airport procedures; missing details compared to others.,3,3
+phi4-mini,10,1,110,1,3,2,6,6,"Similar clarity as B, but less structured and detailed than A or B.",NA,4
+,,,,,,,,,,,
+phi4-mini,14,1,202,2,1,2,8,8,Comprehensive guide with practical steps; lacks personal touch.,1,2
+phi4-mini,13,1,201,2,1,1,4,4,"Useful but less detailed than Option B, missing some key points like online check-in and boarding pass.",2,4
+phi4-mini,16,1,204,2,1,4,10,10,Detailed steps; lacks emphasis on pre-arrival preparation (online check-in).,3,1
+phi4-mini,15,1,203,2,1,3,2,2,"Irrelevant to airport travel, focuses more on general vacation planning.",4,3
+,,,,,,,,,,,
+phi4-mini,17,1,205,2,2,1,6,6,Detailed step-by-step guide; covers all necessary steps.,1,2
+phi4-mini,19,1,207,2,2,3,11,11,"Focuses on security and boarding process, but lacks detail compared to Option B.",2,3
+phi4-mini,20,1,208,2,2,4,7,7,Brief summary with key points; less comprehensive than others.,3,4
+phi4-mini,18,1,206,2,2,2,9,9,"Irrelevant travel options, not related to airport experience in Japan.",4,1
+,,,,,,,,,,,
+phi4-mini,24,1,212,2,3,4,3,3,Most comprehensive and detailed guide with practical steps.,1,2
+phi4-mini,21,1,209,2,3,1,12,12,Clear but lacks some details compared to Option B.,2,1
+phi4-mini,23,1,211,2,3,3,1,1,"Too brief, missing crucial information like check-in and security procedures.",3,3
+phi4-mini,22,1,210,2,3,2,5,5,Good advice with emphasis on etiquette but lacks practical steps for travelers.,4,4
+,,,,,,,,,,,
+gemma3,2,1,102,1,1,2,4,4,"Provides a clear, step-by-step guide with essential advice and focuses on practical airport procedures.",1,3
+gemma3,4,1,104,1,1,4,10,10,Offers basic instructions but lacks detail and includes potentially misleading navigation advice.,2,2
+gemma3,1,1,101,1,1,1,1,1,"Too general, lacking specific steps and crucial information for a first-time traveler.",3,4
+gemma3,3,1,103,1,1,3,9,9,Irrelevant list of travel destinations; completely fails to address airport navigation needs.,4,1
+,,,,,,,,,,,
+gemma3,7,1,107,1,2,3,12,12,"Detailed step-by-step guide with practical advice, exceeding the word count requirement and offering clarity.",1,2
+gemma3,8,1,108,1,2,4,5,5,Provides a basic outline but lacks detail and actionable steps for a first-time traveler.,2,1
+gemma3,5,1,105,1,2,1,7,7,"Too simplistic, offering only the most rudimentary steps without addressing potential complexities.",3,4
+gemma3,6,1,106,1,2,2,2,2,Irrelevant to the core task of airport navigation and a disjointed travel suggestion.,4,3
+,,,,,,,,,,,
+gemma3,11,1,111,1,3,3,3,3,"Provides a clear, step-by-step guide with essential advice and prioritizes key traveler needs effectively.",1,4
+gemma3,9,1,109,1,3,1,8,8,Offers a reasonable sequence but lacks specific detail and includes irrelevant travel tips.,2,1
+gemma3,12,1,112,1,3,4,11,11,"Focuses too heavily on the security process, neglecting broader airport navigation steps.",3,3
+gemma3,10,1,110,1,3,2,6,6,Offers a less structured and somewhat vague guide with limited actionable information.,4,2
+,,,,,,,,,,,
+gemma3,14,1,202,2,1,2,8,8,"Provides a detailed, step-by-step guide with relevant airport procedures and helpful tips.",1,1
+gemma3,13,1,201,2,1,1,4,4,"Offers practical advice on essential preparations like visa/paperwork and currency conversion, solid foundation.",2,4
+gemma3,16,1,204,2,1,4,10,10,"Lacks detail and includes confusing instructions (shopping area detour), hindering a first-time traveler.",3,3
+gemma3,15,1,203,2,1,3,2,2,"Focuses on general travel ideas rather than specific airport navigation, irrelevant to the task.",4,2
+,,,,,,,,,,,
+gemma3,17,1,205,2,2,1,6,6,"Provides the most detailed and practical step-by-step guidance, incorporating essential airport navigation tips.",1,3
+gemma3,20,1,208,2,2,4,7,7,Offers a basic sequence of actions but lacks crucial details regarding security and gate information.,2,2
+gemma3,18,1,206,2,2,2,9,9,"Contains irrelevant travel suggestions, failing to address the specific task of airport navigation.",3,1
+gemma3,19,1,207,2,2,3,11,11,Offers limited advice and focuses primarily on potential mistakes without a clear procedural guide.,4,4
+,,,,,,,,,,,
+gemma3,21,1,209,2,3,1,12,12,"Provides a clear, step-by-step guide with numbered instructions and practical advice for first-time travelers.",1,2
+gemma3,24,1,212,2,3,4,3,3,Offers a logical sequence of airport procedures but lacks detailed explanations or helpful tips.,2,3
+gemma3,23,1,211,2,3,3,1,1,"Too generic and focuses heavily on identification, neglecting crucial steps like security and baggage claim.",3,1
+gemma3,22,1,210,2,3,2,5,5,Contains useful advice but is less structured and includes extraneous information about etiquette.,4,4

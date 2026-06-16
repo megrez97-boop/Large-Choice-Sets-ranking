@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly matches the influencer persona and provides both a clear step-by-step guide and three distinct tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a logical step-by-step flow but lacks the specific advice section requested for the Facebook post.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers helpful advice but fails to provide a comprehensive step-by-step guide for the entire airport process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "This is merely a list of tips and lacks the required step-by-step narrative guide for travelers.",
+      "rank": 4
+    }
+  ]
+}

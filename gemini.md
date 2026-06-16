@@ -32,6 +32,7 @@ Analyze and compare the accuracy of **Bradley-Terry (BT)** and **Plackett-Luce (
 - `sync/task/4-27/task.txt`: Active development goals.
 
 ### 📅 Current Progress
+- **2026-06-08**: Completed local pipeline robustness migration. Implemented regex-based JSON extraction in stateless and Shiny evaluators to filter out model preambles. Standardized temperature to 0 and mapped ID/ranking name variations to stabilize SLM evaluations. Next step is OpenAI/Gemini API integration with JSON Schema.
 - **2026-05-10**: Upgraded simulation engine to **v5.5**. Integrated Multi-Seed ribbon plots, Smart Resume (checkpointing), and independent Y-axis scaling for k=3, 4, 8, 10. Prepared workspace for SLM-R integration.
 - **2026-04-28**: Updated theoretical ARE formula and enforced strict No-LaTeX mandate in English.
 - Finalizing simulation engine to compare BT vs PL models under t = 120, r = 20, k = 3 & 4.

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "It follows the two-part structure perfectly and provides the most professional, concise, and actionable advice for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear step-by-step guide, though the formatting is slightly less polished than Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The guide is helpful but lacks the specific two-part structure requested in the prompt instructions.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "This content is completely irrelevant as it discusses city travel rather than navigating the airport process.",
+      "rank": 4
+    }
+  ]
+}

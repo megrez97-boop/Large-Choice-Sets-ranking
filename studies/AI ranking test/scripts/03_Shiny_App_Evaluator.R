@@ -52,24 +52,42 @@ evaluate_block_stateless <- function(target_ids, model, mission_context, item_db
   for (attempt in 1:max_retries) {
     res <- POST(
       url = "http://localhost:11434/api/generate",
-      body = list(model = model, prompt = prompt_text, stream = FALSE, options = list(temperature = 0.1)),
+      body = list(model = model, prompt = prompt_text, stream = FALSE, options = list(temperature = 0)),
       encode = "json"
     )
     
     if (status_code(res) == 200) {
       raw_content <- content(res)$response
+      
+      # Robust JSON Extraction: Find first '{' and last '}'
+      json_start <- regexpr("\\{", raw_content)
+      json_end <- regexpr("(?s).*\\}", raw_content, perl = TRUE)
+      
+      clean_content <- raw_content
+      if (json_start > 0 && json_end > 0) {
+        clean_content <- substr(raw_content, json_start, json_end)
+      }
+
       parsed <- tryCatch({
-        clean <- gsub("```json|```", "", raw_content) |> trimws()
-        fromJSON(clean)
+        fromJSON(clean_content)
       }, error = function(e) NULL)
       
-      if (!is.null(parsed) && !is.null(parsed$rankings)) {
-        received_ids <- as.character(parsed$rankings$item_id)
-        if (length(received_ids) == length(expected_ids) && all(expected_ids %in% received_ids)) {
-          return(parsed$rankings)
+      if (!is.null(parsed)) {
+        # Support variations
+        rank_list <- if(!is.null(parsed$rankings)) parsed$rankings else parsed$ranking
+        
+        if (!is.null(rank_list)) {
+          received_ids <- if(!is.null(rank_list$item_id)) as.character(rank_list$item_id) else as.character(rank_list$id)
+          
+          if (length(received_ids) == length(expected_ids) && all(expected_ids %in% received_ids)) {
+            # Standardize
+            if (!is.null(rank_list$id) && is.null(rank_list$item_id)) rank_list$item_id <- rank_list$id
+            return(rank_list)
+          }
         }
       }
     }
+    Sys.sleep(0.5)
   }
   return(NULL)
 }
