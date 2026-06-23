@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly follows the prompt's structure, providing a clear arrival guide and three distinct, actionable tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a good guide, but focuses on departure rather than the arrival process requested in the context.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Covers the arrival process well but lacks the professional influencer tone and formatting requested for the post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the prompt as it discusses the Dominican Republic instead of a Japanese airport.",
+      "rank": 4
+    }
+  ]
+}

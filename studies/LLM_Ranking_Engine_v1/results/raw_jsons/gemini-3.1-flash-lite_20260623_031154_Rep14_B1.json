@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best alignment with the prompt, providing both a clear guide and the requested three-sentence advice section.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a logical step-by-step guide but fails to clearly separate the advice section as requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is disorganized and lacks the professional tone required for an influencer's travel post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant content that does not address the airport navigation task at all.",
+      "rank": 4
+    }
+  ]
+}

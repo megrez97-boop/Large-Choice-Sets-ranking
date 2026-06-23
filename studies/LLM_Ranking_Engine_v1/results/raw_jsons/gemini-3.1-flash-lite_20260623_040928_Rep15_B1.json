@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly captures the influencer persona while providing a clear, structured, and helpful guide for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a very clear, logical step-by-step process, though it lacks the engaging influencer tone of Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains useful practical advice but is written in a slightly disorganized and informal narrative style.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely irrelevant to the prompt as it discusses general travel deals rather than airport navigation.",
+      "rank": 4
+    }
+  ]
+}

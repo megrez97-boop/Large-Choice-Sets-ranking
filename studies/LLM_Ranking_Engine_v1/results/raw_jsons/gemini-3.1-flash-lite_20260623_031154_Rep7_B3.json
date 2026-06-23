@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most structured, actionable, and professional step-by-step guide suitable for a tech-savvy influencer's audience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers clear, logical steps and includes helpful advice, though it lacks the polished tone of Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too vague and conversational; it lacks the specific, actionable instructions required for a first-time traveler's guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Poorly written with grammatical errors and lacks the professional structure expected for a travel influencer's post.",
+      "rank": 4
+    }
+  ]
+}

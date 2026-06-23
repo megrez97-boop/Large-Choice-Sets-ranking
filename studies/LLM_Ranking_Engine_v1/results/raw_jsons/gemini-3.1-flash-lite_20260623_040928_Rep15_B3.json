@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a clear, structured step-by-step guide and includes specific advice, perfectly matching the requested format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a decent narrative guide but lacks the distinct two-part structure and specific advice requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses only on pre-travel preparation rather than the required step-by-step airport navigation guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Completely irrelevant as it lists travel destinations instead of providing an airport navigation guide.",
+      "rank": 4
+    }
+  ]
+}

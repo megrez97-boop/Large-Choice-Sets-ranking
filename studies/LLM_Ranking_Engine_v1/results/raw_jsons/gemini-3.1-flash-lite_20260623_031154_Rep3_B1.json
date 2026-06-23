@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, actionable step-by-step guide and three distinct, helpful tips perfectly aligned with the prompt requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a good narrative flow but lacks the structured, concise step-by-step format requested for a quick guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "This is a list of travel destinations, which is completely irrelevant to the airport navigation guide requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on vacation deals and general travel advice rather than the specific airport navigation guide requested.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most accurate, professional, and comprehensive step-by-step guide including specific Japanese airport procedures.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a clear, logical sequence of steps and practical advice, though slightly less detailed than Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses only on advice and lacks the required step-by-step guide for navigating the airport process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The guide is poorly structured, misses critical check-in steps, and lacks professional depth for a travel influencer.",
+      "rank": 4
+    }
+  ]
+}

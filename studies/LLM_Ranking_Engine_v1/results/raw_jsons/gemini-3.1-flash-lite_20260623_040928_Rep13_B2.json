@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a clear, structured step-by-step guide and actionable advice tailored to the Japan airport context.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a logical step-by-step process but lacks the specific cultural context of a major Japanese airport.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses only on common mistakes rather than providing the required step-by-step guide for airport navigation.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the prompt as it discusses vacation packages in the Dominican Republic instead of airports.",
+      "rank": 4
+    }
+  ]
+}

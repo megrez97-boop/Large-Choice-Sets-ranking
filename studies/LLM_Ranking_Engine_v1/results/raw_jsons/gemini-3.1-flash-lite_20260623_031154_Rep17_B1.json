@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a professional, encouraging tone perfectly suited for a travel influencer's Facebook post.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a clear, logical step-by-step process for airport navigation, though it lacks the influencer's engaging voice.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival procedures rather than the departure process required by the prompt's context.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the prompt as it discusses vacation planning in the Dominican Republic.",
+      "rank": 4
+    }
+  ]
+}

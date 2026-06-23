@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most accurate, logical step-by-step departure process for a major airport while maintaining a helpful tone.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes the required two-part structure, though the guide is slightly less detailed regarding the actual boarding process.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival procedures rather than the requested departure process, making it less relevant to the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely ignores the prompt's requirement to provide a guide for navigating a major Japanese airport.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best structure; it clearly separates the guide and the top three tips as requested by the prompt.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides helpful practical details like immigration icons, though it lacks the requested top three advice section.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too vague and misses the specific requirement to include a distinct top three advice section.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Poorly formatted as a list rather than a cohesive guide and lacks the required influencer tone.",
+      "rank": 4
+    }
+  ]
+}

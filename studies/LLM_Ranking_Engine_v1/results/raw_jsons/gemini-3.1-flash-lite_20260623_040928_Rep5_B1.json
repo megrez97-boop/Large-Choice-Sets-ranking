@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Perfectly follows the persona and structure requirements, providing a clear, engaging, and actionable step-by-step guide.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides good advice but focuses more on pre-flight preparation rather than the requested airport navigation process.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Lacks the requested structure and fails to provide a concise, professional guide for the airport experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to provide a step-by-step guide and lacks the professional tone required for an influencer's post.",
+      "rank": 4
+    }
+  ]
+}

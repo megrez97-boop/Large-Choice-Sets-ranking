@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most comprehensive, structured, and professional guide suitable for a travel influencer's audience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a clear, logical flow for the departure process, though it lacks the polish of Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The instructions are overly simplistic and lack the necessary detail for a first-time traveler in Japan.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival procedures rather than the departure process requested for the Facebook post.",
+      "rank": 4
+    }
+  ]
+}

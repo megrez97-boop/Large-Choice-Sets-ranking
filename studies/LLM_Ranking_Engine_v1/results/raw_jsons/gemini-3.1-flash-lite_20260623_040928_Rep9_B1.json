@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, concise step-by-step guide and distinct advice, perfectly matching the influencer persona and task requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a friendly tone and helpful navigation tips, though it lacks the structured formatting of the top option.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on departure rather than arrival, making it less relevant for a first-time traveler arriving in Japan.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Fails to provide the required step-by-step guide for navigating the airport, focusing only on general preparation.",
+      "rank": 4
+    }
+  ]
+}

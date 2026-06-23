@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most practical, actionable advice for Japan-specific travel, including IC cards and efficient train navigation.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a helpful arrival guide, though it lacks the professional polish and structure of the top option.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Includes generic travel advice rather than specific airport navigation steps, making it less useful for the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on generic airport procedures rather than the specific context of navigating a major Japanese airport.",
+      "rank": 4
+    }
+  ]
+}

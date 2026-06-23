@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most accurate, logical, and professional step-by-step departure guide and clear, actionable advice for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers excellent practical tips for Japan, but focuses more on arrival/transportation than the requested departure process.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Helpful tone, but focuses exclusively on arrival rather than the requested departure process from the airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The instructions are vague, poorly structured, and lack the professional detail required for a helpful travel guide.",
+      "rank": 4
+    }
+  ]
+}

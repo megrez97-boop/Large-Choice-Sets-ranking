@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Best alignment with the influencer persona, providing a clear, structured guide and actionable advice for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good practical steps for arrival, but lacks the engaging influencer tone and specific advice requested for the post.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains grammatical errors and lacks the professional, concise structure required for a helpful travel guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Poorly organized and lacks the necessary detail for a first-time traveler navigating a major Japanese airport.",
+      "rank": 4
+    }
+  ]
+}

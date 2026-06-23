@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most practical, step-by-step arrival process for international travelers, including essential tips like currency and connectivity.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a clear, logical flow for the departure process, though it lacks the specific cultural context of Japan.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Covers the departure process adequately but is less comprehensive regarding the specific needs of a first-time traveler.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Too vague and lacks a concrete, actionable step-by-step guide for navigating the airport experience effectively.",
+      "rank": 4
+    }
+  ]
+}

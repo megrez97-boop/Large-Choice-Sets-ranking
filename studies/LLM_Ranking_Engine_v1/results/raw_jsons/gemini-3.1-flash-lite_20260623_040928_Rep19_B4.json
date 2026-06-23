@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a clear, structured guide and relevant tips specifically tailored to the Japanese travel context.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers practical advice for international travel but lacks the specific step-by-step airport navigation requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Includes basic steps but is too simplistic and lacks the professional tone required for an influencer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the prompt as it discusses vacation packages in the Dominican Republic instead of airports.",
+      "rank": 4
+    }
+  ]
+}

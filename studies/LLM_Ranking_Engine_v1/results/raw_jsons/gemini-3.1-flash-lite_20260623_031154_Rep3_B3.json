@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most accurate, logical, and concise step-by-step guide for arriving travelers in Japan.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Helpful advice, but the flow is less structured and professional than Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Contains factual inaccuracies regarding immigration procedures and is poorly written.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on departure rather than the arrival process requested in the prompt.",
+      "rank": 4
+    }
+  ]
+}

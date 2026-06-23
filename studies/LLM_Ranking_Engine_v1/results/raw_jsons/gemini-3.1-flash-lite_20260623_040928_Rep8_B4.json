@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most practical, step-by-step navigation for a Japanese airport while maintaining an engaging influencer tone.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Covers the necessary steps well but lacks the specific, helpful navigational details found in Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses only on boarding procedures rather than the arrival process required by the prompt's context.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the prompt as it discusses the Dominican Republic instead of Japanese airport procedures.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "This option directly addresses the prompt by providing a clear, step-by-step guide for navigating a Japanese airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "While it provides a guide, it focuses on departure procedures rather than the arrival process requested for Japan.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "This content is irrelevant to the prompt as it discusses travel deals in the Dominican Republic instead.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "This is a list of travel destinations and fails to provide any guide or advice for airport navigation.",
+      "rank": 4
+    }
+  ]
+}

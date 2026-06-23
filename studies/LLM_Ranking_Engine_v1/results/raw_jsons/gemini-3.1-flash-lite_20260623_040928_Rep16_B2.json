@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Perfectly follows the persona, includes the required two-part structure, and provides clear, actionable steps and advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a functional step-by-step guide but lacks the requested two-part structure and specific advice section.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers general advice but fails to provide a clear, structured step-by-step guide for the airport process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the prompt as it discusses travel deals in the Dominican Republic instead of Japan airports.",
+      "rank": 4
+    }
+  ]
+}

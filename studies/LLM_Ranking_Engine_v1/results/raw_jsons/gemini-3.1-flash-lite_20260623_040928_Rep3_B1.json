@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Perfectly follows the two-part structure and provides a clear, actionable guide for first-time travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Good structure, but the advice section is generic and lacks the specific travel tips requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to provide the required step-by-step guide for navigating the airport from arrival to boarding.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Lacks the required two-part structure and fails to address the boarding process for departing flights.",
+      "rank": 4
+    }
+  ]
+}

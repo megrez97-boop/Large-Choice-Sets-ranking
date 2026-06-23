@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most structured, clear, and actionable step-by-step guide that perfectly matches the requested format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers helpful cultural context and advice, though it lacks a detailed step-by-step process for the airport navigation.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Includes practical tips like using WiFi, but the writing style is informal and contains grammatical errors.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Vague and lacks specific instructions; it focuses more on general travel sentiment than actual airport navigation steps.",
+      "rank": 4
+    }
+  ]
+}

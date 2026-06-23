@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Perfectly matches the influencer persona and provides a clear, structured guide with actionable advice for common mistakes.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a logical step-by-step guide, though it lacks the engaging influencer tone requested in the context.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The guide is too vague and lacks the specific advice on common mistakes requested in the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on arrival procedures rather than the requested departure process, making it irrelevant for the specified task.",
+      "rank": 4
+    }
+  ]
+}

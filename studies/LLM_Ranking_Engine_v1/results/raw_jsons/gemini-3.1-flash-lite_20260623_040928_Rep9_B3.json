@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Best structure, includes specific tech-forward amenities like apps and lounges, fitting the influencer persona perfectly.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a clear, logical step-by-step process for departure, though it lacks the cultural nuance of Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good practical advice, but the guide is too focused on arrival rather than the full departure process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Weakest because it lacks a cohesive structure and fails to provide the required three distinct pieces of advice.",
+      "rank": 4
+    }
+  ]
+}

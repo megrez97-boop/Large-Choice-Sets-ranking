@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "This option perfectly follows the requested structure and provides a clear, concise guide for arriving in Japan.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "It covers the arrival process well but lacks the requested two-part structure and clear formatting for the advice.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is confusing because it lists immigration steps after boarding, which is factually incorrect for arrival procedures.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "This guide focuses on departure procedures rather than the arrival process requested in the prompt context.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+MEASURE: at each replication (2+) find the similarity (e.g., RBO) between global ranking order at this replication versus without replication; e.g., at r=3, compare GlobalRanking(r=3) vs. GlobalRanking(r=2); similarly, at r=10, compare GlobalRanking(r=10) vs. GlobalRanking(r=9).
+
+REPLICATE: do until r=20
+
+DATAVIZ: How is RBO changing per replication added?
+
+RESEARCH+IMPLEMENT: rank bias overlap (RBO)

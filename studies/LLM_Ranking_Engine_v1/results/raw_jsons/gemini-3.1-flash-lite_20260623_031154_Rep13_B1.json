@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most practical, step-by-step airport navigation guide and includes helpful tips on using technology like WiFi.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a decent guide but lacks the modern, tech-savvy tone requested for a remote work influencer's audience.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "This is a list of travel destinations, which is completely irrelevant to the requested airport navigation guide task.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "This content focuses on travel deals and vacation planning, failing to address the airport navigation guide requirement entirely.",
+      "rank": 4
+    }
+  ]
+}

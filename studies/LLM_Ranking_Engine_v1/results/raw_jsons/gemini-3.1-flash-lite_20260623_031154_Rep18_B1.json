@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a structured, professional guide tailored to Japan travel with actionable final tips for first-timers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a clear, logical step-by-step process for airport navigation, though it lacks specific Japan-related context.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on general travel deals rather than the specific airport navigation guide requested by the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Lists generic travel destinations unrelated to the required airport navigation guide or Japan-specific travel advice.",
+      "rank": 4
+    }
+  ]
+}

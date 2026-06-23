@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Best structure; it provides a clear, actionable step-by-step guide tailored to the influencer persona and airport experience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Good logical flow, but it focuses on arrival/departure logistics rather than the specific airport navigation requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Lacks a structured step-by-step guide, offering only general advice instead of the requested navigation process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Incorrectly describes the arrival process (post-flight) instead of the departure process required for the guide.",
+      "rank": 4
+    }
+  ]
+}

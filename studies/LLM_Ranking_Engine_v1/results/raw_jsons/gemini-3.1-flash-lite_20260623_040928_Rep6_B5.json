@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best alignment with the persona and provides both the required guide and the three specific advice points.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a clear, logical step-by-step guide, but fails to include the required three distinct advice points.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes both parts, but the guide is less professional and lacks the specific Japan-travel context requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Worst option as it only provides advice and completely misses the required step-by-step airport navigation guide.",
+      "rank": 4
+    }
+  ]
+}

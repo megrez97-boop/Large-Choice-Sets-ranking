@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Best alignment with the persona, providing a clear, professional guide and actionable advice in the requested format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Good, practical guide, but lacks the influencer persona and engaging tone required by the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is too narrative and lacks the structured, step-by-step clarity needed for a quick airport reference.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "This content is completely irrelevant to the task of providing an airport navigation guide.",
+      "rank": 4
+    }
+  ]
+}

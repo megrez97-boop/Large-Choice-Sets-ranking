@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, accurate, and logical step-by-step guide specifically tailored for arriving at a Japanese airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers helpful advice but focuses on general airport navigation rather than the specific arrival process requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The guide is confusing, lacks context for international arrival, and fails to meet the professional influencer tone.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the prompt as it discusses travel deals and the Dominican Republic instead of Japan.",
+      "rank": 4
+    }
+  ]
+}

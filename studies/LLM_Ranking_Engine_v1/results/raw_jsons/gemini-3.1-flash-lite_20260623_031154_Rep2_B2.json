@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most accurate, concise, and logical step-by-step guide for arriving at a Japanese airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Includes helpful practical advice like pocket wifi, but the flow is less structured than Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on departing rather than arriving and lacks the specific arrival steps requested in the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Completely irrelevant to the prompt as it lists global travel destinations instead of airport navigation steps.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, logical step-by-step guide for departures and includes three distinct, actionable pieces of advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Good structure for arrivals, but the advice section is slightly wordy and lacks the requested concise formatting.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The guide is too vague and lacks the professional tone and specific detail required for a travel influencer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Contains factual errors regarding immigration procedures and lacks a clear, structured list format for the guide.",
+      "rank": 4
+    }
+  ]
+}

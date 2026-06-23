@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best alignment with the persona, providing a clear step-by-step guide and addressing all prompt requirements effectively.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a logical arrival process, though it lacks the requested boarding steps and specific advice formatting.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains helpful tips but is poorly structured and includes inaccurate information regarding the immigration process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the prompt as it lists travel destinations instead of airport navigation instructions.",
+      "rank": 4
+    }
+  ]
+}

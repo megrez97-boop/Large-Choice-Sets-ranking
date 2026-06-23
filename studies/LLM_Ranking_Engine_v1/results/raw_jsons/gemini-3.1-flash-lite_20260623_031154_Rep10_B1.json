@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, logical, and actionable step-by-step guide specifically tailored for arriving at a Japanese airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers helpful advice but lacks the specific, structured step-by-step arrival process required by the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on departure rather than the arrival process requested and contains several grammatical errors.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Completely irrelevant to the prompt as it lists travel bucket list items instead of airport navigation instructions.",
+      "rank": 4
+    }
+  ]
+}

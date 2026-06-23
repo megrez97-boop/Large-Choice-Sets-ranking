@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most relevant, actionable advice specifically tailored to navigating a Japanese airport for first-time travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a basic step-by-step guide but lacks the specific cultural context and professional tone required for the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Completely ignores the prompt's requirement to provide a guide for navigating a Japanese airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "This is a list of travel destinations and is entirely irrelevant to the airport navigation task requested.",
+      "rank": 4
+    }
+  ]
+}

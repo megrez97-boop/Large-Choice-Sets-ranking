@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most practical, actionable advice for navigating Japanese transit and cultural etiquette for first-time travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a clear, logical step-by-step arrival process, though it lacks the specific travel tips found in Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is too vague and lacks the specific procedural steps required for a first-time airport navigation guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to provide a structured step-by-step guide for airport navigation, focusing instead on general pre-travel preparation.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly aligns with the influencer persona by highlighting cutting-edge technology and providing a clear, structured guide.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a very practical, step-by-step guide, though it lacks the engaging influencer tone found in Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on arrival procedures rather than the requested departure process, making it less relevant for boarding.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too vague and lacks the specific step-by-step instructions required for a first-time traveler to navigate the airport.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly matches the influencer persona with a clear, engaging structure and highly practical, specific travel advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides excellent, actionable tips for Japan travel, though the guide section is slightly less engaging than Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Covers the arrival process well but lacks the professional polish and structured formatting expected of an influencer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses only on departure/security, failing to address the arrival process requested for first-time travelers to Japan.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, concise, and actionable step-by-step guide perfectly tailored to the requested airport navigation task.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers helpful, conversational advice for remote workers, though it is slightly less structured than Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Includes useful travel tips, but the advice is generic and not specific to navigating a Japanese airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the prompt as it lists global tourist activities instead of airport navigation procedures.",
+      "rank": 4
+    }
+  ]
+}

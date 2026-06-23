@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Perfectly matches the persona and provides a clear, structured step-by-step guide with actionable, relevant travel tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a good step-by-step guide, but the advice section fails to address common traveler mistakes effectively.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is too focused on transportation rather than the full airport process from arrival to boarding.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Too vague and lacks the specific, actionable step-by-step instructions required for a first-time traveler's guide.",
+      "rank": 4
+    }
+  ]
+}

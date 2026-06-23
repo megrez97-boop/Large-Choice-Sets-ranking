@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, structured step-by-step guide and actionable advice perfectly aligned with the influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Engaging tone, but the guide is too vague regarding the actual airport departure process for travelers.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is functional but lacks the professional, influencer-style formatting required for a Facebook fan page.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on arrival rather than the requested departure process, making it irrelevant for the specific task.",
+      "rank": 4
+    }
+  ]
+}

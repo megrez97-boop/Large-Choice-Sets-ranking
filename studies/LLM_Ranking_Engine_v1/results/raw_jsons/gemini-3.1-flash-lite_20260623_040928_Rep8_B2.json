@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, practical, and well-structured step-by-step guide that perfectly matches the influencer persona and context.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Includes good advice but the guide is overly generic and lacks the specific airport flow requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Too vague and lacks the specific step-by-step structure required for a first-time traveler's guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the prompt as it lists travel destinations instead of airport navigation instructions.",
+      "rank": 4
+    }
+  ]
+}

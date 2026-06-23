@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly matches the influencer persona and provides a clear, step-by-step guide with actionable, high-quality advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Good structure and tone, but lacks the professional polish and specific travel advice found in Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides useful information but lacks the engaging influencer voice and clear formatting required for a social media post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses on general pre-trip planning rather than the specific airport navigation experience requested for the Facebook post.",
+      "rank": 4
+    }
+  ]
+}

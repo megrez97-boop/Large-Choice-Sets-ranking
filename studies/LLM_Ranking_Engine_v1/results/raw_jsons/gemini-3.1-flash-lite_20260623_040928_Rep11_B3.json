@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most accurate, step-by-step departure process tailored to a tech-savvy traveler's needs.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Good advice, but lacks a clear, sequential step-by-step guide for navigating the airport terminal.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses primarily on arrival and transportation rather than the requested departure process for first-time travelers.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The instructions are overly simplistic, repetitive, and lack the professional tone expected for a travel influencer.",
+      "rank": 4
+    }
+  ]
+}

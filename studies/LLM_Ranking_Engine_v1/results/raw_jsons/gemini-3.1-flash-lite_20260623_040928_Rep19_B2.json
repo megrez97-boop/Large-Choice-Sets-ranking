@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best structure, tone, and clear separation of the guide and advice as requested by the prompt.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Good step-by-step guide, but the advice section is less professional and lacks the requested three-sentence format.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The content is written in a paragraph format rather than a concise step-by-step guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "This option is completely irrelevant as it lists travel destinations instead of airport navigation instructions.",
+      "rank": 4
+    }
+  ]
+}

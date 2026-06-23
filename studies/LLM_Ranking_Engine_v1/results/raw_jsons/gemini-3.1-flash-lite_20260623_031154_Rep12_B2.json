@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most accurate, logical step-by-step arrival process for travelers landing in Japan.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Includes helpful security and boarding advice, but confuses the arrival process with departure procedures.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too vague and lacks the specific, actionable step-by-step instructions required for a first-time traveler.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Poorly written and focuses on departure check-in rather than the arrival process requested in the prompt.",
+      "rank": 4
+    }
+  ]
+}

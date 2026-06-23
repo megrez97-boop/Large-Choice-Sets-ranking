@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most comprehensive, actionable step-by-step guide and includes the required three distinct tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Follows the structure well but lacks the detailed step-by-step process required for a first-time traveler.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a decent guide but fails to include the mandatory three-sentence advice section at the end.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Too vague and misses the required three-sentence advice section, making it less helpful for first-time travelers.",
+      "rank": 4
+    }
+  ]
+}

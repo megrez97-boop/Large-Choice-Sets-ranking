@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly matches the persona and provides a clear, structured guide and actionable advice for the specific task.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides useful information but lacks the engaging, influencer-style narrative required for a Facebook fan page post.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "This is a generic list of travel ideas that fails to address the airport navigation task entirely.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "This content is irrelevant to the prompt as it discusses general travel deals rather than airport navigation.",
+      "rank": 4
+    }
+  ]
+}

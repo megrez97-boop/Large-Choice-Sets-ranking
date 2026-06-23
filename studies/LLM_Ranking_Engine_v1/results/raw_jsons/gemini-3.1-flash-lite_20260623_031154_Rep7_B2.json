@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, logical step-by-step guide for the departure process and includes actionable, relevant advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers helpful advice for first-time travelers, though it lacks a structured, numbered step-by-step guide for navigation.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on arrival rather than departure, failing to meet the prompt's requirement for a guide to boarding.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the prompt as it discusses vacation planning rather than airport navigation procedures.",
+      "rank": 4
+    }
+  ]
+}

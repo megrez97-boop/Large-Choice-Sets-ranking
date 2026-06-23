@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most practical, step-by-step airport navigation guide tailored to the specific context of Japan.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Includes helpful logistical advice like currency exchange and connectivity, though lacks a structured step-by-step guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses only on boarding procedures rather than the arrival process required for first-time travelers in Japan.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely irrelevant as it lists general travel destinations instead of providing the requested airport guide.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, structured step-by-step guide and relevant advice specifically tailored for a major Japanese airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers helpful travel tips for Japan, but the guide focuses more on arrival/transport than the departure process requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains useful general travel advice but fails to provide the required step-by-step airport navigation guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the prompt as it lists general travel bucket list items instead of airport guidance.",
+      "rank": 4
+    }
+  ]
+}

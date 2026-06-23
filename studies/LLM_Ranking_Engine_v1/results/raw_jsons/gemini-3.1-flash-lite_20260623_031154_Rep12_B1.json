@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most structured, professional, and actionable step-by-step guide tailored for a seamless airport experience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a clear, logical flow for the departure process, though it lacks the specific cultural context of Japan.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Contains helpful local tips but is poorly written and focuses on arrival rather than the requested departure process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely irrelevant as it lists general travel activities instead of providing the required airport navigation guide.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Best structure; it provides a clear, step-by-step guide and three distinct, actionable tips as requested.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Good step-by-step format, but the final tips focus on general travel rather than airport-specific navigation.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Lacks a clear step-by-step process for navigating the airport, offering general advice instead of procedural guidance.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to provide the required three distinct bits of advice, offering only a vague concluding sentence instead.",
+      "rank": 4
+    }
+  ]
+}

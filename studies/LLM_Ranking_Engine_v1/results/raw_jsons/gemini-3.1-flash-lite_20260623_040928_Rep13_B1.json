@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most logical, step-by-step departure process and includes the requested top three bits of advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a clear, structured guide, though it focuses more on general travel tips than specific airport navigation.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains helpful practical advice for arrival, but lacks the professional tone and structure required for the guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too vague and lacks the specific, actionable steps necessary for a first-time traveler to navigate the airport.",
+      "rank": 4
+    }
+  ]
+}

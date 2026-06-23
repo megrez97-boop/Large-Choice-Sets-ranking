@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most accurate, structured, and professional step-by-step guide specifically tailored for airport departure procedures.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a decent procedural overview but lacks the specific, actionable detail and professional tone found in Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on arrival procedures rather than departure, failing to meet the prompt's requirement for a boarding guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the prompt as it discusses travel deals and destinations instead of airport navigation.",
+      "rank": 4
+    }
+  ]
+}

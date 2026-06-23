@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly matches the persona and provides a comprehensive, structured guide with actionable advice for the specific context.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Good structure and helpful tips, but focuses on arrival rather than the full departure process requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Too simplistic and lacks the professional, influencer-style tone required for the Facebook post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely irrelevant to the task as it discusses vacation planning instead of airport navigation procedures.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most comprehensive and accurate step-by-step process for international travel, including essential security and immigration details.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Excellent for arrival procedures, but lacks the departure-focused steps required for a complete guide to boarding a plane.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The guide is somewhat vague and lacks the structured, professional tone expected for a travel influencer's guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Too simplistic and misses critical steps like security documentation and immigration, making it insufficient for first-time travelers.",
+      "rank": 4
+    }
+  ]
+}

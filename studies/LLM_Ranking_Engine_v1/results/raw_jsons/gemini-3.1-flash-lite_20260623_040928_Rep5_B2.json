@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most structured, actionable step-by-step guide and clear, distinct advice for avoiding common travel mistakes.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a good, organized guide but fails to provide distinct advice in Part 2, instead repeating general tips.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains helpful practical details but is poorly written with grammatical errors and lacks a clear, professional structure.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too vague and lacks the specific, actionable steps required for a first-time traveler to navigate an airport successfully.",
+      "rank": 4
+    }
+  ]
+}

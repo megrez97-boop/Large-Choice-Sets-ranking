@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a clear, structured step-by-step guide and includes the required three bits of advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a helpful narrative guide but fails to include the required three specific bits of advice.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Irrelevant to the context of navigating a Japanese airport, focusing instead on general travel deals.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely ignores the prompt's requirement for an airport navigation guide, providing only a list of destinations.",
+      "rank": 4
+    }
+  ]
+}

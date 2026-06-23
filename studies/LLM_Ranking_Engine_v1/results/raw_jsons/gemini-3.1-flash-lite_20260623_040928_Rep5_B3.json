@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most coherent, step-by-step narrative flow suitable for a travel guide post.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers excellent practical advice for travelers, though it lacks the required step-by-step airport navigation guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Includes a basic list format but is too simplistic and lacks professional depth for an influencer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Completely irrelevant to the task of providing an airport navigation guide for Japan.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most practical, actionable advice for navigating Japanese airports and essential local travel tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a very clear, structured step-by-step guide, though it focuses more on general travel than Japan-specific nuances.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The guide is easy to follow but lacks specific cultural or technological context relevant to Japan.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Lacks a cohesive step-by-step process for navigating the airport, making it less useful as a guide.",
+      "rank": 4
+    }
+  ]
+}

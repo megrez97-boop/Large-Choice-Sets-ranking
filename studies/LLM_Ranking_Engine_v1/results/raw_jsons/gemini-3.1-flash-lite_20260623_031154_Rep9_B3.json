@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most accurate, logical, and actionable step-by-step guide specifically tailored for airport arrival procedures.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers helpful general advice but lacks the specific, structured procedural steps required for navigating an airport.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on check-in and security rather than the arrival process, and contains some confusing procedural instructions.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the prompt as it discusses vacation planning rather than airport navigation procedures.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, logical step-by-step arrival guide that perfectly matches the requested influencer persona and context.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers helpful practical advice, but the guide is less structured and concise than Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on departure rather than the arrival process requested, making it less relevant for the specific prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the prompt as it discusses the Dominican Republic instead of Japanese airport procedures.",
+      "rank": 4
+    }
+  ]
+}

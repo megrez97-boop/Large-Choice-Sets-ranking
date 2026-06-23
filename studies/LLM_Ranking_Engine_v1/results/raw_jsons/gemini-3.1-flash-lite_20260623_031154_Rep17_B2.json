@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most accurate, structured, and professional step-by-step guide for arriving travelers in Japan.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers helpful practical tips but lacks the professional structure and clarity found in Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on departure procedures rather than the arrival process requested in the context.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Confuses arrival procedures with departure check-in processes, making it unsuitable for the requested guide.",
+      "rank": 4
+    }
+  ]
+}

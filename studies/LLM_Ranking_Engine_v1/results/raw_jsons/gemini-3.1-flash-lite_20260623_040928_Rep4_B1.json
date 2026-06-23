@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most accurate, logical, and comprehensive step-by-step process for arriving in Japan.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Helpful tone and practical tips, but the instructions are slightly disorganized compared to Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Too vague and focuses on boarding rather than the arrival process required by the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to address the arrival process in Japan, focusing only on general boarding procedures.",
+      "rank": 4
+    }
+  ]
+}

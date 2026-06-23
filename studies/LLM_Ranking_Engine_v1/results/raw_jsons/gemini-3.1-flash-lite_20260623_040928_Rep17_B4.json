@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most accurate, logical, and actionable step-by-step guide specifically tailored for navigating a major airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers helpful travel tips, but the steps focus more on pre-airport preparation than actual airport navigation.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The instructions are too vague and lack the professional detail required for a first-time traveler's guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely irrelevant as it lists general travel activities instead of providing the requested airport navigation guide.",
+      "rank": 4
+    }
+  ]
+}

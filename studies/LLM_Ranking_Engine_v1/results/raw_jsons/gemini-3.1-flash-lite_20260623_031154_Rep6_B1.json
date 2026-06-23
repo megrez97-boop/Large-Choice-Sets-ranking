@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most practical, tech-savvy advice suitable for a remote worker influencer while covering all necessary steps.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Engaging tone, but lacks the specific, actionable step-by-step process required for a first-time traveler guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is functional but lacks the professional, influencer-style polish and clarity needed for a Facebook post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The steps are poorly ordered and the advice is too simplistic, failing to meet the professional quality standard.",
+      "rank": 4
+    }
+  ]
+}

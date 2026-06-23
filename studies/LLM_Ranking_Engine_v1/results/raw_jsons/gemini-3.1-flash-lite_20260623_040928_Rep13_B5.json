@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Perfectly captures the influencer persona while providing a clear, actionable guide and highly relevant, practical travel tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Strong structure and helpful tips, though the guide section is slightly less descriptive than Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good content, but the tone is more instructional and lacks the engaging influencer personality requested in the context.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Weakest option as it lacks a clear step-by-step format and fails to address the specific Japanese airport context.",
+      "rank": 4
+    }
+  ]
+}

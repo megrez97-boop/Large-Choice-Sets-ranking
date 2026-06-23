@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, structured, and professional guide that perfectly matches the influencer persona and airport context.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a helpful narrative guide, though it lacks the concise, step-by-step formatting of the top option.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on arrival procedures rather than the departure process requested for the Facebook post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Completely irrelevant to the airport navigation task as it lists global travel bucket list items.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best alignment with the influencer persona, including tech-forward tips and a clear, structured step-by-step guide.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a very practical and clear step-by-step guide, though it lacks the influencer's personal tone.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Helpful advice, but the guide is too brief and focuses more on transportation than the airport process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Weakest structure; it lacks a clear step-by-step format and fails to address the boarding process entirely.",
+      "rank": 4
+    }
+  ]
+}

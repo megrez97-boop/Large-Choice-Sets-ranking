@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly follows the requested structure, tone, and content requirements for a professional travel influencer's guide.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides useful information but lacks the clear, step-by-step formatting requested for the Facebook post.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on boarding rather than the arrival process, failing to address the specific context of navigating Japanese airports.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely irrelevant as it lists general travel activities instead of providing an airport navigation guide.",
+      "rank": 4
+    }
+  ]
+}

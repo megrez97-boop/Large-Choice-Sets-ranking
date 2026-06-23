@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, logical step-by-step process and includes the required three specific tips for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a helpful narrative guide but lacks the distinct, structured three-tip section requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on general departure procedures rather than the specific arrival process in Japan requested by the context.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the prompt as it discusses travel deals in the Dominican Republic instead of Japan.",
+      "rank": 4
+    }
+  ]
+}

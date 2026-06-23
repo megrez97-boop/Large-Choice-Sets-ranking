@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most accurate, logical step-by-step departure guide and relevant advice for airport navigation.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a helpful, friendly tone for arrivals but lacks the structured departure guide requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on general travel tips rather than the specific airport departure process requested by the user.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to provide a step-by-step guide, offering only vague general advice instead of actionable airport instructions.",
+      "rank": 4
+    }
+  ]
+}

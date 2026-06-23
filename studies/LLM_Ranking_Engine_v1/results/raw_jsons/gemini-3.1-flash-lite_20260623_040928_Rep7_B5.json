@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "This is the only option that successfully addresses both parts of the prompt with relevant, actionable advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides useful preparation tips but fails to include the required step-by-step guide for navigating the airport.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a basic guide but lacks the professional tone and specific context required for a Japanese airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "This content is completely irrelevant to the task of navigating a Japanese airport.",
+      "rank": 4
+    }
+  ]
+}

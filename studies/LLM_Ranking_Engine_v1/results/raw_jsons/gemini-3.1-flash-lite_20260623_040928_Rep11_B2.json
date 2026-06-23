@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, concise, and accurate step-by-step guide specifically tailored to the Japanese airport arrival process.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Includes helpful practical tips like identifying icons, but contains some inaccuracies regarding immigration and customs procedures.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers general travel advice but fails to address the specific context of navigating a major Japanese airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the prompt as it discusses vacation packages in the Dominican Republic instead of airports.",
+      "rank": 4
+    }
+  ]
+}

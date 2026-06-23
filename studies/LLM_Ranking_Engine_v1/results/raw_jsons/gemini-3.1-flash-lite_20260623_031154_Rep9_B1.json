@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most accurate, logical, and professional step-by-step flow for an international departure process.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a helpful and clear narrative, though it lacks the structured clarity of Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The steps are overly simplistic and miss critical airport procedures like check-in and security details.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Describes arrival procedures rather than the requested departure process, making it irrelevant for the prompt.",
+      "rank": 4
+    }
+  ]
+}

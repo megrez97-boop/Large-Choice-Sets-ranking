@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly aligns with the persona, provides a clear step-by-step guide, and includes the required advice format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides practical, detailed navigation steps for Japan, though it lacks the requested top three advice section.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes both required sections but the guide is too vague to be a truly helpful step-by-step process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to provide the required step-by-step guide for navigating the airport and focuses only on general mistakes.",
+      "rank": 4
+    }
+  ]
+}

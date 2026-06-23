@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most structured, clear, and actionable step-by-step guide for navigating the airport process effectively.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers helpful cultural context and practical advice, though the step-by-step guide is less detailed than Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival procedures rather than the departure process requested for a traveler boarding their plane.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The instructions are vague and lack the professional, concise formatting expected for a social media guide.",
+      "rank": 4
+    }
+  ]
+}

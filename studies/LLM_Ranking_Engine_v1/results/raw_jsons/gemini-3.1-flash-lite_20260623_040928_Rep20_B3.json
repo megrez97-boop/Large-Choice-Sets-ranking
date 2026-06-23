@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly captures the influencer persona and provides a comprehensive, structured guide that meets all length requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Good advice, but lacks the detailed step-by-step process required for a first-time traveler navigating the airport.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses only on mistakes and lacks the required step-by-step guide for navigating the airport experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is poorly written, lacks professional tone, and fails to address the specific context of Japan.",
+      "rank": 4
+    }
+  ]
+}

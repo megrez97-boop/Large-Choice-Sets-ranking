@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most structured, actionable step-by-step guide and clear advice, perfectly matching the influencer persona requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a good narrative flow but lacks the specific, concise step-by-step structure requested for the guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses only on advice and fails to provide the required step-by-step airport navigation guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely irrelevant as it lists travel destinations instead of providing an airport navigation guide.",
+      "rank": 4
+    }
+  ]
+}

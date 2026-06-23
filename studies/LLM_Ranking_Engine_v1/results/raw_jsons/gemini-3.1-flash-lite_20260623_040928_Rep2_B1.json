@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly captures the influencer persona while providing a clear, structured guide and actionable advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides excellent practical tips, though it lacks the specific influencer tone requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a decent narrative guide but lacks the professional formatting and concise structure of the top options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The instructions are overly simplistic and lack the necessary detail for a first-time traveler in Japan.",
+      "rank": 4
+    }
+  ]
+}

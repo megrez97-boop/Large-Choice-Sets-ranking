@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly aligns with the persona and provides the requested step-by-step guide and advice format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides useful practical advice for Japan but lacks the specific step-by-step departure guide requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers good general travel tips but fails to provide the required step-by-step airport navigation guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Completely irrelevant to the context of navigating a Japanese airport for a remote worker.",
+      "rank": 4
+    }
+  ]
+}

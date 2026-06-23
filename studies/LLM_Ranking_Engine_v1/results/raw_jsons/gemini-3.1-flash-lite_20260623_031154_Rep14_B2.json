@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, logical, and professional step-by-step guide specifically tailored for airport departure procedures.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a decent guide but lacks the structured formatting and specific advice section required by the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on arrival procedures rather than the departure process requested for the Facebook post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Completely irrelevant to the task as it discusses vacation planning instead of airport navigation.",
+      "rank": 4
+    }
+  ]
+}

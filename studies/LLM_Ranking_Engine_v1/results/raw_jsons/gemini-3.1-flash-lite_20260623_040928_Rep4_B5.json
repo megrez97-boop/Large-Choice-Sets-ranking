@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Perfectly matches the persona and provides a clear, structured guide for both arrival and departure processes.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a helpful list of steps but lacks the specific departure-focused guidance requested for the full experience.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is vague and lacks the professional, tech-savvy tone expected from the influencer persona.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to provide the required step-by-step guide for navigating the airport from arrival to boarding.",
+      "rank": 4
+    }
+  ]
+}

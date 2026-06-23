@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly matches the persona and provides a clear, structured guide with actionable advice for the specific context.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a logical step-by-step guide, though it lacks the engaging influencer tone found in Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is too brief and lacks the professional structure required for a comprehensive airport navigation post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "This content is completely irrelevant to the task as it lists travel destinations instead of airport procedures.",
+      "rank": 4
+    }
+  ]
+}

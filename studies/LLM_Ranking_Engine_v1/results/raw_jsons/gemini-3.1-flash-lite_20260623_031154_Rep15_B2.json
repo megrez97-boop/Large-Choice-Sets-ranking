@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, actionable, and professional step-by-step guide tailored for a modern tech-savvy traveler.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Clear and logical, but focuses on arrival procedures rather than the departure process requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Lacks a structured step-by-step guide for the airport process, offering only general advice instead.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The writing is informal, repetitive, and lacks the professional polish expected from a prominent influencer.",
+      "rank": 4
+    }
+  ]
+}

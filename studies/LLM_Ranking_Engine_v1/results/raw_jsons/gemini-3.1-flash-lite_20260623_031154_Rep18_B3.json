@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best alignment with the persona, providing clear instructions and specific, actionable advice for first-time travelers in Japan.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a logical step-by-step flow for arrival, though it lacks the professional tone of the top option.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too much filler text and lacks the specific, concise step-by-step structure required for a helpful travel guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on departure procedures rather than the arrival process requested in the prompt, making it less relevant.",
+      "rank": 4
+    }
+  ]
+}

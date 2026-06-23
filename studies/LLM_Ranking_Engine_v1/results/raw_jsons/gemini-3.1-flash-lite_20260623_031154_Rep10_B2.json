@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best tone for an influencer and provides practical, specific navigation tips like the immigration icon and exit route.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good logical flow for arrival procedures, though it lacks the engaging influencer persona found in Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on departure rather than arrival, making it less relevant for a guide on navigating airport entry.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Poorly structured and lacks the necessary context for international arrival procedures in Japan.",
+      "rank": 4
+    }
+  ]
+}

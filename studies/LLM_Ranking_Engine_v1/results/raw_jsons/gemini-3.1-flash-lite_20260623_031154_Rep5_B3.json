@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most accurate, structured, and actionable step-by-step guide specifically tailored for airport navigation.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a decent narrative guide but lacks the professional clarity and structured formatting of Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Too vague and lacks the specific procedural steps required for a traveler to navigate an airport successfully.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant as it lists travel destinations instead of providing the requested airport navigation guide.",
+      "rank": 4
+    }
+  ]
+}

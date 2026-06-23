@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, concise guide and includes the required three pieces of advice in the requested format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a structured guide but fails to provide the three specific pieces of advice as requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains confusing instructions and lacks the required structure for the advice section.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the task as it lists travel destinations instead of airport navigation instructions.",
+      "rank": 4
+    }
+  ]
+}

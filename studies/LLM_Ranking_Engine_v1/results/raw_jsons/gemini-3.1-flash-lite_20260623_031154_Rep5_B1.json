@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best structure, clearly separating the guide and the three specific tips as requested by the prompt.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides helpful, practical navigation details like signage icons, though it lacks the requested three-sentence tip section.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes the required sections but the advice is repetitive and lacks the professional influencer tone requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on departure/check-in rather than the arrival process, failing to address the prompt's specific context.",
+      "rank": 4
+    }
+  ]
+}

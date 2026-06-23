@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a clear, structured step-by-step guide and relevant, actionable advice for navigating Japanese airports.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers helpful general advice but lacks the specific, actionable step-by-step process required for airport navigation.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on arrival procedures rather than the departure process requested for navigating to the boarding gate.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Completely irrelevant to the prompt as it discusses vacation planning in the Dominican Republic instead of airports.",
+      "rank": 4
+    }
+  ]
+}

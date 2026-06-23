@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most structured, clear, and actionable step-by-step guide for navigating an airport efficiently.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a helpful, conversational tone suitable for an influencer, though it lacks the clarity of a numbered list.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses only on advice and misses the required step-by-step guide for navigating the airport process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Describes arrival procedures rather than the departure process required by the prompt, making it irrelevant.",
+      "rank": 4
+    }
+  ]
+}
