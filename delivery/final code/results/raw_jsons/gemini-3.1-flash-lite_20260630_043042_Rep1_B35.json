@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best narrative flow and creative use of immersive technology like VR and holograms fitting the futuristic theme.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Strong focus on the remote work lifestyle, though the narrative is slightly less descriptive than Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Functional and efficient, but the narrative feels more like a list of features than an engaging story.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Weakest narrative; it reads like a generic review rather than a creative story about a futuristic experience.",
+      "rank": 4
+    }
+  ]
+}

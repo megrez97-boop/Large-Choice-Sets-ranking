@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Strongest narrative focus on futuristic, personalized technology like travel buddies and autonomous shuttles for a seamless experience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Captures the futuristic vibe well, though it lacks the cohesive narrative structure found in Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Practical and useful, but focuses on existing capsule hotel technology rather than truly innovative, futuristic airport concepts.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Describes standard, current-day airport procedures rather than the requested futuristic, high-tech experience for 2050.",
+      "rank": 4
+    }
+  ]
+}

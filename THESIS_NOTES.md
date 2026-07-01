@@ -1,4 +1,11 @@
 
+- **2026-06-30**: Finalized `Integrated_Evaluation_Pipeline.R` as a standalone delivery package. Enforced modular architecture (`modules/` vs `scripts/`) to maintain strict code boundaries and academic integrity. Scaled experiment to full dataset (`r=20`, 800 blocks). Developed Smart Resume (`.rds` checkpointing) and robust `curl` timeout handlers to overcome Google Gemini API daily quota limits (500/day) and network instability.
+  - **Code Boundaries**: Third-party algorithms not distributed via CRAN (e.g., RBO script) MUST be stored physically in the `modules/` folder to clearly distinguish them from original thesis contributions. Standard CRAN packages are loaded via `library()` and naturally preserve code boundaries.
+  - **Mandatory Methodology Citations**:
+    - *PlackettLuce* (Turner et al., 2020): Core mathematical model for global ranking aggregation.
+    - *FielDHub*: Used for Alpha Lattice experimental design generation.
+    - *BradleyTerry2* (Turner & Firth, 2012): Used for k=2 baseline simulations.
+    - *Rank-Biased Overlap* (Corsi & Urbano, 2024): Tie-handling RBO implementation.
 - **2026-06-23**: Reviewed StackOverflow discussions ("How to compare ranked lists") comparing Rank-Biased Overlap (RBO) and Kendall's Tau. Confirmed that traditional Kendall's Tau fails to distinguish between top-rank errors and bottom-rank errors (e.g., swapping ranks 1,2 vs 4,5 yields identical Tau penalties). 
   - **Methodological Note (RBO vs Weighted Tau)**: While Weighted Tau can penalize top-rank errors, it requires arbitrary weight definitions and strict conjointness (lists must have the same length and identical elements), making it highly vulnerable to LLM hallucinations or dropped items. In contrast, RBO natively supports non-conjoint lists and uses a rigorous probabilistic parameter (`p`) to dictate top-heaviness (representing user persistence). This reinforces the theoretical justification for using RBO in top-heavy LLM ranking evaluations.
 - **2026-06-20**: Integrated Rank-Biased Overlap (RBO) with Tie-handling support from Corsi & Urbano (2024). Repository cloned to `sigir2024-rbo` folder. To use in R, source the script directly: `source("sigir2024-rbo/rbo/rbo.R")`.

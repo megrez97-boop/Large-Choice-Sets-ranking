@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Best balance of futuristic vision, sustainability, and technological integration, perfectly aligning with the 2050 theme.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong focus on operational efficiency and high-tech infrastructure, though it lacks the creative flair of Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Good focus on traveler comfort and cultural immersion, but feels more like a modern mall than a futuristic airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too focused on basic capsule hotels, failing to capture the innovative, high-tech spirit required for a 2050 airport.",
+      "rank": 4
+    }
+  ]
+}

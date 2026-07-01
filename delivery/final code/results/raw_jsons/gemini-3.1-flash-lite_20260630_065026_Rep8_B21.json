@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Most creative and futuristic; it perfectly captures the innovative, high-tech, and personalized experience requested for 2050.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong focus on practical futuristic utility like robot luggage delivery and UV cleaning, though less imaginative than Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a solid, organized vision of efficiency, but relies on current-day technology rather than truly futuristic concepts.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Fails to meet the futuristic 2050 criteria, focusing instead on generic, existing airport improvements and confusingly mentions Kyoto.",
+      "rank": 4
+    }
+  ]
+}

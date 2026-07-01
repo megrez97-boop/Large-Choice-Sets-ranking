@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Perfectly captures the influencer persona with a focus on remote work, efficiency, and high-tech amenities.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Strong narrative and creative use of VR, though slightly less focused on the professional remote work aspect.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Lacks a cohesive narrative story and fails to provide the requested marketing slogans in a clear format.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Missing the required marketing slogans entirely and the narrative feels more functional than futuristic or inspiring.",
+      "rank": 4
+    }
+  ]
+}

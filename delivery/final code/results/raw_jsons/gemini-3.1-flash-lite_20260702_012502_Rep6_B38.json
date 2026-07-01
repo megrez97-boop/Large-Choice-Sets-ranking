@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Captures the futuristic, innovative, and high-tech aesthetic perfectly with creative, immersive descriptions of 2050 technology.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a strong visual narrative of the airport's integration with nature and AI, though lacks marketing slogans.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses too much on current-day efficiency improvements rather than the requested futuristic, high-tech, and innovative experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The narrative is too generic and lacks the descriptive flair and creative vision required for a 2050 airport.",
+      "rank": 4
+    }
+  ]
+}

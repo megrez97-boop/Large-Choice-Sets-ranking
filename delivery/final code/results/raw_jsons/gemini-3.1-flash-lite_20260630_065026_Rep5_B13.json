@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Captures the futuristic, imaginative, and high-tech aesthetic perfectly, aligning best with the influencer persona and design goals.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a creative, high-speed narrative, though it lacks the polished professional tone of the top-ranked option.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Functional and clear, but relies too heavily on current-day technology rather than truly futuristic 2050 innovation.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Feels like a minor upgrade to current airports rather than a visionary, high-tech experience for the year 2050.",
+      "rank": 4
+    }
+  ]
+}

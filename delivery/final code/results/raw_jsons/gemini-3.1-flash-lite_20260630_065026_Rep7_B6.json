@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Best narrative flow; it vividly captures the futuristic, high-tech, and serene atmosphere requested by the prompt.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong alignment with the persona, though the story is slightly less immersive than Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good focus on personalization, but lacks the creative, high-tech flair expected for a 2050 vision.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Weakest narrative; it reads like a generic business case study rather than a futuristic travel experience.",
+      "rank": 4
+    }
+  ]
+}

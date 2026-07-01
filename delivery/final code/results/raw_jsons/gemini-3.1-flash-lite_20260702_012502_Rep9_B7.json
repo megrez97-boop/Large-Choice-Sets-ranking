@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly follows all instructions, providing a creative story and three catchy slogans in the requested format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Strong narrative focus on user experience, but failed to provide the required three marketing slogans.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Lacks a cohesive futuristic story and focuses more on current operational complaints than innovative 2050 concepts.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a list of features rather than the requested narrative story and lacks marketing slogans entirely.",
+      "rank": 4
+    }
+  ]
+}

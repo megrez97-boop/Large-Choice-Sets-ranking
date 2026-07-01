@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Best narrative flow and creative vision; perfectly captures the futuristic 2050 aesthetic with compelling, professional marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Strong focus on operational efficiency and high-tech convenience, though the slogans are generic and lack creative flair.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Good inclusion of modern tech, but the narrative feels slightly disjointed and relies too heavily on current-day airport structures.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Weakest narrative style; the tone is overly informal and lacks the sophisticated, innovative vision required for a 2050 airport.",
+      "rank": 4
+    }
+  ]
+}

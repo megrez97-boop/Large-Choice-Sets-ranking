@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Best alignment with the prompt, providing a cohesive story and three catchy slogans within the word count.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong creative vision, but failed to meet the specific word count requirement for the story section.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Good narrative flow, but completely omitted the required Part 2 marketing slogans.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Weakest entry; it lacks a proper story structure and incorrectly references 2025 instead of the 2050 target.",
+      "rank": 4
+    }
+  ]
+}

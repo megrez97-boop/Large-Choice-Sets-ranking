@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly captures the 2050 futuristic vision with creative, immersive technology and strong, catchy marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Highly functional and realistic, though it lacks the imaginative flair and creative storytelling of the top option.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers unique, personalized bot concepts but fails to provide the required three marketing slogans.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on historical themes rather than the requested futuristic, high-tech airport experience for 2050.",
+      "rank": 4
+    }
+  ]
+}

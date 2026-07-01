@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most comprehensive, professional narrative and aligns perfectly with the 2050 futuristic theme and requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Excellent narrative flow and strong marketing slogans, though slightly less detailed regarding infrastructure than Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Lacks a cohesive story structure and relies on fragmented ideas rather than a professional, immersive experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to provide specific futuristic technological details or the required marketing slogans, making it the weakest entry.",
+      "rank": 4
+    }
+  ]
+}

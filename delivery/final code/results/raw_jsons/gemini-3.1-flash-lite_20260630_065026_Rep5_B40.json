@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most comprehensive and realistic vision of a high-tech, efficient, and seamless airport experience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Highly creative and futuristic, though the teleportation concept feels more like science fiction than airport design.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Functional and clear, but lacks the innovative flair and immersive detail expected for a 2050 design.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on hotels and cityscapes rather than the airport experience, failing to address the core prompt requirements.",
+      "rank": 4
+    }
+  ]
+}

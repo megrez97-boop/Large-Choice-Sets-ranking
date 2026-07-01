@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly follows all instructions, providing a cohesive story and professional slogans that capture the futuristic vision.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Excellent narrative quality and creative use of technology, though the slogans are slightly less unique than Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a solid overview but feels more like a generic marketing brochure than a personal traveler's story.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The inclusion of a $1000 gift card is unrealistic and detracts from the professional tone of the evaluation.",
+      "rank": 4
+    }
+  ]
+}

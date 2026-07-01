@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best alignment with the 2050 futuristic prompt, featuring creative concepts like teleportation and anti-gravity chambers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Strong thematic blend of Japanese tradition and futuristic AI, though less imaginative than Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Good focus on practical futuristic tech, but feels more like a standard marketing brochure than a story.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Lacks futuristic vision; describes current airport improvements rather than a 2050 high-tech experience.",
+      "rank": 4
+    }
+  ]
+}

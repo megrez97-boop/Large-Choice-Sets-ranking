@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly aligns with the prompt by providing a creative story and three catchy slogans for the airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Includes a creative futuristic vision, but the marketing slogans are insufficient and the tone is overly sales-oriented.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides personal background but fails to address the specific task of designing a futuristic airport experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely irrelevant to the prompt, focusing on generic vacation planning rather than futuristic airport design.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best integration of futuristic tech like hyperloops and AR, perfectly aligning with the influencer's tech-forward persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong immersive storytelling with the glass dome concept, though slightly less focused on digital innovation than Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Relatable narrative, but the futuristic elements feel more like incremental improvements rather than a truly high-tech 2050 vision.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Lacks a cohesive narrative story and relies on features that feel more like current-day upgrades than futuristic innovation.",
+      "rank": 4
+    }
+  ]
+}

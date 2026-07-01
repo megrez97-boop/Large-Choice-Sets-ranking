@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Offers the most innovative, immersive, and personalized vision that truly captures a futuristic 2050 experience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a highly practical, seamless, and user-centric workflow that feels like a realistic evolution of current technology.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses well on automation and stress reduction, though it lacks the creative flair of the top options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Relies on outdated concepts like kiosks and printed tickets, failing to feel like a futuristic 2050 airport.",
+      "rank": 4
+    }
+  ]
+}

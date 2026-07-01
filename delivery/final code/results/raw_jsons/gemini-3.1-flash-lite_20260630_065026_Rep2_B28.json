@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best alignment with the influencer persona, focusing on remote work, efficiency, and high-tech amenities.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Strong, professional narrative that clearly addresses both parts of the prompt with creative, futuristic concepts.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Covers the requirements but lacks the creative flair and specific marketing slogans requested in the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Weakest narrative quality; lacks depth and fails to properly format the requested marketing slogans.",
+      "rank": 4
+    }
+  ]
+}

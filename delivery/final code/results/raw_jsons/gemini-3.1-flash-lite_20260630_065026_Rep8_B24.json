@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Best balance of creative vision, professional tone, and includes the required marketing slogans in the correct format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong creative narrative, but lacks the required marketing slogans, making it less complete than Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Includes all components, but the slogans are generic and lack the futuristic, innovative flair requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to meet the prompt requirements as it lacks a cohesive story structure and marketing slogans.",
+      "rank": 4
+    }
+  ]
+}

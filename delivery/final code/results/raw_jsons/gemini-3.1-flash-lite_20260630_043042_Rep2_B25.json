@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Offers the most innovative, immersive, and futuristic concept that aligns perfectly with a high-tech travel influencer's vision.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a fun, amenity-rich experience, though it feels more like a modern mall than a truly futuristic airport.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on practical efficiency and sustainability, but lacks the creative, imaginative flair requested for a 2050 vision.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses too heavily on basic logistics and standard amenities, failing to capture the futuristic, high-tech spirit required.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly captures the futuristic, seamless, and tech-integrated experience requested for the 2050 Tokyo airport scenario.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Good narrative flow, but lacks the depth of technological integration and personalization found in Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too generic and analytical; it reads like a business report rather than the requested creative story.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Describes current, outdated airport procedures rather than the requested futuristic, innovative 2050 experience.",
+      "rank": 4
+    }
+  ]
+}

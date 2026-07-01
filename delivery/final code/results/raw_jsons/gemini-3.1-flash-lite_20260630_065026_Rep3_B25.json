@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Perfectly captures the futuristic, high-tech, and stress-free vision requested by the influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides creative, specific futuristic features like UV cleaning and robot escorts, though lacks a cohesive narrative.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses too much on comparing to American airports rather than creating a visionary, futuristic narrative.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to provide the requested story and slogans, acting more like a generic research outline.",
+      "rank": 4
+    }
+  ]
+}

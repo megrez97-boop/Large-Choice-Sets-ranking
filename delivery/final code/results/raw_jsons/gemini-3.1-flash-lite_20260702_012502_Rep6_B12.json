@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, immersive narrative that perfectly aligns with the futuristic, high-tech persona requested.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Excellent focus on seamless, high-tech efficiency, though slightly less narrative-driven than Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers creative leisure ideas but lacks the cohesive, professional futuristic vision of the top two options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses on outdated capsule hotel concepts rather than the cutting-edge, innovative experience required for 2050.",
+      "rank": 4
+    }
+  ]
+}

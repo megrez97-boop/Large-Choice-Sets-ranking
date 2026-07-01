@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly follows all instructions, providing a creative story and three catchy, relevant marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Strong futuristic vision with innovative concepts like Neuralink, but failed to provide the required marketing slogans.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Includes a basic story, but lacks the requested marketing slogans and contains several grammatical errors.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely ignores the prompt's requirement to write a story about a futuristic airport experience.",
+      "rank": 4
+    }
+  ]
+}

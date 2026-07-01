@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best alignment with the influencer persona, focusing on high-tech innovation, social media appeal, and futuristic efficiency.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong professional tone and relevant tech features, though slightly less immersive and creative than Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good focus on atmosphere, but relies on manual labor rather than the requested cutting-edge futuristic technology.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to meet the futuristic 2050 brief, reading more like a generic description of a current airport.",
+      "rank": 4
+    }
+  ]
+}

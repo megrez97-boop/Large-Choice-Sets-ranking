@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Perfectly captures the futuristic, high-tech, and immersive vision requested by the persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Good focus on comfort and aesthetics, though less detailed on specific futuristic technology than Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too generic and repetitive; lacks the creative, futuristic storytelling required for a 2050 vision.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Describes standard, current-day airport procedures rather than a futuristic, innovative experience.",
+      "rank": 4
+    }
+  ]
+}

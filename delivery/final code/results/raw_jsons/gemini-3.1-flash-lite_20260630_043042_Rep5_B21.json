@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Captures the futuristic, high-tech spirit of 2050 with flying cars and robotics better than any other option.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a creative, passenger-centric experience with diverse entertainment zones, though it lacks a truly futuristic technological edge.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses on efficiency and convenience, but the proposed technology feels more like an incremental improvement than a 2050 vision.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Describes standard, current-day airport procedures rather than a futuristic or innovative experience as requested.",
+      "rank": 4
+    }
+  ]
+}

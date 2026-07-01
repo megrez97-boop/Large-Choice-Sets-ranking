@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best integration of futuristic tech like hyperloops and AR, perfectly aligning with the requested innovative Tokyo 2050 vision.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Strong creative imagery with the glass dome and robots, though the slogans are slightly generic compared to others.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good narrative flow, but the technology described feels more like a minor upgrade than a futuristic 2050 experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Lacks the required marketing slogans and the narrative is too functional, missing the futuristic wonder requested.",
+      "rank": 4
+    }
+  ]
+}

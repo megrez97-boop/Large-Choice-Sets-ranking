@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best alignment with the 2050 futuristic theme, incorporating sustainable tech, VR, and seamless biometric automation.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Highly creative concept of aerial capsules, though it focuses more on city transit than airport terminal experience.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a solid narrative, but the conveyer belt concept feels less innovative than the other futuristic proposals.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too grounded in current technology; lacks the visionary, high-tech flair expected for a 2050 design project.",
+      "rank": 4
+    }
+  ]
+}

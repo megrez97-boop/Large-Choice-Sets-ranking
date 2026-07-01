@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Perfectly aligns with the 2050 futuristic theme, incorporating advanced tech like VR, biometrics, and autonomous transit.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a strong, detailed user experience, though it focuses on existing tech rather than a 2050 vision.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a functional vision of convenience, but lacks the creative, high-tech flair requested for a 2050 airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the prompt as it discusses Iceland travel tips instead of a futuristic airport design.",
+      "rank": 4
+    }
+  ]
+}
