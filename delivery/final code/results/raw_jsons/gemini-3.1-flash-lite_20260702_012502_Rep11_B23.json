@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Comprehensive, visionary, and perfectly captures the futuristic, high-tech, and sustainable essence requested for the 2050 Tokyo airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Strong narrative flow and creative imagery, though slightly less detailed regarding infrastructure than Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good focus on technology, but the narrative is less immersive and descriptive than the top two options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to meet the futuristic 2050 criteria, focusing instead on generic modern airport features and mentioning Kyoto.",
+      "rank": 4
+    }
+  ]
+}

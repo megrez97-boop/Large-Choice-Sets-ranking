@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Perfectly captures the futuristic, high-tech, and innovative vision requested for a 2050 airport experience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a practical, tech-forward approach to passenger flow, though less imaginative than Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on comfort and utility but lacks the cutting-edge, futuristic innovation required by the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Describes current, outdated airport procedures rather than a futuristic, innovative experience for 2050.",
+      "rank": 4
+    }
+  ]
+}

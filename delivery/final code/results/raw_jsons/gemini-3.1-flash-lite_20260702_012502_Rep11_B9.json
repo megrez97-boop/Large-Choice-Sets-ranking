@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Perfectly captures the futuristic, high-tech, and stress-free vision requested by the influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a highly creative and innovative concept, though it lacks the comprehensive airport experience story.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Beautifully written and atmospheric, but focuses more on aesthetics than the requested high-tech futuristic functionality.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The narrative is somewhat unsettling and lacks the aspirational, innovative tone required for a futuristic airport.",
+      "rank": 4
+    }
+  ]
+}
