@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, structured, and clear step-by-step guide suitable for a first-time traveler's Facebook post.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a solid, logical flow for the boarding process but lacks the specific context of international Japanese travel.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too vague and relies heavily on general advice rather than providing a concrete, actionable step-by-step airport process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses primarily on arrival logistics rather than the required departure guide for travelers leaving the airport.",
+      "rank": 4
+    }
+  ]
+}

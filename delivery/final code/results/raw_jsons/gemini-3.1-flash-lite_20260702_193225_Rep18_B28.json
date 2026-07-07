@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Captures the futuristic Tokyo 2050 theme perfectly with creative, immersive, and highly descriptive technological concepts.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Strong narrative flow and creative use of futuristic tech, though slightly less detailed than Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on functional efficiency but lacks the imaginative, visionary flair required for a 2050 futuristic airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to meet the prompt's requirement for a futuristic 2050 experience, reading like a generic airport description.",
+      "rank": 4
+    }
+  ]
+}

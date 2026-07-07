@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most accurate, professional, and logical step-by-step process for navigating a Japanese airport efficiently.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Good tone for an influencer, but includes unnecessary filler and slightly inaccurate procedural steps regarding immigration.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Too vague and lacks the specific, actionable step-by-step instructions required for a first-time traveler's guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Poorly structured and contains confusing, non-standard advice like checking luggage after security.",
+      "rank": 4
+    }
+  ]
+}

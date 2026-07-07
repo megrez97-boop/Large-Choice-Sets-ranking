@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, professional, and logical step-by-step guide suitable for a travel influencer's audience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a clear, concise list of steps, though it lacks the detailed procedural flow found in Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Contains accurate information but suffers from poor grammar and lacks the professional tone required for a guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely irrelevant to the task as it proposes impractical transportation concepts instead of providing airport navigation instructions.",
+      "rank": 4
+    }
+  ]
+}

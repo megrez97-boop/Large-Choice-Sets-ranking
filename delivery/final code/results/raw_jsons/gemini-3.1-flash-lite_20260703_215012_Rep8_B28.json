@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most professional, structured, and culturally relevant guide for navigating Japanese airports specifically.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers practical, influencer-style advice, though it lacks the specific focus on Japanese airport procedures.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is functional but lacks the engaging tone and specific tips expected from a travel influencer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains aggressive formatting and irrelevant security warnings that do not serve as a helpful airport navigation guide.",
+      "rank": 4
+    }
+  ]
+}

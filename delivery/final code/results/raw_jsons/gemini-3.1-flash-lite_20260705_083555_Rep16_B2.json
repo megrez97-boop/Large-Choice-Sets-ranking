@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most actionable, step-by-step guide tailored to the influencer persona and the specific prompt requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a clear, logical flow for the airport process, though it lacks the engaging tone of Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Contains useful information but fails to provide the requested step-by-step navigation guide for the airport experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the prompt as it discusses general travel philosophy rather than airport navigation procedures.",
+      "rank": 4
+    }
+  ]
+}

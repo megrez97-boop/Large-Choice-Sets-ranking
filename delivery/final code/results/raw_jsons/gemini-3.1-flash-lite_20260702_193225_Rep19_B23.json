@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best narrative flow, perfectly capturing the futuristic Tokyo 2050 vision with immersive, high-tech, and serene elements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Strong focus on personalized holographic technology and immersive environments, though slightly less professional in tone than Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes practical futuristic ideas like AI robots, but the narrative feels more like a standard airport experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Lacks a creative narrative story and reads more like a generic proposal than an engaging traveler experience.",
+      "rank": 4
+    }
+  ]
+}

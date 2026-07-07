@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Perfectly aligns with the futuristic, high-tech Tokyo 2050 theme requested by the design team.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Creative immersive terminal concepts, though it lacks the specific high-tech focus requested for 2050.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides practical travel advice but is completely irrelevant to the futuristic airport design prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Contains poor grammar and generic marketing fluff that fails to address the specific airport context.",
+      "rank": 4
+    }
+  ]
+}

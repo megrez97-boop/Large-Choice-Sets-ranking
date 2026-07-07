@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most comprehensive and practical advice for modern travelers, including useful technology tips like airport apps.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers clear, professional advice, though it lacks the specific focus on the Japanese airport context requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses well on the Japanese arrival process but fails to provide the required two-part structure for the post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The instructions are overly simplistic, disorganized, and miss the critical pre-flight steps like check-in and security.",
+      "rank": 4
+    }
+  ]
+}

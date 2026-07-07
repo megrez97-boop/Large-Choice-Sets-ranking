@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, actionable, and well-structured step-by-step guide that perfectly matches the influencer persona and requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Includes a good guide and tips, but the inclusion of generic tech buzzwords feels less authentic than Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides general information rather than a direct, easy-to-follow step-by-step guide for a first-time traveler.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Completely irrelevant to the prompt as it discusses travel deals in the Dominican Republic instead of Japanese airports.",
+      "rank": 4
+    }
+  ]
+}

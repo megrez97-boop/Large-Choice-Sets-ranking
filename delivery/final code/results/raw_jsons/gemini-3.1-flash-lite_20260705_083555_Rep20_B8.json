@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "It follows the requested two-part structure perfectly and provides clear, actionable advice for navigating Japanese airports.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a comprehensive checklist but fails to follow the specific two-part structure requested for the Facebook post.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers general travel tips but lacks the specific step-by-step airport navigation guide required by the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains factually incorrect and dangerous advice regarding baggage drop-off procedures that could lead to lost luggage.",
+      "rank": 4
+    }
+  ]
+}

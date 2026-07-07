@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best tone for an influencer and provides a clear, helpful step-by-step guide for first-time travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Very structured and easy to follow, though it lacks the engaging influencer personality of Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a decent list but fails to include the required three bits of advice as distinct sentences.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on arrival logistics rather than the departure process requested for the Facebook post.",
+      "rank": 4
+    }
+  ]
+}

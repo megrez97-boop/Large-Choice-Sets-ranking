@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "This is the only option that correctly follows the two-part structure and word count requirements specified.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides helpful cultural context but fails to include the required second part with three specific tips.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers good practical advice but lacks the structured step-by-step format and the required second part.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The steps are logically incorrect, suggesting baggage claim before immigration and check-in after customs.",
+      "rank": 4
+    }
+  ]
+}

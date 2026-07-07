@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly follows all instructions, providing a creative story and three catchy slogans within the specified constraints.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a vivid, immersive story but fails to include the required three marketing slogans.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a creative futuristic vision but lacks the required marketing slogans and deviates from the requested format.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to address the prompt's core task of designing a futuristic airport experience or providing slogans.",
+      "rank": 4
+    }
+  ]
+}

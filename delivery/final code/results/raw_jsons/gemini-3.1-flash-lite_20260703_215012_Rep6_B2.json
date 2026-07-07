@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly follows the prompt structure, providing a clear step-by-step guide and three specific pieces of advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a decent step-by-step guide but fails to include the required three distinct pieces of advice.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on general travel tips rather than the required step-by-step airport navigation guide for the user.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely misses the airport navigation guide requirement, focusing instead on generic travel advice.",
+      "rank": 4
+    }
+  ]
+}

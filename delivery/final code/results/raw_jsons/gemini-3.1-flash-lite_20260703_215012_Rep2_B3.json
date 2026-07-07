@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most structured, professional, and easy-to-follow step-by-step guide for international travel.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a clear narrative guide, though it lacks the concise formatting of Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains helpful advice but lacks a cohesive, professional step-by-step process for airport navigation.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Completely fails to address the prompt's requirement for an airport navigation guide.",
+      "rank": 4
+    }
+  ]
+}

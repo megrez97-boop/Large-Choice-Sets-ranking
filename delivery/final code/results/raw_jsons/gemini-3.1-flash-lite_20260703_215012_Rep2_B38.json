@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most accurate, step-by-step airport navigation guide specifically tailored to the Japanese airport experience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a clear guide and helpful tips, but incorrectly references TSA, which is a US-specific agency.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains good general travel advice but fails to provide the required step-by-step airport navigation guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Lacks professional structure, contains grammatical errors, and fails to provide a coherent step-by-step airport process.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best balance of practical steps, cultural context, and tone suitable for a remote-work influencer's audience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Excellent step-by-step structure, but lacks the specific 'Part 2' advice format requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Follows the requested structure well, but the content is too generic and lacks specific airport navigation details.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to provide the required two-part structure and lacks the specific 'top three bits of advice' section.",
+      "rank": 4
+    }
+  ]
+}

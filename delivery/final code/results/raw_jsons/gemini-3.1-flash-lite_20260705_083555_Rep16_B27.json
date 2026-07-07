@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, numbered step-by-step guide and distinct advice section that perfectly matches the requested format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Excellent, concise step-by-step structure, but lacks the required three-sentence advice section at the end.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The narrative style is engaging but lacks the clear, actionable step-by-step structure required for a guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Too informal and misses several critical airport steps like immigration, making it an incomplete guide.",
+      "rank": 4
+    }
+  ]
+}

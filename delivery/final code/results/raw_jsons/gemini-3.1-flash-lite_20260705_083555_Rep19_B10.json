@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most professional, structured, and actionable step-by-step guide suitable for a travel influencer's audience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Friendly and accessible tone, though slightly less polished and concise than Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on arrival procedures rather than the requested departure process, making it less relevant for the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely irrelevant to the prompt as it discusses vacation packages rather than airport navigation procedures.",
+      "rank": 4
+    }
+  ]
+}

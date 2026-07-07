@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most professional, concise, and helpful guide that perfectly matches the influencer persona and word count.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Clear and structured, but the repetitive list format feels less engaging for a social media post.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The guide is functional but lacks the professional tone and polish expected from a travel influencer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Too informal and lacks sufficient detail, failing to provide a comprehensive step-by-step process for the traveler.",
+      "rank": 4
+    }
+  ]
+}

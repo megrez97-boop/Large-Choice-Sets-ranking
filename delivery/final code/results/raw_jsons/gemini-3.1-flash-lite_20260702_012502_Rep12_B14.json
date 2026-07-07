@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Excellent narrative flow and creative use of futuristic technology like floating luggage and AR glasses.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong futuristic vision, though the virtual reality teleportation concept feels slightly less grounded than Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Functional and realistic, but relies too heavily on current-day concepts like phone apps and kiosks.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the prompt as it discusses Iceland travel tips instead of a futuristic airport.",
+      "rank": 4
+    }
+  ]
+}

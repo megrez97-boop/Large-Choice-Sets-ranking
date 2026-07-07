@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Best alignment with the persona; provides clear, actionable steps and practical advice tailored for Japanese airport navigation.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong focus on modern self-service technology and helpful tips, though slightly less structured than Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Good, concise guide, but lacks specific context regarding the unique nuances of navigating Japanese airports.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Weakest entry; the advice to 'smile at officers' is unprofessional and the formatting is inconsistent.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "This option perfectly follows the two-part structure requested and provides the most helpful, actionable advice for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear arrival guide but fails to include the required three-sentence advice section for common mistakes.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is too brief and lacks the professional tone expected for a travel influencer's Facebook post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "This response is a single run-on paragraph that ignores the requested two-part structure and formatting requirements.",
+      "rank": 4
+    }
+  ]
+}

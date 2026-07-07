@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, structured, and actionable step-by-step guide that perfectly matches the influencer persona's requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers helpful cultural context and practical tips, though it is less concise and structured than Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses on arrival rather than the full departure process, failing to meet the prompt's specific guide requirements.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Lacks professional tone and contains grammatical errors, making it the least suitable for a public influencer post.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Perfectly follows the two-part structure and word count constraints while providing clear, actionable steps for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides excellent practical tips like the 3-1-1 rule, though the formatting is slightly less organized than Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Includes irrelevant references to TSA, which is not applicable to Japanese airports, making it less accurate for context.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Fails to separate the content into the requested two-part structure, making it difficult for readers to follow.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a clear, logical, and actionable step-by-step guide specifically tailored to the airport arrival process.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers practical advice for the boarding process, though it lacks the comprehensive structure of Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses too much on general cultural tips rather than providing a functional step-by-step airport navigation guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to address the specific airport navigation requirements requested, focusing instead on generic travel advice.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "This option perfectly follows the two-part structure and word count requirements while providing clear, actionable advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a logical step-by-step guide but fails to include the required Part 2 advice section.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers good general advice but lacks the required step-by-step navigation guide for the airport process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The steps are logically incorrect for a departing traveler, as it suggests collecting luggage upon arrival.",
+      "rank": 4
+    }
+  ]
+}

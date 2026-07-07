@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most professional, comprehensive, and accurate step-by-step guide including essential immigration procedures.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a helpful and practical tone, though it lacks the specific mention of immigration steps.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The instructions are functional but the grammar is poor and the tone is overly robotic.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Lacks professional structure and provides unnecessary advice about finding food instead of critical airport procedures.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, structured step-by-step guide and specific advice that perfectly matches the requested format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers helpful practical tips for arrivals, but lacks the requested departure-focused step-by-step guide for boarding.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains useful general information but fails to provide a concise, actionable step-by-step guide for travelers.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too informal and lacks the professional, structured guidance required for navigating a major international airport.",
+      "rank": 4
+    }
+  ]
+}

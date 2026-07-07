@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a comprehensive, structured guide and includes essential travel tips, perfectly matching the influencer persona requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a clear, logical step-by-step process, though it lacks the specific travel advice requested for the second part.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains significant grammatical errors and lacks the professional, concise structure required for a helpful travel guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Completely fails the prompt as it describes sightseeing in Tokyo rather than navigating the airport departure process.",
+      "rank": 4
+    }
+  ]
+}

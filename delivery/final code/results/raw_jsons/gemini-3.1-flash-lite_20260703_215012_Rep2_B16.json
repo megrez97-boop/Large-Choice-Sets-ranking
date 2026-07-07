@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most accurate, logical, and concise step-by-step departure process specifically tailored for a major airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Clear and structured, but incorrectly references TSA guidelines which are not applicable to Japanese airports.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Lacks a clear step-by-step structure and focuses too much on subjective wait times rather than procedures.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on arrival and transportation rather than the requested departure process, making it irrelevant to the prompt.",
+      "rank": 4
+    }
+  ]
+}

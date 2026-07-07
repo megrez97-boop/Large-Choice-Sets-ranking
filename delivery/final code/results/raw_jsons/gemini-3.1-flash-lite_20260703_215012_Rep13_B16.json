@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most professional, influencer-style advice and covers essential pre-travel preparation effectively.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a helpful, narrative-style guide that includes practical tips for airport amenities and time management.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The steps are logical but lack the professional tone and comprehensive detail required for a major airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The sequence of steps is confusing and factually incorrect regarding the order of check-in and immigration.",
+      "rank": 4
+    }
+  ]
+}

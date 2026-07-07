@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, professional, and accurate step-by-step guide that perfectly matches the influencer persona and requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Helpful and practical, though it lacks the structured step-by-step format requested for the guide section.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Follows the structure but is overly simplistic and lacks the engaging tone expected from a travel influencer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains highly inaccurate, offensive, and inappropriate information that violates safety and quality standards for travel advice.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most structured, clear, and actionable step-by-step guide for a first-time traveler.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Engaging tone and follows the requested structure well, though the advice section is slightly less practical.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is disorganized and lacks the professional, concise tone required for a travel influencer's post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Fails to provide a structured guide, instead offering a vague personal anecdote that is unhelpful for travelers.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Best balance of futuristic technology, immersive storytelling, and professional marketing slogans that fit the 2050 theme.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Strong focus on practical, high-tech passenger utility, though the narrative style is less engaging than Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The narrative is too simplistic and lacks the sophisticated, high-tech atmosphere expected for a 2050 airport design.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The concept is unrealistic and lacks the professional tone required for an airport service quality evaluation.",
+      "rank": 4
+    }
+  ]
+}

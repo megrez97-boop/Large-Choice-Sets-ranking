@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Best structure, follows the two-part requirement perfectly, and provides clear, actionable steps for a Japanese airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good step-by-step flow, but lacks the engaging influencer tone and specific formatting requested for the post.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on general airport advice rather than the specific step-by-step arrival process required for the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to address the arrival process and focuses only on departure, missing the core context of the prompt.",
+      "rank": 4
+    }
+  ]
+}

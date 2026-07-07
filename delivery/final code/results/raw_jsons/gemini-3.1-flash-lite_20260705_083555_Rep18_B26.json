@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "This is the only option that strictly follows the two-part structure and word count requirements provided.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "It provides good advice but fails to include the required step-by-step guide for the airport process.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "It lacks the required two-part structure and fails to provide the three specific bits of advice.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "This option is entirely missing the step-by-step guide and does not address the specific airport context.",
+      "rank": 4
+    }
+  ]
+}

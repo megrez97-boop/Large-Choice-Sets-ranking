@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most comprehensive, structured step-by-step guide and clear, actionable advice for first-time travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers practical advice on arrival times and airport size, though it lacks a formal step-by-step structure.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes helpful tips but is too informal and lacks the specific procedural steps required for international travel.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to provide any actual guide or instructions, serving only as a general travel recommendation.",
+      "rank": 4
+    }
+  ]
+}

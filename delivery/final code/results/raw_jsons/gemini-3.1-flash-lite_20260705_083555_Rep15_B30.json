@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most professional, accurate, and helpful advice for a first-time traveler in Japan.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a clear, logical structure, though it is slightly repetitive and lacks a personal influencer tone.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains useful tips but is poorly written, informal, and lacks the professional polish expected of an influencer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains highly inaccurate, offensive, and dangerous misinformation that would be harmful to any traveler.",
+      "rank": 4
+    }
+  ]
+}

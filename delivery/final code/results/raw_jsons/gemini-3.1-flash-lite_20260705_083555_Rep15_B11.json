@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most structured, concise, and actionable step-by-step guide while clearly separating the requested advice section.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a clear narrative flow but lacks the distinct, bulleted formatting that makes Option A easier for travelers.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The language is repetitive and lacks the professional, helpful tone expected for a travel influencer's guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival procedures rather than the requested guide for departing from the airport to board a plane.",
+      "rank": 4
+    }
+  ]
+}

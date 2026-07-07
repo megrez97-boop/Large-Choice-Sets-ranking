@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly captures the futuristic, high-tech, and immersive experience requested by the persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a functional overview but lacks the creative, futuristic storytelling flair required by the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on traditional luxury rather than the innovative, high-tech, futuristic airport experience requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Irrelevant content that fails to address the airport design task or the futuristic theme entirely.",
+      "rank": 4
+    }
+  ]
+}

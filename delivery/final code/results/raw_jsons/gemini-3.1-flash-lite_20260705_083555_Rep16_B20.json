@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Perfectly follows the persona and structure requirements, providing a clear, professional, and engaging guide for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear step-by-step guide, but the advice section is repetitive and lacks depth compared to Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains useful general travel tips but fails to provide the requested step-by-step airport navigation guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Lacks a proper step-by-step guide and uses unprofessional, aggressive all-caps formatting throughout the text.",
+      "rank": 4
+    }
+  ]
+}

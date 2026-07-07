@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most structured, clear, and accurate step-by-step guide for the departure process requested.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a friendly, conversational tone suitable for an influencer, though it lacks the specific Japanese context.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains helpful tips but is poorly structured and lacks the professional flow required for a guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival procedures rather than the departure process requested for the Facebook post.",
+      "rank": 4
+    }
+  ]
+}

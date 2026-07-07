@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "It perfectly follows the word count constraints and provides a clear, actionable step-by-step guide for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "It is well-structured and engaging, though slightly less concise than Option A regarding the step-by-step instructions.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The narrative style is helpful but lacks the clear, bulleted structure that makes for an effective social media guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "This guide describes arriving in Japan rather than departing, failing to meet the prompt's requirement for a departure guide.",
+      "rank": 4
+    }
+  ]
+}

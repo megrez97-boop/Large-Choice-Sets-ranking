@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most comprehensive, structured, and professional step-by-step guide specifically tailored for a major Japanese airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Captures the influencer persona well, though it lacks the specific procedural detail found in the top-ranked option.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses too heavily on specific airport gimmicks rather than providing a universal guide for first-time travelers.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The content is too generic and lacks the engaging tone required for a social media influencer's post.",
+      "rank": 4
+    }
+  ]
+}

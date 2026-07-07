@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most structured, clear, and professional step-by-step guide that perfectly matches the requested format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Excellent inclusion of specific airport amenities and technology, though the advice section is slightly less actionable.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Friendly tone, but it lacks a distinct separation between the guide and the three-sentence advice section.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The advice section is formatted as a list of mistakes rather than actionable tips for the traveler.",
+      "rank": 4
+    }
+  ]
+}

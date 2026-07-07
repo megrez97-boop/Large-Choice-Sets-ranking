@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Best alignment with the persona and instructions, providing a clear guide and three specific tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides useful tips but fails to structure the content as a cohesive guide for the reader.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on a travel itinerary rather than the requested airport navigation guide for first-time travelers.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the prompt as it discusses general travel costs instead of airport navigation.",
+      "rank": 4
+    }
+  ]
+}

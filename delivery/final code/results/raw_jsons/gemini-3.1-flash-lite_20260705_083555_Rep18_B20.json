@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Highlights innovative technology and provides a clear, actionable guide tailored to the influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a very clear, concise step-by-step guide, though it lacks the engaging influencer tone.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Good influencer tone, but the guide is too generic and lacks specific airport navigation steps.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The content is too informal and fails to provide the requested two-part structure clearly.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most comprehensive step-by-step guide and clear, actionable advice for first-time travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Very concise and follows the requested structure well, though it lacks the depth of Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on arrival rather than the departure process requested, making it less relevant for the guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to provide a clear step-by-step departure guide and focuses too much on general travel tips.",
+      "rank": 4
+    }
+  ]
+}

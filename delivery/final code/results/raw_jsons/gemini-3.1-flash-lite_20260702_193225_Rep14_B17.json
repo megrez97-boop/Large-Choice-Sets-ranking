@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Perfectly captures the futuristic, high-tech, and stress-free vision requested for a 2050 Tokyo airport experience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong futuristic concepts like hyperloops and AR, but slightly less cohesive in narrative flow than Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Describes current manual airport procedures rather than the requested futuristic, innovative 2050 experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to address the futuristic prompt entirely, offering only generic, outdated travel advice.",
+      "rank": 4
+    }
+  ]
+}

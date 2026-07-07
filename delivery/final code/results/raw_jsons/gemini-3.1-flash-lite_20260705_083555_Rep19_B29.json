@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most comprehensive, accurate, and structured guide specifically tailored to international travel requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Includes helpful advice but incorrectly references TSA protocols, which are not applicable to Japanese airports.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Lacks the necessary detail regarding immigration procedures required for international travel in Japan.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Too vague and conversational; fails to mention critical steps like immigration or security screening specifics.",
+      "rank": 4
+    }
+  ]
+}

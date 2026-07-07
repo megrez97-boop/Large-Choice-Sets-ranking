@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most accurate, step-by-step procedural guide for a traveler from check-in to boarding the plane.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a friendly, influencer-style tone, though it lacks the specific technical detail found in Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains helpful advice but is less structured and clear than the top two options for a first-timer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival and transport rather than the departure process required by the prompt's specific instructions.",
+      "rank": 4
+    }
+  ]
+}

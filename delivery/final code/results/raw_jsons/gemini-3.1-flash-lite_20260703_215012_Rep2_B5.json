@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Perfectly follows all instructions, including the two-part structure, word count constraints, and specific advice requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a helpful guide but fails to include the required three-sentence advice section at the end.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains generic travel advice rather than the specific airport navigation guide requested for a Japanese airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival procedures rather than the requested departure process, making it irrelevant to the prompt.",
+      "rank": 4
+    }
+  ]
+}

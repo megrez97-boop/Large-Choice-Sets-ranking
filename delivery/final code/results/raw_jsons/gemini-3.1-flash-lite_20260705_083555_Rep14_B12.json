@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most accurate, step-by-step procedural guide for airport navigation from arrival to boarding.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers helpful practical tips for travelers, though it lacks a structured step-by-step flow for the airport process.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains factually incorrect advice regarding baggage drop-off procedures, which could cause significant issues for travelers.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on a general Japan travel itinerary rather than the specific airport departure process requested.",
+      "rank": 4
+    }
+  ]
+}

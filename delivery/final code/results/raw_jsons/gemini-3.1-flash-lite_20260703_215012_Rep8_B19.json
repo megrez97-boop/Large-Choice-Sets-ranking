@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly follows the requested structure, tone, and word count constraints while providing clear, actionable steps.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good content and structure, but lacks the specific Part 1 and Part 2 labeling requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The writing is disorganized and lacks the professional, influencer-style clarity required for a guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to address the specific context of navigating a Japanese airport, focusing instead on generic flight advice.",
+      "rank": 4
+    }
+  ]
+}

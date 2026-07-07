@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a clear, structured 10-step guide and concise advice that perfectly matches the requested format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Very practical and concise, though it lacks the step-by-step numbering that makes Option B easier to follow.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Includes helpful advice on documentation, but the guide section is less organized and harder to follow quickly.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too wordy and conversational; it fails to provide a clear, concise step-by-step guide for a busy traveler.",
+      "rank": 4
+    }
+  ]
+}

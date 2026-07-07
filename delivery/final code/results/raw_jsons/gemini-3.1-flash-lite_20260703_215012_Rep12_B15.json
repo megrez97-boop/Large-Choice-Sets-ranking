@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Perfectly matches the influencer persona and provides a clear, comprehensive step-by-step guide for first-time travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a functional and concise guide, though it lacks the engaging influencer tone found in Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses too narrowly on specific airport features rather than providing a general guide for all major Japanese airports.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Only covers the arrival process and fails to provide the required departure guide from airport to boarding.",
+      "rank": 4
+    }
+  ]
+}

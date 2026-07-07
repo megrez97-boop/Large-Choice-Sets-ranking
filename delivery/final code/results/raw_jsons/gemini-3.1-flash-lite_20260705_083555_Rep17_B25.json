@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most practical, actionable advice for navigating the airport while directly addressing the user's specific requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a clear, logical step-by-step process, though it lacks the personalized influencer tone requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on arrival and transport rather than the departure process required for the Facebook post guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to provide the required step-by-step guide or the specific advice requested for the Facebook post.",
+      "rank": 4
+    }
+  ]
+}

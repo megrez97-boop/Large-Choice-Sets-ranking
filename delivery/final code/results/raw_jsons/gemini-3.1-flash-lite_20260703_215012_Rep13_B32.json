@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most accurate, clear, and professional step-by-step guide for navigating a Japanese airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Includes engaging tech-focused content, but the baggage claim advice is factually questionable for standard Japanese airports.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is vague and lacks the necessary structure for a first-time traveler to follow easily.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "This content describes arriving at an airport rather than the departure process requested in the prompt.",
+      "rank": 4
+    }
+  ]
+}

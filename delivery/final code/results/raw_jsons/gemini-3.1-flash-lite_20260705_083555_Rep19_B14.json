@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most logical, step-by-step chronological flow for a traveler navigating an international airport terminal.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Includes helpful tech-focused advice like using automated gates and airport apps, fitting the influencer persona well.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains useful pre-travel tips but lacks a clear, sequential flow for the actual airport navigation process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The narrative style is disorganized and lacks the concise, actionable structure required for a quick guide.",
+      "rank": 4
+    }
+  ]
+}

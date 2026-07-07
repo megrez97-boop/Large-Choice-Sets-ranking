@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, clear, and professional step-by-step guide suitable for a travel influencer's audience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes excellent practical tips like the 3-1-1 rule, though the formatting is slightly repetitive.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Has a friendly, engaging tone, but lacks the professional structure and detail required for a complete guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to provide the required step-by-step boarding process, focusing instead on general airport amenities.",
+      "rank": 4
+    }
+  ]
+}

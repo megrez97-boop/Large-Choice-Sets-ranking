@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a clear, professional, and relevant step-by-step guide for airport navigation that fits the influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers practical advice for arrival, but the tone is less professional and the instructions are slightly disorganized.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains useful safety tips but lacks the requested step-by-step airport navigation guide for the Facebook post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Completely irrelevant to the task as it discusses travel deals and the Dominican Republic instead of Japan airports.",
+      "rank": 4
+    }
+  ]
+}

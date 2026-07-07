@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most comprehensive, accurate, and structured step-by-step guide for navigating an airport experience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a decent narrative guide but lacks the specific, actionable step-by-step clarity found in Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on general travel tips rather than the specific airport navigation process requested in the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the prompt as it lists global travel destinations instead of airport navigation instructions.",
+      "rank": 4
+    }
+  ]
+}

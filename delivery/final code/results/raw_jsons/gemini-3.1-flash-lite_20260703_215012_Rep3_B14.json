@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "This option perfectly follows the requested structure, including both the step-by-step guide and the three-sentence advice section.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear guide but fails to separate the advice section as distinctly as Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is too brief and lacks the professional tone required for a comprehensive travel influencer post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "This content is irrelevant to the prompt as it discusses smart airport theory instead of providing a guide.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a clear, structured step-by-step guide and three specific pieces of advice as requested by the prompt.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes helpful tips but lacks the detailed, logical step-by-step flow required for a first-time traveler's guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival procedures rather than the departure process required for a traveler heading to their plane.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on arrival logistics and train etiquette rather than the departure process needed for boarding a flight.",
+      "rank": 4
+    }
+  ]
+}

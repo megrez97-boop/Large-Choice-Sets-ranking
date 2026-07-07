@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, concise, step-by-step guide and three specific pieces of advice as requested by the prompt.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Helpful tone and useful cultural tips, but lacks the structured step-by-step guide required for airport navigation.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers practical advice but fails to provide the required step-by-step guide for navigating the airport process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the prompt as it discusses general travel philosophy rather than airport navigation procedures.",
+      "rank": 4
+    }
+  ]
+}

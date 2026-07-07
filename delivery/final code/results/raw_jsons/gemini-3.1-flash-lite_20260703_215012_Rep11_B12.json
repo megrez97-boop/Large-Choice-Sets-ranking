@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, concise, and accurate step-by-step guide specifically tailored to the airport navigation task requested.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers helpful advice but lacks the structured, step-by-step flow required for a first-time traveler's airport guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses on a general Japan travel itinerary rather than the specific airport navigation guide requested by the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the prompt as it discusses a vacation in the Dominican Republic instead of Japanese airports.",
+      "rank": 4
+    }
+  ]
+}

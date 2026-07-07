@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most practical, context-specific advice for navigating a Japanese airport arrival process.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a clear, logical step-by-step sequence for the departure process, though it lacks specific Japanese context.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Covers the basic steps but is written in a repetitive, less engaging style for a social media audience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Lacks a structured flow and includes irrelevant information about ticket classes instead of focusing on airport navigation.",
+      "rank": 4
+    }
+  ]
+}

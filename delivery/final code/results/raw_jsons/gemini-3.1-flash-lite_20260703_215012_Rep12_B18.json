@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most comprehensive, step-by-step guide that directly addresses the user's request for a departure process.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a clear, logical flow for departures, though it lacks the friendly tone and detail of Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on preparation rather than a step-by-step departure guide, failing to meet the primary task requirements.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Describes an arrival process rather than the requested departure guide, making it irrelevant to the prompt.",
+      "rank": 4
+    }
+  ]
+}

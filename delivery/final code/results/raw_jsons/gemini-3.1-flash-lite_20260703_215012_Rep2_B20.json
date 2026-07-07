@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Perfectly matches the persona and provides a comprehensive, step-by-step guide specifically tailored for a major Japanese airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a clear, logical step-by-step process, though it lacks the specific influencer tone and airport-specific context.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "This is a travel itinerary for sightseeing, not a guide for navigating the airport process as requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to provide the required step-by-step guide for navigating the airport, focusing only on general preparation tips.",
+      "rank": 4
+    }
+  ]
+}

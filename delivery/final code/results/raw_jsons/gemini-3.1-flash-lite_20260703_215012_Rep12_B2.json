@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly captures the influencer persona, includes all required sections, and provides clear, actionable advice for Japan travel.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a clear, logical step-by-step process, though it lacks the specific influencer tone requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The guide is somewhat vague and misses the structured formatting required for a professional influencer post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The narrative style is too wordy and lacks the concise, easy-to-follow structure needed for a travel guide.",
+      "rank": 4
+    }
+  ]
+}

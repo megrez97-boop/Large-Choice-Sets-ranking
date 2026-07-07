@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Perfectly follows the persona and structure requirements, providing a clear, professional guide for Japan airport navigation.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a decent step-by-step guide but lacks the engaging influencer tone and the required two-part structure.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains useful safety advice but fails to provide the required step-by-step airport navigation guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Completely irrelevant to the task as it lists travel destinations instead of airport navigation instructions.",
+      "rank": 4
+    }
+  ]
+}

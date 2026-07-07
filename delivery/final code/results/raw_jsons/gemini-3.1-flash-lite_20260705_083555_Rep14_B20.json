@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, actionable step-by-step guide for airport navigation, directly addressing the user's request.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Attempts a guide but is incomplete, cuts off mid-sentence, and lacks the necessary step-by-step structure.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on arrival and ground transportation rather than the departure process requested for the guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the task of navigating an airport, focusing instead on general travel philosophy.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, logical, and comprehensive step-by-step guide that perfectly matches the requested airport departure process.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers helpful cultural context and tips, but focuses on arrival/general info rather than the requested departure guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide describes an arrival process instead of the requested departure process, making it functionally incorrect.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The guide is far too brief and lacks the professional detail required for a helpful influencer post.",
+      "rank": 4
+    }
+  ]
+}

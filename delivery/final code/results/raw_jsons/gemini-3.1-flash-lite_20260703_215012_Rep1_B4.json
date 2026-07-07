@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "It directly addresses the prompt's requirement for a two-part guide specifically tailored to Japan airport procedures.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear step-by-step process but lacks the specific two-part structure requested for the Facebook post.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers general travel advice but fails to provide the required airport navigation guide or specific Japan context.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the prompt as it discusses travel costs and experiences rather than airport navigation procedures.",
+      "rank": 4
+    }
+  ]
+}

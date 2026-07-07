@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly captures the futuristic vision with creative, immersive storytelling and professional, catchy marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Strong focus on high-tech amenities, though it lacks a cohesive narrative story compared to Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Includes a narrative, but the tone is inconsistent and it lacks the required three marketing slogans.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Fails to meet the 2050 futuristic criteria, reading more like a generic advertisement for current airports.",
+      "rank": 4
+    }
+  ]
+}

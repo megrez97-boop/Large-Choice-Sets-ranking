@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most relevant, actionable advice for Japan specifically, including cultural etiquette and practical airport tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a clear, logical step-by-step process, though it lacks the specific cultural context requested for Japan.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Includes a helpful tone, but the instructions are slightly vague and less professional than the top options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Fails to provide the required step-by-step airport guide, focusing instead on general travel advice.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, structured 10-step guide and distinct advice section that perfectly matches the requested format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Engaging tone and helpful tech-savvy tips, though it lacks a formal separation between the guide and advice.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Functional and concise, but fails to include the required three-sentence advice section at the end.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Poorly written with grammatical errors and lacks the professional tone expected of an influencer.",
+      "rank": 4
+    }
+  ]
+}

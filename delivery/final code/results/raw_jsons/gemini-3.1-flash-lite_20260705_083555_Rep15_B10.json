@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most clear, concise, and actionable step-by-step guide for navigating the departure process.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Engaging tone fits the influencer persona well, though the instructions are slightly less structured than Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival procedures rather than the requested departure guide, making it less relevant to the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too brief and lacks the necessary step-by-step detail required for a comprehensive airport navigation guide.",
+      "rank": 4
+    }
+  ]
+}

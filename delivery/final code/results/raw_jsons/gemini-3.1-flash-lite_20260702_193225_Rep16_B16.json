@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Best balance of professional tone, comprehensive futuristic technology, and clear alignment with the 2050 vision.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong narrative flow and creative imagery, though slightly less detailed regarding infrastructure than Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Functional and efficient, but the writing style is repetitive and lacks the sophisticated flair of the top options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses too heavily on spa services rather than the innovative, high-tech airport infrastructure requested.",
+      "rank": 4
+    }
+  ]
+}

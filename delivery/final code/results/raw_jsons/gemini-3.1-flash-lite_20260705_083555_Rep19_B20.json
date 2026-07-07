@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "This option perfectly follows the persona and provides a clear, structured guide and three distinct tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides useful logistical information but fails to follow the requested format of a step-by-step departure guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The guide is too informal and lacks the professional tone and specific airport navigation details required.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "This content is completely irrelevant to the task of providing an airport navigation guide.",
+      "rank": 4
+    }
+  ]
+}

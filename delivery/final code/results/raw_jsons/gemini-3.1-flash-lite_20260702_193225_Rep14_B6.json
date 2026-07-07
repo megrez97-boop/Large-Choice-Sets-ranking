@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best alignment with the 2050 futuristic theme, balancing professional tone, creative technology, and clear marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Strong focus on practical, high-tech efficiency, though it feels more like a near-future upgrade than a 2050 vision.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Creative concept regarding aerial capsules, but lacks the depth and professional polish required for a comprehensive airport experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Too unrealistic and disjointed; the inclusion of a free $1000 gift card undermines the professional airport evaluation context.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most professional, comprehensive, and actionable step-by-step guide suitable for a travel influencer's audience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Clear and concise, though slightly less detailed regarding security procedures compared to Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Functional but lacks the polished, engaging tone expected from a professional influencer's social media post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to address the departure process requested, focusing instead on arrival procedures and irrelevant information.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most practical, actionable step-by-step navigation for a major Japanese airport, perfectly matching the influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Clear and professional, though it lacks the specific Japanese airport context that makes Option B superior.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains useful cultural tips but focuses on arrival procedures rather than the departure process requested by the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Too informal, disorganized, and lacks the necessary structure or specific airport guidance required for a helpful guide.",
+      "rank": 4
+    }
+  ]
+}

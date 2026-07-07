@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most comprehensive, professional, and structured step-by-step guide tailored perfectly for a first-time traveler.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers practical and actionable advice, though it lacks the detailed procedural flow found in Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is too vague and incorrectly references TSA protocols, which do not apply to Japanese airports.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Poorly written with grammatical errors and lacks a clear, logical sequence for the airport navigation process.",
+      "rank": 4
+    }
+  ]
+}

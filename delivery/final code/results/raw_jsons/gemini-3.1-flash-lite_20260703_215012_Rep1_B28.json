@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "This option perfectly follows the two-part structure and word count requirements specified in the prompt.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a clear, logical guide, though it lacks the formal structure requested for the Facebook post.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Includes helpful tips but fails to separate the content into the two distinct parts requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "This content is irrelevant to the airport navigation guide requested and focuses on general tourism instead.",
+      "rank": 4
+    }
+  ]
+}

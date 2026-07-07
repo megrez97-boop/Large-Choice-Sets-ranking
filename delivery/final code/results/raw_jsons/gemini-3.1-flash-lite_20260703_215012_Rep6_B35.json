@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "It best captures the persona and provides specific, culturally relevant advice for navigating Japanese airports.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "It provides a clear, concise step-by-step guide, though it lacks the influencer persona requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "It offers good general travel advice but fails to provide the specific airport navigation guide requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "This content is completely irrelevant to the task of creating an airport navigation guide.",
+      "rank": 4
+    }
+  ]
+}

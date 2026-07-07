@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most structured, accurate, and actionable step-by-step guide for a first-time traveler in Japan.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers excellent practical tips for Japan travel, though it lacks a cohesive step-by-step narrative flow.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses only on arrival and customs, failing to cover the full departure process required by the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains significant grammatical errors and lacks the professional tone required for an influencer's guide.",
+      "rank": 4
+    }
+  ]
+}

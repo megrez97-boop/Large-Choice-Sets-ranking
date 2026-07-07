@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Best alignment with the persona and instructions, providing a clear step-by-step guide and three distinct tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides useful arrival information but fails to cover the departure process requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is disorganized, lacks professional tone, and misses the required three-sentence advice section.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant content that fails to address the airport navigation guide or the requested advice.",
+      "rank": 4
+    }
+  ]
+}

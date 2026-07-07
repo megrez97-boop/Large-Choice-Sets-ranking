@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most accurate, step-by-step airport navigation guide requested in the prompt.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers excellent cultural context for Japan but fails to provide the required step-by-step boarding guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Contains helpful general travel advice but lacks the specific airport navigation steps requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely irrelevant to the prompt as it discusses vacation packages rather than airport navigation.",
+      "rank": 4
+    }
+  ]
+}

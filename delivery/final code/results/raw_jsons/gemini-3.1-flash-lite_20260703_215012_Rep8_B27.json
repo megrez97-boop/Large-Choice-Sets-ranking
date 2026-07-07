@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most practical, professional advice for navigating complex layouts while maintaining a helpful, influencer-appropriate tone.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a clear, concise step-by-step guide, though the advice in part two is somewhat repetitive.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is structured well, but the advice to 'smile at officers' is unprofessional and culturally irrelevant.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to provide a comprehensive step-by-step guide for the airport process, focusing too much on general etiquette.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best tone for an influencer; provides practical, actionable advice while maintaining an engaging and helpful persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Very clear, structured guide for arrivals, though it lacks the personal influencer voice requested in the context.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a decent step-by-step process but is slightly repetitive and lacks the polish of the top options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Weakest content; it is too vague and fails to provide a comprehensive guide for the airport experience.",
+      "rank": 4
+    }
+  ]
+}

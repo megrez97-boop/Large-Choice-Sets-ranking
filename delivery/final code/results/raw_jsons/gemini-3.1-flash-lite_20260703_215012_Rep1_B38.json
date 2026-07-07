@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "This option perfectly follows the requested structure, word count, and provides a clear, actionable step-by-step guide.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides helpful cultural context and advice, but lacks the structured step-by-step guide format requested for the post.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains significant grammatical errors and fails to meet the word count requirements for the guide section.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely ignores the prompt's requirement to create a traveler's guide, focusing instead on general smart airport trends.",
+      "rank": 4
+    }
+  ]
+}

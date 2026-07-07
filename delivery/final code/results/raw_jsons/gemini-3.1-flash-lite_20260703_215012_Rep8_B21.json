@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most accurate, structured, and professional guide specifically tailored to a major Japanese airport experience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a clear, influencer-style tone, though it lacks the specific Japanese airport context required by the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The structure is disorganized and lacks the professional polish expected for a travel influencer's guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses only on arrival procedures rather than the required departure guide from arrival to boarding the plane.",
+      "rank": 4
+    }
+  ]
+}

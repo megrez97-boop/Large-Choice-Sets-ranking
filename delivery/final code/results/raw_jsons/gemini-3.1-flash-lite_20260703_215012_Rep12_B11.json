@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most accurate, concise, and logical step-by-step guide for the departure process requested.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Engaging tone suitable for an influencer, but lacks the structured clarity required for a first-time traveler guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on arrival rather than the departure process requested, making it less relevant for the specific task.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains generic travel advice rather than the specific airport navigation guide requested in the prompt.",
+      "rank": 4
+    }
+  ]
+}

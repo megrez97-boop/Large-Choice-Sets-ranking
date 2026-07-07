@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most accurate, step-by-step airport navigation guide and includes the required three-sentence advice section.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Follows the structure well but lacks the specific technical details for security procedures found in Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses too much on general travel tips rather than the specific airport navigation guide requested in the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "This is a travel itinerary for sightseeing in Japan, not an airport navigation guide for departing travelers.",
+      "rank": 4
+    }
+  ]
+}

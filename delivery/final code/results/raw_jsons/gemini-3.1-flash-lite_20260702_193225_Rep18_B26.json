@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly aligns with the futuristic, high-tech, and frictionless experience requested for a 2050 traveler.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Strong focus on remote work and innovative travel, though the teleportation concept feels slightly less grounded.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Beautifully descriptive and atmospheric, but lacks the high-tech, innovative edge required for a 2050 airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Too generic and lacks the futuristic, cutting-edge technological vision expected for this specific design project.",
+      "rank": 4
+    }
+  ]
+}

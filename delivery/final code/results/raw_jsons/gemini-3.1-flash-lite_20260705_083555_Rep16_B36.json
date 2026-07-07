@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a clear, concise, and accurate step-by-step guide specifically tailored for the departure process requested.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers helpful specific navigation for Narita Airport but is slightly less structured than Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival procedures rather than the requested departure process, making it less relevant for the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the airport navigation task as it discusses general travel deals and destinations.",
+      "rank": 4
+    }
+  ]
+}

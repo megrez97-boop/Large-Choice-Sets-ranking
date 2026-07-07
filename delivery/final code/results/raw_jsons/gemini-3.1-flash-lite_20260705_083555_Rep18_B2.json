@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "This is the only option that specifically addresses the Japan context and follows the requested two-part structure.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides practical, actionable advice for general airport navigation but fails to address the specific Japan context requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The tone is overly informal and rambling, lacking the structured step-by-step guide required for a first-time traveler.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "This content focuses on general travel planning rather than the specific airport navigation process requested by the user.",
+      "rank": 4
+    }
+  ]
+}

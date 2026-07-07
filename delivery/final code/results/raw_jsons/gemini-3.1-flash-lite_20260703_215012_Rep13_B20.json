@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most concise, accurate, and professional step-by-step guide specifically tailored for departing from a Japanese airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a clear, logical flow for the departure process, though it lacks the professional polish of Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Includes unnecessary pre-flight planning steps instead of focusing strictly on the airport navigation experience requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Incorrectly describes the arrival process instead of the departure process required for the Facebook post guide.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most accurate, logical, and structured step-by-step guide for navigating a Japanese airport departure process.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers practical, influencer-style advice, though it lacks specific context regarding Japanese airport procedures compared to Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on cultural etiquette but fails to provide the necessary procedural steps for navigating the airport terminal.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Describes arriving in Japan rather than the requested departure process, making it irrelevant to the prompt's requirements.",
+      "rank": 4
+    }
+  ]
+}

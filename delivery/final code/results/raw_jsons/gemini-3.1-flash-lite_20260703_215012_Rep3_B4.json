@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most comprehensive, structured, and actionable step-by-step guide while including essential pre-travel preparation tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a clear, concise narrative flow that is easy for first-time travelers to follow, though less detailed.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Includes helpful practical details like luggage placement, but the step-by-step format is slightly cluttered and less professional.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to provide a cohesive step-by-step guide for the airport process, focusing instead on general travel advice.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best alignment with the prompt; provides a vivid, creative narrative and catchy, relevant marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Strong conceptual focus on futuristic tech like hyperloops and AR, though lacks a cohesive narrative story.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes a narrative, but the experience feels less futuristic and more like a standard modern airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Weakest entry; fails to provide a creative story and uses generic, uninspired marketing slogans.",
+      "rank": 4
+    }
+  ]
+}

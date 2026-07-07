@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "This option perfectly follows the requested structure, word count, and provides clear, actionable advice for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a clear, logical step-by-step guide, though it lacks the specific advice section requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Contains helpful tips but is poorly formatted and lacks the concise step-by-step structure required for the guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "This content is completely irrelevant to the task of guiding a traveler through an airport.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, professional, and cohesive step-by-step guide that perfectly matches the requested tone and structure.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes relevant advice for Tokyo airports, though the formatting is slightly less narrative than Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The content is too informal and includes irrelevant advice like TSA Pre-check, which is not applicable in Japan.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "This guide describes arriving in Japan rather than departing, failing to meet the prompt's requirement for boarding.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly follows the two-part structure and word count constraints while providing clear, actionable advice for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a very detailed step-by-step guide, but fails to include the required three-sentence advice section.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers useful tips but is presented as a list rather than the requested two-part narrative guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Too brief and misses the required two-part structure, focusing only on general advice rather than a full guide.",
+      "rank": 4
+    }
+  ]
+}

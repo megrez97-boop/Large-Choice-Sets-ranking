@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, concise guide and practical, actionable tips perfectly suited for a social media influencer's audience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Follows the requested structure well, though the step-by-step guide is slightly less fluid than Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is functional but lacks the requested 'top three tips' section, failing to meet all prompt requirements.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "This option describes arriving at an airport rather than departing, making it irrelevant to the requested departure guide.",
+      "rank": 4
+    }
+  ]
+}

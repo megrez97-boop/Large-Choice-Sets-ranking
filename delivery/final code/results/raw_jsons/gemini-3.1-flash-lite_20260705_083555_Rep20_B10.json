@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly matches the influencer persona, follows the requested structure, and provides clear, actionable steps for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Concise and helpful, but lacks the engaging influencer tone and detailed structure requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The advice focuses on arrival rather than departure, failing to address the specific prompt requirements for airport navigation.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Confuses arrival procedures with departure procedures, making it highly inaccurate for a guide on navigating to a flight.",
+      "rank": 4
+    }
+  ]
+}

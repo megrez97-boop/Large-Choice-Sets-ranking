@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "This is the only option that correctly addresses the departure process from arrival to boarding as requested.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides helpful practical tips but focuses on general airport advice rather than specific Japanese airport procedures.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Describes the arrival process instead of the departure process and lacks the requested step-by-step structure.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to provide the required departure guide and lacks the requested three-sentence advice section.",
+      "rank": 4
+    }
+  ]
+}

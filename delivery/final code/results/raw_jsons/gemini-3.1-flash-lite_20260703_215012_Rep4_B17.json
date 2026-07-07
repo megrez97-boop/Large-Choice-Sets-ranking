@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most clear, actionable, and logical step-by-step guide for navigating the airport process.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Includes both required parts, though the guide is less detailed and practical than Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains useful cultural context but fails to provide a structured step-by-step guide for the user.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Lacks a structured step-by-step guide and focuses on arrival tips rather than the departure process.",
+      "rank": 4
+    }
+  ]
+}

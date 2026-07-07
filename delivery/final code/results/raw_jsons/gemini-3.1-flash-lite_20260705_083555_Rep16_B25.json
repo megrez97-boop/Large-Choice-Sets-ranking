@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most comprehensive and practical step-by-step guide for arrivals, including essential tips like currency and connectivity.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a clear, logical flow for departures, though it lacks the depth and cultural nuance of Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses too heavily on etiquette rather than the actual procedural steps required to navigate the airport effectively.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Contains confusing instructions and unprofessional, alarmist language that is not helpful for a first-time traveler.",
+      "rank": 4
+    }
+  ]
+}

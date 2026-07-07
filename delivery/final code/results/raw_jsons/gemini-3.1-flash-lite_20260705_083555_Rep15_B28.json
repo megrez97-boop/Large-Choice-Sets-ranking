@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a clear, logical, and comprehensive step-by-step guide that perfectly matches the requested structure and tone.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Includes excellent practical advice, but the formatting is slightly cluttered by placing the advice before the guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is too brief and lacks the professional detail required for a helpful influencer post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to provide a structured step-by-step guide and focuses too much on airport amenities rather than procedures.",
+      "rank": 4
+    }
+  ]
+}

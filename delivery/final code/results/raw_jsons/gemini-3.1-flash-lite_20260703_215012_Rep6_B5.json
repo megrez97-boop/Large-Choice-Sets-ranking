@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most professional, concise, and accurate step-by-step guide suitable for a travel influencer's audience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Clear and helpful, though it uses generic airport terminology rather than specific Japanese airport context.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Contains useful warnings but is poorly written, overly aggressive in tone, and lacks a clear step-by-step structure.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely fails the prompt as it describes post-arrival tourism rather than the airport departure process.",
+      "rank": 4
+    }
+  ]
+}

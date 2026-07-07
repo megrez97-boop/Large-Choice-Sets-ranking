@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most structured, clear, and actionable step-by-step guide that perfectly matches the requested format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a helpful narrative flow but lacks the concise, structured list format requested for a quick guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to provide a clear step-by-step process and includes unnecessary filler text instead of actionable instructions.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Poorly written, lacks professional tone, and fails to provide a coherent guide for navigating the airport.",
+      "rank": 4
+    }
+  ]
+}

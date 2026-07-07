@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most comprehensive, logical, and accurate step-by-step guide for airport navigation and includes essential advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a structured step-by-step guide, but the sequence of baggage drop and check-in is logically incorrect.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Captures the influencer persona well but fails to provide the requested step-by-step guide for travelers.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Lacks a professional structure and fails to provide a clear, actionable guide for navigating the airport process.",
+      "rank": 4
+    }
+  ]
+}

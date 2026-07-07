@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, structured, and accurate step-by-step guide including essential immigration steps for international travel.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Clear and concise step-by-step format, though it lacks the specific detail regarding immigration required for international travel.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too conversational and lacks a clear, actionable step-by-step structure for a first-time traveler to follow easily.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the prompt as it discusses vacation planning instead of airport navigation procedures.",
+      "rank": 4
+    }
+  ]
+}

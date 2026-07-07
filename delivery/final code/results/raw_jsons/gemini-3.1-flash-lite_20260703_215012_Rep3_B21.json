@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best alignment with the prompt by specifically addressing Japanese airports and providing a clear, structured guide.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a very clear, actionable step-by-step guide, though it lacks the specific context of Japanese airports.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good general advice, but it is too generic and fails to mention immigration, which is crucial for international travel.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Poorly written, lacks a clear step-by-step guide, and contains irrelevant advice about having money and flight mode.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, structured, and professional step-by-step guide that perfectly matches the influencer persona requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Very clear and concise, though slightly less detailed regarding pre-arrival timing compared to Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too vague and lacks the necessary step-by-step procedural detail required for a first-time traveler guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to provide a procedural guide, instead offering general tips that do not fulfill the prompt's requirements.",
+      "rank": 4
+    }
+  ]
+}

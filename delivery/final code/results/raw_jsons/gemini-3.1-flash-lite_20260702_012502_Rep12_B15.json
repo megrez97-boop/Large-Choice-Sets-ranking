@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Best alignment with the futuristic 2050 vision, focusing on AI integration and seamless automated service for remote workers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong practical focus on tech-enabled comfort, though it describes an existing airport rather than a 2050 vision.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Creative ideas for leisure, but lacks the professional, high-tech infrastructure focus required for a futuristic airport design.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Worst option; it describes standard, outdated airport procedures rather than a futuristic or innovative travel experience.",
+      "rank": 4
+    }
+  ]
+}

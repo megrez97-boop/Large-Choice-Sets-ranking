@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, professional step-by-step guide and essential travel tips that perfectly match the influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a simple, easy-to-follow list, though it lacks the depth and professional polish found in Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Contains helpful advice but is poorly structured and lacks the concise, professional tone required for a guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "This content is completely irrelevant to the task of creating an airport guide for travelers.",
+      "rank": 4
+    }
+  ]
+}

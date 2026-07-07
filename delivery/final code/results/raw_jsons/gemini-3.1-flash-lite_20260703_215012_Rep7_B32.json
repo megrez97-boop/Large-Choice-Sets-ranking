@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "This option best follows the prompt's structure, providing a clear step-by-step guide and three specific avoidance tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "It provides a logical step-by-step flow but fails to include the required three bits of advice.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The guide is incomplete as it only covers arrival, not the full process until boarding the plane.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "This option is irrelevant as it focuses on tourism recommendations rather than the required airport navigation guide.",
+      "rank": 4
+    }
+  ]
+}

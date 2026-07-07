@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most clear, actionable, and structured step-by-step guide for a first-time traveler.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers helpful specific advice for Narita, but lacks the detailed procedural clarity found in Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too informal and lacks the precise, step-by-step instructions required for a first-time traveler guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the task as it lists travel destinations instead of airport procedures.",
+      "rank": 4
+    }
+  ]
+}

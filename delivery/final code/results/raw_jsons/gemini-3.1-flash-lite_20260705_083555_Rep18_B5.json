@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most comprehensive, structured, and actionable advice for first-time travelers navigating Japanese airports.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a clear, concise step-by-step guide that fits the requested word count and tone well.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Includes helpful practical tips, but the step-by-step guide is slightly less detailed than the top options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival procedures rather than the departure process requested for the Facebook post.",
+      "rank": 4
+    }
+  ]
+}

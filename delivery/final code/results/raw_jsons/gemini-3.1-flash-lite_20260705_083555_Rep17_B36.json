@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Perfectly follows the structure, word count, and provides clear, actionable advice for the target audience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Excellent use of tech-forward context, though the advice section fails to address common traveler mistakes.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too much general advice and lacks a clear, step-by-step procedural flow for the airport experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to provide a distinct Part 2 advice section and lacks the professional tone required.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Highly creative and personalized approach that perfectly aligns with the futuristic, tech-forward persona requested.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a realistic, high-quality vision of efficiency and design, though slightly less imaginative than Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Covers essential tech features well but lacks the narrative depth and storytelling flair of the top options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The content is unrealistic and lacks the professional, service-oriented tone required for an airport evaluation.",
+      "rank": 4
+    }
+  ]
+}

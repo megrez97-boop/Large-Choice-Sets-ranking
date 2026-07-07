@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly aligns with the influencer persona by blending high-tech innovation with Japanese aesthetics and seamless user experience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses well on remote work needs, though it lacks the futuristic, high-tech flair requested for the 2050 vision.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a functional overview but feels too generic and lacks the creative, futuristic imagination required for 2050.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Includes unrealistic elements like free cash and swans, which detract from a professional, high-tech airport design concept.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Best structure and tone; it clearly addresses the departure process while providing actionable, professional advice for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good content, but it focuses on arrival/departure mix-ups and lacks the professional influencer tone requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The guide is functional but repetitive and lacks the engaging, polished writing style expected from an influencer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "This option describes arriving in Japan rather than departing, failing to meet the core requirement of the prompt.",
+      "rank": 4
+    }
+  ]
+}

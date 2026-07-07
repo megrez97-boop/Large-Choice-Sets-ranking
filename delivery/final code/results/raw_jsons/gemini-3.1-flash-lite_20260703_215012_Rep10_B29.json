@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most practical, step-by-step airport navigation guide specifically tailored to the user's request.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers excellent general travel advice but lacks the specific step-by-step airport navigation requested for the post.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains a personal anecdote rather than a structured, professional guide for first-time travelers.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too generic and fails to address the airport navigation process or the specific context of the prompt.",
+      "rank": 4
+    }
+  ]
+}

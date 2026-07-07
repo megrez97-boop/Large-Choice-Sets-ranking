@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, clear, and professional step-by-step guide that perfectly matches the requested influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Follows the structure well, though the steps are slightly less detailed and professional than Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is too conversational and lacks a clear, structured step-by-step process for navigating the airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on arrival rather than the requested departure process, making it less relevant to the prompt's requirements.",
+      "rank": 4
+    }
+  ]
+}

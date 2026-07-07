@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly follows the prompt structure, providing a clear step-by-step guide and three distinct pieces of advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides helpful practical advice for Japanese airports but lacks the structured step-by-step format requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival procedures rather than the departure process requested for navigating the airport to board.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely irrelevant to the prompt as it discusses travel costs and experiences rather than airport navigation.",
+      "rank": 4
+    }
+  ]
+}

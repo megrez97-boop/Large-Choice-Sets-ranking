@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most accurate, logical, and professional step-by-step flow for a standard airport departure process.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes good steps but is cluttered with unnecessary, repetitive filler text that detracts from the guide's clarity.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses too much on cultural etiquette rather than the essential logistical steps required to navigate the airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The sequence is logically incorrect, as it suggests collecting luggage and clearing customs before checking in for departure.",
+      "rank": 4
+    }
+  ]
+}

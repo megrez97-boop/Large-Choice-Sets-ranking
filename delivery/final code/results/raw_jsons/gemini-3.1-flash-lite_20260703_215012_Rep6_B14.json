@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "It provides a clear, structured guide tailored to the Japanese airport context with helpful, actionable advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "It offers a logical step-by-step process but lacks the specific tone and depth required for the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "It provides useful safety tips but fails to include the required step-by-step airport navigation guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "It is poorly structured, lacks a clear step-by-step guide, and contains significant grammatical errors.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best alignment with the persona, includes tech-forward language, and provides a comprehensive, structured guide for Japan airports.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Clear and concise, but lacks the specific cultural context and tech-savvy tone requested for a Japan-based travel post.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides useful practical steps for immigration, but fails to follow the requested two-part structure for the post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Poorly structured and focuses on arrival procedures rather than the requested departure guide for a traveler.",
+      "rank": 4
+    }
+  ]
+}

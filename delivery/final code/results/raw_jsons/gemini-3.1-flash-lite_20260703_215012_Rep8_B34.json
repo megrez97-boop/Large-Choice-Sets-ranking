@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "This is the only option that correctly addresses the departure process requested in the prompt.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a clear, structured guide for arrival, though it misses the specific departure focus requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Friendly tone, but the guide is incomplete and lacks the necessary steps for boarding a flight.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "This is a travel itinerary for sightseeing, not an airport navigation guide as requested.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most relevant, context-aware advice for Japan travel while meeting all structural requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a clear, logical step-by-step guide, though it lacks specific cultural context for Japan.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Includes helpful tips but focuses on arrival rather than the departure process requested in the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the prompt as it discusses general travel philosophy instead of airport procedures.",
+      "rank": 4
+    }
+  ]
+}

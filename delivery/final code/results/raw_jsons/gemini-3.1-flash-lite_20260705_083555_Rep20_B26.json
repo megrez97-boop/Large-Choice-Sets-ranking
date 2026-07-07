@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most accurate, structured, and relevant advice specifically tailored for navigating a major Japanese airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers helpful, concise advice but lacks the comprehensive step-by-step flow required for a first-time traveler guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Includes unnecessary steps like seat stowage instructions while missing critical pre-flight airport navigation details for Japan.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the task as it lists travel bucket list items instead of airport navigation instructions.",
+      "rank": 4
+    }
+  ]
+}

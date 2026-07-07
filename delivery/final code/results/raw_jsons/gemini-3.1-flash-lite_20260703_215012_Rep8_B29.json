@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Highlights innovative technology and specific airport features, perfectly aligning with the influencer's persona and interest in cutting-edge experiences.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides practical, Japan-specific advice regarding punctuality and language accessibility, which is highly relevant for first-time travelers.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a clear, logical step-by-step process, though it lacks the engaging tone and tech-focused flair of the top options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too generic and repetitive; it lacks specific details about Japanese airport procedures or the requested innovative tech focus.",
+      "rank": 4
+    }
+  ]
+}

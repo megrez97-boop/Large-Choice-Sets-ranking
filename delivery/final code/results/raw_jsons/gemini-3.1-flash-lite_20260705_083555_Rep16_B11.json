@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most professional, clear, and comprehensive step-by-step guide tailored to the requested format and length.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Very clear and structured, though slightly less detailed than Option A regarding the specific airport experience.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is functional but lacks the professional tone and specific detail required for a high-quality influencer post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to provide a proper airport navigation guide, focusing instead on general tourism advice irrelevant to the prompt.",
+      "rank": 4
+    }
+  ]
+}

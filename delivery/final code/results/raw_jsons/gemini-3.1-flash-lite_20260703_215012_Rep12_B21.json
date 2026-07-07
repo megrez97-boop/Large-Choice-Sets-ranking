@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, accurate, and structured step-by-step guide while meeting all content requirements perfectly.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers excellent practical advice and tech-forward tips, though it lacks a complete step-by-step arrival-to-boarding process.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The tone is engaging and fits the influencer persona, but the guide is too brief and lacks depth.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to provide the required step-by-step guide and suggests an insufficient arrival time for international travel.",
+      "rank": 4
+    }
+  ]
+}
