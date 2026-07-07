@@ -7,7 +7,21 @@ library(dplyr)
 library(PlackettLuce)
 
 # --- 1. Settings & Path ---
-base_dir <- "C:/Users/User/Documents/R/Thesis/studies/LLM_Ranking_Engine_v1"
+if (rstudioapi::isAvailable()) {
+  try(setwd(dirname(rstudioapi::getActiveDocumentContext()$path)), silent = TRUE)
+}
+find_project_root <- function() {
+  curr <- getwd()
+  for (i in 1:5) {
+    if (dir.exists(file.path(curr, "studies"))) {
+      return(curr)
+    }
+    curr <- dirname(curr)
+  }
+  return(getwd())
+}
+proj_root <- find_project_root()
+base_dir <- file.path(proj_root, "studies/LLM_Ranking_Engine_v1")
 setwd(base_dir)
 
 # Define the target result file (You can change this to any valid result CSV)
