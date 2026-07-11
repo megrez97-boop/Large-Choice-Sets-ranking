@@ -27,6 +27,7 @@ Analyze and compare the accuracy of **Bradley-Terry (BT)** and **Plackett-Luce (
 3. **Comparison-level**: Independent noise per pairwise comparison (allows circular triads).
 
 ### 🛠️ Key Files
+- `.gemini/Agent_Fast_Load.md`: Quick-load session handover context file (reads this first on startup).
 - `studies/SLM and alpha lattice expansion/SLM_BT_PL_MultiSeed_Viz.R`: New robust simulation engine with checkpointing (v5.5).
 - `studies/PL and BT/BT_vs_PL_Alpha_Lattice_Sim.R`: Legacy simulation engine.
 - `sync/task/4-27/task.txt`: Active development goals.

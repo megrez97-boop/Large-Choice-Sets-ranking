@@ -168,6 +168,18 @@ if(length(csv_files) > 0) {
           
           suppressWarnings(ggsave(out_plot, plot = p, width = 8, height = 6, dpi = 300, bg = "white"))
           message("✅ 繪圖完成！圖表已儲存至: ", out_plot)
+          
+          # 將收斂數據儲存為 CSV (橫向對照表格式)
+          rbo_df <- results_conv[results_conv$Metric == "RBO (p=0.9)", c("Replication", "Similarity")]
+          colnames(rbo_df) <- c("Replication", "RBO_p0.9")
+          tau_df <- results_conv[results_conv$Metric == "Traditional Tau", c("Replication", "Similarity")]
+          colnames(tau_df) <- c("Replication", "Kendall_Tau")
+          wide_conv <- merge(rbo_df, tau_df, by = "Replication", all = TRUE)
+          
+          out_csv_name <- gsub("\\.csv$", "_Convergence.csv", basename(latest_csv))
+          out_csv <- file.path(results_dir, out_csv_name)
+          write.csv(wide_conv, out_csv, row.names = FALSE)
+          message("✅ 收斂指標數據已儲存至: ", out_csv)
         } else {
           message("⚠️ 無法繪圖，無足夠的有效收斂資料點。")
         }

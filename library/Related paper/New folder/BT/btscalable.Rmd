@@ -1,0 +1,181 @@
+---
+title: "Bradley-Terry Scalable Model Simulation"
+output:
+  pdf_document: default
+  html_document: default
+  html_notebook: default
+---
+
+### R Environment Setup
+
+This section installs and loads the necessary packages for the simulation.
+
+```{r setup, message=FALSE, warning=FALSE}
+# Installing from GitHub
+# install.packages("devtools") # if required
+devtools::install_github("EllaKaye/BradleyTerryScalable", build_vignettes = TRUE)
+library(BradleyTerryScalable)
+library(Matrix)
+library(dplyr)
+library(ggplot2)
+```
+
+
+# Small-Scale Simulation
+```{r small1}
+data(citations)
+
+```
+
+### Transform the data to the btdata object the package can deal with
+
+```{r small2}
+citations_btdata <- btdata(citations)
+citations_btdata
+```
+
+### Checking connectivity
+
+```{r small3}
+summary(citations_btdata)
+```
+### Since it is fully connected, we use a=1 in the btfit function (Maximum Likelihood Estimate)
+
+```{r small4}
+citations_fit <- btfit(citations_btdata, 1)
+```
+
+
+### Checking the info for the model
+
+```{r small5}
+summary(citations_fit)
+```
+
+
+### ---------------------Result Interpretation----------------------------------
+### $call (Note: R code used to execute the model fitting)
+### $item_summary (Data frame with fit results for each item)
+### Note: estimate is the estimated strength parameter on the log scale. 
+### Note: Higher value = higher strength/rank
+### $component_summary (Note: Data frame summarizing the status of the fitted components)
+### Note: num_items is the count of items in that component
+### Note: iters = iterations for convergence
+### ----------------------------------------------------------------------------
+
+
+### Now we do a simulation using the fitted model, 100 times, and each is independent
+
+```{r small6}
+citations_sim <- simulate(citations_fit, nsim = 100, seed = 1)
+```
+
+### Display some results from the simulation (first two simulated wins matrices)
+```{r small7}
+citations_sim[1:2]
+```
+# Large-Scale Tournament Simulation
+### IMPORTANT NOTE: They do not have real tournament data; they build a synthetic dataset that mimics real tournament data characteristics.
+
+```{r big1}
+set.seed(1989)
+```
+
+### Setting number of players (items)
+```{r big2}
+n_items <- 1000
+```
+
+### 1. Generating the Sparse Comparison Totals (Nmatrix)
+### Create a Poisson distribution with lambda=1 to simulate the total number of comparisons between 1000 players.
+### The formula calculates the number of unique pairs: n * (n - 1) / 2
+```{r big3}
+Nvalues <- rpois(n = n_items * (n_items - 1) / 2, lambda = 1)
+poisdis <- data.frame(Nvalues = Nvalues)
+
+ggplot(poisdis, aes(x = Nvalues)) +
+  geom_histogram(binwidth = 1, color = "black") +
+  labs(title = "Distribution of Poisson(1) Samples",
+       x = "Value", y = "Frequency")
+```
+
+### logic function for later use
+```{r big4}
+notzero <- Nvalues > 0
+```
+
+### build a empty matrix
+```{r big5}
+Nmatrix_empty <- Matrix(nrow = n_items, ncol = n_items)
+```
+
+### Identify the element which is not 0, later we want to fill into the matrix
+```{r big6}
+ij <- which(lower.tri(Nmatrix_empty), arr.ind = TRUE)[notzero, ]
+```
+
+### fill in the matrix with the generated data
+```{r big7}
+Nmatrix <- sparseMatrix(
+  i = ij[, 1],
+  j = ij[, 2],
+  x = Nvalues[notzero],
+  symmetric = TRUE,
+  dims = c(n_items, n_items)
+)
+```
+
+### now for the BT part
+### generating "hidden ability value" for each player, assuming it is normally distributed
+### and we divide by 4 to reduce the sd of generated data
+
+```{r big8}
+pi_vec <- exp(rnorm(n_items) / 4)
+```
+
+### now we normalize pi_vec so its mean is 1,eliminate parameter redundancy caused by the Bradley-Terry model's scale invariance
+```{r big9}
+pi_vec <- pi_vec / mean(pi_vec)
+```
+
+### juz like the small data set, we do a simulation
+### given the "hidden ability value" and "the number of time they played to each other"
+```{r big10}
+big_matrix <- simulate_BT(pi_vec, Nmatrix, nsim = 1, seed = 1)[[1]]
+```
+
+### convert the resulting matrix into a btdata object(the form this package can deal with)
+```{r big11}
+big_btdata <- btdata(big_matrix)
+```
+
+### check if it is fully connected
+```{r big12}
+summary(big_btdata)
+```
+
+### fit the model using MLE (a=1)
+```{r big13}
+the_model <- btfit(big_btdata, a = 1)
+```
+
+### extract the fitted ability parameters (pi)
+```{r big14}
+pi_fitted <- the_model$pi$full_dataset
+```
+
+### plot
+```{r big15}
+plot_df <- tibble(
+  x = log(pi_vec[as.numeric(names(pi_fitted))]),
+  y = log(pi_fitted)
+)
+
+ggplot(plot_df, aes(x, y)) +
+  geom_point(alpha = 0.5) +
+  geom_abline() +
+  xlab("true strength") +
+  ylab("maximum likelihood estimate") +
+  ggtitle("1000-player simulation from a Bradley-Terry model") +
+  theme(plot.title = element_text(hjust = 0.5))
+```

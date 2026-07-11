@@ -1,0 +1,110 @@
+---
+title: "Untitled"
+author: '113077402'
+date: "2025-07-04"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+title: "Choice Modeling Methods and Pairwise Comparisons"
+author: "Your Name"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Overview
+
+This document summarizes various methods used to rank or evaluate choices through pairwise comparisons and other preference elicitation techniques.
+
+## What Is the Method for Ranking Items by Pairwise Comparisons?
+
+Several methods are commonly used to derive rankings through pairwise comparisons:
+
+### 1. Elo Rating System
+
+- Used extensively in competitive games (e.g., chess).
+- Each item (or player) has a rating.
+- When two items are compared, their ratings are updated based on the outcome.
+- Over time, these ratings can be used to rank all items.
+
+### 2. Bradley-Terry Model
+
+- A **probabilistic model** for pairwise comparisons.
+- Models the probability that item *i* is preferred over item *j* based on their latent "strength" parameters.
+- Allows estimation of a ranking or scale.
+
+### 3. Thurstone’s Case V (Paired Comparison Law)
+
+- A psychometric scaling method.
+- Assumes normally distributed underlying preferences.
+- Differences in preference are modeled to place items on a continuous scale.
+
+### 4. Rank Centrality
+
+- A Markov chain–based algorithm.
+- Uses pairwise comparison probabilities to derive a global ranking.
+- Applied in various contexts like recommendation systems and tournaments.
+
+## Choice Modeling Approaches
+
+Several of the above methods intersect with **choice modeling**, a broader field focused on modeling how people make selections from sets of alternatives.
+
+### 1. Conjoint Analysis
+
+- A core technique in choice modeling.
+- Evaluates how people value different attributes of a product or decision.
+- Key types:
+  - **Full-profile conjoint**
+  - **Choice-based conjoint (CBC)**
+  - **Adaptive conjoint analysis (ACA)**
+
+### 2. Best-Worst Scaling (BWS)
+
+- Participants choose the **most** and **least** preferred items from a set.
+- Generates fine-grained ranking and importance weights.
+- Falls under the umbrella of discrete choice methods.
+
+### 3. MaxDiff Scaling
+
+- A subtype of Best-Worst Scaling.
+- Particularly useful for ranking large sets of items.
+- Often used in market research and UX studies.
+
+### 4. Thurstone’s Paired Comparison Model
+
+- One of the earliest models in psychometrics for deriving preferences.
+- Serves as a theoretical foundation for modern choice modeling.
+
+### 5. Bradley-Terry Model
+
+- As mentioned above, this model also fits under the choice modeling umbrella.
+- Useful for estimating comparative preferences when only pairwise comparisons are available.
+
+## Are All These Methods Part of Choice Modeling?
+
+Yes — all the methods listed above are part of, or closely related to, the broader field of **choice modeling**. Here’s a summary:
+
+- **Included in Choice Modeling**:
+  - Conjoint Analysis
+  - Best-Worst Scaling (BWS)
+  - MaxDiff
+  - Bradley-Terry Model
+  - Thurstone’s Paired Comparison
+
+- **Related But More General**:
+  - Elo Rating System
+  - Rank Centrality
+
+These methods differ in how they collect and analyze preference data, but they all aim to uncover how people make decisions or assign value to options.
+
+## Summary
+
+- Choice modeling is a broad framework that includes methods based on pairwise comparisons and discrete choices.
+- Some methods, like **conjoint analysis**, are specifically designed for trade-off analysis among attributes.
+- Others, like **MaxDiff** and **Bradley-Terry**, are better suited for ranking or scaling based on direct or indirect comparisons.
+
+
