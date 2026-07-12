@@ -1,0 +1,329 @@
+TABLE XIX. Miscellaneous partially balanced designs
+Plan: 1 8
+1
+11
+9
+2 13
+2 10
+2 11
+3
+5
+3
+9
+3 14
+4 15
+4 8
+6
+9
+5
+13
+6 12
+7 12
+6 14
+10
+14
+7 15
+15
+11 16
+12 16
+13 16
+v = 16,
+r = 5,
+k = 2,
+b = 40
+n,= 10,
+0
+A,
+=
+1, λε
+Remark: Compare with design LS3 which has the
+same parameters but a nonisomorphic
+solution.
+Design M1:
+C 1
+=
+1/8, C
+E₁ = .53, E,
+ni
+=
+Pi
+5,
+=
+P.- [23]
+-3/16, H= 6, A = 8
+=
+=
+.46, E = .48
+Resolvable
+Solution:
+Complement: Not listed, r = 35
+Dual: Not a D(x), x =
+1, 2
+Association Scheme: Type NL,(4) of Mesner
+(1967); obtainable from the
+plan.
+PA452856
+12346703
+Design M3:
+V = 16, r = 10, k = 2,
+b = 80
+=
+10, n, 5, A,
+=
+1, λε
+=
+0
+Р
+P₁ = 6 ³]
+P
+2
+C₁ =
+1/8, C
+=
+=
+-1/12, H= 10, ▲ = 24
+E,= .53, E, = .48, E = .51
+Solution:
+2-resolvable
+Complement: Not listed, r
+Dual: Not a D(x), x = 1, 2
+= 70
+[ 6 ]
+Association Scheme: Type NL,(4) of Mesner
+(1967), provided the
+associate classes are inter-
+changed; obtainable from
+the plan.
+Plan: 1 14
+1
+8
+1 11
+1
+16
+1 15
+2 14
+2 13
+2
+4
+2
+3
+3 5
+3
+9
+3 15
+1 10
+2
+7
+8
+13
+3 11
+4 6
+5 12
+4 11
+8 14
+1234
+1 12
+2
+5
+4 13
+4 16
+5 6
+6
+4
+5
+6
+7
+5 10
+7
+10
+7
+4 6
+9 16
+6
+8
+8
+9
+3 16
+10 15
+7 12
+11 13
+5 10
+6 12
+11
+12
+14
+15
+12 14
+7 11
+9 15
+14 16
+9 13
+15
+16
+7 13
+1
+9
+1 12
+8 11
+2
+12
+2 16
+8
+15
+3
+6
+3
+10
+9 10
+4 10
+4
+9
+Design M2:
+v = 16,
+6,
+k
+r =
+=
+2,
+b = 48.
+9
+14
+5 13
+5
+7
+ni
+= 6,
+Р
+n₂ =
+9,
+=
+λι 1, λ
+-
+0
+10
+13
+7 8
+6
+11
+2 3
+=
+P₁- [2]
+12 16
+11 14
+8 14
+15 16
+13 15
+CI
+=
+1/8, C
+=
+-1/4, H= 6, A
+E= .53, E₂ = .44, E = .48
+Solution: Nonunique; resolvable
+Complement: Not listed, r
+Dual: Not a D(x), x = 1, 2
+Association Scheme:
+= 42
+A pseudo Latin square type;
+blocks give the association
+scheme.
+= 8
+12356824
+7
+2 15
+1 10
+4
+2 11
+11
+3 8
+9
+4 12
+8 10
+5 15
+13
+6 14
+16
+7 9
+10 16
+13
+16
+11 15
+36478265
+1234590E
+13
+3 14
+9 12
+Plan:
+12345678
+1234567∞
+456329E
+15
+14
+16
+15
+16
+13
+11
+12
+10
+8
+B4341290
+12345678
+10
+11
+12
+9
+16
+r = 10, k = 2, b = 80
+10, A1
+2, A₂ 0
+Design M4:
+v = 16,
+ni
+= 5,
+n₂ =
+1/8, C 2
+E,= .53, E,
+Solution:
+=
+=
+0 4
+P[° ]
+-3/16, H= 12, A
+.46, E = .48
+Resolvable
+Complement: Not listed, r = 70
+Dual: Not a D(x), x = 1, 2
+P₁ = [ 2 3]
+= 32
+Association Scheme: Same as design M1
+Plan: Duplicate the plan of M1.
+15
+CI
+=
+14
+13
+12
+9
+10
+11
+14
+13
+10
+16
+16
+13
+15
+12 14
+1234902
+78566345
+85675634
+12349012
+12345678
+15
+16
+13
+14
+11
+15
+303

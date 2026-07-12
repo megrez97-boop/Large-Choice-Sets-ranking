@@ -1,0 +1,297 @@
+TABLE XIX. Miscellaneous partially balanced designs - Continued
+4
+16
+10
+3
+15
+12
+1978325
+9853
+6942
+542
+163
+16
+13
+11
+10
+65207845323N
+Plan:
+2
+3
+13
+6
+1
+14
+14
+12 13
+9
+7
+5
+53206
+15
+11
+7 1
+12
+8
+14
+1
+6
+10
+5
+16
+14
+3
+10
+11
+13
+8
+15
+7
+9
+12
+16
+2
+4
+6
+8
+12
+11
+10
+15
+2 13
+4
+14
+6
+12
+11
+13
+9
+1 9
+10
+15
+3
+4
+16
+10
+16
+11
+13
+21
+6281
+4
+15
+13
+589336
+7
+16
+6
+12
+5
+10
+9
+14
+11
+15
+7 14
+1
+13
+12 5
+10
+6
+38
+14
+16
+7
+9
+4
+12
+15
+14
+62
+Solution 1: Nonunique; 4-resolvable
+Complement: Not listed, r = 48
+Dual: Design S81, parameterwise
+Association Scheme: Same as design PG13,
+Solution 1
+Plan: Duplicate the plan of PG13, Solution 1.
+Note: Nonuniqueness here is due to the fact
+that solutions 1 and 2 for design PG13
+were shown to be nonisomorphic by Morris
+Newman of the National Bureau of Standards
+by use of a computer technique.
+Solution 2: Nonunique; 4-resolvable
+Complement: Not listed, r = 48
+Dual: Design S81, parameterwise
+Association Scheme: Same as design PG13,
+*Same parameters as LS116.
+Design M35:
+v = 57,
+r = 6,
+k = 9,
+b =
+38
+32, A₁
+2,
+λε
+=
+0
+ni
+=
+24, n
+11 12
+20
+P, { "
+=
+Pi
+=
+=
+[
+9 15
+C₁ = 3/19, c₂ = -5/19, H= 92/9, ▲ = 76/3
+E,
+.90, E, .86, E = .88
+=
+Solution: Nonunique; 3-resolvable
+Complement: Not listed, r = 32
+Dual: Design S49
+Association Scheme: Same as design PG12
+Plan: Duplicate the plan of PG12.
+16
+Solution 2
+Plan: Duplicate the plan of PG13, Solution 2.
+Design M37a: v = 297, r =
+10,
+k = 9,
+=
+2, λ, 0
+ni
+P,
+=
+40, n,
+7 327
+=
+256, λ,
+=
+P₁ =
+224
+[
+5 35
+220
+b = 330
+C₁ =
+1/33, C₂
+=
+-7/33, H= 52/3, ▲ = 220/3
+E₁ = .89, E, = .87, E = .87
+1
+Complement: Not listed, r = 320
+Plan: Duplicate the plan of PG13a.
+Design M38: V = 26, r = 10, k
+=
+24, n 32, A,
+=
+=
+n₁ = 15, n¸=
+8
+10, λ₁
+=
+4, λε
+10, b = 26
+= 3
+2
+P₁ = [ 9 ]
+6
+305/728, c₂ = 115/364, H = 187/10, ▲ =
+2184/25
+Design M36:
+v = 57, r = 9,
+k = 9,
+b = 57
+=
+50
+=
+2
+E,
+=
+.94, E,
+=
+.93, E = .94
+C₁ =
+3/19, C
+=
+11
+= 3, A₂
+9 15
+2.-1] P.-[16]
+P
+=
+{"
+20
+=
+-5/19, H= 46/3, A = 57
+E, .90, E, .86, E = .88
+=
+Solution:
+Nonunique; 3-resolvable
+Complement: Not listed, r
+Dual: Design S96
+= 48
+Association Scheme: Same as design PG12
+Plan: Cyclically develop the following three
+initial blocks
+1 20 39 14 38 56 10 27 53
+20 39 1 38 56 14 27 53 10
+39 1 20 56 14 38 53 10 27
+using cycles of length 19 and cycling
+within the three subsets of treatments
+1-19, 20-38, and 39-57. Each position
+within blocks contains a replication and
+each initial block gives rise to three
+replications.
+Design M37:
+v =
+n₁ =
+1/7, Cz
+=
+c₁ =
+E, .90, E,
+Pi
+63,
+r = 8, k
+32, n 30, A
+16 15
+15
+P₂
+2
+=
+9,
+=
+=
+2, λε
+b = 56
+= 0
+[ 16 19]
+-1/7, H= 128/9, A = 448/9
+.88, E = .89
+Solution:
+Nonresolvable
+= 16
+Complement: Not listed, r
+Dual: Self dual, Hoffman (1963)
+Association Scheme:
+=
+The first associates of
+treatment a (a 1,2,...,
+26) of design M6 are the
+2nd associates of the treat-
+ment a in the present design.
+Plan: Cyclically develop the following two
+initial blocks
+1 2 5 7 14 15 18 22 25 26
+14 16 19 20 2 4 5 10 11 13
+using cycles of length 13 and cycling
+within the subsets of treatments 1-13 and
+14-26. Each initial block gives rise to
+five replications and each position within
+blocks contains a replication.
+310

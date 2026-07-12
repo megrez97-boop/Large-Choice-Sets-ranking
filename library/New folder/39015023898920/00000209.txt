@@ -1,0 +1,216 @@
+TABLE IX. Regular group divisible designs -
+– Continued
+Solution 2: As given by John (1966); nonunique;
+3-resolvable
+Complement: Not listed, r
+Dual: Not a D(x), x = 1, 2
+Groups: (5,3)
+= 24
+Plan: Cyclically develop, modulo 15, the two
+Plan:
+12345
+6 11
+7 12
+8 13
+9 14
+5 10 15
+16123
+7 15
+6 13 4
+2 10
+8
+9 5
+14
+initial blocks:
+1 4 15
+2 8 15
+Each initial block gives rise to three
+replications and each position within
+blocks to two replications.
+Note: Nonuniqueness was established by Morris
+Newman of the National Bureau of Standards
+who used a computer code which looks at
+the Smith normal form of the incidence
+matrix of the design (altered to provide
+a square matrix).
+Design R82:
+v = 15, r = = 8,
+m= 5,
+n = 3,
+λ₁
+=
+k= 3,
+2, A2
+b = 40
+= 1
+C1
+=
+=
+1/3, C2
+7/45, H= 11, A = 30
+E= .75, E,= .70, E = .71
+Solution 1: As given by BCS (1954); nonunique;
+nonresolvable
+Complement: Not listed, r = 32
+16127
+12345
+6 11
+7
+12
+8 13
+9 14
+5 10 15
+32734
+16128
+2 14
+3 15
+4 10
+1 14 10
+5
+9
+11
+38505
+27494
+16
+23
+12 9 10
+13 14 15
+12 4
+29383
+16127
+9 15
+3 14
+7 13 10
+5
+16127
+O5594
+8 9
+3 10
+6 12
+12 13
+8 15
+4 15
+2 13
+3
+7 14 5
+Note: There exist many distinct solutions.
+The plan may be constructed by taking any
+solution for the BIB design (15,35,7,3,1)
+which possesses five blocks forming a
+replication, annexing this replication to
+the BIB design, and finally relabeling
+the treatments in standard form so that
+the blocks of the replication constitute
+the groups.
+The BIB design is known to
+possess 80 distinct solutions, 7 of
+which are resolvable. See Marshall Hall,
+Jr. and J. D. Swift (1955) and Cole (1922).
+Dual: Irregular
+Groups: (5,3)
+Plan:
+123456D
+410
+5
+6
+1
+7
+2
+8
+3 9
+2067
+2345
+12345
+9
+3 10
+1
+8
+7 14
+7 10 11
+7 8 15
+8 6 12
+8 9 11
+9
+7 13
+9 10 12
+10
+8 14
+10
+6 13
+6 9 15
+12 15 1
+14 13 1
+13 11 2
+14 12 3
+15 13 4
+11 14 5
+15 14 2
+11 15
+12 11 4
+23
+3
+13
+12
+5
+07829
+12345
+5 10 15
+6 11
+7 12
+13
+123
+2
+8 13
+14
+4
+9
+5 10 15
+879
+6 11
+12345
+Solution 2:
+Nonunique; resolvable
+Complement: Not listed, r
+Dual: Irregular
+= 32
+Groups: (5,3)
+Design R83:
+y =
+m= 3,
+15, r = 9,
+n = 5,
+k = 3, b= 45
+λ₁
+= 2, λε 1
+c₁ =
+= 100/3
+3/10, C2
+E= .74, E,= .69, E= .71
+= 3/25, H= 35/3, A
+2
+Solution 1: As given by BCS (1954); 3-resolvable
+Complement: Not listed, r = 36
+Dual: Irregular
+Groups: (3,5)
+Plan: Cyclically develop, modulo 15, the three
+initial blocks:
+1
+7 13
+1 4 5
+1 3 8
+Each initial block gives rise to three
+replications and each position within
+blocks to three replications.
+Solution 2: As given by John (1966); 3-resolvable
+Complement: Not listed, r = 36
+Dual: Irregular
+Groups: (3,5)
+Plan: Cyclically develop, modulo 15, the three
+initial blocks:
+1 2 5
+1 3 8
+1 4 10
+Each initial block gives rise to three
+replications and each position within
+blocks to three replications.
+197

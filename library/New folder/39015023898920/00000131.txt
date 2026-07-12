@@ -1,0 +1,269 @@
+TABLE V.
+Singular group divisible designs - Continued
+Design S55:
+v = 12,
+r = 6,
+MF 3,
+n = 4,
+k= 8,
+λ₁ 6,
+b = 9
+Design S59:
+v = 14,
+r = 4,
+k = 8,
+b= 7
+=
+λε
+= 3
+m= 7,
+n = 2,
+λ₁ 4,
+=
+A₂ = 2
+C₁ =
+E,
+=
+1, c, 5/12, H= 21/2, A = 27
+1.00, E,
+.92, E = .94
+Solution: Unique; 2-resolvable
+Complement: A disconnected design
+Dual: Design S24
+Groups: (3,4)
+Plan: Repeat the plan of S53 three times.
+c₁ = 1, c,= 1/2, H= 15/2, A = 14
+E, 1.00, E,= .93, E = .94
+Solution: Unique; nonresolvable
+Complement: Design S32
+Dual:
+The true duplicate solution for the BIB
+design (7,14,8,4,4), Roy and Laha (1956)
+Groups: (7,2)
+Plan: 7 14
+Design S56: v = 12,
+m= 3,
+r = 8,
+n = 4,
+k = 8,
+λ₁
+b= 12
+1 8 7 14
+=
+8,
+2
+= 4
+2 9
+3 10
+=
+= 48
+4 11 3 10
+67123
+13 5 12 3 10
+6
+8
+7 14
+9
+2
+23489
+4 11
+5 12
+6 13
+7 14
+5 12
+6 13
+4 11
+3 10
+1
+8
+5 12
+4
+11
+2
+9
+CI 1, c₂= 5/12, H= 14, A =
+E, 1.00, E, .92, E= .94
+Solution: Unique; 2-resolvable
+Complement: A disconnected design
+Dual: Truly self dual
+Groups: (3,4)
+Plan:
+Repeat the plan of S53 four times and
+rearrange treatments within blocks to pro-
+vide a replication in each position within
+the blocks.
+Design $57:
+=
+v = 12, r = 10, k = 8,
+n = 4,
+m= 3,
+1, c, 5/12, H= 35/2, A = 75
+E, 1.00, E,= .92, E= .94
+Complement: A disconnected design
+Solution: Unique; 2-resolvable
+Dual: Design S103
+Groups: (3,4)
+b= 15
+Design S60:
+v = 14,
+r = 8,
+n = 2,
+k = 8,
+b= 14
+A₁
+= 8,
+λ2
+= 4
+m= 7,
+=3
+c₁ = 1, c,= 1/2, H= 15, A 56
+E,= 1.00, E,= .93, E = .94
+Solution 1: Nonunique; 4-resolvable
+Complement: Design S33, Solution 1
+Dual: Truly self dual
+Groups: (7,2)
+7123456
+6712345
+23489E
+5671234
+λ,
+=
+10, A2 = 5
+Plan:
+14
+13
+12
+8
+14
+13
+9
+8
+14
+10
+9
+11
+10
+12
+11
+10 1 8
+13
+5 12
+34567A2
+10
+11
+12
+13
+14
+2 9
+Plan: Repeat the plan of S53 five times.
+14
+8
+Design S58: v = 12, r = 10,
+k = 8,
+b= 15
+9
+m= 6,
+n = 2,
+λ,
+=
+10, A2
+= 6
+10
+11
+= 90
+12
+13
+7123456
+13
+14
+8
+9
+10
+11
+6712345
+10
+567123
+23489
+5 10
+12
+13
+12 5 11 4
+14
+8
+9
+3456712
+PA234∞ a
+c₁ = 1, c,= 11/18, H= 19, ▲
+1.00, E, .95, E = .95
+E,
+Solution: Unique; nonresolvable
+Complement: Design S11
+Dual: Design T93
+Groups: (6,2)
+Plan:
+88∞∞∞~~~~~~~~~~
+32.22211-------
+1 7
+6 12
+9 4
+7
+7
+7
+7
+7
+7
+7
+7
+7
+44333333222222
+10
+4 10
+9
+9
+9
+6 12
+9
+9
+9
+8
+8
+8
+8
+8
+8
+5554◄◄✔✔−5-4333
+5 11 6 12
+11 6 12
+11 6 12
+4 10
+6 12
+4
+10
+5 11
+10 5 11
+11
+10
+6 12
+10 5 11
+11 6 12
+4 10 6 12
+10 5 11
+9
+6 12
+9 5 11
+9
+4 10
+Solution 2:
+Nonunique; 3-resolvable
+Complement: Design S33, Solution 2
+Dual: Irregular
+Groups: (7,2)
+Plan: Form blocks which are the complements of
+those of design S33, Solution 2.
+Solution 3:
+Nonunique; 3-resolvable
+Complement: Design S33, Solution 3
+Dual: Irregular
+Groups: (7,2)
+(Plan continued on next page)
+119

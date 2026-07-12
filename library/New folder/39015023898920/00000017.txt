@@ -1,0 +1,50 @@
+In recent years there has been some evidence that very large designs may become practical in instances
+where huge numbers of observations are economically possible and are recorded by automatic recording
+or sensing devices. Thus the column heading is intended as a constant reminder that there is a very large
+supply of very large D(2) designs available and easily constructed from the plans that are provided in detail
+in this volume. Other entries in this column are explained in Table I. Glossary and Notation.
+For the Latin square types of designs only the next column heading is “L; (n)”, the entries being symbols
+like L3 (5) or L (4) which identify the specific standardized association scheme being used.
+The next column heading is "Dual Designs." The dual of a design D is a design D' whose treatments
+are the blocks of design D and whose blocks are the treatments of design D. If design D has parameters
+(v, b, r, k, . . .) then its dual D' has parameter (v', b', r', k', . . .) = (b, v, k, r, . . .). If the dual of
+the particular solution or plan being referenced is known, it is identified by an entry, such as "Design SR28".
+If the referenced design is symmetrical (i.e., has v=b) the entry may be "SD" (self dual) meaning that
+the dual design has the same parameters as the referenced design, but that they may not be combinatorially
+equivalent; or the entry may be "TSD" (truly self dual) meaning that the design is not only self dual but is
+isomorphic with the referenced design. An entry "D(x)" where x is 3, 4, or 5 means that the dual of the
+referenced design is a partially balanced design in the sense of Bose and Nair (1939) with x associate classes.
+Frequently, the dual of a given design is not recognizable as any well known type, but one can say something
+about what it is not. An entry "not a D(x), x = 1, 2, 3” means that the design is not a BIB design (not a
+D(1)) and neither is it a partially balanced design with two or three associate classes. For entries that are
+not explained here, the reader is referred to Table I. Glossary and Notation for an explanation.
+The right-most heading is "Literature Sources", where the reader is referred to the references, which
+are located after Table XIX. The reader is immediately impressed with the frequency of the reference
+“BCS (1954)" as more than 350 of the designs of this tabulation are taken from this source. An intense
+effort has been made to identify plans having the same parametric specification but combinatorially equiva-
+lent plans. When such cases have been identified an indication of it has been made by first listing the first
+publisher and in brackets listing the names of later writers who published combinatorially equivalent solu-
+tions. For instance, the entry "P. M. Roy (1954) [Clatworthy (1956), John (1966)]" means that the solutions
+published by Clatworthy (1956) and by John (1966), for the particular design being referenced, are combi-
+natorially equivalent to the earlier solution by P. M. Roy (1954). For readers who have difficulty identifying
+solutions as being the ones to which a source reference is given, there is the reminder that treatment symbols
+were recast and plans rearranged frequently to put a plan into the standardized form of this volume. Also
+the Literature Sources column is omitted from Table IV because, except for provision of multiple distinct
+solutions for parametric specifications permitting nonunique solutions, the construction problem was
+solved by Bose and his associates in 1952. The multiple solutions for SGD designs presented in this volume
+were worked out by the author.
+The "odd" numbered Tables V, VII, . . ., XIX provide detailed information about designs. For the GD
+designs a referenced design is provided with the parametric specification
+v, r, k, b, m, n, λ₁, and λ2;
+for all other designs the values for a parametric specification
+u, r, k, b, ni, Ai, (i=1, 2)
+Pl Pl₂
+P₁ =
+P₂ =
+P22-
+P22
+are listed. These are followed by values for the computational constants C1, C2, H, and ▲, and these are fol-
+lowed by three efficiency factors E1, E2, and E (see chapter 3 for explanations.) The next entry is "Solution"
+and opposite it an attempt has been made to provide information regarding the uniqueness and resolva-
+bility of the particular plan which is presented. The next two entries are "Complement" and "Dual." The
+5

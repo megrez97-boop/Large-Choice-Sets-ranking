@@ -1,0 +1,119 @@
+TABLE 14
+COMBINED INTRA- AND INTER-BLOCK ESTIMATES OF TREATMENT EFFECTS
+Treatment
+Qi
+Qi
+Pi
+G
+i
+1
+0.4750
+-0.3083
+4.3675
+18.9581
+0.0920
+2
+- 1.1250
+-0.4083
+- 14.4613
+-0.1382
+-0.3780
+3
+-0.9250
+-0.2083
+- 11.4296
+- 15.5543
+-0.2806
+4
+-0.1750
+1.0417
+1.7474
+-1.3865
+0.0473
+5
+0.2000
+0.0667
+2.5496
+- 1.8772
+0.0689
+6
+0.6000
+0.1667
+7.5281
+18.9581
+0.1746
+7
+0.1000
+0.2667
+2.1187
+-0.1382
+0.0556
+8
+0.1500
+-0.1833
+1.0684
+- 15.5543
+0.0462
+9
+0.5750
+-0.2083
+5.8834
+- 1.3865
+0.1555
+10
+-0.6250
+-0.5083
+- 9.0520
+- 1.8772
+-0.2345
+11
+0.4500
+0.5167
+7.0625
+18.9581
+0.1624
+12
+0.8250
+0.7417
+12.2044
+-0.1382
+0.3193
+13
+-0.2750
+-0.5583
+-5.1931
+- 15.5543
+-0.1176
+14
+-0.5750
+-0.6583
+-9.0173
+- 1.3865
+-0.2342
+15
+0.3250
+0.2417
+4.6252
+- 1.8772
+0.1231
+For the combined intra- and inter-block analysis there is no exact test of the hypothesis of the equality
+of treatment means but when this hypothesis is true the quantity ΣP; is approximately distributed as x²
+with v-1 degrees of freedom. This quantity is easily obtained by multiplying corresponding items in col-
+umns (4) and (6) of Table 14 and adding. Thus
+x²=Σî{P₁ = 22.1885,
+with 14 degrees of freedom and is not significant at the 5 percent level.
+The estimated variance of the difference between two treatments which are first associates (i.e., belong
+to the same group) is
+2(k-d₁)
+r{w'+w(k-1)}
+-0.05230.
+Likewise the estimated variance of the difference between two treatments which are second associates
+(i.e., belong to different groups) is
+2(k-d2)
+r{w'+w(k-1)}
+-0.04995.
+estimated average variance is therefore
+0.05230 (n-1)+0.04995n (m-1)
+v-l
+= 0.05029.
+49

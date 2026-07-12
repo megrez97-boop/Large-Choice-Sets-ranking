@@ -1,0 +1,281 @@
+TABLE XI. Partially balanced designs based on triangular association schemes - Continued
+Plan:
+7 11
+1
+1
+4
+8
+9 16
+8 10 17
+1
+5
+1 3
+6
+8
+11 18
+9 10 19
+1
+4 5
+1 4
+6
+9
+11
+20
+222222+3+357727
+10 11 21
+1
+5
+6
+717
+3355
+29213o
+171
+8 12
+7 10 14
+826293;
+4
+6
+Plan:
+2
+1
+10
+1986573204
+78654-9329
+6549231087
+5432167698
+4321086975
+3218760549
+67954836
+10
+10
+6
+12 13 16
+2
+3 4
+5
+14
+3
+12 17
+12 15 18
+2
+3
+6
+4 5
+13
+4 6
+14 15 21
+5
+16
+4
+6 20
+3 17
+18
+6 19
+8 9
+8 12
+332435420
+14 19
+13 15 20
+4 17 19
+12 13 16
+10 14 17
+12 15 18
+7 8 11
+7 13 14
+9 11 20
+10 14 21
+9
+7 11 15
+8
+16
+17
+9 10 19
+5 6
+3 16 18
+6 21
+4 20 21
+10 19
+7 13 15
+Design T72:
+CI
+E,
+=
+-
+v = 28,
+12, n =
+n =
+1
+Pi
+1, λ, = 0
+4
+-1/2, H= 22/7, ▲ = 16/7
+.89, E, = .80, E = .84
+Solution:
+Complement: Not listed, k = 21
+Dual: The BIB design (8,28,7,2,1), Roy and Laha
+(1956)
+Association Scheme: T(8)
+2 3 4 5 6 7
+r = 2, k = 7,
+15, A,
+b = 8
+=
+6 57
+P₂
+=
+10
+2
+[ + 8]
+1/4, C2
+=
+Nonresolvable
+Plan:
+16
+11 9
+8 18 20
+8 10 17
+11 18 21
+19 20 11
+9 10 21
+17 19 13
+12 20 18
+12 14 16
+15 13 16
+14 15 21
+12 17 18
+18413287
+19 20 21
+23 24 25
+9 10 11 12 13 1
+14 15 16 17 18 2 8
+22 3 9 14
+4 10 15 19
+26 27 5
+11
+16 20 23
+6
+12
+17
+21 24 26
+13 19 20
+16 18 21
+14 15 21
+17 19 20
+13
+18 22
+25 27 28
+k = 7,
+=
+b = 10
+5, λη = 4
+4 27
+Design T73:
+v = 28,
+r = 4, k
+=
+ni
+=
+12, n
+=
+Design T71:
+=
+v = 10,
+n₁ =
+133/180, c
+6,
+r = 7,
+n
+=
+3, A,
+P₂
+=
+2
+2
+2
+P₁ =[ 3 } ]
+=
+217/360, H = 93/7, A = 2160/49
+E,= .96, E, = .94, E = .95
+Solution 1: Nonunique; nonresolvable
+Complement: Design T9, Solution 1
+Dual: Truly self dual
+Association Scheme: T(5)
+Plan:
+6
+6352108497
+4201375968
+3140527809
+7463o
+10
+1
+9582
+CI
+1/4, C2
+=
+Р
+6 51
+10
+=
+7,
+b
+=
+16
+15, λ, 2, λε = 0
+2
+P₂ =
+4
+[ + 8]
+-1/2, H= 44/7, ▲ = 64/7
+E, .89, E, = .80, E = .84
+Solution:
+2-resolvable
+Complement: Not listed, r = 12
+Dual: Design S14, a unique design
+Association Scheme: T(8)
+Plan: Duplicate the plan of T72.
+10
+Design T74:
+9718692354
+9670841235
+8594730120
+6
+Solution 2:
+Nonunique; nonresolvable
+Complement: Design T9, Solution 2
+Dual: Truly self dual
+Association Scheme: T(5)
+=
+1/4, C2
+v = 28, r = 6,
+= 12, n
+ni
+=
+6 5
+=
+P₁ = ° 18]
+Pi
+10
+15, A,
+-1/2, H= 66/7, A
+E, .89, E, = .80, E = .84
+=
+Solution:
+2
+2-resolvable
+Complement: Not listed, r = 18
+k
+=
+P₂
+Dual: Design S43, a unique design
+Association Scheme: T(8)
+=
+7,
+3, λε
+4
+b = 24
+=
+= [ + 8]
+144/7
+Plan: Repeat the plan of T72 three times.
+0
+248

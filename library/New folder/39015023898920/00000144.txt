@@ -1,0 +1,230 @@
+TABLE V. Singular group divisible designs - Continued
+Design S104: v= 15, r = 10,
+k
+===
+10,
+m= 3, n= 5,
+λι
+=
+10, A2
+b= 15
+= 5
+c,
+E,
+1, c₂ = 2/5, H= 35/2, A = 75
+1.00, E,= .94, E = .95
+Solution: Unique; 2-resolvable
+Complement: A disconnected design
+Dual: Truly self dual
+Groups: (3,5)
+Plan:
+Repeat the plan of S100 five times and
+rearrange the treatments within blocks so
+as to provide a replication for each
+position within blocks.
+k = 10, b= 18
+Design S105: v= 18,
+r =
+m= 9, n = 2,
+10,
+λ₁
+=
+10, A2
+= 5
+Design S106: v= 20,
+r = 3,
+k= 10,
+m= 4,
+n = 5,
+λ₁
+=
+3,
+b= 6
+A₂ = 1
+c₁ =
+E,
+1, c₂= 1/10, H= 5, A = 6
+1.00, E₂ = .91, E = .93
+Solution: Unique; affine resolvable
+Complement: Truly self complementary
+Dual: Design SR22, Solution 1
+Groups: (4,5)
+Plan: 1 5 9 13 17
+3 7
+11 15 19
+9 13 17
+10
+96
+56
+12
+56
+1
+12
+2
+78
+14 18
+9 13 17
+34
+78
+10 14 18
+24
+34
+43
+6 10 14 18
+8 12 16 20
+7 11 15 19
+8 12 16 20
+12 16 20
+11 15 19
+87
+=
+c1, c2= 1/2, H= 19, A 90
+E, 1.00, E,= .95, E =
+Solution 1:
+=
+.95
+Nonunique; 5-resolvable
+Complement: Design S65, Solution 1
+Dual: Not a D(x), x = 1, 2, 3
+Groups:
+Plan:
+(9,2)
+Cyclically develop the two initial blocks
+3 12 5 14 6 15 7 16 8 17
+10 1 11 2 14 5 15 6 17 8
+using cycles of length 9 and cycling within
+the two subsets of treatments 1-9 and 10-18.
+Each position within blocks contains a
+replication, and each initial block provides
+five replications.
+Solution 2: Nonunique; nonresolvable
+Complement: Design S65, Solution 2
+Dual: Irregular
+Groups: (9,2)
+Plan: Take the complement of design S65,
+Solution 2.
+Solution 3:
+Nonunique; nonresolvable
+Complement: Design S65, Solution 3
+Dual: Irregular
+Groups: (9,2)
+Design S107:
+v= 20, r = 6,
+n= 4, n= 5, λι 6,
+k = 10, b = 12
+λε
+= 2
+c1, c2= 1/10, H= 10, A = 24
+E, 1.00, E₂ = .91, E = .93
+=
+Solution:
+Unique; resolvable
+Complement: Truly self complementary
+Dual: A D(3), WHC (1956)
+Groups: (4,5)
+Plan:
+1
+3
+57
+9 13 17
+517
+18
+88
+78
+24
+34
+43
+5
+6
+8
+11 15 19
+9 13 17
+10 14 18
+13 17
+3
+10 14 18 3
+10 14 18
+12 16 20
+34
+96
+H2
+21
+56
+36
+88
+78
+87
+12
+12
+24
+34
+43
+6
+10
+57
+87
+14 18
+12 16 20
+11 15 19
+12 16 20
+12 16 20
+11 15 19
+9
+90
+56
+13
+12
+11
+13 17
+15 19
+11
+15 19
+13 17
+12 16
+20 2
+10 14 18
+12 16 20
+11
+15
+19
+2
+36
+12
+5
+9 13 17
+10 14 18
+Plan: Take the complement of design S65,
+Solution 3.
+Solution 4:
+Nonunique; nonresolvable
+Complement: Design S65, Solution 4
+Dual: Irregular
+Groups: (9,2)
+Plan:
+Take the complement of design S65,
+Solution 4.
+=
+10,
+9,
+b = 18
+= 3
+Design S108:
+v =
+20, r = 9,
+MF 4,
+n = 5,
+k:
+=
+λ₁
+=
+54
+c1, c2= 1/10, H= 15, A
+=3
+E, 1.00, E, .91, E = .93
+Solution: Unique; resolvable
+Complement: Truly self complementary
+Dual: A D(3), WHC (1956)
+Groups: (4,5)
+2
+Plan: Repeat the plan of S106 three times.
+132

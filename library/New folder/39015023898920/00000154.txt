@@ -1,0 +1,245 @@
+TABLE VII. Semiregular group divisible designs - Continued
+λε
+b= 16
+=
+1
+= 40
+Solution: Unique; resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Groups: (2,5)
+Duplicate the plan of SR11.
+Design SR9:
+V=
+8,
+r =
+4,
+k = 2,
+m= 2,
+n = 4,
+λ₁
+=
+0,
+=
+8
+c₁ = 0, c₂ = 1/4, H= 6, ▲ =
+-
+E, .50, E,= .57, E = .54
+Solution: Unique; resolvable
+Complement: Not listed, r
+Dual: Design LS28
+= : 12
+Groups:
+(2,4)
+Plan:
+8
+6
+1
+4286
+1357
+2468
+1357
+5
+7
+1357
+8642
+3
+1357
+2
+7
+6884
+Design SR10: v= 8,
+m= 2,
+r = 8,
+n = 4,
+k = 2,
+λ₁
+= 0,
+20
+λε
+b= 32
+=
+22
+Plan:
+Design SR13: v= 12,
+r = = 6,
+k = 2,
+b= 36
+m= 2,
+n = 6,
+λ₁
+=
+€0,
+λ21
+=
+31
+CI
+=
+= 0, c₂= 1/6, H= 9, A 18
+E= .50, E,= .55, E= .52
+= 30
+Solution: Unique; resolvable
+Complement: Not listed, r
+Dual: Design LS74
+Groups: (2,6)
+Plan:
+642208
+12
+10
+11
+12
+135791
+422086
+135791
+135791
+11
+12
+10
+6
+11
+10
+12
+10
+220804
+135791
+208642
+10
+13579
+C86422
+13579
+86422
+12
+10
+11
+12
+11
+k = 2,
+λ₂ =
+0,
+b= 49
+2
+= 1
+=
+49/2
+b= 25
+A2 1
+=
+Design SR14: v= 14, r = 7,
+n = 7,
+m= 2,
+c₁ = 0, c₂ = 1/7, H= 21/2, A
+E,= .50, E,= .54, E= .52
+2
+Solution: Unique; resolvable
+Complement: Not listed, r = 42
+Dual: Design LS84
+Groups: (2,7)
+Plan:
+1
+c₁ = 0, c₂ = 1/4, H= 12, A = 32
+E= .50, E,= .57, E= .54
+=
+= 24
+Solution: Unique; resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Groups: (2,4)
+Plan: Duplicate the plan of SR9.
+Design SR11: v= 10, r = 5,
+с =
+1
+k = 2,
+m= 2,
+n = 5,
+λ₁
+0,
+=
+25/2
+0, c₂= 1/5, H= 15/2, A
+=
+E, .50, E, .56, E= .53
+Solution: Unique; resolvable
+Complement: Not listed, r = 20
+Dual: Design LS51
+Groups: (2,5)
+Plan:
+10
+9 6
+42086
+1
+6
+3
+4
+5 2
+7
+10
+9 8
+13579
+20804
+3 10
+13579
+13579
+86428
+13579
+9 10
+08642
+1 10
+5
+9 2
+Design SR12: v= 10, r = 10, k = 2,
+b = 50
+m= 2,
+= 5, A₁
+n=
+=
+0,
+2
+=
+52
+=
+c₁ = 0, c₂ = 1/5, H= 15, A 50
+= .50, E₂= .56, E = .53
+E-
+1 4
+14
+11
+357913
+5 12
+10
+357913
+2420864
+5 14
+12
+9 10
+11
+1357913
+24208
+14
+12
+10
+6424208
+11 12
+8642429
+1357913
+9 14
+6
+13 10
+1 10
+12
+14
+8
+6
+1357923
+2086424
+1357913
+PRO+242
+1357913
+14
+12
+10
+12
+10
+13 14
+11
+4208642
+142

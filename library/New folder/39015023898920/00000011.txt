@@ -1,0 +1,92 @@
+Preface.......
+Chapter I.
+Contents
+Introduction to the Tables.......
+Chapter II. The Classification of Designs………
+Chapter III.
+Table 0.
+Analysis of Partially Balanced Designs........
+Table I.
+Table II.
+Auxiliary Table for Identifying Designs of Potential Interest According to
+the Magnitudes of Parameters k and v…………………………………..
+Glossary and Notation.......
+Association Schemes for Catalogued Designs…………..
+A. Group Divisible Association Schemes, (m, n).
+B. Triangular Association Schemes……………………….
+Page
+V
+1
+7
+27
+74
+79
+83
+83
+92
+C. Latin Square Types of Association Schemes..
+D. Cyclic Type Association Schemes.......
+93
+97
+Table III.
+Sets of Blocks Constituting Replications for Partially Balanced Designs
+Based on Group Divisible and Latin Square Types of Association
+Schemes.....
+98
+Table IV.
+Singular Group Divisible Designs: Parameters and Auxiliary Informa-
+tion.......
+103
+Table V.
+Table VI.
+Singular Group Divisible Designs…....
+107
+Semiregular Group Divisible Designs: Parameters and Auxiliary In-
+formation.......
+137
+Table VII.
+Semiregular Group Divisible Designs....
+141
+Table VIII.
+Regular Group Divisible Designs: Parameters and Auxiliary Informa-
+tion.........
+173
+Table IX.
+Table X.
+Regular Group Divisible Designs..
+181
+Partially Balanced Designs Based on Triangular Association Schemes:
+Parameters and Auxiliary Information………………..
+230
+Table XI.
+Table XII.
+Partially Balanced Designs Based on Triangular Association Schemes...
+Partially Balanced Designs Based on Latin Square Types of Associa-
+tion Schemes: Parameters and Auxiliary Information.......
+Table XIII. Partially Balanced Designs Based on Latin Square Types of Associa
+tion Schemes....
+234
+255
+260
+Table XIV.
+Partially Balanced Designs Based on the Cyclic Type of Association
+Scheme: Parameters and Auxiliary Information......
+289
+Table XV.
+Partially Balanced Designs Based on the Cyclic Type of Association
+Scheme......
+290
+Table XVI.
+Partially Balanced Designs Based on Partial Geometries: Parameters
+and Auxiliary Information......
+295
+Table XVII. Partially Balanced Designs Based on Partial Geometries...
+296
+Table XVIII. Miscellaneous Partially Balanced Designs: Parameters and Auxiliary
+Information.......
+301
+Table XIX. Miscellaneous Partially Balanced Designs..
+303
+References.....
+312
+ix

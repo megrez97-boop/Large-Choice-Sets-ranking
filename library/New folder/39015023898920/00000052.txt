@@ -1,0 +1,66 @@
+ever, the calculations proceed quite routinely and easily using a desk calculator, especially for the smaller
+designs and for larger designs whenever the association schemes are utilized to simplify calculations as
+indicated in section 3. Data analyses are given here for two types of designs, the group divisible design with
+model 1 structure and the triangular design with replications orthogonal to the blocks (with a model 3
+structure).
+4.1. Illustrative example No. 1; desk calculator computation. Suppose an experimenter wants to inter-
+compare t 15 treatments in blocks of size k=4. Reference to Table 0 under the section headed k=4,
+shows that there is one design with v= 15 and r=4 and several other larger designs with r=8. The smaller
+design, R114, is then found in Tables VIII and IX where the parameters, computational constants, efficiency
+factors and plan are given. The association scheme (or groups) is identified as groups (5, 3) of section A,
+Table II. The details are
+v = 15,
+c₁ = 0,
+r = 4,
+C₂ = 4/15,
+k = 4,
+b = 15,
+m = 5,
+n = 3,
+λ₁ = 0,
+λ₂ = 1
+H = 27/4,
+A = 45/4
+-
+E, 0.75,
+E₂ = 0.80,
+E = 0.80
+The association scheme is given by the 5×3 array of treatment symbols;
+1 6
+11
+2
+7
+12
+3
+8
+13
+4
+9
+14
+5 10
+15
+it contains the information that any pair of treatments occurring in the same row of the association scheme
+are first associates and never occur together in any block of the design (λ₁ =0), while any two treatments
+from different rows are second associates and occur together in just one block (^2=1). The efficiencies
+for the two kinds of treatment pairings are E₁ = 0.75 and E₂ = 0.80, averaging E=0.80 overall, are attractive
+to the experimenter and the economy of a small design requiring only N=vr=60 experimental units overall
+= 105 treatment differences.
+The computational details for the analysis of this design are illustrated with data taken from Chapter II of
+BCS (1954), and differ from the analysis given there only in a few numerical values.
+is even more attractive considering that he could possibly have interest in all (
+(15)
+2
+The experimental plan given in Table 7 is that of R114 Table IX after subsets of four experimental units
+have been randomly assigned to the block symbols (j) and the treatments of the blocks have been randomly
+assigned to the experimental units within the blocks. The details of the analysis are subdivided into 5 steps.
+Step. 1. Preparation of the experimental plan and treatment plan and associated calculations. The
+experimental plan, Table 7, shows the block number in the first column. In the second column opposite
+each block number (and in the same row) are given the treatments appearing in this block, and below each
+treatment number is shown the corresponding observed yield. For example, the experimental unit carrying
+the treatment 9 in block (1) gave a yield of 2.5. The third column of the experimental plan shows the block
+totals, B,, obtained by adding the yields of all the experimental units in the block. Thus B₁ = 9.5 is obtained
+by adding the four yields 2.4, 2.5, 2.6, 2.0. The last column of the experimental plan gives the block average,
+B/k, obtained by dividing the corresponding item in the previous column by k. The total of the third column
+gives the grand total, G, of all the observations. This is 164.0 in Table 7. Finally below the last column is
+entered the grand mean, G/N, for later use (N= vrbk being the total number of experimental units).
+40

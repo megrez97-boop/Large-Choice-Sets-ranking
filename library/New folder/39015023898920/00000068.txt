@@ -1,0 +1,71 @@
+(e) S2 Total sum of squares
+(93.71)2
+= (2.54)²+(2.89)2+...+ (2.03)2 —.
+-
+40
+=226.5727-219.5391
+= 7.0336
+is obtained by taking the sum of squares of all the observed yields and subtracting the correction factor,
+G2IN.
+(f) S2="Error sum of squares"
+=
+= Total sum of squares -S-S2-S
+=7.0336-0.7467-3.2284 - 1.4234
+= 1.6351
+(g) The treatment mean square, s2=0.082967, and error mean square, s2=0.09084, are obtained by
+dividing the corresponding sums of squares s2, s2 by the respective degrees of freedom, and finally the F-ratio
+s/s2 is obtained by dividing the treatment mean square by the error mean square.
+We thus get the following intra-block analysis of variance table.
+TABLE 20
+INTRA-BLOCK ANALYSIS OF VARIANCE
+(REPLICATIONS ORTHOGONAL TO BLOCKS)
+Source of
+variation
+Degrees of
+freedom
+Sum of squares
+Treatments
+v-1=9
+S2=0.7467
+Mean square
+F-ratio
+s2=0.08297
+0.193
+(adjusted)
+Blocks
+b-1=9
+St2=3.2284
+(unadjusted)
+Replications
+Error
+r'-1=3
+N-b-v-r'
++2=18
+Sz=1.4234
+S² = 1.6351
+s2=0.4745
+s2=0.09084
+5.22
+Total
+N-1=39
+S2=7.0336
+F= s2/s2=0.913
+The F-ratio for testing the significance of the treatment effects is less than one and is not significant, while
+that for replication effects is significant at the a=0.05 level.
+The estimate of the variance of a treatment effect estimate is given by
+V (îi):
+=
+n₁ (k − c₁)+ną (k − C₂)
+vr (k-1)
+-
+s2
+64
+6 (4-15)+3(4-15) 0.09084
+10(4)(3)
+8
+41
+=
+150
+(0.09084)
+= = 0.02483.
+56

@@ -1,0 +1,68 @@
+5_12
+1 8
+5
+12 6 13
+6
+13
+6
+13
+7 14
+2
+9
+7
+14
+7
+14
+1
+8 3 10
+the SGD design with parameters
+v = 14,
+r=3,
+b=7,
+k=6,
+λ=3,
+m=7,
+λ2 = 1,
+n=2.
+In BCS (1954) one plan or solution is presented for each of the 124 possible parametric specifications
+for the SGD designs of the subclass defined by r≤ 10. Due to the combinatorial uniqueness of the balanced
+incomplete block [briefly D(1)] designs on which the SGD designs necessarily depend, there are 93 cases
+for which the BCS (1954) plans are unique (up to an isomorphism) and hence completely solved. In the
+present publication, Tables IV and V contain multiple plans or solutions for 20 of the 28 cases for which it
+is known that multiple (combinatorially distinct) plans are possible. There are two cases for which uniqueness
+is undecided in that the uniqueness status of the corresponding D(1) design is still unknown.
+Table IV does not contain a "Literature Sources" section because the source is either BCS (1954) or
+the additional (solutions) plans are given for the first time in this volume.
+4. Construction of semi-regular group divisible designs. Bose, Shrikhande and Bhattacharyya (1953)
+[hereafter briefly referred to as BSB (1953)] have made a far-reaching but not exhaustive study of the con-
+struction of group divisible designs. Their treatment of the SRGD designs is highly systematic and utilizes
+in many instances the combinatorial arrangements known as orthogonal arrays. Their work forms the basic
+source for all SRGD designs given by BCS (1954), which included all parametric specifications, except for
+one inadvertent omission, of the subclass of SRGD designs having 3 ≤ k ≤ 10 and 2 < r < 10. For these 91
+cases BCS (1954) gave one solution or plan each. However, these designs are also capable of multiple solu-
+tions in 22 instances and these are indicated in our Table VI and presented in our Table VII. It was deter-
+mined that there are 28 parametric specifications for SRGD designs which give unique solutions including
+the 17 cases for which the blocks are of size k=2. The latter designs were constructed by Clatworthy (1955)
+who also provided new solutions for designs SR 24, 29, 51, 110. Other distinct plans were taken from publica-
+tions by Bose and Nair (1939), Connor (1952), BSB (1953) [to replace the invalid solution for BCS (1954)
+design SR 31], P. M. Roy (1954b, 1954c), John (1966), Clatworthy (1967) and adapted for the standardization
+of association schemes and mode of display utilized in the present publication. There are 56 cases for which
+the uniqueness status is unknown.
+บ
+Every blocked design has a treatment structure and a block structure. If we construct the v× b incidence
+matrix N (ny), where
+nij
+=
+if the treatment labeled i occurs in the block labeled j
+0 otherwise
+the v× v matrix NN' (N' being the transpose of N) provides a description of the treatment structure of the
+design while the b×b matrix N'N provides a description of its block structure (i.e., tells how many treat-
+ments every pair of blocks has in common). The design whose incidence matrix is N' is called the dual of
+the design with incidence matrix N. The design with incidence matrix N' may not be any recognizable design.
+If the design with incidence matrix N' has the same parameters as the design with incidence matrix N, we
+the original design is self dual. If the two designs are also isomorphic we say the original design is truly
+self dual. We might remark that there do exist cases of D(2) designs that are self dual but nonisomorphic.
+say
+The SRGD designs having r, k≤ 10 are strongly related through their duals to the balanced incomplete
+block [D(1)] designs in some instances, to various D(2) designs based on Latin square types of association
+11

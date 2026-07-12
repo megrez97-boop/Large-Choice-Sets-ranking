@@ -1,0 +1,213 @@
+TABLE VII. Semiregular group divisible designs - Continued
+Plan:
+8
+9
+7
+168
+645
+123
+3
+699
+347
+125
+7
+945
+8
+7
+836
+125
+Design SR26: v= 12, r = 4,
+k = 3,
+b= 16
+m= 3,
+n = 4,
+λ₁ = 0,
+λ₂
+= 1
+To construct, use
+8
+Set 3.1
+once
+Set 3.3
+once
+Set 3.4
+once
+Each set constitutes a complete
+replication.
+Design SR24: v= 9,
+r = 6,
+k= 3,
+b= 18
+m 3,
+n = 3,
+λ =
+· 0,
+1, = 2
+c₁ =
+=
+24
+0, c₂= 1/3, H= 10, A
+E, .67, E,
+.75, E = .73
+Solution 1: As given by BCS (1954); nonunique;
+Complement: Not listed, r
+resolvable
+Dual: A D(3), WHC (1956)
+Groups: (3,3)
+== 12
+Plan: Duplicate the plan of SR23.
+Solution 2: Nonunique; resolvable
+Complement: Not listed, r = 12
+Dual: Not a D(x), x = 1, 2,
+Groups: (3,3)
+3
+0, c₂
+1/4, H= 20/3, A = 32/3
+E,= .67, E,= .73, E= .71
+Solution 1: As given by BCS (1954); nonunique;
+resolvable
+Complement: Not listed, r = 12
+Dual: Design LS29, Solution 1 or design LS36,
+Solution 1
+Groups: (3,4)
+Plan:
+1 12 11
+1389
+2722
+6 10
+1564
+3756
+2804
+9 10
+1291
+9235
+8612
+1704
+8
+9 11
+2 12 10
+10 11
+6479
+5312
+1892
+4 12
+Plan:
+868
+947
+987
+2
+257
+143
+399
+258
+147
+546
+132
+589
+367
+142
+9
+836
+125
+168
+625
+143
+7
+Solution 2: As given by the dual of design LS29,
+Solution 2; nonunique; 2-resolvable
+Complement: Not listed, r = 12
+Dual: Design LS29, Solution 2 or design M16
+Groups: (3,4)
+Plan: 1
+1443852
+10
+25690Ort
+3
+6
+8
+9 11
+11
+8 10 12
+7 12
+11223365
+814647
+12
+4 12
+6 10
+92205
+8
+7 11
+7
+9
+9
+10
+Design SR25: v=9,
+m= 3,
+r = 9,
+n = 3, A₁
+=
+k= 3,
+0, A2
+b= 27
+= 3
+c₁ = 0, c,= 1/3, H= 15, A = 54
+E,= .67, E,= .75, E = .73
+Solution 1: As given by BCS (1954); nonunique;
+resolvable
+Complement: Not listed, r
+= 18
+Dual: A D(3), WHC (1956)
+Groups: (3,3)
+Plan: Repeat the plan of SR23 three times.
+Solution 2: Nonunique; resolvable
+Complement: Not listed, r
+= 18
+Dual: Not a D(x), x = 1, 2, 3
+Groups: (3,3)
+Plan:
+Design SR27: v= 12, r = 8,
+m= 3, n = 4,
+A₁
+k = 3,
+= 0, λ₂
+b= 32
+=
+321
+128/3
+c₁ = 0, c₂ = 1/4, H= 40/3, A =
+E,= .67, E,= .73, E = .71
+Solution 1: Nonunique; resolvable
+Complement: Not listed, r =24
+Dual: A D(3), WHC (1956)
+Groups: (3,4)
+Plan: Duplicate the plan of SR26, Solution 1.
+Solution 2: Nonunique; 2-resolvable
+Complement: Not listed, r = 24
+Dual:
+A D(3), WHC (1956)
+Groups: (3,4)
+958
+247
+136
+9
+868
+257
+143
+369
+7
+978
+564
+123
+169
+583
+142
+2
+3
+589
+258
+367
+147
+142
+2 7
+(Plan continued on next page)
+145

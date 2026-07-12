@@ -1,0 +1,303 @@
+TABLE XIX. Miscellaneous partially balanced designs - Continued
+Design M20:
+C 1
+=
+5/16,
+C 2
+v = 16,
+ni
+=
+=
+10, n
+r = 5,
+k
+= 5,
+b
+5,
+入​,
+=
+2, λε
+3
+=
+P‚-{ 6 ³]
+=
+6
+=
+=
+P‚= [ ' ¦]
+-5/24, H= 8, A =
+E, .85, E, .77, E
+= .82
+Solution: Nonresolvable
+Complement: Not listed, r
+Dual:
+= 11
+384/25
+Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Association Scheme:
+Plan:
+Type NL, (4) of Mesner
+(1967) provided the assoc-
+iate classes are inter-
+changed; obtainable from
+the plan.
+5764132
+4631124
+32110328
+21098275534
+18975642334
+13
+13
+14
+4 9
+12
+15
+5
+10
+5
+15
+11
+12 6
+9
+7
+16
+10 16
+6 8
+13
+8
+15 11
+16
+16
+13 14
+10
+9
+12 15
+11 14 7 16
+16
+0
+Plan:
+7812345645
+34567812345
+12345678 o
+1234ST∞
+5 15 16 10
+6 16 9 11
+8
+9
+2 12
+13 15
+1 10
+3 13 14 16
+2 11
+4 14 15 9
+3 12
+4 13
+5
+5 14
+6
+7 9 10 12
+6 15
+7 8 10 11 13
+7 16
+8 1 11 12 14
+9 13 14 1
+10 14 15 2 7
+11 15 16 3 8
+12 16 9 4 1
+6
+17 10 13
+17 11 14
+17 12 15
+4 6
+5
+7
+6 8
+17 13 16
+7
+1
+17 14 9
+8
+2
+13 9 10 5
+14 10 11
+15 11 12 7
+16 12 13 8
+9 11
+Design M23:
+C₁ =
+E,
+1/9, Cz
+= .82, E,
+Solution:
+2
+123457
+17 9 12 3 5
+17 15 10 1 3
+13
+15 17
+17 16 11
+17 10 12 14
+2 4
+16
+V = 45, r = 6,
+12, n
+n₁ =
+k = 5, b
+= 54
+32, A
+=
+2, λη
+9
+=
+22
+=
+8
+=
+P.-[324] P.-[32]
+=
+-1/3, H= 48/5, A = 108/5
+= .75, E = .77
+3-resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+= 48
+Association Scheme: Same as design PG4
+Plan: Duplicate the plan of PG4.
+Design M21:
+с
+=
+E,
+=
+5/16, c
+.85, E
+Solution:
+V =
+16,
+r =
+n₁ =
+10, k = 5,
+10, n₂ = 5,
+P₁ = 6 3]
+1
+2
+A
+=
+4,
+b = 32
+λη
+=
+6
+P₁ = [ ' ¦]
+2
+=
+C 2 -5/24, H= 16, ▲ = 1536/25
+=
+2
+.77, E = .82
+5-resolvable
+Complement: Not listed, r = 22
+Dual:
+A D(3), WHC (1956)
+Association Scheme: Same as design M20
+Plan: Duplicate the plan of M20.
+Design M22:
+C₁ =
+=
+v =
+1
+=
+17,
+8,
+r = 10,
+8, λι
+n₂ =
+P₁ =[34]
+Р
+=
+k
+=
+: 0
+32
+5,
+b
+=
+34
+=
+3,
+λε
+=
+4 4
+P₁ = [ + ]
+Р
+2
+305/901, c2 205/901, H = 17, A = 1802/25
+E, .86, E₂ = .84, E
+Solution:
+2
+= .85
+Nonresolvable
+= 24
+Complement: Not listed, r
+Dual:
+Not a D(x), x = 1, 2, 3
+Association Scheme: Not specified
+Design M24:
+v = 45, r = 9,
+k = 5,
+b = 81
+32, A, 3, λε
+=
+= 0
+=
+1/9, C
+n₁ =
+=
+12, n
+8
+=
+91
+P. 323] P.-[32]
+P,
+24
+=
+-1/3, H= 72/5, A = 243/5
+E,= .82, E, = .75, E = .77
+Solution:
+3-resolvable
+Complement: Not listed, r = 72
+Dual: A D(3), WHC (1956)
+Association Scheme: Same as design PG4
+Plan: Repeat the plan of PG4 three times.
+Design M25:
+v =
+ni
+=
+85,
+20, n
+r =
+3 16
+P
+1
+48
+C₁ =
+1/17, C₂
+=
+=
+10, k
+64, λι
+22
+= 5, b = 170
+=
+2, A₂ = 0
+P,= [ 515]
+2
+-3/17, H= 84/5, A = 68
+E,= .81, E, = .77, E = .78
+Solution:
+5-resolvable
+Complement: Not listed, r = 160
+Dual: A D(3), WHC (1956)
+Association Scheme: Same as design PG6
+Plan: Duplicate the plan of PG6.
+307

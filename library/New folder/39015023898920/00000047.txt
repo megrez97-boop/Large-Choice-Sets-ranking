@@ -1,0 +1,74 @@
+and in which it is assumed that the block effects are random and identically distributed N(0, σ%), we have
+the following auxiliary table:
+TABLE 6
+AUXILIARY TABLE FOR INTER-BLOCK ANALYSIS OF VARIANCE
+(WITH REPLICATION GROUPS ORTHOGONAL TO BLOCKS)
+Source of
+Sum of squares
+variation
+Degrees of
+freedom
+Expectation of the
+sum of squares
+Treatments
+(unadjusted)
+G2
+v-1
+S'
+-
+r
+N
+1
+Blocks
+(adjusted)
+b-1
+St (by subtraction)
+(b−1)σ²+(N−v)σ?
+Replication
+groups
+r'-1
+St (Transfer from Table 3)
+Error
+N−b-v−r'+2 S2 (Transfer from Table 3)
+(N-b-v-r'+2)σ²
+Συ
+Σvi-a
+N
+Total
+N-1
+(Transfer from Table 3)
+As before, we estimate of and σ² by equating S and S2 to their expectations and then estimate w and
+w' by (3.24) and (3.25) and use these estimates for w and w' in the equations of estimation and the formula
+for variance.
+3. Use of the association schemes in data analysis. Prior to the introduction of the association schemes
+by Bose and Shimamoto (1952) the computations in the analysis of data arising from the D(2) type of designs
+was rather tedious, especially the evaluation of the v values for S₁ (Qi) for intra-block analyses and the
+corresponding values S₁ (Pi) for the combined intra- and inter-block analyses. The association schemes
+make possible the analyses in the forms given in section 4.1 and 4.2. We shall describe in this section how
+to utilize the association schemes for D(2) type designs to calculate the quantities S₁ (Qi) and S₁ (P₁) for
+i=1, 2,..., v.
+When digital computers are used, the special features described in this section are of no special interest,
+because an analysis based on general linear regression theory (which is in no way dependent on the clas-
+sification of designs as group divisible, triangular, etc.) is appropriate. Further, a well designed computer
+program will give variances for block effect estimates that are not available from the formulas prepared for
+hand computing.
+3.1. Group divisible designs. The association schemes for this very large class of D(2) designs are called
+groups and are identified as "group (m, n)," meaning an mXn array of treatment symbols 1,2, . . ., v sys-
+tematically arranged in m rows (groups) of n distinct treatments per group. The groups listed in Section A
+of Table II are standardized and the group (m, n) is of the form
+1
+m+1
+2
+m+2
+2m+1
+2m+2
+...
+(n-1)m+1
+(n-1)m+2
+2m
+3m
+•
+nm
+After the Qi (i = 1, 2, . . ., v) have been calculated, one can consider the computation of the best intra-
+block estimates, ti, of the treatment effects according to (3.10)
+35

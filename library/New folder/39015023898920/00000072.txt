@@ -1,0 +1,134 @@
+TABLE 22
+AUXILIARY TABLE FOR CALCULATING S₁(P₁)
+Row Sum
+x
+1
+-2.3092
+2
+3
+4
+-3.2864
+- 1.4128
+1.1776
+-5.8308
+1
+x
+5
+- 2.3092
+-5.0572
+6
+3.4305
+7
+3.3126
+-0.6233
+2
+-3.2864
+5
+x
+-5.0572
+8
+11.7343
+9
+-5.5852
+-2.1945
+3
+6
+8
+x
+- 1.4128
+3.4305
+11.7343
+10
+-2.0041
+11.7479
+4
+1.1776
+7
+9
+3.3126 -5.5852
+10
+-2.0041
+x
+-3.0991
+Column
+Sum
+-5.8308 -0.6233
+-2.1945
+11.7479
+-3.0991
+x
+The values of S₁(Pi) are entered in column (5) of Table 23. From (3.30) the combined intra- and inter-
+block estimate, t, of the treatment effect, ti, is given by
+(3.46)
+k-d₂
+r{w'+w(k-1)}
+= aPi+BS₁(Pi)
+Pi+
+di-d₂
+r{w'+w(k-1)}
+S₁(Pi)
+where a=0.02539, B=-0.001491.
+Then (3.46) is used to calculate the entries for t in Table 23. A check is obtained by recalling that all
+columns except the first should add up to zero.
+TABLE 23
+COMBINED INTRA- AND INTER-BLOCK ESTIMATES
+OF TREATMENT EFFECTS
+Treatment i
+Qi
+Pi
+S₁(P)
+10
+1234567898
+-0.2700
+0.2990
+-0.2500
+-0.2410
+-2.3092
+-3.2864
+-1.8357
+-0.05590
+-1.4525
+-0.08128
+-0.1075
+-0.1035
+- 1.4129
+8.7427
+-0.04890
+0.2225
+-0.5725
+-0.5735
+0.5615
+1.1776
+-5.0572
+- 11.2854
+0.04671
+0.3350
+-0.1160
+3.4305
+7.2966
+4.2636
+-0.13927
+0.08075
+0.4250
+-0.6160
+3.3126
+- 10.3476
+0.09952
+1.0450
+0.1040
+11.7343
+- 13.9452
+0.31867
+-0.6250
+0.5840
+-5.5852
+5.8768
+-0.15056
+-0.2025
+0.1015
+-2.0041
+12.6570
+-0.06974
+For the combined intra- and inter-block analysis there is no exact test of the hypothesis of the equality of
+treatment means, but when this hypothesis is true, the quantity ΣP; is approximately distributed as x²
+60

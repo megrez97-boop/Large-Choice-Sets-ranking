@@ -1,0 +1,60 @@
+where
+(3.42)
+k-di
+a' =
+and
+r { w' + w(k − 1 ) }
+B'
+-
+d₁-d2
+r { w'+w(k−1)}
+As before, it is convenient to calculate the combined intra- and inter-block treatment effect estimates,
+t'i, by use of an auxiliary v-rowed computational table whose headings are
+Treatment
+number i
+Pi
+G
+i
+3.2. Triangular designs. The standardized triangular association schemes listed in section B of Table II
+are designated by T(n) where n is the parameter defining the scheme. For these association schemes there
+are v=n(n−1)/2 treatments where n ≥ 5 is a positive integer. The v treatment symbols 1, 2, 3, . . ., v are
+entered successively above the main diagonal of an n× array in which the main diagonal is blanked out
+and then the array is completed so as to be symmetrical. Thus the standardized triangular scheme T(5)
+has v = 10 treatments arranged in a 5 × 5 array as shown.
+1 2 3 4
+1
+2 5
+5 6
+7
+*
+8
+9
+*
+10
+3 6 8
+4 7
+7 9 10
+For the intra-block estimates, ti, of the treatment effects suppose we have already calculated the Qi but
+now need the S, (Qi) in order to employ eq (3.10) to calculate (i = 1, 2, . . ., v). Again use the association
+scheme, placing the Q; alongside the corresponding treatment symbol i. Then form row and column sums
+in the marginal positions. Recall that S₁ (Qi) is the sum of the adjusted treatment yields for all treatments
+which are first associates of a given treatment i. Since in a triangular association scheme the first associates of
+any treatment i are exactly those treatments that lie in the same rows as treatment i and in the same columns,
+the quantity S. (Qi) is the sum of the marginal subtotals of the row and column containing treatment i,
+less 2Qi. Thus if n=5 and i=6 in the above scheme, then S, (Q6) will be the second row total plus the fourth
+column total less 2Q6. Once the S, (Qi) are calculated they are entered in an auxiliary v-rowed computational
+table whose first column consists of the treatment symbols; the second and third columns consist of the
+corresponding Qi and S₁ (Qi). One can then use eq (3.10) to compute the fourth column consisting of î¿.
+For the combined intra- and inter-block treatment effects estimates, î, one uses the triangular associa-
+tion scheme with entries Pi, calculated from (3.26), placed beside treatment i and then calculates the S₁ (Pi)
+in precisely the same way as the S₁ (Qi) for i = 1, 2, . . ., v. Knowing the S₁ (Pi), one can set up a v-rowed
+auxiliary table with column headings i, Pi, S₁ (Pi) and ↑ and use eq (3.30) to calculate the entries of the
+the fourth column.
+3.3. D(2) designs based on Latin square types of association schemes. Recall that an L,(n) type associa-
+tion scheme, 2<I≤n−1, n> 3, requires 1-2 mutually orthogonal Latin squares for its definition. It
+consists of an n×n array of the treatment symbols 1, 2, . . ., v=n² written in the order of the printed page
+with the 1-2 sets of Latin square symbols from the 1-2 mutually orthogonal Latin squares superposed on
+the square array. The association schemes of type L, (n) used in this volume, unless otherwise specified,
+consist of the standardized schemes presented in section C of Table II. Thus in each (i, j)-cell of the as-
+sociation scheme one will find one (unique) treatment symbol and I-2 different "kinds" of Latin letters,
+37

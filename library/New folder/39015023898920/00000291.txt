@@ -1,0 +1,249 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes - Continued
+Design LS96: v = 49,
+E
+=
+1/7, C:
+= .87, E,
+n₁ = 12,
+=
+r = 10, k =
+ก.
+6
+=
+P₁ = 530]
+Р
+36, λ,
+b
+=
+=
+5,
+A₂
+=
+70
+0
+10
+P₁ = [220]
+2
+-5/7, H= 15, A = 50
+= .78, E = .80
+Solution: Unique; resolvable
+Complement: Not listed, r = 60
+Dual: A D(3), WHC (1956)
+Association Scheme:
+L₂(7)
+Plan: Repeat the plan of LS84 five times.
+Design LS97: v=
+CI
+Ei
+=
+3/14, C
+n₁ =
+=
+49,
+25
+r = 10,
+k
+=
+7,
+b =
+70
+λ,
+=
+2, λε
+= 1
+10
+25
+12, n, = 36,
+5 6
+P,{
+=
+30
+P‚= [ 2 29]
+2/21, H = 17, A = 72
+= .88, E, .87, E = .87
+Solution:
+Resolvable
+Complement: Not listed, r
+= 60
+Dual: Irregular
+Association Scheme:
+L₂(7)
+Plan: To construct, use
+Set 7.1 twice
+Set 7.5
+once
+Set 7.2 twice
+Set 7.6
+once
+Set 7.3 once
+Set 7.7
+once
+Set 7.4 once
+Set 7.8 once
+Each set constitutes a complete
+replication.
+Design LS98: v=
+16,
+n₁ = 6,
+r = 6,
+n:
+=
+P₁ = 2 3]
+9,
+k = 8, b
+4, λε
+2
+λι
+=
+= 12
+=
+P‚= [ ² 4]
+2
+Plan:
+1
+2 3 4 5 6
+9
+11
+12
+10
+13 14
+7 8
+15 16
+1
+4
+9 10
+11 12
+8 13
+14 15 16
+5
+37
+26
+15
+37
+26
+15
+355
+3
+2
+3 4 13 14 15 16
+7 8
+9 13
+11 15
+5 9 13
+6
+10 14
+9 10 11 12
+6 10 14
+8 12 16
+7 11 15
+8 12 16
+13
+12
+57
+1
+5 9 13
+2
+6 10 14
+24
+34
+43
+8 12 16
+7 11
+15
+Design LS99: v = 16, r = 9,
+k =
+8,
+b: = 18
+= 9, =
+n:
+6,
+λι
+=
+5,
+4
+λε 3
+3
+=
+Р
+C₁ =
+9/16, C₂
+=
+P₁ = [ 6 ³]
+P. P.-
+11/32, H = 17, A = 72
+E, .94, E, = .91, E = .93
+=
+2
+Solution 1: As given by Clatworthy (1967);
+nonunique; resolvable
+Complement: Truly self complementary
+Dual: Design SR100, Solution 1
+Association Scheme: L,(4)
+Plan: To the 12 blocks of design LS98 annex the
+following six blocks:
+1 6 11 16 2
+5 12 15
+3
+8 9 14
+4
+7 10 13
+12
+1
+6 11 16
+2
+5 12 15
+87
+34
+8 9 14
+7 10 13
+12
+1
+6 11 16 4
+2 5 12
+15 3
+78
+43
+7 10 13
+8 9 14
+CI
+=
+13/20, c₂
+=
+3/10, H=
+11, A = 30
+=
+E, .95, E, .91, E = .93
+Solution:
+Affine resolvable
+Complement: Truly self complementary
+Dual: Design SR69, Solution 3
+Association Scheme:
+L₂(4)
+Solution 2: Nonunique; resolvable
+Complement: Truly self complementary
+Dual: Design SR100, Solution 2
+Association Scheme: L;(4)
+Plan: To the 12 blocks of design LS98 annex the
+following 6 blocks:
+1 6 11 16 2 7 12 13
+3
+8 9 14 5 10 15 4
+2
+12
+12
+6 11
+34
+16
+13
+12
+7 12 13
+6 11 16
+63
+2 7 12 13
+8 9 14
+5 10 15
+4
+43
+5 10 15
+8 9 14
+279

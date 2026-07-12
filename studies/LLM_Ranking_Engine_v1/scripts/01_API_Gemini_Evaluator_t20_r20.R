@@ -10,8 +10,21 @@ library(httr)
 library(FielDHub)
 
 # --- 1. Settings & Path ---
-base_dir <- "C:/Users/User/Documents/R/Thesis/studies/LLM_Ranking_Engine_v1"
-# Set working directory to base_dir automatically if needed
+if (rstudioapi::isAvailable()) {
+  try(setwd(dirname(rstudioapi::getActiveDocumentContext()$path)), silent = TRUE)
+}
+find_project_root <- function() {
+  curr <- getwd()
+  for (i in 1:5) {
+    if (dir.exists(file.path(curr, "studies"))) {
+      return(curr)
+    }
+    curr <- dirname(curr)
+  }
+  return(getwd())
+}
+proj_root <- find_project_root()
+base_dir <- file.path(proj_root, "studies/LLM_Ranking_Engine_v1")
 setwd(base_dir)
 
 excel_path <- file.path(base_dir, "data for thesis", "data partition -  only 20.xlsx")
@@ -303,7 +316,7 @@ if (length(all_models_final_results) > 0) {
     sorted_items <- avg_ranks$TREATMENT[order(avg_ranks$rank, decreasing = FALSE)]
     global_rankings[[r]] <- as.character(sorted_items)
   }
-  output_dir <- "C:/Users/User/Documents/R/Thesis/studies/replication_convergence"
+  output_dir <- file.path(proj_root, "studies/replication_convergence")
   if (!dir.exists(output_dir)) dir.create(output_dir, recursive = TRUE)
   output_rds <- file.path(output_dir, paste0("gemini_global_rankings_t20_r", max_r_actual, ".rds"))
   saveRDS(global_rankings, output_rds)

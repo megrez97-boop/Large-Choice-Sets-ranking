@@ -1,0 +1,78 @@
+TABLE V. Singular group divisible designs -
+– Continued
+Design S122: v= 50, r = 9,
+k = 10,
+b= 45
+m 10, n= 5,
+λι
+-
+9,
+2
+= 1
+c₁ = 1, c₂ = −11/25, H= 14, A = 45
+E, 1.00, E, .86, E= .87
+Solution: Unique; resolvable
+Complement: Not listed, r = 36
+Dual: Design T90
+Groups: (10,5)
+Plan: In a resolvable plan for the combinatori-
+ally unique BIB design (10,45,9,2,1),
+replace each treatment with a group of
+n = 5 distinct treatments given by the
+groups of the association scheme (10,5)
+of Table II.
+Design S123:
+v = 55, r =
+m 11, n = 5,
+10,
+λ₁
+=
+k = 10,
+10, A2
+b= 55
+= 1
+55
+=
+c1, c2=-26/55, H= 31/2, A
+=
+E, 1.00, E₂ = .86, E = .87
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 45
+Dual: Design T100
+Groups: (11,5)
+=
+Plan:
+In a 2-resolvable solution for the combin-
+atorially unique BIB design (11,55,10,2,1)
+replace each treatment with a group of
+n = 5 distinct treatments given by the
+groups of the association scheme (11,5)
+of Table II.
+Design S124:
+CI
+E,
+=
+v =
+82,
+r =
+10,
+m 41, n = 2, A₁
+k = 10, b= 82
+=
+10, A2 = 1
+1, c₂ = 1/82, H= 91/5, A = 82
+1.00, E₂ = .90, E= .90
+Solution:
+5-resolvable
+Complement: Not listed, r = 72
+Dual: Design M42
+Groups: (41,2)
+Plan: In a 5-resolvable plan for the BIB design
+(41,82,10,5,1), a solution for which is
+given by developing modulo 41 the two ini-
+tial blocks 1 37 16 18 10, 8 9 5 21 39,
+replace each treatment with a group of
+n = 2 distinct treatments given by the
+groups of the association scheme (41,2)
+of Table II.
+136

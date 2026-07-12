@@ -1,0 +1,189 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes – -
+Continued
+=
+Design LS47: v = 169, r =
+8,
+k
+=
+4,
+b = 338
+n₁ = 24, n₂ =
+144,
+λι
+=
+1,
+λε 0
+P₂
+2
+=
+=
+=[222]
+=
+121
+169/8
+Solution 1: As given by BCS (1954); nonunique;
+nonresolvable
+Complement: Design LS26, Solution 1
+Dual: Truly self dual
+Association Scheme: L₂(3)
+Plan:
+c, = 4/169, c₂
+Ει
+=
+.75, E,
+=
+Pi
+11 12
+132
+-44/169, H= 39/4, ▲
+.70, E = .71
+Solution: Unique; 4-resolvable
+Complement: Not listed, r = 330
+Dual: Not a D(x), x = 1, 2
+Association Scheme: L₂(13)
+Plan: Utilize the BIB design (13,13,4,4,1),
+whose unique solution is obtained by
+developing the initial block 1 3 4 8
+modulo 13, as a model for constructing BIB
+designs, one from the treatments of each
+row and one from the treatments of each
+column of the L₂(13) association scheme.
+The 2(13)(13) = 338 blocks so obtained
+constitute a solution for the present
+design. Careful placement of the treat-
+ments within blocks leads to a 4-
+resolvable plan with two replications for
+each position within blocks.
+Design LS48: v = 256, r = 10, k
+C₁ = 1/64, C2
+n,= 30, n,= 225, λ,
+=
+4,
+b = 640
+=
+=
+1, λ, 0
+P.-[1415] P.-[218]
+=
+210
+-7/32, H= 12, A = 32
+E,= .75, E, = .71, E = .72
+Solution: Unique; 5-resolvable
+196
+4
+5768-2349
+31245689
+6
+7
+Solution 2:
+1
+435167926
+8
+7
+896361452
+753696214
+8
+Nonunique; nonresolvable
+Complement: Design LS26, Solution 2
+Dual: Truly self dual
+Association Scheme: L₂(3)
+Plan: 1
+9 1
+8625-7394
+754196∞32
+238984756
+161743528
+85632479
+8
+9
+Complement: Not listed, r
+= 630
+Dual: Not a D(x), x = 1, 2
+Association Scheme: L₂(16)
+Plan: Utilize the unique resolvable BIB design
+(16,20,5,4,1), whose solution is:
+a b c d aeim afk P
+e f g h
+i j k l
+bfjn
+cg ko
+belo
+chin
+mnop dhlp dgj m
+a g 1 n ahjo
+bhk m b gip
+cej p cflm
+dfio dekn
+as a model for constructing BIB designs
+one from the treatments of each row and
+one from the treatments of each column of
+the association scheme L₂(16). The
+2(16)(20) = 640 blocks so obtained
+constitute a solution for the present
+design. Blocks arising from rows of the
+association scheme comprise five replica-
+tions; those arising from columns, five.
+Design LS49: v =
+C₁ =
+ni
+55/126, c₂
+=
+9,
+4,
+r =
+n2
+1
+=
+P, { ¹ 2]
+=
+5,
+4,
+Solution 3: Nonunique; nonresolvable
+Complement: Design LS26, Solution 3
+Dual: Truly self dual
+Association Scheme: L₂(3)
+Plan: 1
+7
+896853924
+5
+583197462
+964318257
+421965873
+218574639
+4
+Design LS50: v =
+r = 10,
+4, λι
+NEVE
+CI
+=
+55/126, c2
+=
+=
+=
+=
+9
+2, λη 3
+[ 2 ]
+504/25
+=
+b = 18
+· = [ ² ²]
+40/63, H = 18, ▲ = 2016/25
+E,= .88, E, = .92, E = .90
+Solution 1:
+Nonunique; 3-resolvable
+Complement: Design LS27, Solution 1
+Dual: A D(3), WHC (1956)
+Association Scheme: L₂(3)
+Plan: Duplicate the plan of LS49, Solution 1.
+(Plan continued on next page)
+k = 5, b
+A,
+=
+P₂
+40/63, H = 9, A
+E₁ = .88, E, = .92, E = .90
+1
+2
+271

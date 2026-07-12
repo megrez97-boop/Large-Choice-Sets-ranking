@@ -1,0 +1,292 @@
+TABLE XI. Partially balanced designs based on triangular association schemes - Continued
+Design T28:
+2/5, C:
+E,= .83, E,
+Solution:
+2
+v =
+10,
+r = 2,
+3,
+n₂ =
+k = 4,
+b = 5
+A,
+=
+1, λε
+= 0
+4
+n₁ = 6,
+=
+3 2
+P‚={ ³ }]
+የ
+P₁ = [ + 2]
+2
+-1/5, H= 13/4, A = 5/2
+= .71, E = .79
+Unique; nonresolvable
+Complement: Design T57
+Dual: The BIB design (5,10,4,2,1), Roy and Laha
+(1956)
+Association Scheme: T(5)
+Plan:
+3
+37269
+26937
+1580
+41580
+2
+6
+4
+9 10
+Plan: Duplicate the plan of T29.
+Design T32:
+v =
+n₁ =
+P
+10.
+r = 10, k
+=
+6, n 3, λι
+3 2
+=
+=
+4,
+5, λε
+b = 25
+= 0
+P‚= [ 4 2]
+CI 2/5, c₂ = -1/5, H= 65/4, ▲ = 125/2
+=
+E, .83, E, = .71, E = .79
+=
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 15
+Dual: Design S112, a unique design
+Association Scheme: T(5)
+Plan: Repeat the plan of T28 five times.
+Design T33:
+v =
+n₁ =
+10,
+6,
+r = 4,
+n
+3 2
+=
+21
+k
+=
+4,
+b = 10
+3, λι
+=
+=
+1, λε 2
+P‚= [ 4 2]
+Design T29:
+v = 10,
+=
+C₁ =
+215,
+C 1
+=
+Р
+1
+r =
+=
+4,
+6, n 3,
+3 2
+λ
+k
+= 4,
+=
+2, λε
+b:
+=
+=
+P₁ = [42]
+Р
+-1/5, H= 13/2, A
+E,= .83, E, = .71, E = .79
+Solution: Unique; 2-resolvable
+Complement: Design T58
+Dual: Design S9, a unique design
+Association Scheme:
+= 10
+10
+0
+T(5)
+Plan: 1 2 3
+4
+2
+1
+4
+3
+5
+6 7
+1
+6
+5
+1
+7
+8
+9
+2
+9
+8
+2
+10
+3
+6
+3
+10 8
+6
+4
+7
+9
+10
+7
+4
+10
+9
+C₁ =
+P
+4/15, c, =
+=
+8/15, H= 27/4, A
+=
+45/4
+E, .80, E, .87, E = .82
+=
+Solution: Unique; nonresolvable
+Complement: Design T60
+Dual: Truly self dual
+Association Scheme: T(5)
+Plan: 2 10
+10
+752486-936
+10
+1
+5 7
+1
+5
+6289634TIS
+10
+7
+613294TSD8
+7
+6158394
+30
+15
+Design T34:
+Design T30:
+C₁ = 2/5, C2
+v = 10, r =
+6,
+k
+n
+=
+6,
+n2
+=
+3,
+A,
+3 2
+Р
+=
+P₁
+=
+=
+4,
+3, λε
+4
+b:
+=
+=
+P₁ = [ + 2]
+2
+-1/5, H= 39/4, ▲ = 45/2
+E, .83, E, = .71, E = .79
+=
+Solution: Unique; 2-resolvable
+Complement: Design T59
+Dual: Design S35, a unique design
+Association Scheme:
+T(5)
+Plan: Repeat the plan of T28 three times.
+V = 10, r = 8,
+Design T31:
+n
+= 6,
+Р
+1
+k
+=
+4,
+b
+= 20
+=
+3, λι
+=
+21
+P₂
+2
+n2
+3 2
+=
+4, λ2 = 0
+4 27
+[2]
+C₁ =
+E,
+=
+2/5,
+=
+C 2 -1/5, H= 13, A = 40
+.83, E, = .71, E = .79
+Solution:
+Unique; 2-resolvable
+Complement: Not listed, r = 12
+Dual: Design S66, a unique design
+Association Scheme: T(5)
+r = 8,
+v = 10,
+n₁ = 6, n,
+3 2
+=
+P, { ³ } ]
+P,√ 3
+с 76/175, c₂ =
+=
+1
+E,= .84, E,
+Solution:
+3,
+k =
+=
+4,
+A, 3, λη
+4
+b = 20
+= 2
+P₁ = [+ 2]
+2
+52/175, H = 53/4, ▲ = 175/4
+= .81, E = .83
+4-resolvable
+Complement: Not listed, r = 12
+Dual: Irregular
+Association Scheme: T(5)
+Plan:
+7524801936
+7
+5
+6289634TIS
+10
+2076158394
+0132947568
+(Plan continued on next page)
+240

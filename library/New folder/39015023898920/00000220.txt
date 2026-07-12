@@ -1,0 +1,185 @@
+TABLE IX. Regular group divisible designs – -
+Continued
+Design R122: v= 16, r= 9,
+Design R119: v= 16,
+r = 7,
+k = 4,
+b= 28
+m= 4,
+n = 4,
+λ₁
+=
+3,
+A2 1
+=
+c₁ =
+1/2, C2
+=
+1/16, H= 10,
+A:
+= 24
+E= .86, E₂ = .76, E = .78
+Solution:
+Resolvable
+Complement: Not listed, r = 21
+Dual: Irregular
+Groups: (4,4)
+Plan: To construct, use
+Set 4.1
+once
+Set 4.4
+once
+Set 4.2
+3 times
+Set 4.5
+once
+Set 4.3
+once
+Each set constitutes a complete
+replication.
+Design R120: v= 16,
+m= 4,
+r = 8,
+n = 4,
+k = 4,
+λ₁ = 4,
+b= 32
+λ₂ = 1
+CI
+4/7, C2
+=
+-1/14, H= 11, A = 28
+E, .87, E₂ = .74, E = .76
+2
+Resolvable
+Complement: Not listed, r = 24
+Solution:
+Dual: Irregular
+Groups: (4,4)
+Plan: To construct, use
+Set 4.1 once
+Set 4.4
+once
+Set 4.2 4 times
+Set 4.5
+once
+Set 4.3
+once
+Each set constitutes a complete
+replication.
+Design R121: v= 16, r =
+9,
+k = 4,
+b= 36
+m= 4,
+n = 4,
+λ₁
+=
+5,
+=
+2 1
+=
+5/8, C2
+=
+-7/32, H= 12, A = 32
+E, .89, E,= .71, E = .74
+Resolvable
+Complement: Not listed, r = 27
+Solution:
+Dual: Irregular
+Groups: (4,4)
+Plan: To construct, use
+Set 4.1 once
+Set 4.4
+once
+Set 4.2 5 times
+Set 4.5
+once
+Set 4.3
+once
+Each set constitutes a complete
+replication.
+m= 4,
+k = 4,
+n= 4, λ₁ = 1,
+b= 36
+λ₂ = 2
+=
+Ci
+1/7,
+C 2
+=
+=
+59/224, H= 15, A 56
+E= .78, E,= .80, E = .80
+Resolvable
+Complement: Not listed, r
+Solution:
+Dual: Irregular
+Groups: (4,4)
+= 27
+Plan: To construct, use
+Set 4.1
+twice
+Set 4.4
+twice
+Set 4.2 once
+Set 4.5
+twice
+twice
+b = 40
+6,
+λ2 = 1
+Set 4.3
+Each set constitutes a complete
+replication.
+Design R123: v= 16, r = 10, k = 4,
+m= 4, n = 4, λι =
+c₁ = 2/3, c₂ = -3/8, H= 13, A = 36
+E, .90, E₂ = .69, E= .72
+=
+Solution:
+Resolvable
+Complement: Not listed, r
+Dual: Irregular
+Groups: (4,4)
+Plan: To construct, use
+= = 30
+Set 4.1 once
+Set 4.4 once
+Set 4.2
+6 times
+Set 4.5
+once
+Set 4.3
+once
+Each set constitutes a complete
+replication.
+Design R124: v= 20, r = 9,
+m= 4,
+k
+=
+4,
+n=
+5,
+λι
+=
+3,
+=
+b = 45
+A2 1
+75/2
+=
+2/5, C2
+=
+1/25, H= 25/2, A =
+E,= .83, E₂ = .76, E= .77
+Solution:
+3-resolvable
+Complement: Not listed, r
+Dual: Irregular
+Groups: (4,5)
+=
+36
+(Plan continued on next page)
+208

@@ -1,0 +1,214 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes - Continued
+8, b = 48
+1, λη 0
+= [ '30 12]
+8
+Plan: To construct, use
+Set 8.1
+once
+Set 8.2
+once
+Set 8.3
+once
+Each set constitutes a complete
+replication.
+b = 32
+=
+Design LS106:v
+=
+ni
+=
+64,
+42, n
+r = 6,
+21, A,
+k
+=
+=
+P₁
+= 30
+C₁ =
+E,
+=
+1/8,
+c 1
+=
+P₁ =[26 15]
+-1/20, H= 11, A
+.89, E, = .87, E = .88
+Solution:
+Affine resolvable
+Complement: Not listed, r
+Dual: Design SR78
+Association Scheme: L,(8)
+Plan: To construct, use
+= 42
+Design LS104:v = 64,
+r =
+k = 8,
+n₁ = 28,
+n₂
+=
+35, A,
+=
+1, λη = 0
+16
+Р
+18
+C₁ =
+=
+1/8, C2
+=
+15
+P.-[121] P,-[121]
+20
+-1/6, H= 7, A 12
+E, .89, E, = .86, E = .87
+Solution:
+2
+Affine resolvable
+Complement: Not listed, r
+Dual: Design SR49
+Association Scheme: L,(8)
+Plan: To construct, use
+Set 8.1 once
+=3
+= 28
+Set 8.2
+once
+Set 8.3
+once
+Set 8.4
+once
+Set 8.1
+once
+Set 8.4
+once
+Set 8.2
+once
+Set 8.5
+once
+Set 8.3
+once
+Set 8.6
+once
+Each set constitutes a complete
+replication.
+Design LS107:v
+n, = 49,
+=
+n2
+=
+=
+64, r = 7,
+k = 8,
+b = 56
+14, λ, 1, λη
+500
+P₂ = [ 42 ]]
+= 42
+P₁ =36 12]
+Pi
+-1/48, H= 13, ▲ :
+=
+1/8, C2
+=
+E₁ = .89, E,
+=
+.87, E = .89
+=
+=
+8,
+1, λη
+b = 40
+=
+[2015]
+0
+Solution:
+Affine resolvable
+Complement: Not listed, r = 49
+Dual: Design SR88
+Association Scheme: L,(8)
+Plan: To construct, use
+Set 8.1 once
+Set 8.5
+once
+Set 8.2 once
+Set 8.6
+once
+Set 8.3
+once
+Set 8.7
+once
+Each set constitutes a complete
+replication.
+Design LS105:v
+=
+64,
+r = 5,
+k
+-
+n₁ =
+28, λ1
+Р
+Pi
+c₁ = 1/8, cz
+=
+=
+35, n
+2
+16
+P₁ =[ 18 19]
+1
+12
+-3/32, H= 9, A = 20
+E, .89, E, = .86, E = .88
+=
+Solution:
+Affine resolvable
+Complement: Not listed, r = 35
+Dual: Design SR63
+Association Scheme: L,(8)
+Plan:
+To construct, use
+Set 8.1 once
+Set 8.4 once
+Set 8.2
+once
+Set 8.5 once
+Set 8.3 once
+Each set constitutes a complete
+replication.
+Set 8.4 once
+Each set constitutes a complete
+replication.
+Design LS108:v
+=
+1/8, Cz
+k
+=
+8,
+49, A,
+:V = 64, r = 4,
+n, = 14, n,
+=
+=
+P‚ { ° 42]
+Pi
+-3/4, H= 6, A
+E, .89, E, = .80, E = .82
+=
+= = 28
+Solution: Unique; resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(8)
+=
+b = 32
+=
+2, A, 0
+P₁ = [212]
+36
+8
+Plan: Duplicate the plan of LS102.
+281

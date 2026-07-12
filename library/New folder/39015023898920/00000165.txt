@@ -1,0 +1,242 @@
+TABLE VII. Semiregular group divisible designs - Continued
+Design SR52: v= 10,
+r = 4,
+k = 5,
+b= 8
+m= 5,
+n = 2,
+λι = 0,
+2
+= 2
+C1 0, c₂= 1/2, H= 36/5, A = 64/5
+E= .80, E₂ = .89, E = .88
+Solution:
+2-resolvable
+Complement: Truly self complementary, Preece (1967)
+Dual: A D(3)
+Groups: (5,2)
+Plan:
+4 5
+9 5
+9 10
+4 10
+3883
+2727
+1616
+5599
+4 10
+9449
+3883
+7272
+1616
+9
+10
+6
+Design SR53: v=
+=
+10, r = 6,
+n = 2, λ₁
+m= 5,
+0, c₂= 1/2, H= 54/5, A =
+E= .80, E,= .89, E = .88
+Solution:
+Nonresolvable
+k = 5,
+b = 12
+=
+0,
+A2 3
+=
+144/5
+Complement: Truly self complementary, Preece
+(1967)
+Dual: Irregular
+Groups: (5,2)
+Plan:
+10
+5
+9 10
+5
+6
+4 10
+3 4 10
+8
+49
+5
+8 9 10
+3
+94
+5
+49
+38
+27
+Plan:
+16
+1
+2
+6
+94
+83
+27
+6
+91
+27
+16
+27
+16
+6
+1
+6
+Solution 3:
+38
+72
+94
+16
+83
+72
+16
+94
+38
+72
+16
+16
+72
+5
+5
+4 10
+4 5
+9 10
+7 3 9 10
+83
+5
+8 4 10
+9
+5
+Nonunique; 2-resolvable
+Complement: Self complementary
+Dual: Design M3la
+Groups:
+Plan:
+(5,2)
+10
+1 2
+1 7
+8
+3
+4 5
+9 10
+6 2
+9 10
+o550
+9449
+8338
+2727
+1916
+9 10
+9 5
+4 10
+4 10
+9 5
+3883
+2727
+6
+6 7
+1911
+6 7 8 4 5
+2727
+1966
+4664
+3883
+4 10
+9 5
+9 5
+4 10
+Design SR55: v= 10,
+r = 10, k = 5,
+b=20
+m= 5, n = 2, λ₁ = 0, λ₂ = 5
+E, .80, E,
+0, c₂ = 1/2, H= 18, A= 80
+.89, E = .88
+772722277722
+1961-IGO6919
+3883 ∞∞∞∞∞∞∞ 3
+8
+3
+3
+3
+8
+8
+44494 POPO690
+4 10
+5
+9 10
+10
+5
+4 10
+5
+5
+5
+8 9 10
+5
+m= 5,
+r = 8,
+n = 2,
+k = 5,
+λι = 0,
+b= 16
+λη
+= 4
+2
+Design SR54: v= 10,
+c₁ = 0, c₂ = 1/2, H= 72/5, A = 256/5
+E,
+.80, E,
+Solution 1:
+.89, E = .88
+Nonunique; 2-resolvable
+compelment: Truly self complementary
+Dual: A D(4), WHC (1956)
+Groups: (5,2)
+Plan: Duplicate the plan of SR52.
+Solution 2: As given by BCS (1954); nonunique;
+resolvable
+Complement: Truly self complementary, Preece
+(1967)
+Groups: (5,2)
+Solution:
+Nonresolvable
+Complement: Truly self complementary, Preece
+(1967)
+Dual: Irregular
+Groups: (5,2)
+Plan:
+1
+271894ROMO~238545OLO
+1
+46723855-6723∞aago
+10
+10
+10
+6
+5
+10
+7
+10
+9
+7
+9 10
+10
+10
+6
+5
+334699-L2Santaro782
+7
+1
+1
+54896123O+3S-OTOT∞29
+1955
+10
+782234496668193
+10
+153

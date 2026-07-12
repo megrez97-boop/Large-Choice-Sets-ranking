@@ -1,0 +1,55 @@
+References
+Agrawal, H. L. (1965), A note on incomplete block designs. Bull. Calcutta Statist. Assn. 14, 80-83.
+Archbold, J. W. (1955), Projective geometry over an algebra. Mathematika 2, 105–115.
+Archbold, J. W. and Johnson, N. L. (1956), A method of constructing partially balanced incomplete block designs. Ann. Math. Statist.
+27, 624-632.
+Banerjee, K. S. (1951), Weighing designs and partially balanced incomplete blocks, Calcutta Statist. Assoc. Bull. 4, 36-38.
+Benson, C. T. (1966), A partial geometry (q³+ 1, q² + 1, 1) and corresponding PBIB design. Proc. Amer. Math. Soc. 17, 747–749.
+Bhagwandas (1968), Group divisible designs and partial geometries, Calcutta Statist. Assn. Bull. 17, 115–122.
+Bose, R. C. (1939), On the construction of balanced incomplete block designs. Annals of Eugenics 9, 353–399.
+Bose, R. C. (1960), On a method of constructing Steiner's triple systems. Contributions to Probability and Statistics (Stanford Univer-
+sity Press), pp. 133-141.
+Bose, R. C. (1963), Strongly regular graphs, partial geometries and partially balanced designs. Pacific J. Math. 13, 389–419.
+Bose, R. C. and Connor, W. S. (1952), Combinatorial properties of group divisible incomplete block designs. Ann. Math. Statist. 23,
+367-383.
+Bose, R. C.
+and Nair, K. R. (1939), Partially balanced incomplete block designs. Sankhyā 4, 337–372.
+Bose, R. C. and Shimamoto, T. (1952), Classification and analysis of partially balanced incomplete block designs with two associate
+classes. J. Amer. Statist. Assn. 47, 151-184.
+Bose, R. C., Shrikhande, S. S., and Bhattacharya, K. N. (1953), On the construction of group divisible incomplete block designs. Ann.
+Math. Statist. 24, 167-195.
+Bose, R. C., Clatworthy, W. H., and Shrikhande, S. S. (1954), Tables of partially balanced designs with two associate classes. North
+Carolina Agricultural Experiment Station Technical Bulletin No. 107, Raleigh, N.C.
+Bose, R. C., and Clatworthy, W. H. (1955), Some classes of partially balanced designs. Ann. Math. Statist. 26, 212–232.
+Bradley, R. A., Walpole, R. E., and Kramer, C. Y. (1960), Intra- and inter-block analysis for factorials in incomplete block designs.
+Biometrics 16, 566-581.
+Chang, Li-Chien (1959), The uniqueness and nonuniqueness of the triangular association schemes, Science Record, New Series, 3:12,
+604-613.
+Chang, Li-Chien (1960), Association schemes of partially balanced designs with parameters v=28, n₁ = 12, n₂ = 15, på₁ = 4. Science
+Record, New Series, 4:1, 12-18.
+Chang, Li-Chien, and Liu, Wan-ru (1964), Incomplete block designs with square parameters for which k≤ 10 and r≤ 10, Scientia
+Sinica 13, 1493-1495.
+Chang, Li-Chien, Liu, Chang-wen and Liu, Wan-ru (1965), Incomplete block designs with triangular parameters for which k≤ 10 and
+r≤ 10. Scientia Sinica 14, 329–338.
+Clatworthy, W. H. (1954), A geometrical configuration which is a partially balanced design. Proc. Am. Math. Soc. 5, 47–55.
+Clatworthy, W. H. (1955), Partially balanced incomplete block designs with two associate classes and two treatments per block. J. Res.
+Nat. Bur. Stand. (U.S.) 54, 177–190 (1955) RP 2579.
+Clatworthy, W. H. (1956), Contributions on partially balanced incomplete block designs with two associate classes. Nat. Bur. of Stand.
+(U.S.), Appl. Math. Ser. 47, 72 pages.
+Clatworthy, W. H. (1967), Some new families of partially balanced designs of the Latin square type and related designs. Technometrics
+9, 229-244.
+Clatworthy, W. H. (1968), The subclass of balanced incomplete block designs with r=11 replications. Review Internat. Statist. In-
+stitute 36:1, 7-11.
+Clatworthy, W. H. (1971), On duals of partially balanced designs. (To be submitted to a technical journal.)
+Clatworthy, W. H., Lewyckyj, R. J., and Martino, P. (1971), Uniqueness and non-uniqueness among balanced incomplete block designs.
+(To be submitted to a technical journal.)
+Cochran, W. G., and Cox, G. M. (1957), Experimental Designs, 2nd Edition (John Wiley and Sons, New York).
+Cole, F. N. (1922), Kirkman parades, Bull. Amer. Math. Soc. 28, 435-437.
+Cole, F. N., White, A. S., and Cummings, L. D. (1925), Complete classification of triad systems on fifteen elements, Memoirs of the
+National Academy of Sciences, U.S.A. 14; Second Memoir, 1-89.
+Connor, W. S. (1952), Some relations among the blocks of symmetrical group divisible designs, Ann. Math. Statist. 23, 602-609.
+Connor, W. S. (1958), The uniqueness of the triangular association scheme, Ann. Math. Statist. 29, 262–266.
+Connor, W. S. and Clatworthy, W. H. (1954), Some theorems for partially balanced designs, Ann. Math. Statist. 25, 100–112.
+David, H. A. and Wolock, F. W. (1965), Cyclic designs, Ann. Math. Statist. 36, 1526–1534.
+Fisher, R. A. (1958), Statistical Methods for Research Workers, 13th edition (Hafner Publishing Co., New York).
+312

@@ -1,0 +1,57 @@
+(3.34
+r(k-1)î₁ = (k-c₂) Qi + (C1-
+—C2)Sı (Qi)
+= (k-c₁)Qi+ (C1-C2) (Qi+S₁ (Qi))
+= (k-c₁)Qi+ (C1—C₂)Gi
+where
+(3.35)
+Gi=Qi+S₁(Qi).
+It is noted that if alongside each treatment i of the association scheme, we record the corresponding adjusted
+yield, Qi (i=1, 2, . . ., v), then the sum of the Qi of any row gives the n values G; for treatments in that row.
+Since the r, k, C1, C2 are known constants for a given design, we can set up an auxiliary table for calculations
+in which the treatment symbol i occurs in the first column, the corresponding adjusted yield in the second
+column, and the corresponding G; in the third column. Then using
+(3.36)
+(3.37)
+where a =
+(k-c₁)/r(k-1) and B
+=
+k-c₁
+C1-C2
+Q₁+
+r(k-1) r(k-1)
+îi=aQi+B Gi,
+Gi
+(C1-C2)/r(k-1), one can calculate the entry for the ith row of the
+fourth column for estimated treatment effects. The subsidiary table has headings as shown:
+Treatment
+number i
+Qi
+Gi
+î¡=aQi+B Gi
+For the combined intra- and inter-block analysis the new estimates for the treatment effects are given
+by equation (3.30) which we alter slightly.
+(3.38)
+-
+-
+r { w' + w(k − 1 ) } î¦ = (k−d2)Pi + (d₁ − d₂)S₁(Pi)
+=
+(k−d₁)Pi+ (d₁−d₂) (P¿+S₁(P;))
+=
+= (k − d₁)Pi + (d₁ — d₂)G¦
+where
+(3.39)
+and
+(3.40)
+P₁=wQi+w'Qi
+G'₁=P₁+S₁(Pi).
+Now the Q and Q will have been computed and the w and w' will have been estimated from the data, using
+(3.24) and (3.25) as explained in section 2. One then calculates the P₁(i = 1, 2, . . ., v) from (3.39) above.
+These values of P₁ are entered alongside the corresponding treatment numbers i in the association scheme
+(groups). Then the sum of the Pi's in any row (group) of the association scheme provide the n values G¦
+for the treatments of that group.
+form
+(3.41)
+Now d₁ and d2 will have been computed using (3.28) and (3.29). Thus equation (3.38) above takes the
+î'₁ = a' Pi+ B'G'},
+36

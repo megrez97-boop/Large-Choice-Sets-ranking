@@ -1,0 +1,312 @@
+TABLE XIX. Miscellaneous partially balanced designs - Continued
+Design M26:
+CI
+=
+3/13,
+C 2
+v = 26,
+15, n
+r = 6,
+6
+=
+P₁ = 8 ]
+=
+b
+26
+=
+0
+k = 6,
+10, A1 = 2, A₂
+6
+P₁ = [ 9 ]
+P,
+2
+-2/13, H= 31/3, A = 26
+E, .87, E, = .81, E = .84
+=
+3
+Solution 1: As given by BCS (1954); nonunique;
+3-resolvable
+Complement: Not listed, r = 20
+Dual: Design S44, Solution 1
+Association Scheme: Same as design PG7
+Plan: Cyclically develop the following two
+initial blocks
+1 22 6 23 12 26
+22 1 23 6 26 12
+using cycles of length 13 and cycling
+within the two subsets of treatments 1-13
+and 14-26. Each position within blocks
+contains a replication.
+Solution 2: Nonunique; 3-resolvable
+Complement: Not listed, r = 20
+Dual: Design S44, Solution 2
+Association Scheme: Given by the blocks.
+Plan:
+415
+182
+2
+3
+5 6
+11
+1
+7
+9 10
+16
+1
+13
+14
+18
+7
+2
+19
+12 17
+20 4 13 7 21 22
+Plan:
+Repeat the plan of PG7, Solution 1 three
+times.
+Solution 2: Nonunique; nonresolvable
+Complement: Not listed, r
+= 30
+Dual: Design S94, Solution 2
+Association Scheme: Given by the blocks.
+Plan: Obtain by dualizing Solution 2 for design
+S94, or alternatively, repeat the plan
+of PG7, Solution 2 three times.
+Design M28:
+CI
+E,
+=
+=
+V =
+n₁ =
+91/160, c₂
+=
+16,
+r = 7, k
+=
+7, b 16
+9, λ,
+n:
+=
+2
+6,
+=
+37
+4, λε
+2
+=
+P₁-[2] P.- [24]
+=
+=
+=
+21/80, H= 88/7, A 1920/49
+.93, E, .89, E = .91
+=
+Solution: Nonunique'; nonresolvable
+Complement: Design M34
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Association Scheme:
+12396520
+A pseudo Latin square type;
+same as M10
+8765
+12 14 15
+21
+16
+10
+12352
+13
+16
+536456
+Plan:
+10
+7
+11
+5
+8 9
+14
+11
+15
+10
+4 11
+13
+12
+3 9 4
+5 10 14
+17
+20
+23
+9
+2
+1 14 16 7
+8 5
+16
+18
+24 21
+1
+13
+8
+11
+14
+21
+C=2422
+34032
+22266
+3 8 17
+25 22
+15
+4
+16
+14
+9
+7
+11 14 19 26
+8
+1 16
+5
+3
+23
+11 23 24 25 13
+26
+16 25
+14
+5
+4
+13
+1 6
+10 9 8
+9 15
+18
+19 20
+6
+9
+26
+10
+12
+12
+14 15
+7 17 12
+13
+22
+14
+23
+24 21 18 16 8
+17 15
+26 19 21
+25 13
+505220KL2
+4
+3
+1
+16
+19
+4
+7
+10
+5
+17
+20
+5
+22 3 8
+3 14
+11
+24
+23 11 2
+15 23 4
+13
+6
+15 12
+1
+6
+12
+13 11
+11
+7
+8
+14
+5
+4
+2718
+11322
+7
+2
+63
+10 15
+16
+2455
+9
+0128129
+65873210
+3
+6,
+k = 7,
+b:
+=
+2, λε
+=
+300
+30
+9 18 26
+9 6 16 25
+22 12 6
+10 26 24
+19 20
+V =
+26,
+r = 9,
+k
+=
+6,
+10, λ,
+Design M27:
+n₁ =
+15, n₂ =
+C 1
+=
+3/13, C2
+=
+=
+E₁ = .87, E,
+==
+8 6
+=
+b = 39
+=
+3, λ 0
+9 6
+P‚= [ ' ;]
+2
+-2/13, H= 31/2, A = 117/2
+.81, E = .84
+Solution 1: Nonunique; nonresolvable
+Complement: Not listed, r
+= 30
+Dual: Design S94, Solution 1
+Association Scheme: Same as design PG7
+*Same parameters as LS83
+Design M29: v = 35,
+=
+1/5, C
+n₁ = 18,
+=
+r =
+n:
+2
+9
+=
+16, λ₁
+=
+P₁ = 2 8] P‚= [ 9 ]
+Pi
+2
+==
+-1/5, H= 72/7, A = 180/7
+E,= .88, E, = .83, E = .86
+Solution: Nonunique; 3-resolvable
+Complement: Not listed, r = 24
+Dual: Design S46
+Association Scheme: Same as design PG9
+Plan: Duplicate the plan of PG9.
+308

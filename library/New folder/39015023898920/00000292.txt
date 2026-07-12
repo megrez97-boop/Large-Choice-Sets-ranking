@@ -1,0 +1,340 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes - Continued
+Solution:
+Nonunique; affine resolvable,
+Agrawal (1965)
+Complement: Truly self complementary
+Dual: Design SR100, Solution 3
+Association Scheme: L,(4)
+Plan: 1 6 11 16
+13
+3
+8 9 14
+Design LS100:v =
+16,
+n₁ = 6,
+r =
+n2
+=
+P₁ =[ 23 ]
+Р
+= [24]
+= 9,
+9,
+k
+=
+8,
+b
+=
+λι
+= 3,
+λε
+=
+18
+5
+P₁ =
+E,=
+11/32, c
+= .91, E,
+=
+9/16, H = 17, A
+=
+72
+=
+.94, E = .93
+=
+Plan:
+228
+3-32222
+43
+531276
+63
+11 16 21
+123
+17 5 7 12 4
+5722
+4
+8 13
+3
+24 9 14 19
+1 2 3 4 10
+1
+8
+16
+7
+21
+6 8 9 17 12
+78
+18 23
+1
+18
+1
+1
+15 20
+9 10 11
+10
+3 6
+9
+10
+4
+7
+19 14
+7
+8 9 15
+20 25
+12
+13 14
+21 16
+13 14 15
+7
+22
+11
+12
+23 18 3
+24 4
+19
+12
+13 15
+57
+24
+64
+34
+65
+5 12 15
+5 11
+10
+13 12 20
+10
+13
+21 17
+20
+11 19
+19
+18
+16 22 7
+87
+9
+14
+8
+19
+13
+16
+23
+10
+13
+20 16
+17
+14
+18
+16 15
+18
+10
+78
+43
+65
+24
+46
+34
+43
+43
+4
+7 10 13
+6
+25
+24
+23
+11 16
+9 14
+17
+21 12 25
+24
+25 24 8
+3
+21 18
+8 11 13
+14 9 21
+4
+25
+-3431222ETALKIN
+36
+17
+17 19 25 5
+6
+9 15
+5
+10 16
+6
+9 15
+Design LS102:v
+= 64,
+n₁ = 14, n,
+r = 2, k
+=
+8,
+b = 16
+23
+5 22
+20 15 10
+S941032222222
+10 8
+5 6
+15
+11 17
+15 14
+11
+25
+18
+2
+20
+9
+1
+7
+22
+19
+24
+12
+2
+12
+13
+3
+12
+6 11 16
+5 12 15
+6 11 16
+5 12 15
+7 12 14
+5 10 16
+7 12 14
+2 8 11 13
+12
+2
+13
+3
+12
+7 12 14
+43
+8 11 13
+8 10 15
+6 12 13
+8 10 15
+6 9 15
+5 10 16
+2
+7
+9 16
+C₁ =
+1/8, Cz
+5 11 14
+24
+34
+6 12 13
+2
+7
+9 16
+5 11 14
+8 10 15 4
+5 11 14
+87
+12
+9 16 3 6 12 13
+Remark: See design M32 which has identical
+parameters with the present design but
+cannot have an L,(4) type association
+scheme. Hence design LS100 does not have
+a unique solution.
+Design LS101:v
+CI
+=
+=
+=
+n₁ =
+328/825, c
+E, .92, E,
+=
+Solution:
+25,
+8,
+P,{
+Р
+r = 8,
+n₂
+3 4
+12
+=
+16, λ,
+k
+=
+=
+8, b
+3, λε
+=
+25
+2
+Pi
+2
+=
+=
+[ 299]
+= 72/275, H = 115/8, A = 825/16
+.90, E = .91
+Nonresolvable
+Complement: Not listed, r
+= 17
+Dual: Self dual, Hoffman (1963)
+Association Scheme: L,(5)
+=
+6
+=
+=
+49, A, 1, A, = 0
+=
+12
+P.[2] P.-[22]
+42
+=
+2
+-3/4, H= 3, A
+=
+E₁ = .89, E₂ = .80, E .82
+Solution: Unique; affine resolvable
+Complement: Not listed, r = 14
+Dual: Design SR15
+Association Scheme: L₂(8)
+Plan: To construct, use
+Set 8.1 once
+Set 8.2 once
+Each set constitutes a complete
+replication.
+Design LS103:v
+=
+n₁ =
+=
+1/8, C2
+=
+E
+= .89, E,
+Solution:
+64,
+21,
+r = 3,
+n:
+=
+P₁ = 812]
+30
+42, A,
+36
+k = 8, b = 24
+=
+1, A2 0
+=
+P₁ = [ 615]
+P,
+-5/16, H= 5, A = 6
+= .84, E = .86
+Affine resolvable
+Complement: Not listed, r
+Dual: Design SR32
+Association Scheme: L,(8)
+= 21
+26
+(Plan continued on next page)
+280

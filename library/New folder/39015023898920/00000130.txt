@@ -1,0 +1,232 @@
+TABLE V. Singular group divisible designs - Continued
+Plan: In a resolvable plan for the combinatorially
+λ,
+=
+k= 6, b= 55
+10, A2 = 1
+unique BIB design (10,45,9,2,1) replace
+each treatment with a groups of n = 3
+distinct treatments given by the groups of
+the association scheme (10,3) of Table II.
+Design S48:
+v = 33, r = 10,
+m 11, n = 3,
+c₁ = 1, c₂-4/11, H31/2, A = 55
+E, 1.00, E,= .79, E= .80
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 45
+Dual: Design T98
+Groups: (11,3)
+Plan:
+In a 2-resolvable, 5 replications per
+column arrangement for the combinatorially
+unique BIB design (11,55,10,2,1) replace
+each treatment with a group of n
+treatments given by the groups of the
+association scheme (11,3) of Table II.
+=
+€ 3 distinct
+Design S49:
+v = 38, r =
+m 19, n= 2,
+9,
+k = 6,
+b
+λ₁
+=
+9,
+2
+Solution:
+Unique; nonresolvable
+Complement: A degenerate design
+Dual:
+The BIB design (5,10,8,4,6), Roy and Laha
+(1956)
+Groups: (5,2)
+Plan: 1 6
+2
+3 8
+4 9
+5
+10
+34512
+5 10
+10
+78986
+23451
+17
+8
+9
+5 10
+82678
+45123
+∞9667
+Design S52:
+v = 10,
+r =
+8,
+k
+m= 5, n = 2,
+8,
+A₁ = 8,
+=
+=
+λ₂
+=
+=
+57
+1
+c₁ =
+1, c₂ = 23/30, H= 31/2, A = 60
+E= 1.00, E,= .97, E= .97
+Solution: Unique; 4-resolvable
+Complement: A disconnected design
+Dual: Truly self dual
+Groups: (5,2)
+Plan:
+c₁ = 1, c₂ = -1/19, H= 46/3, A = 57
+E, 1.00, E₂ = .83, E= .83
+Solution: Nonunique; 3-resolvable
+Complement: Not listed, r
+Dual: Design M35
+Groups: (19,2)
+= = 48
+Plan: In a 3-resolvable, 3 replications per
+column arrangement for the BIB design
+(19,57,9,3,1) replace each treatment with
+a group of n =
+2 distinct treatments given
+by the groups of the association scheme
+(19,2) of Table II.
+34512
+78906
+10
+5 10
+2
+2
+23451
+67899
+12345
+23451
+78986
+2
+12345
+3
+4
+10
+10
+5
+67890
+3
+10
+89667
+45123
+92076
+10
+34512
+89667
+10
+8
+b= 10
+6
+=
+10
+92678
+45123
+70
+b= 70
+10, A₂ = 1
+Design S53:
+с
+=
+v = 12,
+m 3,
+r = 2,
+n = 4,
+k = 8,
+b=3
+=
+λ₁ 2, λ. = 1
+1 1, c,= 5/12, H= 7/2, ▲ = 3
+E, 1.00, E₂ = .92, E= .94
+=
+Solution: Unique; nonresolvable
+Complement: A disconnected design
+Dual:
+The BIB design (3,12,8,2,4), Roy and Laha
+(1956)
+Groups: (3,4)
+Design S50:
+v = 42, r =
+10,
+k = 6,
+m= 21, n = 2,
+λι
+-
+c₁ = 1, c₂ = -1/14, H= 17, A
+E, 1.00, E,= .82, E = .83
+=
+Solution: Nonunique; resolvable
+Complement: Not listed, r = 60
+Dual: Design M40
+Groups: (21,2)
+Plan: In a resolvable plan for the BIB design
+(21,70,10,3,1) replace each treatment
+with a group of n = 2 distinct treatments
+given by the groups of the association
+scheme (21,2) of Table II.
+Design S51:
+v = 10, r = 4,
+m= 5,
+n = 2,
+k
+-
+8,
+b= 5
+A₁ 4,
+=
+λ2
+= 3
+c₁ =
+E,
+1, c,= 23/30, H= 31/4, A = 15
+1.00, E,= .97, E = .97
+Plan: 1
+2
+3
+456
+789
+10
+11
+12
+564
+231
+11
+12
+20
+897
+7 10
+=
+=
+8,
+4,
+b=6
+λ2 2
+=
+Design S54:
+v = 12, r = 4,
+k
+m= 3, n = 4,
+λ₁
+C₁ =
+=
+12
+1, c₂ = 5/12, H= 7, A =
+E, 1.00, E,= .92, E= .94
+Solution: Unique; 2-resolvable
+Complement: A disconnected design
+Dual: Design S4
+Groups: (3,4)
+Plan:
+Duplicate the plan of $53.
+118

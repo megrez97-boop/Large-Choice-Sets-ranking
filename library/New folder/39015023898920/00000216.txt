@@ -1,0 +1,196 @@
+TABLE IX. Regular group divisible designs - Continued
+Design R105: v= 9, r = 8,
+3,
+m= 3, n=
+c₁ = 4/5,
+=
+c₂ 4/45, H= 12, A:
+E, .94, E,= .77, E = .80
+b
+18
+=
+2
+k = 4,
+6, λ2
+λι
+=
+= 135/4
+Solution 1: True duplicate solution;
+nonunique; 4-resolvable
+Complement: Design R138, Solution 1
+Dual: A D(3) WHC (1956)
+Groups: (3,3)
+Plan: Duplicate the plan of R104.
+Solution 2: As given by Sprott (1955);
+nonunique; 4-resolvable
+Complement: Design R138, Solution 2
+Dual:
+Not a D(x), x =
+1, 2, 3, 4
+Groups: (3,3)
+Plan:
+Cyclically develop, modulo
+initial blocks:
+9, the two
+1 2 4 7
+1 2 5 8
+Each initial block gives rise to four
+replications and each position within
+blocks to two replications.
+Design R106: v= 10,
+r = 8,
+k = 4,
+b= 20
+=
+0,
+2
+=
+23
+n = 2, A₁
+m= 5,
+c₁ = 0, c₂ = 2/5, H= 27/2, A = 45
+E= .75, E₂ = .83, E = .82
+Solution:
+Dual:
+2
+4-resolvable
+Complement: Not listed, r = 12
+Not a D(x), x = 1, 2, 3, 4
+Groups: (5,2)
+Plan: 11
+6678951234
+8966734512
+10
+10
+10
+789662345–
+123456789
+10
+1234567890
+10
+6678951234
+9067845123
+8906734512
+Design R107: v= 10, r = 10, k = 4,
+m= 2, n = 5,
+b=25
+=
+λ₁ 5, A₂ =
+=
+22
+=
+c₁ = 4/7, c₂ 2/35, H= 55/4, A = 175/4
+E,= .87, E₂ = .76, E= .81
+Solution 1: Nonunique; nonresolvable
+Complement: Not listed, r 15
+Dual: Irregular
+=
+Groups: (2,5)
+Plan:
+4
+4 5 69
+6
+8
+7
+9
+3558∞∞∞∞797
+223434-675656
+1111223112233
+9679aa9
+6755777∞∞∞
+5533344466
+4411LL322224
+9
+7 10
+6 10
+10
+9 10
+8 10
+9
+9 10
+8
+=
+8
+6 10
+8 10
+8 10
+8 10
+Solution 2: Nonunique; nonresolvable
+Complement: Not listed, r 15
+Dual: Irregular
+Groups: (2,5)
+Plan: 1
+1
+7855TTT66∞∞∞
+4
+5633355←←←66
+8
+1
+9 10
+1
+10
+1
+1
+9
+10
+4
+10
+4 8 10
+9
+9
+10
+garaaa9
+8
+6 10
+8 10
+8 10
+10
+5 7
+447---322224
+46800∞agad
+3579975 T∞∞787
+223434565656
+111223IL2233
+Solution 3:
+= = 15
+Nonunique; nonresolvable
+Complement: Not listed, r
+Dual: Irregular
+Groups: (2,5)
+Plan:
+1
+4
+4
+111223172233
+2
+3558976∞∞787
+22343←←OT BOSO
+6
+7
+9
+10
+8
+10
+6
+10
+7
+10
+5
+10
+8 10
+6
+9
+8 10
+5
+9
+8 10
+6
+8
+41111322224
+553335544-66
+67557776∞∞ ∞
+7 10
+a67aa9
+8
+6 10
+204

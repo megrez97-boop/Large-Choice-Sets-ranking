@@ -1,0 +1,289 @@
+TABLE V. Singular group divisible designs - Continued
+Design S71:
+v = 26, r = 4,
+k = 8,
+b= 13
+m= 13, n= 2,
+λι
+= 4,
+λ2
+= 1
+11
+16
+12345
+19
+17822
+12345
+67899
+18
+19
+20
+16
+34512
+B9267
+10
+34512
+89667
+11
+17
+10
+17
+20
+23451
+14
+78926
+19
+20
+11 16
+12345
+67890
+12345
+78900
+10
+23451
+11
+16
+17
+18
+19
+6
+10
+20
+34512
+B9267
+18
+19
+20
+16
+17
+11 16
+17
+19
+12345
+20 5
+12345
+67899
+10
+11
+7
+10
+34512
+∞968
+1, c₂ = 5/26, H= 29/4, ▲ = 13
+E, 1.00, E, .90, E= .90
+Solution:
+=
+Unique; nonresolvable
+Complement: Not listed, k
+= 18
+Dual: True duplicate solution for the BIB design
+(13,26,8,4,2), Roy and Laha (1956)
+Groups: (13,2)
+Plan:
+Cyclically develop the initial block
+1 14 2 15 4 17 10 23
+using cycles of length 13 and cycling
+within the two subsets of treatments 1-13
+and 14-26. Counting from the left (or
+right) each pair of positions within
+blocks contains a replication.
+Design S69:
+v = 24,
+r =
+5,
+k
+m= 6,
+n = 4,
+λ₁
+=
+15
+c₁ = 1, c₂ = −1/6, H= 8, ▲ -
+E, 1.00, E, .86, E= .87
+=
+= 16
+Solution: Unique; resolvable
+Complement: Not listed, k
+Dual: Design T51
+Groups: (6,4)
+=
+=
+8,
+5,
+b= 15
+A2
+=
+1
+Plan: 1 7 13 19
+2
+8 14 20
+3 9 15 21
+4
+10 16 22
+5 11 17 23 6
+12 18 24
+124
+365
+7 13 19
+8 14 20
+4 10 16 22
+9 15 21
+12 18 24
+5 11 17 23
+7 13 19
+4 10 16 22
+8 14 20
+5 11 17 23
+9 15 21
+6 12 18 24
+13 19
+5 11 17 23
+14 20
+3 9 15 21
+123
+780
+124
+4 10 16 22
+789
+123
+6 12 18 24
+13 19 6 12 18 24
+14 20 4 10
+16 22
+15 21 5 11 17 23
+Design S70:
+=
+v = 24, r = 10,
+n= 6,
+n = 4,
+k = 8,
+X₂
+=
+10, A2
+=
+b= 30
+32
+60
+1, c₂= -1/6, H= 16, A
+E, 1.00, E₂ = .86, E= .87
+Solution:
+=
+Unique; resolvable
+Complement: Not listed, r = 20
+Dual: A D(3), WHC (1956)
+Groups: (6,4)
+Design S72:
+v = 26, r = 8,
+k
+=
+m 13, n = 2,
+λ₁
+=
+8,
+8,
+b= 26
+2
+= 2
+=
+52
+CI
+E,
+-
+1, c₂ = 5/26, H= 29/2, A
+1.00, E₂ = .90, E= .90
+2
+Solution 1: As given by BCS (1954); nonunique;
+4-resolvable
+Complement: Not listed, r = 18
+Dual: Truly self dual
+Groups: (13,2)
+Plan:
+Cyclically develop the two initial blocks
+1 14 2 15 4 17 10 23
+14 1 15 2 17 4 23 10
+using cycles of length 13 and cycling
+within two subsets of treatments 1-13 and
+14-26. Each position within blocks contains
+a replication, and each initial block provides
+four replications.
+Solution 2:
+Nonunique; 4-resolvable
+Complement: Not listed, r = 18
+Dual: Irregular
+Groups: (13,2)
+Plan: 13
+2367
+2345
+4567
+243444
+15
+17
+10
+2 15
+16
+18
+11
+3 16
+17
+19
+12
+25
+4 17
+18
+20
+14
+5 18 6
+19
+8
+21 13 26
+6
+19
+20
+7
+8
+21
+9
+10
+11
+12
+12 25
+1 14
+2222224
+20
+8
+21
+9 22 11
+23
+TIRIU
+10
+23
+9012
+22
+15
+23
+3
+16
+24
+25
+11 24
+1
+14
+12 25
+1 14
+13
+26
+323
+26
+15
+16 9
+456789
+17
+18
+6
+20
+8 21
+82222
+19
+Plan:
+Duplicate the plan of S69.
+(Plan continued on next page)
+123

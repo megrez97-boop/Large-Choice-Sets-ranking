@@ -1,0 +1,49 @@
+where c is an integer defined by k = cm.
+--
+Remark. When λ2-λ=1, eq (2.2) becomes
+r-λ₁ = n(λ2λ1) = n
+since for symmetrical SRGD designs r²-vλ2 = 0. Then it is seen that Connor's and Saraf's inequalities be-
+come equivalent. Saraf claims superiority for his inequalities when λ2 − λ1 > 1.
+-
+(15) When in a SRGD design the number b of blocks assumes its smallest possible value, b=v-m+1,
+any two blocks have k― (r− λ₁) treatments in common.
+Definition. If we may separate the blocks of any design into r sets of t blocks each such that each set
+contains exactly one replication of the treatments, the design is said to be resolvable. For resolvable designs
+b=tr and v=tk. A set of blocks consisting of a complete replication of the treatments is called replication
+group.
+Results (16) and (18) are due to Bose and Connor (1952).
+(16) For a resolvable semi-regular design b> v−m+r.
+Definition. An affine resolvable design is a resolvable design for which any two blocks belonging to
+different replication groups intersect in the same number of treatments.
+(17) A SRGD design which is (1) resolvable and (2) has b-v-m+r is also affine resolvable (AR), and
+conversely.
+(18) For a regular GD design b≥ v and for a resolvable regular GD design b≥ v+r−1.
+(19) For an affine resolvable semi-regular group divisible (ARSRGD) design, the common number of
+treatments between any two blocks belonging to different replication groups is k/t and hence for ARSRGD
+designs v must be divisible by t2.
+(20) If the number b of blocks is even in an ARSRGD design, then (a) m must be a perfect square if
+m and r are odd, while n must be a perfect square if m is odd and r is even.
+(21) If the number b of blocks is odd in an ARSRGD design, then (a) c = k/m must be a perfect square if
+m and r are odd; (b) nk must be a perfect square if m is odd and r is even; and (c) t must be a perfect square
+if m is even and r is odd.
+Remark. The results (20) and (21) arise from showing first that the quantity
+t'nmkm(n-1)=v'nmkb-2r
+must be a perfect square for ARSRGD designs.
+(22) The necessary and sufficient condition for the existence in a SRGD design of two blocks such that
+the number of treatments common to any other block and these two are equal, is that the two blocks contain
+k-(r-λ) common treatments.
+3. Construction of singular GD designs. Bose and Connor (1952) showed that a singular group divisible
+design is always derivable from a corresponding BIB design (v*, b*, r*, k*, λ*) by replacing each treatment by
+a group of n treatments. If the v* treatments of the BIB design are represented by the symbols 1,2,3, . . .,v*
+and if each group of treatments replacing treatment a of the BIB design is represented by a₁, α2,
+then the association scheme is represented by the v* n array as shown, wherein rows are groups.
+.9
+αn,
+11 12 13
+1n
+21
+22 23
+2n
+vi* ひ
+​vn*
+9

@@ -1,0 +1,291 @@
+TABLE XI. Partially balanced designs based on triangular association schemes - Continued
+v = 28, r = 10, k
+Design T40:
+ni
+=
+=
+12, n₂ =
+P₁ = 6,5]
+10
+4,
+=
+b
+=
+70
+15,入​ı
+=
+0, λε
+-
+2
+P
+4
+= [ + 8]
+1/7, H= 17, A = 70
+= .76
+-1/14, c₂ =
+E,= .74, E, = .78, E
+Complement: Not listed, r
+Dual: Irregular
+Association Scheme: T(8)
+= 60
+18 21
+25
+24
+21
+8 22 23
+22222222222222222222222222222222222
+9 15 27
+6 9 16 25
+design T41.
+The plan so obtained is
+known to have a triangular association
+scheme, but it has not been identified
+and is certainly not the standard
+triangular association scheme T(9).
+Design T42:
+V =
+n₁ =
+91,
+r = 8, k =
+24, n,=
+11
+66, λ1
+=
+4,
+b = 182
+1, λε
+4 20
+=
+P. [12] P.- [28]
+1
+55
+2
+4/91, c₂ = -20/91, H= 10, A =
+E,= .76, E, = .71, E = .72
+Solution: Unique; nonresolvable
+Complement: Not listed, r
+Association Scheme: T(14)
+= 174
+91/4
+45
+Plan: Utilize the BIB design (13,13,4,4,1),
+whose unique solution is obtained by
+developing modulo 13 the initial block
+0139 as a model for constructing 14
+BIB designs successively, one from the
+treatment symbols of each row of the
+triangular association scheme T(14).
+The resulting 182 blocks constitute the
+plan for the present design.
+Design T43:
+Plan: 1 14 23 28
+4 11
+17 22
+с =
+1
+1 14 24 27
+4 12
+16
+22
+1 15 20 28
+4 12
+18
+20
+1 15 22 26
+4 13
+14 26
+1 16 21 25
+4 13 17 20
+1
+16 22 24
+5 8 19 28
+1 17 19 27
+5
+8
+19
+28
+1 17 20 25
+5
+9
+17
+25
+1
+18 19
+26
+5 9
+18 24
+1 18 21 23
+5 10
+17
+2
+9 23 28
+5 10
+2
+9 24 27
+5 12
+14
+2
+10 20 28
+5
+12 15
+2 10 22 26
+5 13 14
+2 11 21 25
+5 13 15
+2 11 22 24
+6
+8 22
+23
+2 12 19 27
+6
+2 12 20 25
+6
+2 13 19 26
+2
+13 21 23
+6 10 14 27
+3
+8 25 26
+3
+8 25 26
+6 11 14
+3 10 16 28
+3 10 17 27
+3 11 15 28
+6 13 16 19
+3 11 18 24
+7 8 20
+24
+3 12 15 27
+3 12 18 23
+3 13 16 24
+3 13 17 23
+7
+8 20
+24
+7 9 15
+26
+7 9 17
+23
+7 10 14
+26
+Plan:
+4 8 21 27
+7 10 16 21
+4
+8 21 27
+7 11
+15
+4
+9 16 28
+7 11
+17
+19
+4 9 18 26
+7 12 14
+7 12
+16
+19
+v = 36,
+r =
+7,
+k =
+4,
+b
+21, A
+1
+6 10 18 20
+25
+6 11 18 19
+6 13 15 20
+Ei
+=
+1/34, C2
+0
+v = 136, r = 10, k = 4, b = 340
+30, n
+105, λ
+n₁ =
+1, λε = 0
+=
+=
+4 26
+P.-[1514] P.-[28]
+Р
+=
+91
+-13/68, H= 49/4, A = 34
+= .76, E₂ = .72, E = .72
+2
+Solution: Unique
+Complement: Not listed, r = 330
+Association Scheme: T(17)
+78
+Method of construction. Utilize the
+BIB design (16,20,5,4,1), whose unique
+resolvable solution is
+∞ 05 10
+∞ 1 611
+∞ 2 7 12
+1 3 4 12
+2 4 5 13
+3 5 6 14
+7 9 10 3
+8 10 11 4
+12 14 0 8
+13 0 19
+00
+00
+4 11 14 28
+Design T41:
+C₁ =
+ni
+= 14, n₂ =
+=
+=
+0,
+10
+=
+=
+P.-18] P.-[418]
+Pi
+=
+7 6
+15
+2
+-2/45, c, 1/9, H = 47/4, A =
+E,= .74, E, = .77, E = .76
+Complement: Not listed, r = 56
+Dual: A D(3), Shrikhande (1965)
+Association Scheme: Not identified
+135/4
+10
+63
+Plan: To construct the plan use is made of the
+design PG5 (alternatively, design T54)
+and a procedure given by Shrikhande
+(1965). In the plan for design PG5
+identify sets U, of seven blocks
+containing treatment i where i =
+12,...,9. Form sets U of blocks, each
+block of size k 4, by deleting treatment
+i from U₁. The 63 blocks given by U
+i = 1,2,...,9, constitute a plan for
+=
+6892
+11 13 14 7
+3 8 13
+4 6 7 0
+9 11 12 5
+14 1 2 10
+4 9 14
+0 2 3 11
+5 7 8 1
+10 12 13 6
+as a model for constructing 17 BIB designs
+successively, one from the treatment
+symbols of each row of the triangular
+association scheme T(17). The resulting
+340 blocks constitute the plan for the
+present design.
+242

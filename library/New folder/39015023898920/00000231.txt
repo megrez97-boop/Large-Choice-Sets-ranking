@@ -1,0 +1,213 @@
+TABLE IX. Regular group divisible designs – -
+Continued
+Design R166: v= 10,
+r = 6,
+m= 2,
+n = 5,
+λ₁
+k = 6,
+= 5, A2
+b= 10
+= 2
+Design R168: v= 15,
+r =
+6,
+k = 6,
+b= 15
+=
+5,
+=
+2 1
+=
+c, 6/7, c2:
+=
+3/35, H= 55/6, A = 175/9
+-
+E, .97, E₂ = .85, E = .90
+Solution: Unique; nonresolvable
+Complement: A disconnected design
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Groups: (2,5)
+Plan:
+123
+2345678961
+9012345678
+789612
+456
+23
+4
+5
+6
+10
+7
+1 3
+8
+10
+4
+9
+5
+10
+10
+2
+4
+9
+587806
+345678901
+=
+=
+n = 5, λ₁
+m= 3,
+c, 6/7, c₂ -18/35, H= 25/3, ▲ = 175/12
+E= .97, E₂ = .77, E = .82
+Solution:
+Nonresolvable
+Complement: Design R194
+Dual: Truly self dual, Clatworthy (1971)
+Groups: (3,5)
+Plan:
+Cyclically develop, modulo 15, the single
+initial block:
+1 4 7 10 13 2
+Each position within blocks contains a
+replication.
+Design R169; v = 18,
+m= 6,
+r = 8, k = 6,
+n = 3, A₁ = 5,
+b= 24
+2
+=
+22
+=
+c, 2/3, c₂
+=
+2/9, H= 27/2, A
+= 45
+b= 18
+E= .94, E₂ = .87, E= .87
+Solution:
+Nonresolvable
+= 16
+Complement: Not listed, r
+Dual: Irregular
+Groups: (6,3)
+Design R167: v= 12,
+m= 3,
+r = 9,
+n = 4,
+k = 6,
+λ₁
+=3
+7, λ2
+= 3
+= 3/13, H= 44/3, A
+= 52
+c, = 21/26, cz
+E, .96, E₂ = .87, E = .89
+Solution:
+2
+3-resolvable
+Complement: Truly self complementary
+Dual: A D(3)
+Groups: (3,4)
+Plan:
+445566
+112233
+7 10
+5
+8 11
+6
+10
+4OSE62
+172839
+7
+8 11
+5
+12
+10
+7 10
+8 11
+8 11
+9 12
+9 12
+1
+3
+7 10
+8 11
+8 11
+9 12
+12
+9 12 7 10
+7 10
+8 11
+Plan: 1 7 13
+1 7 13
+2
+8 14
+4 10 16
+4 10 16
+233566
+8 14
+9 15
+9 15
+5 11 17
+5 11 17
+777∞∞∞969
+11122233 3
+SA6240
+283917
+819278
+253614
+C4ES26
+5 11
+2 5 6 12
+9 12
+4 10
+2 11
+3 12
+182907
+253614
+445566
+112233
+1 10
+8
+13
+409
+12 18
+6 12 18
+5 6
+13 10 11 12
+13 16 17 18
+8 14 4 11 18
+333444555
+14
+6 10 17
+8 14 5 12 16
+9 15 4 12 17
+15
+5 10 18
+9 15 6 11 16
+4 10 16
+4 10 16
+17
+4 10 16 13 14 15
+284879278
+5 11 17 1 8 15
+5 11 17
+17
+5 11
+6 12 18
+6 12 18
+6 12 18
+3
+2123
+14
+9 13
+9
+14
+8 13
+3
+9
+15
+219

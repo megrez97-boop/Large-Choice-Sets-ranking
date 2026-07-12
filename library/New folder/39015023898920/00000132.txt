@@ -1,0 +1,335 @@
+TABLE V. Singular group divisible designs – -
+Continued
+Solution 1:
+Plan:
+Form blocks which are the complements of
+those of design S33, Solution 3.
+Solution 4:
+Nonunique; 3-resolvable
+Complement: Design S33, Solution 4
+Dual: Not a D(x), x = 1, 2, 3, 4
+Groups: (7,2)
+Plan: Form blocks which are the complements of
+those of design S33, Solution 4.
+Design S61:
+v = 16, r = 3,
+n = 4,
+m= 4,
+k = 8,
+b = 6
+λ₁
+=
+3,
+A2 1
+=
+CI
+= 1, c₂= 1/8, H= 5, ▲ = 6
+E, 1.00, E, .89, E = .91
+Solution: Unique; affine resolvable
+Complement: Truly self complementary
+Dual: Design SR21, Solution 1
+Groups: (4,4)
+Plan:
+13
+3
+2
+57
+9 13 2 6 10 14
+11
+11
+33
+15 4
+9 13
+34
+34
+10 14
+56
+12
+96
+36
+12
+78
+8 12 16
+7 11
+15
+12 16
+8 12 16
+3
+7
+11 15
+13 4
+34
+2 6 10 14
+Nonunique; affine resolvable
+Complement: Truly self complementary
+Dual: Design SR82, Solution 1
+Groups: (8,2)
+Plan: 1 9
+23
+10 4 12
+6 14
+=
+8 16 3 11
+2 10 3 11
+8 16 4 12
+11 4 12
+==
+38
+8 16 5 13
+5 13
+7 15
+75
+53
+15
+13
+94
+16
+14
+6 14 2 10
+49
+19
+4 12 5 13 7 15
+6 14 2 10
+7 15
+31
+11
+9
+8 16
+5 13
+45
+19
+6 14
+13
+11
+9 4 12
+42
+21
+10
+8 16 7 15 3 11
+6 14
+8 16
+71
+15 2 10
+39
+4 12
+31
+53
+13
+11
+7 15 1 9 3 11 6 14
+ao
+8 16 2 10
+H3
+35
+13 4 12
+Solution 2: Nonunique; nonresolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (8,2)
+Design S62:
+v = 16,
+m= 4,
+r = = 6,
+n= 4,
+k = 8,
+λ₁ = 6,
+b= 12
+λ₂
+= 2
+24
+=
+= 1/8, H= 10, A
+C₁ =
+1,
+C₂ =
+E, 1.00, E,= .89, E = .91
+Solution: Unique; resolvable
+Complement: Truly self complementary
+Dual: A D(3), WHC (1956)
+Groups: (4,4)
+Plan:
+2
+57
+5
+9 13
+11
+15
+24
+34
+34
+9 13
+10 14 4
+9 13
+10 14
+6 10 14
+8 12 16
+7 11 15
+8 12 16
+8 12 16
+13
+96
+36
+12
+56
+12
+24
+34
+96
+56
+22
+56
+12
+78
+34
+12
+43
+6
+43
+34
+13
+411
+02
+10 14
+8 12 16
+11 15
+12 16
+8 12
+16
+3 7 11 15
+3
+1
+7
+11 15
+9 13
+11
+15
+13
+57
+6 10 14
+5 9 13
+6 10 14
+Design S63:
+=
+v = 16, r = 7,
+m= 8, n = 2,
+Ci 1, c2= 5/12, H= 13,
+k = 8,
+A₁ 7,
+=
+A 42
+E,= 1.00, E₂ = .92, E = .93
+=
+b= 14
+λε 3
+=
+Plan: 1 9 2 10
+3 11
+5 13
+2 10 3 11
+4 12
+6 14
+3 11
+4 12
+5 13
+7 15
+4 12
+5 13
+6 14
+1 9
+5 13
+6 14
+7 15
+2 10
+6
+14
+7 15
+1 9
+3
+11
+7 15
+1 9
+2 10
+4 12
+8 16
+2 10
+3 11
+5 13
+8 16
+3 11
+4 12
+6 14
+8 16
+4 12
+5 13
+7 15
+8 16
+5 13
+6 14
+1 9
+8 16
+6 14
+8 16 7 15
+8 16 1 9
+712
+15 2 10
+Solution 3:
+9 3 11
+2 10 4 12
+Nonunique; nonresolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (8,2)
+Plan: 1 9 2 10
+9666
+3 11 4 12
+33
+56
+233
+11 5 13
+1
+9
+2 10
+1
+9
+2 10 6 14 7 15
+1
+9
+3 11 7 15
+8 16
+1
+4 12
+5 13
+6 14
+1
+4 12
+6 14
+8 16
+1
+5 13 7 15
+8 16
+2 10
+2 10 3 11
+4 12
+6 14
+8 16
+5 13
+7 15
+2 10 4 12
+7 15
+8 16
+233 3
+2 10 5 13
+6 14
+8 16
+11 4 12
+5 13
+8 16
+11
+4 12
+6 14
+7 15
+3 11
+5 13
+6 14 7 15
+(Plan continued on next page)
+120

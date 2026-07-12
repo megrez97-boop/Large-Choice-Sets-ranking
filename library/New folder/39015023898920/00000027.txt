@@ -1,0 +1,64 @@
+where n 5. To construct these designs pair treatment (0=1, 2, . . ., v) with each of its n2 second
+associates exactly once (A₁ =0, λ₂ = 1).
+(3) Designs with k=3, λ₁ = 1, λ=0 [Clatworthy (1956)]. A general procedure for construction of the
+triangular designs with
+(2.18)
+v=n(n-1)/2,
+r=n-2,
+b= n(n-1) (n − 2)/6,
+k=3,
+λ=1,
+λ2=0,
+n≥5
+is the following: Form all possible treatment-triplets by writing first a treatment-pair
+1
+2 3
+4
+1
+5
+6
+7
+2 5
+*
+8
+9
+10
+3 6 8
+4 7 9 10
+lying in the same row of the association scheme and adding to the pair the treatment lying in the other row
+containing the first treatment of the pair and in the column containing the second treatment of the pair. For
+example, when n=5
+v = 10, r=3,
+k=3,
+b=10,
+A₁ = 1,
+λ2=0
+and the blocks are
+1 1 1 2 2 3 5 5 6 8
+2 3 4
+3 4
+4
+6 7 7 9
+5 6 7 8 9 10
+8 9
+10
+10
+(4) The family of triangular doubly-linked block designs [Shrikhande (1952), Youden (1951)]. Youden
+has given the name "linked blocks" to designs for which every pair of blocks has the same number of treat-
+ments in common. Shrikhande has shown that if the BIB design with parameters
+v* = (n − 1) (n − 2)/2,
+b*=n(n-1)/2,
+r*=n, k*=n-2,
+A*=2
+exists, then its dual will always be a D(2) design. Furthermore, these duals, which are doubly linked block
+designs, are of the triangular type and have parameters
+(2.19)
+v=n(n-1)/2,
+r=n-2,
+b= (n−1)(n−2)/2,
+k=n,
+λ=1,
+λ=2.
+The cases n=5, 6, 9, and 11 lead to known designs, but the cases n=7, 8, 10, 12, 14, 15, 17, and 19 are
+impossible, and n = 13, 16, 18, 20 are unsolved.
+15

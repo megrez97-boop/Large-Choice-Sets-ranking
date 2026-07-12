@@ -1,0 +1,261 @@
+TABLE XV. Partially balanced designs based on the cyclic type of association scheme - Continued
+initial blocks:
+1
+3
+1
+6
+1
+7
+Plan: Cyclically develop, modulo 13, the three
+v = 5,
+r =
+=
+2, n =
+0
+2
+10, k
+2, λι
+= 2,
+b:
+=
+25
+=
+4, λη
+=
+1
+P₂= [ ' '¦]
+2
+Design C8:
+n
+P
+CI
+=
+14/29,
+=
+145/4
+2/29, H = 25/2, A
+C 1
+=
+E,= .66, E₂ = .52, E = .58
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 15
+Dual: Irregular
+Association Scheme: C(5)
+Plan:
+3
+4
+5
+2
+34512
+12345
+34512
+12345
+34512
+12345
+2
+23451
+12345
+34512
+123
+4
+5
+2
+Each initial block gives rise to two
+replications and each position within
+blocks to three replications.
+Design C11:
+V = 17,
+r = 8,
+k = 2,
+b
+n₁ =
+8,
+3
+λι
+=
+CI
+=
+2/17, C₂
+1
+P,-{
+=
+n2
+=
+41
+8,
+= 68
+=
+1, A2 0
+4
+P₂ = [ ' '}]
+-2/17, H= 17/2, A = 17
+E,= .53, E, = .47, E = .50
+Solution:
+2
+2-resolvable
+Complement: Not listed, r = 60
+Dual: Not a D(x), x = 1, 2
+Association Scheme: C(17)
+Plan: Cyclically develop, modulo 17, the four
+initial blocks:
+1
+4
+1
+6
+1
+7
+1
+8
+=
+155/4
+Each initial block gives rise to two
+replications and each position within
+blocks to four replications.
+Design C12:
+V = 5,
+n₁ = 2, n2
+r =
+3, k
+=
+225
+Design C9:
+C₁ =
+Ει
+=
+v = 5, r =
+ni
+=
+14/31, C 2
+2,
+01
+10, k =
+=
+2,
+2, A, 3, λη
+b
+=
+P₁ ={ ° ¦] _P‚= [ ' }]
+Р
+=
+2
+10/31, H = 25/2, ▲
+.65, E₂ = .60, E = .62
+Solution:
+2
+Unique; 2-resolvable
+Complement: Not listed, r
+= 15
+Dual: Irregular
+Association Scheme: C(5)
+Plan:
+34512
+2
+4
+12345
+34512
+12345
+4
+2
+3
+34512
+12345
+2345
+4
+5 1
+12345
+23451
+12345
+C₁ =
+P
+=
+=
+3,
+b = 5
+2, λι 2, λε 1
+} ] P₁ = [ ¹ ¦ ]
+··-[ ° }]
+2
+39/55, c₂ = 21/55, H= 5, ▲ = 55/9
+E, .87, E, = .76, E = .81
+=
+2
+Solution: Unique; nonresolvable
+Complement: Design Cl
+2
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Association Scheme: C(5)
+Design C10:
+CI
+=
+=
+2/13, C2
+v = 13,
+n₁ =
+P
+=
+1
+6,
+r = 6,
+n2
+2 3
+==
+333
+6,
+λι
+k = 2, b = 39
+=
+1, A2
+3
+=
+P₁ = [ ³ 3]
+2
+-2/13, H= 13/2, A = 39/4
+E, .54, E₂ = .46, E = .50
+Solution:
+2
+2-resolvable
+Complement: Not listed, r
+Dual: Not a D(x), x = 1, 2
+Association Scheme: C(13)
+= 33
+2
+300
+Plan:
+45123
+2
+23451
+4
+5
+12345
+Design C13:
+CI
+=
+v =
+ni
+39/55, C₂
+=
+ཉྭ་
+5, r = 6,
+k =
+λι
+=
+4,
+2, n 2,
+· -[ °
+Pi
+=
+b = 10
+= 2
+P‚= [ ' ¦]
+2
+21/55, H= 10, A = 220/9
+E,= .87, E, = .76, E
+Solution:
+= .81
+Unique; 3-resolvable
+Complement: Design C2
+Dual: A D(3), WHC (1956)
+Association Scheme: C(5)
+Plan: Duplicate the plan of C12.
+291

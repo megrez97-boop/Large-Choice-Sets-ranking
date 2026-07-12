@@ -1,0 +1,361 @@
+TABLE IX. Regular group divisible designs - Continued
+Plan:
+1
+13 25
+37
+5
+6
+7
+8
+1
+13 25
+37
+17
+18
+19 20
+1
+13 25
+37
+29
+30
+31
+32
+1
+13 25
+37
+41
+42
+43 44
+Design R192: v= 64,
+C 1
+=
+2/9, C2
+=
+m= 8,
+2 14 26
+38
+5
+18
+31
+44
+2
+2 14 26
+38
+6
+17
+32 43
+2
+14 26
+38
+7 20
+29 42
+Solution:
+Resolvable
+2
+14 26
+38
+8 19
+30 41
+3
+15 27 39
+5
+20
+30 43
+3
+15 27 39
+8
+17
+31 42
+3
+15 27 39
+6
+19
+29 44
+3 15 27 39
+4 16 28 40
+4 16 28 40
+4 16 28 40
+7 18 32 41
+r = 10, k = 8,
+n = 8, λ₁ 2, A2
+-
+29/288, H= 17, A = 72
+E= .90, E₂ = .89, E= .89
+Complement: Not listed, r = 70
+Dual: Irregular
+Groups: (8,8)
+Plan: To construct, use
+b= 80
+1
+88838
+5
+19 32 42
+7 17 30 44
+Set 8.1
+once
+Set 8.6
+once
+8
+18 29
+43
+4 16 28
+5 17 29
+40
+41
+6 20
+31
+41
+Set 8.2 twice
+Set 8.7
+once
+9
+10 11
+12
+5 17 29 41
+21
+22 23
+24
+Set 8.3
+once
+Set 8.8
+once
+5 17 29 41
+33
+34
+35 36
+5 17 29 41
+45 46 47 48
+Set 8.4
+once
+Set 8.9
+once
+6 18 30 42
+9
+22 35 48
+6 18 30 42
+10
+21 36 47
+Set 8.5
+6 18 30 42
+11 24 33 46
+6 18 30 42
+12
+23 34 45
+once
+Each set constitutes a complete
+replication.
+7 19 31 43
+9
+24 34 47
+7 19 31
+43
+12 21
+35 46
+7 19 31
+43
+10
+23
+33 48
+Design R193: v= 12,
+m= 3,
+r = 9,
+n = 4,
+k = 9,
+λ₁ 8,
+b = 12
+=
+2
+= 6
+7 19 31
+43
+11
+22
+36 45
+8 20 32
+44
+9
+23 36 46
+c₁ =
+8 20 32
+44
+11 21 34 48
+8 20 32 44
+8 20 32 44
+12
+22
+33 47
+10
+24 35 45
+9 21
+33 45
+1 2 3
+4
+9 21
+33 45
+13
+14 15 16
+9 21
+33 45
+25
+26 27 28
+9 21
+33 45
+37
+38 39 40
+10 22
+34 46 1
+14 27 40
+9/10,
+=
+C 2 · 27/40, H= 152/9, ▲ = 640/9
+E.99, E₂ = .96, E = .97
+Solution: Unique; nonresolvable
+Complement: A disconnected design
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Groups: (3,4)
+10 22 34 46
+2
+13 28 39
+Plan:
+10 22 34 46
+3
+16 25 38
+1
+10 22
+34 46
+4
+15 26 37
+2
+11 23 35 47
+1
+16 26 39
+3
+11 23
+35 47
+4
+13 27
+38
+4
+11 23
+35 47
+2
+15 25 40
+11 23
+12 24
+12 24 36 48
+12 24 36 48
+12 24 36 48
+35 47
+3 14 28 37
+36 48
+1 15 28 38
+3 13 26 40
+4 14 25 39
+2 16 27 37
+9
+10 11
+Design R191: v= 63,
+r = 8, k
+m= 9, n = 7, λ₁
+=
+8,
+b= = 63
+11 12
+12
+23456TGART
+45678
+5678
+8
+9
+10
+8
+11
+9 12
+7
+10
+1
+8
+11
+9 12
+1
+23
+1 4
+234567
+34567890
+12123456789
+878
+6
+9
+10
+11
+12
+10
+11
+2
+12
+10
+2
+345
+21
+3
+4
+5
+901212345678
+0121
+21234nora
+5
+6
+7
+8
+9
+10
+11
+=
+0,
+λη 1
+=
+c₁ = 0, c₂ = 8/63, H= 119/8, A = 441/8
+E,= .88, E,= .89, E = .89
+Solution:
+Nonresolvable
+Complement: Not listed, r = 55
+Dual: Truly self dual, Hoffman (1963) and
+Groups:
+Clatworthy (1971)
+(9,7)
+Plan: Cyclically develop, modulo 63, the single
+initial block:
+1 6 8 14 38 48 49 52
+Each position within blocks contains a
+replication.
+Design R194: v= 15,
+= 9/10, C2
+C₁ =
+m= 3,
+r = 9,
+n = 5,
+k = 9,
+A₁
+b= 15
+=
+8, A2 4
+=
+=
+=
+9/25, H= 140/9, A 1600/27
+E, .99, E₂ = .93, E = .94
+=
+Solution:
+Nonresolvable
+Complement: Design R168
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Groups: (3,5)
+Plan:
+Cyclically develop, modulo 15, the single
+initial block:
+1 2 4 5 7 8 11 13 14
+Each position within blocks contains a
+replication.
+225

@@ -1,0 +1,249 @@
+TABLE XI. Partially balanced designs based on triangular association schemes - Continued
+Design T64:
+v = 15,
+8,
+n₁ =
+с =
+1/4, c₂ =
+=
+E,= .87, E,
+r =
+8,
+k
+=
+λ
+n2
+4
+=
+P₁ = 3]
+6,
+=
+6,
+2, A₂
+= ¹
+b
+=
+20
+=
+4
+P₁ = [ * ]
+2
+1/2, H= 44/3, ▲ = 160/3
+.91, E = .89
+Solution 1: Nonunique; 4-resolvable
+Complement: Not listed, r = 12
+Dual: Design S67, Solution 1.
+Association Scheme: T(6)
+Plan: Duplicate the plan of T62, Solution 1.
+Solution 2: Nonunique; 4-resolvable
+Complement: Not listed, r = 12
+Dual: Design S67, Solution 2
+Association Scheme: T(6)
+Plan: Duplicate the plan of T62, Solution 2.
+Solution 3: Nonunique; 4-resolvable
+Complement: Not listed, r = 12
+Dual: Design S67, Solution 3
+Association Scheme: T(6)
+Plan: Duplicate the plan of T62, Solution 3.
+Design T65:
+v =
+21,
+r = 2,
+k
+=
+6, b
+=
+7
+10, λι
+=
+1, λη
+0
+n₁ = 10, n,
+C₁ = 2/7, c₂ =
+4
+=
+P₁ =[ 5 ]
+4 6
+=
+P.= [9]
+-3/7, H= 19/6, A
+E¸= .87, E¸ = .78, E =
+2
+=
+.82
+Solution: Unique; nonresolvable
+Complement: Not listed, k
+Dual:
+= 15
+2
+=
+7/3
+The BIB design (7,21,6,2,1), Roy and Laha
+(1956)
+Association Scheme: T(7)
+S128372
+Plan: 1 2 3 4
+5
+6
+7 8 9 10
+11
+1
+12 13 14
+16 17 18
+15
+3
+7
+19 20 4
+21 5 10
+6 11 15
+9
+14 17 19
+18 20 21
+8 12
+16
+Design T66:
+n₁ =
+10, n,=
+5
+C₁ =
+217,
+V =
+21, r = 4,
+10, A,
+]
+Pi
+k = 6,
+=
+2, λε
+4
+b = 14
+=
+P‚= [ ¹ º]
+2
+C 2 -3/7, H= 19/3, ▲ = 28/3
+=
+E,= .87, E, = .78, E = .82
+Solution: Unique; 2-resolvable
+Complement: Not listed, k
+= 15
+Dual: Design S13, a unique design
+Association Scheme:
+T(7)
+Plan: Duplicate the plan of T65.
+=
+Design T67:
+ni
+=
+v = 21, r =
+10, n,=
+6,
+k = 6,
+b = 21
+10, A,
+=
+3, λε
+2
+C₁ =
+2/7, c₂ =
+E,= .87, E,
+=
+5
+4 6
+P.-] P.-[9]
+-3/7, H= 19/2, A = 21
+.78, E = .82
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 15
+Dual: Design S42, a unique design
+Association Scheme: T(7)
+Plan: Repeat the plan of T65 three times.
+Design T68:
+c₁ = 2/7, c₂
+v = 21,
+10, n
+ni
+5
+=
+=
+Pi
+r = 8, k = 6,
+10, A,
+ย
+=
+-3/7, H= 38/3, A
+E,= .87, E₂ = .78, E = .82
+=
+b = 28
+4, λε
+4
+= 0
+P₁ = [ + ]
+2
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 20
+Dual: Design S73, a unique design
+Association Scheme: T(7)
+=
+112/3
+Plan: Repeat the plan of T65 four times.
+Design T69:
+=
+217,
+C:
+V =
+ni
+=
+=
+E, .87, E,=
+=
+21,
+r = 10, k = 6,
+=
+10, n 10, λ,
+5 4
+Pi
+-3/7, H= 95/6, A
+.78, E = .82
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 25
+=
+5,
+b = 35
+λε = 0
+4 6
+- [ + ]
+=
+175/3
+Dual: Design S116, a unique design
+Association Scheme: T(7)
+Plan: Repeat the plan of T65 five times.
+Design T70: v = 21, r =
+ni
+=
+=
+10, n
+=
+P₁ = 5 ]
+10, k = 6,
+b = 35
+10, A₁
+=
+4, λ₂
+4
+=
+P₁ = [ + ]
+-2/133, H= 33/2, ▲ =
+.83, E = .86
+C₁ = 48/133, c
+E₁ = .89, E,
+=
+Solution:
+Nonresolvable
+= 25
+Complement: Not listed, r
+Dual: A D(3), Speckman (1970)
+Association Scheme: T(7)
+133/2
+1
+(Plan continued on next page)
+247

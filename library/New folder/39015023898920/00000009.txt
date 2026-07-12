@@ -1,0 +1,29 @@
+6. The computational constants C1, C2, H, and ▲ and the efficiency factors E1, E2, and E, which
+were computed by hand for BCS(1954), have been computer evaluated for this volume.
+7. The literature sources for all designs published herein have been provided in the "even
+numbered" Tables VI through XVIII. Whenever published plans for the same parametric specifi-
+cation have been found to be combinatorially equivalent, this has been indicated along with an at-
+tempt to identify the earliest publication.
+8. Wherever possible, an attempt has been made to determine whether a parametric specifi-
+cation for a design has the possibility of multiple combinatorially distinct plans. Cases known to
+possess unique solutions (up to an isomorphism) are identified. This is the first time this has been
+attempted in a large scale enumeration of partially balanced designs.
+9. For each specifically displayed plan for a design an attempt has been made to provide infor-
+mation regarding the corresponding complementary and dual designs. The resolvability status of
+each plan is also specified whenever it is known. (This last is new only for designs not previously
+published in BCS(1954).)
+10. Each of the "even" numbered Tables IV through XVIII contains for each design an entry
+which specifies the required number (vr) of experimental units as a ready reference in assessing the
+sizes of the tabled designs.
+11. Chapter 3 contains a special section, contributed by Joseph M. Cameron and Janace
+Speckman, on the general least squares approach for use when the analysis is to be done on an
+electronic computer. The same chapter contains a new section which emphasizes the convenience
+and simplification in data analysis that arises from use of the association schemes and the recorded
+computational constants C1, C2, H, and ▲, when desk calculators are employed.
+The accuracy of the uniqueness and dual design assertions described in items 8 and 9 is not
+amenable to computer verification. Responsibility for their validity is fully my own. The incom-
+pleteness of this information is an indication that there is yet much to learn about the structural
+nature of incomplete block designs.
+WILLARD H. CLATWORTHY
+February 20, 1971
+vii

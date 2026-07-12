@@ -1,0 +1,50 @@
+wherein
+1 <t≤r, 1 ≤ t≤ k.
+The reader can find interesting relations between Bose's results and publications by Bose and Clatworthy
+(1955) which contains the three-parameter family of designs specified by (2.43) and results closely related
+to the association scheme of the partial geometry and by Connor and Clatworthy (1954) on which the integral
+condition (2.39) on a depends.
+The reader should be warned that it has not yet been established that any design of type D(2) having
+parameters given by (2.43) is necessarily a partial geometry.
+2. Partial geometries which are D(2) designs. It is known (Bose (1963)) that a partial geometry (r, k,
+r-1), r≥2 [which is known in certain mathematical areas as a net (r, k) of degree r and order k] is the
+same as the lattice design of r replications of Yates (1936) or a D(2) design with blocks of size k=r and r
+replications based on the Latin square type L,(r) association scheme. Due to the duality theorem and the
+fact that certain SRGD designs and finite Euclidian planes can be constructed from certain L,(n) associ-
+ation schemes [Clatworthy (1967)], it follows that many designs we have classified as SRGD designs and
+LS designs are also partial geometries.
+The partial geometries (2, k, 2), where k=n-1, are known to be triangular designs in which the
+blocks are the n rows (columns) of the triangular association scheme with parameter n, i.e., the family
+(2.20) of triangular designs of section B of this chapter. The duals of these designs are the well known
+unreduced BIB designs of the family
+v=n, b= n(n-1)/2,
+r=n-1, k = 2, λ = 1.
+Thus the unreduced BIB designs with k=2 and certain triangular designs could be classified as partial
+geometries.
+Certain other designs first constructed by Clatworthy (1954), Bose and Clatworthy (1955), Seiden (1961),
+Ray-Chaudhuri (1962), Shrikhande (1965) and Benson (1966) are also known to be partial geometries. [See
+the Literature Sources of Table XVI for identification of particular cases with r and k less than 10.]
+3. The simple type of D(2) design and the present classification of designs. The design category of BCS
+(1954) having one λ equal to zero and labeled "simple" was a convenience classification into which designs
+not otherwise classified could be put in 1954. The first three of these designs [Sl. 1, 2 and 3] have long been
+known to be invalid and were discarded. Designs Sl. 18, Sl. 19, Sl. 20 and Sl. 26 also had invalid solutions
+which were detected by the National Bureau of Standards computer program devised to test the validity
+of designs considered for this volume. Designs Sl. 18, Sl. 19, Sl. 20 and Sl. 26 were reconstructed to provide
+valid solutions. Except for the discarded Design Sl. 1, all the simple designs of BCS (1954) having λ, = 1
+and λ=0 can be classified as partial geometries. Hence these designs and some new partial geometries
+[namely, designs PG 1, PG 5, PG 8, PG 16, and PG 17] were put together to form the new classification
+of our Tables XVI and XVII for partially balanced designs based on partial geometries. While there are
+many partial geometries which are not included in Tables XVI and XVII, many that have r and k less than
+or equal to ten are included in other classifications.
+-
+Those simple designs of BCS (1954) for which A, 2 and λ=0 were constructed in all cases by repli-
+cating entire plans of our partial geometries. Since they cannot be classified as partial geometries (for which
+A₁ = 1), a new category called Miscellaneous was formed to include these and other new designs for which
+the other classifications are not appropriate.
+F. Miscellaneous D(2) Designs
+The 46 designs of this category are truly miscellaneous. In 17 instances they arise from repetitions of the
+whole plan of a partial geometry, thus accounting for those simple type designs of BCS (1954) that were not
+accounted for by the partial geometries. There are 7 instances of designs with k=2 from the work of Clat-
+worthy (1955) and Liu and Chang (1964). In 5 instances the designs are new [M13, M16, M17, M18, M32],
+being published here for the first time. The remaining designs come from scattered publications including
+25

@@ -1,0 +1,296 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes - Continued
+Design LS42:
+C₁ =
+V =
+ni
+1/7, C
+=
+=
+16,
+6,
+n2
+=
+λε
+222
+r = 8,
+9, λ₁
+k
+=
+4,
+b = 32
+=
+1,
+=
+P₂
+=
+[
+2
+P₁ = 2 3]
+2/7, H= 13, A = 42
+E,= .78, E, = .81, E
+Solution:
+Resolvable
+= .80
+Complement: Not listed, r = 24
+Dual: Irregular
+Association Scheme: L₂(4)
+Plan: To construct, use
+Set 4.1 once
+Set 4.4 twice
+Set 4.2 once
+Set 4.5
+twice
+Set 4.3 twice
+Design LS45: v = 25,
+[ =
+8,
+n₁ =
+=
+8,
+16, λ,
+k = 4,
+b = 50
+=
+3, λε 0
+3 4
+=
+12
+CI
+=
+4/25,
+=
+C 2
+Pi
+P₂
+=
+[ 29 ]
+-12/25, H= 45/4, ▲ = 225/8
+E,= .78, E, = .67, E = .70
+Solution: Unique; 4-resolvable
+Complement: Not listed, r = 42
+Dual: Not a D(x), x = 1, 2, 3
+Association Scheme: L₂(5)
+Plan:
+1
+6
+11
+16
+21 1
+6 11
+616
+4321598769
+321548760
+215437000
+1543260
+10
+9
+6
+8
+7
+8
+9 10
+7 12 17
+11
+12
+13 14
+3
+8
+b
+= 36
+=
+33333
+15
+11 12 13
+23
+14
+15 11 12
+18
+16 21 1
+11 16 21 1
+6 11
+16 21
+2 7 12 17
+22 2 7
+17
+12
+2 7
+12 17 22 2
+272032
+13 18
+8 13
+3
+13
+14 15
+11
+13 18 23
+12
+14
+15
+8
+13
+18
+16 17
+18
+19
+4
+9
+14 19
+20 16
+17 18
+24
+4
+9
+19
+17
+19
+24
+4
+19
+20 16
+14 19 24
+17
+21
+25
+122342
+24 25
+222
+23
+18
+19 20
+22732
+243223
+9 14 19
+5 10 15
+25 5 10 15
+21
+20 25 5 10
+25 21
+15 20 25
+24 25
+10
+15 20
+2°3032244245k
+8
+14
+9
+Each set constitutes a complete
+replication.
+Design LS43: v = 16,
+n =
+9,
+P
+1
+r = 9,
+k
+=
+6,
+λι
+n2
+4 4
+CI = 1/16,
+C 2
+=
+11/32, H
+=
+E,= .76, E₂ = .82, E = .78
+Solution:
+Resolvable
+Complement: Not listed, r
+Dual: Irregular
+Association Scheme: L,(4)
+Plan: To construct, use
+=
+=
+4,
+1, λη
+3
+P‚= [ 6 ³]
+14, A = 48
+= 27
+2
+Set 4.1
+Set 4.2 once
+once
+Set 4.4 3 times
+Set 4.5 3 times
+Set 4.3
+once
+Each set constitutes a complete
+replication.
+Design LS44: v =
+C₁ =
+-1/8,
+C₁ =
+4/49,
+C 2
+=
+E,= .77, E₂
+-
+16,
+r = 9,
+k = 4,
+b = 36
+=
+λι 0, λε 3
+=
+n₁ = 6, n2 9,
+P₁ = [ 23 ]
+Р
+=
+=
+P₁= [24]
+P,
+Cz 1/4, H 15, A = 54
+E,= .73, E, = .80, E = .77
+Solution: Nonunique; resolvable
+Complement: Not listed, r
+Dual:
+A D(3), WHC (1956)
+Association Scheme: L,(4)
+= 27
+Plan: Repeat the plan of LS36 three times.
+Remark: See design M18 which has the same
+parameters but a nonisomorphic plan and
+a pseudo Latin square association scheme.
+Design LS46: v= 49, r = 8, k
+ni
+=
+12, n
+5 6
+P, -{[
+30
+=
+λη
+=
+=
+98
+0
+=
+4,
+b
+36, λ, =
+2,
+P₂
+=
+[
+2 10
+25
+2
+-20/49, H= 21/2, A = 49/2
+.68, E = .70
+Solution: Unique; 4-resolvable
+Complement: Not listed, r = 90
+Dual: Not a D(x), x = 1, 2, 3
+Association Scheme: L₂(7)
+Plan: Utilize the BIB design (7,7,4,4,2), whose
+unique solution is provided by developing
+the initial block 1 2 3 5 modulo 7, as
+a model for constructing BIB designs from
+each of the rows and from each of the
+columns of the L,(7) association scheme.
+The 98 blocks so obtained constitute a
+plan for the present design. With careful
+placement of treatments within blocks the
+plan becomes 4-resolvable with 2 replica-
+tions for each position within blocks.
+270

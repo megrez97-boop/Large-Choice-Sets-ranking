@@ -1,0 +1,405 @@
+Reference
+number
+-
+[
+b
+Dual designs
+TABLE VI. Semiregular group divisible designs: parameters and auxiliary information-Continued
+E
+λι
+Efficiencies
+N = vr
+Unique
+solution
+Number
+of
+E2
+E
+Solutions
+given
+Complementary
+design
+تر
+Literature sources
+SR28
+SR29
+1555
+10
+SR30
+18
+6
+SR31
+21
+33
+59
+33
+50
+150
+25 3
+3
+33
+5 5
+0 1
+0
+12
+DO
+.67
+2
+.67
+139 14
+.71
+.70
+75
+No
+1
+NL, r=20
+LS 52.
+.71
+.70
+150 No
+2
+NL, r=40
+Sol. 1: A D(3), WHC (1956).
+BCS (1954).
+BCS (1954).
+Sol. 2: Not a D(x), x =1, 2, 3.
+Clatworthy, new.
+36
+49
+SR32
+24
+8
+64
+SR33 27 9
+81
+3
+33
+33
+19
+.67
+.71
+67
+.70
+=2
+.69 108 No
+69
+147 No
+920
+1
+NL, r=30
+LS75.
+BCS (1954).
+1
+NL, r=42
+LS85.
+BCS (1954).
+SR34 30 10
+100
+8
+3
+10
+SR35
+6 6
+9
+2
+8963
+67
+.70
+69
+192 ?
+1❘ NL, r=56
+LS103.
+BCS (1954).
+0
+1
+.67 69
+68
+243 ?
+1 NL, r=72
+LS120.
+BCS (1954).
+0
+67 .69
+68
+300 ?
+1
+NL, r=90
+LS138.
+BCS (1954).
+3
+.87
+.91
+.90
+36 Yes
+1
+SR6
+LS72.
+BCS (1954) [John(1966)].
+Sol. 1: TSC
+TSD, P. M. Roy (1954b) and Clatworthy BCS (1954).
+SR36
+8
+4 4 8
+4
+2
+0
+2
+.75 86 .84
+32
+32
+No
+2
+(1971).
+Sol. 2: TSC
+A D(3).
+Connor (1952).
+SR37
+8 6
+4 12
+4
+2 0 3 .75
+.86 .84
+48 ?
+1 TSC
+Irregular.
+BCS (1954).
+Sol. 1: TSC
+Sol. 1: SR66, P. M. Roy (1954b).
+BCS (1954).
+SR38
+8 6
+4
+122
+2
+4
+2
+3.83
+87.85 48
+No
+3Sol. 2: TSC
+Sol. 3: TSC
+Sol. 2: Irregular.
+Sol. 3: Irregular.
+SR39
+8 8
+16
+971
+2 0
+4 .75 86 .84 64
+No
+2 Sols. 1, 2: TSC
+Sol. 1: A D(3), WHC (1956).
+SR40
+10
+20
+SR41
+12 3
+9
+23
+0
+5 .75 .86
+.84
+0 1 .75
+.82
+.80
+30
+3980
+80
+?
+1
+TSC
+36
+Yes
+1
+SR90
+Sol. 1: S37.
+SR42
+122
+6 4
+18
+→
+3
+0
+2
+.75 .82 .80 72 No
+2 NL, r=12
+Sol. 1: S91.
+SR43
+122
+9
+4
+27
+3
+0
+3 75
+SR44
+166
+4
+4 16
+4
+0
+1
+.75
+.80
+888888
+.82 .80 108 No
+2 NL, r=18
+Sol. 2: Not a D(x), x=1, 2, 3, 4.
+.79
+64 ?
+1 NL, r=12
+Sol. 2: A D(4), WHC (1956).
+Irregular.
+P. M. Roy (1954c).
+P. M. Roy (1954c).
+Sol. 1: BCS (1954).
+Sol. 2: Derived from Design SR36, Sol.2
+BCS (1954), design SR11 rearranged.
+The BIB design (9, 12, 4, 3, 1), Roy and BCS(1954).
+Laha (1956).
+Sol. 2: Not a D(x), x = 1, 2, 3.
+TSD, P.M. Roy (1954b) and Clatworthy
+(1971).
+Sol. 1: Derived from Design SR41.
+Sol. 2: BCS(1954).
+Sol. 1: Dervied from Design SR41.
+Sol. 2: BCS(1954).
+BCS(1954) [Clatworthy (1967)].
+SR45
+16
+32
+SR46
+20 5
+25
+22
+SR47
+20 10
+50
+SR48 28 7
+49
+SR49
+32 8
+64
+SR50 36 9
+81
+SR51
+40 10
+100
+10
+4557890
+0
+2 .75 .80 .79 128 ?
+1
+NL, r=24
+A D(3), WHC (1956).
+BCS (1954).
+0
+1
+.75
+.79 .78
+100 ?
+1
+NL, r=20
+LS53.
+BCS (1954).
+2 .75
+.79 .78
+200 ?
+1
+NL, r=40
+A D(3), WHC (1956).
+BCS (1954).
+75 .78 .77 196 No
+1
+NL, r=42
+LS86.
+BCS (1954).
+0
+1
+.75 .77 .77
+256 ?
+1
+NL, r=56
+LS104.
+BCS (1954).
+0
+1
+.75 .77 .77
+324 ?
+1
+NL, r=72
+LS121.
+BCS (1954).
+1
+.75 .77 .76
+SR52
+10 4
+5
+8
+5
+2 0
+2
+.80 .89
+888
+400 ?
+1
+NL, r=90
+LS139.
+40
+?
+1
+TSC
+A D(3).
+SR53
+10 6
+5
+12
+5
+СЛ
+2
+0
+3
+.80 .89 .88
+60 ?
+1
+TSC
+Sol. 1, 2: TSC
+SR54
+10
+8
+5
+16
+5
+2
+0
+.80 .89
+.88
+80 No
+3
+Sol. 3: SC
+SR55
+10 10
+5
+20
+5
+2
+0
+5
+.80
+.89
+.88
+100 ?
+1 TSC
+Irregular.
+Irregular.
+Sol. 1: A D(4), WHC (1956).
+Sol. 2: Dual is unknown.
+Sol. 3: M31A.
+Derived from Design LS139.
+BCS (1954).
+BCS (1954).
+Sol. 1: Derived from Design SR52.
+Sol. 2: BCS (1954).
+Sol. 3: Derived from Design M31A.
+BCS (1954).
+138

@@ -1,0 +1,104 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes - Continued
+Design LS144:v =
+n₁ =
+n2
+-
+100, r = 9, k
+27,
+-
+10, b
+=
+72, λ,
+=
+3, λ
+=
+90
+0
+56
+50
+=
+6 21
+P1016] P.-[20]
+=
+CI 1/10, c₂ = -7/20, H= 15, A = 54
+E,= .91, E,
+=
+.87, E = .88
+=
+Solution: Unique; resolvable
+Complement: Not listed, r 72
+Dual:
+A D(3), WHC (1956)
+Association Scheme: L₂(10)
+Plan: Repeat the plan of LS137 four times.
+Design LS146:v
+ni
+Р
+= 100, r =
+18, n
+=
+10, k
+81, A,
+=
+10, b 100
+=
+=
+5, λη 0
+=
+8
+=
+1
+72
+P₁ = [216]
+2
+64
+Solution:
+Resolvable
+Complement: Not listed, r = 81
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(10)
+Plan: Repeat the plan of LS138 three times.
+Design LS145:v =
+=
+CI 1/10, C2
+E,= .91, E,
+2
+ni
+=
+=
+100, r =
+8,
+k
+=
+10,
+18, n
+9
+=
+P₁ =[ 8 1/2]
+72
+=
+b 80
+81, A, 4, λ, = 0
+= -4/5, H= 12, A
+.83, E = .85
+P₁ = [216]
+P2
+=
+32
+64
+=
+1/10, C2
+=
+-4/5, H= 15, A
+= 50
+E, .91, E₂ = .83, E = .85
+=
+Solution:
+2
+Unique; resolvable
+Complement: Not listed, r = 90
+Dual:
+A D(3), WHC (1956)
+Association Scheme: L₂(10)
+Plan: Repeat the plan of LS137 five times.
+288

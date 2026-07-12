@@ -1,0 +1,53 @@
+where the block parameters, bj, sum to zero within replication groups. This involves a transformation of
+the original block parameters (denoted by bº) to a new set including the r'=r/n replication parameters
+p' (p₁,..., Pr'):
+=
+[B
+=
+-15
+bn
+bn
+b1-J
+1'
+bn
+I
+][b]
+The only parameter estimates and variances affected are those involved in this transformation. In the
+analysis of variance table for Model 1, Table 1, the line for "Blocks (unadjusted)" is replaced by the two
+lines
+Replication groups
+M:
+ŹR₂
+cmj
+r'-1
+S2
+nv
+312
+G2
+S/(r' -1)
+N
+r'
+B2 R2
+Blocks within replication groups
+C=1
+b-r'
+k
+nv
+where Re is the sum of all observations within the cth replication group. (cf. Table 2.)
+The variances of the block estimates are reduced by σ2/nv from the values given for Model 1. The vari-
+ances of estimates of the difference between blocks are unchanged for those pairs of blocks in the same
+replication group but are reduced by 2σ²/nv for pairs of blocks in different replication groups.
+The replication estimates and their variances are
+Re G
+pc
+N
+nv
+-
+V (pc) = '' — 1 σ²
+-
+nvr'
+The predicted values and error variance estimate will be unchanged although computed with the addi-
+tional parameters.
+5.1.3. Model 3: Replication groups orthogonal to blocks (Youdenized). When the treatments can be
+arranged within the blocks (represented as rows of k treatments) in such a way that n complete replica-
+65

@@ -1,0 +1,183 @@
+TABLE XI. Partially balanced designs based on triangular association schemes - Continued
+Solution 2: As given by Clatworthy (new);
+nonunique; nonresolvable
+Complement: Design T71, Solution 2
+Dual: Truly self dual
+Association Scheme: T(5)
+Plan: 1
+3518264709
+217543b9b∞
+6
+4
+2
+8
+3
+10
+5
+7
+6
+10
+Design T10:
+V =
+n₁ =
+Р
+10,
+6,
+= J
+n₂ =
+3 2
+1
+6,
+3, A,
+P
+k
+2
+=
+=
+=
+C₁ = 3/10, c₂ = -3/20, H= 26/3, ▲ =
+E,= .74, E, = .63, E = .70
+2
+Solution 1: Nonunique; 3-resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Association Scheme: T(5)
+=
+14
+3,
+b = 20
+2, λε = 0
+4 2
+[
+2]
+160/9
+Plan: Duplicate the plan of T9, Solution 1.
+Solution 2: Nonunique; 3-resolvable
+Complement: Not listed, r = 14
+Dual: A D(3), WHC (1956)
+Association Scheme: T(5)
+Solution 1: Nonunique; 3-resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Association Scheme: T(5)
+= 21
+Plan: Repeat the plan of T9, Solution 1 three
+times.
+Solution 2: Nonunique; 3-resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Association Scheme: T(5)
+= 21
+Plan: Repeat the plan of T9, Solution 2 three
+times.
+Design T12:
+c =
+1
+1/5, C
+E,= .71, E,
+Solution 1:
+v = 10,
+ni
+=
+r = 6,
+6, n 3,
+3 2
+=
+P, { ³ ? ]
+λ
+k = 3, b =
+P:
+= 2/5, H= 9, A
+= 20
+=
+.77, E = .73
+2
+=
+=
+20
+1, A, 2
+4
+=
+[ + 2]
+As given by BCS (1954); nonunique;
+nonresolvable
+Complement: Not listed, r
+Dual: Irregular
+Association Scheme: T(5)
+Plan: 10 1
+1 10
+= 14
+4841800537
+6409139456
+9587653760
+2509723166
+058877322
+21238494
+10
+9
+Plan: Duplicate the plan of T9, Solution 2.
+Solution 3: Adaptation of solution by Masuyama
+(1965); nonunique; 3-resolvable
+Complement: Not listed, r = 14
+Dual: Not a D(x), x = 1, 2, 3
+Association Scheme:
+Plan:
+T(5)
+Solution 2:
+Adapted from a solution by Masuyama
+(1965); nonunique; nonresolvable
+Complement: Not listed, r = 14
+Dual: Irregular
+Association Scheme: T(5)
+5 6
+Plan:
+1 7
+10
+1
+10
+59432206
+10
+7736958488
+5
+896218S67
+611803422
+10
+23743otona
+95935-6∞
+4 10
+7
+5
+10
+8
+9
+6514923840
+5173208309
+1762586Q74
+10
+3218077569
+2145646807
+14323a5a60
+9
+8
+10
+Design T11:
+v =
+n₁ =
+10,
+6,
+r = 9, k =
+3, λι
+n₂ =
+3
+P₁ = ³ ?]
+=
+3,
+b = 30
+=
+3, λε = 0
+²]
+P₁ = [ 42 ]
+2
+c, = 3/10, c₂ = -3/20, H= 13, A = 40
+E,= .74, E, = .63, E = .70
+236

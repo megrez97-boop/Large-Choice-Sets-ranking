@@ -1,0 +1,78 @@
+by adding the yields in the second row of the second column opposite the treatment i. Thus
+T₁ = 2.6 2.7 2.8 +3.0 = 11.1,
+and the value of Ti-Qi is obtained by adding the block averages in the third row of the second column
+opposite the treatment i. Thus
+T₁- Q₁ = 2.375 +2.650+ 2.500+ 3.100 10.625.
+The fourth column of Table 8 gives the adjusted yields Qi and the fifth column the quantities Q defined
+by (3.23). Qi is obtained by subtracting T-Q; from Ti, and Q is obtained by subtracting rG/N=10.9333 from
+Ti-Qi. Thus
+Q₁ = 11.1 - 10.625 = 0.475,
+Q;= 10.625
+-
+10.9333 =-
+0.3083.
+The column entries Qi, Ti, Ti-Q; and Q may be checked, except for round-off errors, by ΣQi=0;
+ΣT=G=Σ(Ti-Qi)=164.0.
+Step 2. Calculation of G, and the intra-block estimates î. We have from (3.34) and (3.35)
+where
+r(k−1)î;= (k − c₁) Qi + (c1 − c₂ ) Gi,
+G₁ =Qi+S₁ (Qi)
+is the sum of Q's (adjusted yields) corresponding to all treatments belonging to the same group as the treat-
+ment i.
+(3.43)
+C1-C2
+u = Gr.
+k-c₁
+r(k-1)
+Qi+r(k-1)
+To calculate G we form the table of adjusted yields (Table 9) by writing below each treatment i in the as-
+sociation scheme the value of Qi taken from the fourth column of Table 8. The row sums of the Q's now give
+the quantities G. For example, the treatments in group 1 are 1, 6, 11. Hence
+G₁ =G6=G11=Q1 + Q6+Q11=0.475+0.600+0.450=1.525.
+TABLE 9
+CALCULATION OF G
+Group
+number
+Treatments and adjusted yields
+Q₁
+G
+1
+0.475
+0.475
+6
+0.600
+11
+0.450
+1.525
+2
+2
+7
+-1.125
+0.100
+12
+0.825
+-0.200
+3
+3
+8
+-0.925
+0.150
+13
+-0.275
+- 1.050
+4
+-0.175
+9
+0.575
+14
+-0.575
+-0.175
+5
+5
+0.200
+10
+-0.625
+15
+0.325
+-0.100
+43

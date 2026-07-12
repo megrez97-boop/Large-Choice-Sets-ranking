@@ -1,0 +1,67 @@
+when citing source references in Table VIII. Having thus thinned out the number of constructions, we
+identified 39 cases of RGD designs whose parametric specifications possess nonunique solutions. There
+are 58 identifiable cases for which the solutions are unique (up to an isomorphism); of these, 41 are cases
+for which the design has block size k=2.
+B. Triangular Designs
+1. Definition. A partially balanced design with two associate classes is said to be triangular if the
+number of treatments is v=n(n−1)/2 and the association scheme is an array of n rows and n columns with
+the following properties:
+(i) The positions in the principal diagonal (running from upper left-hand to lower right-hand corner) are
+left blank.
+(ii) The n(n-1)/2 positions above the principal diagonal are filled by the numbers 1, 2, . . .,n(n-1)/2
+corresponding to the treatments.
+(iii) The n(n-1)/2 positions below the principal diagonal are filled so that the array is symmetrical
+about the principal diagonal.
+(iv) For any treatment i the first associates are exactly those treatments which lie in the same rows
+(or in the same columns) as i.
+The following relations clearly hold:
+(2.14)
+v=n(n-1)/2,
+n₁ =2(n-2),
+n₂ = (n-2) (n-3)/2,
+(2.15)
+P₁=
+n-2
+=
+n-3
+P₂ =
+:= (2n
+4
+2n-8
+n-
+-3
+3-4)/2),
+(n-3) (n-4)/2
+2n-8
+(n−4) (n−5)/2
+-5)/2)
+where n ≥ 5. (The case n = 4 has pi₂ =0 so that it is also of the group divisible type and is classified in this
+way. We note further that for n=2, or 3, n₂ = 0 so that there is only one associate class and the design, if it
+exists, degenerates to the D(1) design.)
+We now state an important result which evolved from the research of Connor (1958), Shrikhande (1959a),
+Chang (1959) and Hoffman (1960):
+If an association scheme has parameters (2.14) and (2.15) and n=5, 6, 7 or n≥9 it is unique (up to an
+isomorphism); if n=8 there are exactly four nonisomorphic association schemes.
+2. Elementary constructions for some families of triangular designs. Several families of triangular designs
+are given in this section along with their constructions. Because n₁, n2, Pjk (i, j, k = 1, 2) are uniquely deter-
+mined by the parameter n, they are omitted from the parametric expressions for the 12 families given below.
+(1) Designs with k=2, λ₁=1, λ2=0 [Clatworthy (1955)]. Members of the family
+(2.16)
+v=n(n-1)/2,
+r=2(n-2),
+b=n(n−1) (n − 2)/2, λ₁ = 1,
+k=2,
+A2=0,n5
+are constructed by pairing treatment 0(0=1, 2, . . ., v) with each of its n₁ first associates exactly once
+(A₁ = 1).
+(2) Designs with k=2, λ₁ =0, λ2=1 [Clatworthy (1955)]. A second family of triangular designs with two
+treatments per block is specified by
+(2.17)
+v=n(n−1)/2,
+b=n(n-1) (n-2) (n-3)/8,
+A₁ = 0,
+r= (n-2) (n-3)/2,
+k=2,
+λ2 = 1,
+1
+14

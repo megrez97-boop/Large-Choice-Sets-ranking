@@ -1,0 +1,259 @@
+TABLE XIII.
+Partially balanced designs based on Latin square types of association schemes - Continued
+Design LS88: v = 49, r =
+CI
+= 1/7, C
+6,
+k =
+7,
+b = 42
+n, 36, n,
+12, λι
+=
+1,
+λε
+= 0
+10
+=
+P₁ =[2519]
+= -1/35, H= 11, A
+E, .87, E, = .85, E = .87
+=
+Solution:
+Affine resolvable
+Complement: Not listed, r = 36
+Dual: Design SR77
+Association Scheme: L,(7)
+Plan: To construct, use
+P,
+2
+=
+30
+6
+[ 30 ]
+=
+Set 7.1 once
+Set 7.4
+once
+Set 7.2 once
+Set 7.5
+once
+Set 7.3 once
+Set 7.6
+once
+Each set constitutes a complete
+replication.
+Design LS89: v = 49,
+C₁ =
+=
+1/7,
+C 1
+E, .87, E,
+Solution:
+=
+= J
+4, k
+=
+ոլ 12, n,= 36, A,
+=
+=
+5 67
+30
+-5/7, H= 6, A
+.78, E = .80
+Unique; resolvable
+=
+Complement: Not listed, r = 24
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(7)
+=
+7,
+b = 28
+-
+2, λε 0
+P,- [210]
+Plan: Duplicate the plan of LS84.
+Design LS90: v=
+8
+=
+25
+49, r = 6,
+k = 7, b = 42
+ni
+=
+18, n
+7 10
+20
+30, λ,
+Design LS92: v = 49, r = 10, k =
+ni
+=
+1/7, C2
+=
+E
+= .87, E,
+Solution:
+=
+=
+30, n, 18, A,
+=
+7,
+b = 70
+2, λε
+= 0
+P.-1712] P.-[2019]
+-1/14, H= 18, A = 80
+.85, E = .86
+Resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(7)
+= 60
+Plan: Duplicate the plan of LS87.
+Design LS93: v =
+=
+1/7, c
+2
+E,
+=
+.87, E,
+ni
+49,
+r = 6, k
+= 12, n₂
+6
+=
+36, A
+=
+=
+7,
+b = 42
+3, λε
+== 0
+10
+P. 530] P.-[21]
+P,
+= −5/7, H= 9, A = 18
+= .78, E = .80
+Solution: Unique; resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(7)
+=
+36
+=
+25
+Plan: Repeat the plan of LS84 three times.
+Design LS94: v = 49,
+CI
+=
+n₁ =
+P
+1
+= J
+=
+18, n
+2
+7 10
+20
+9, k =
+30, λ,
+=
+7, b = 63
+3, λε
+1/7, C = -2/7, H= 15, ▲
+E,= .87, E, = .82, E = .84
+2
+=
+P₁ = [ 6 12]
+= 54
+Solution: Nonunique; resolvable
+Complement: Not listed, r = 54
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(7)
+Plan: Repeat the plan of LS85 three times.
+Design LS95: v= 49, r = 8,
+17
+0
+k
+=
+7, b = 56
+12, n
+=
+2
+36, A,
+=
+5 6
+P
+1
+30
+c₁ =
+1/7,
+=
+P
+=
+2, A₂ = 0
+6 1/2]
+P,= [ 6 12
+C 1 -2/7, H= 10, A = 24
+E,= .87, E₂ = .82, E = .84
+2
+Solution: Nonunique; resolvable
+Complement: Not listed, r
+Dual:
+A D(3), WHC (1956)
+Association Scheme: L,(7)
+= = 36
+Plan: Duplicate the plan of LS85.
+Design LS91: v= 49, r = 8,
+=
+1/7, C2
+C 1
+E
+1
+=
+ni
+=
+=
+=
+24, n
+11
+=
+P₁ =[¹¹ 1/2]
+Р
+24, λι
+-1/7, H= 14, A
+.87, E, .84, E = .86
+k = 7, b = 56
+=
+2, A, = 0
+12 12
+·= [
+Pi
+=
+Solution: Nonunique; resolvable
+Complement: Not listed, r = 48
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(7)
+Plan: Duplicate the plan of LS86.
+2
+48
+12]
+=
+1/7,
+=
+C 2 -5/7, H= 12, A
+E, .87, E₂ = .78, E = .80
+=
+= 48
+Solution: Unique; resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(7)
+=
+4, λε 0
+P₁ = [220]
+25
+= 32
+Plan: Repeat the plan of LS84 four times.
+278

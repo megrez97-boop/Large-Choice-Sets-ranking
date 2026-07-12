@@ -1,0 +1,260 @@
+TABLE VII. Semiregular group divisible designs-Continued
+Solution 2: As given by P. M. Roy (1954b);
+nonunique; nonresolvable
+Complement: Truly self complementary, Preece (1967)
+Irregular, but an affine resolvable
+Dual:
+incomplete block design.
+9
+8719
+9481
+5231
+7122
+4206
+6350
+9
+11
+10
+12
+10
+Groups: (6,2)
+Plan: 1 4 5
+10 1
+12
+11
+9705202831
+0248673259
+2
+862
+11
+12
+12
+1
+4
+3
+9
+10
+6
+8
+11
+5
+7
+9
+6
+11
+10
+47
+4
+2913526-07∞
+9
+11
+11
+231507682
+8
+Design SR69: v= 12, r =
+8,
+k
+=
+6,
+b= 16
+m= 6, n = 2,
+λ₁
+=
+0,
+A2
+= 4
+b = 12
+3
+C₁ =
+0, c₂ = 1/2, H= 44/3, A = 160/3
+E= .83, E₂ = .91, E = .90
+Solution 1: Nonunique; 2-resolvable
+Complement: Truly self complementary
+Dual: A D(3), WHC (1956)
+Groups: (6,2)
+Plan: Duplicate the plan of SR66.
+Solution 2: As given by BCS (1954); nonunique;
+resolvable
+Complement: Truly self complementary, Preece (1967)
+Groups: (6,2)
+Plan: 1
+7
+8
+39
+28
+39
+88
+51
+62
+Design SR68: v= 12, r = 6,
+n = 4,
+m= 3,
+λ₁
+k = 6,
+= 2,
+A2
+=
+CI
+= 3/8, C2
+=
+E,
+=
+17/32, H= 34/3, A 32
+.89, E₂ = .91, E = .91
+Solution 1: Nonunique; 2-resolvable
+Complement: Self complementary but not truly
+self complementary (hence
+nonunique)
+Dual: Truly self dual
+Groups: (3,4)
+Plan:
+6128
+3178
+10
+2296
+4853
+1421
+11
+4
+5507
+12 9 11
+10
+2260
+5 12
+7309
+10
+10
+9723
+1624
+318
+2
+3
+11
+5 11
+12
+H945
+10
+2598
+2624
+0173
+1917
+3862
+12
+2
+93
+28
+88
+17
+17
+17
+49
+10
+2
+11
+10 11
+15
+5
+12
+4
+10 11 12
+10
+4 11
+5 12
+26
+10 5 6
+31
+4 11
+51
+40
+93
+10 11
+17
+7
+12
+5 12
+26
+39
+39
+93
+93
+28
+88
+28
+82
+17
+17
+17
+26
+62
+26
+62
+4 5 12
+10 11 12
+4 5
+7
+2
+7
+8
+4 11
+10
+1
+5 12
+7
+2
+Solution 2:
+Nonunique; 2-resolvable
+Complement: Design SR68, Solution 1, self
+complementary but not truly self
+complementary
+Dual: Truly self dual
+Groups: (3,4)
+Plan:
+9 10 11 12
+10
+2045
+1762
+6809
+9534
+8312
+721-
+11
+4
+12 10
+11
+1236
+0352
+2471
+8018
+5917
+4892
+12
+Solution 3:
+Arising as the dual of LS98 from
+Clatworthy (1967); nonunique;
+2-resolvable
+Complement: Truly self complementary, Preece
+(1967)
+Dual: Design LS98
+Groups: (6,2)
+Plan: 1
+1
+3693
+2
+282∞
+77
+3663
+2828
+1177
+4 5 6
+4
+11 12
+10
+5 12
+6226
+10 11
+4 11 12
+9 4 5
+9 10 11
+266
+3 10 5 12
+157

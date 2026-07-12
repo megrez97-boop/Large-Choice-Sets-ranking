@@ -1,0 +1,319 @@
+TABLE XI. Partially balanced designs based on triangular association schemes - Continued
+Design T49:
+V =
+15, r = 4,
+8,
+n₁ =
+n
+=
+P, 43]
+k
+= 5,
+b = 12
+6,
+λι
+=
+2, A2
+4
+= 0
+P₂= [ ¹ ¦]
+2
+C 1
+=
+1/3, C2
+=
+-1/3, H= 32/5, ▲ = 48/5
+Solution:
+Unique; nonresolvable
+Complement: Not listed, r = 32
+Dual: Not a D(x), x =
+Association Scheme:
+Plan: 1
+1, 2, 3, 4
+T(7)
+E, .86, E, = .75, E = .81
+Solution: Unique; 2-resolvable
+Complement: Design T93
+Dual: Design S11, which is a unique design
+Association Scheme: T(6)
+Plan: Duplicate the plan of T48.
+Design T50:
+V = 15,
+r = 6,
+k
+CI
+Ei
+=
+1/3, C2
+ni
+=
+= 8,
+กร
+4
+=
+P₁ =[ 3 ]
+Pi
+6, λι
+=
+4
+P‚= [ ¹ ¦]
+2
+-1/3, H= 48/5, A = 108/5
+-
+= .86, E, = .75, E = .81
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 12
+Dual: Design S38, which is a unique design
+Association Scheme: T(6)
+Plan: Repeat the plan of T48 three times.
+Design T51: v = 15,
+=
+1
+11
+1
+54321600
+432165987
+32165487
+216543
+9
+10
+11
+8
+5,
+b = 18
+98
+10 11 1
+7
+9 10 11 1
+3, λη
+= 0
+6
+5
+4
+3
+2
+7
+8
+10 11
+25
+7
+12
+13 14
+15 2 7
+12 13
+14 15
+7
+12
+32
+13 14
+15
+2
+7
+12 13
+14
+15
+2
+7 12
+13
+14
+15
+6 11
+15 18
+20
+21 6 11
+15
+18
+20 21 6
+11
+15
+18 20 21
+6
+11
+15
+18
+20 21 6
+11
+15
+18
+20 21
+3 8 12
+16
+17
+r = 8,
+k
+= 5,
+b = 24
+18
+3
+12
+16
+=
+CI 1/3, C2
+n₁ = 8,
+Р
+=
+4
+P‚={ * 3]
+1
+P₂ = [ + ]
+P.
+2
+-1/3, H= 64/5, ▲ = 192/5
+E, .86, E, = .75, E = .81
+=
+2
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 16
+Dual: Design S69, a unique design
+Association Scheme: T(6)
+Plan: Repeat the plan of T48 four times.
+Design T52:
+C₁ =
+1/3, C2
+= .86, E,
+E₁ =
+v=
+ni
+=
+=
+Р
+=
+15,
+8,
+P₁ =[
+r = 10, k
+-
+n2 6, λι
+303
+4 3
+P
+=
+=
+-1/3, H= 16, ▲ = 60
+.75, E = .81
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 20
+Dual: Design S114, a unique design
+Association Scheme: T(6)
+5, λη
+4
+=
+=
+[ + ]
+Plan: Repeat the plan of T48 five times.
+Design T53:
+=
+v = 21, r = 10, k
+ni
+=
+30
+=
+5,
+10, n₂ =
+5
+10, λ,
+=
+4, λε
+=
+0
+4 6
+=
+P.] P.-[9]
+C1 5/21, c₂ =
+-5/14, H= 76/5, A = 1344/25
+E, .84, E, = .75, E = .79
+=
+n2
+=
+6, λι
+=
+4, λε
+4
+=
+0
+17
+18
+3
+8
+12
+8
+12
+4
+7629
+16 17 18 3
+12 16 17 18
+8763
+8
+3
+16 17
+18
+13
+16
+19
+20 4 9 13
+16
+19 20 4
+13
+16 19 20 4
+9
+13
+16 19 20 4
+9
+13
+16 19
+20
+5
+10 14
+17
+19
+21
+5 10
+14
+17
+19
+21
+10 14
+17 19 21
+5
+10
+=
+5,
+b
+300
+14
+17 19 21 5
+10
+14
+17
+19
+21
+b = 42
+Design T54:
+v = 45,
+r = 7,
+k
+=
+ni
+=
+16, n, = 28, λ,
+P₁ = 821]
+5,
+b = 63
+=
+0, λε 1
+4
+P₁ = [ + 12]
+CI -1/27, c, = 1/9, H = 62/5, A = 189/5
+=
+E,= .79, E, = .82, E = .81
+=
+Complement: Not listed, r 56
+Dual: Design PG10
+Association Scheme: Triangular, but not
+identified
+15
+Plan: This is the same as design PG5 except
+that the names of the associate classes
+are interchanged. Use the plan for
+design PG5.
+244

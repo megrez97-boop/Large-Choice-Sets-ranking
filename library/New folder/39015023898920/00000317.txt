@@ -1,0 +1,225 @@
+TABLE XIX. Miscellaneous partially balanced designs - Continued
+Design M10:
+r = 3,
+v = 16,
+n₁ = 6, n,
+-
+P₁- 2 3]
+c, = 3/16, c₂
+=
+E,= .71, E, =
+9,
+λι
+k
+=
+3,
+b
+=
+=
+λε
+16
+0
+1,
+=
+P₁ = [24]
+-3/8, H= 4, A = 32/9
+.59, E = .63
+Solution: Nonunique'; nonresolvable
+Complement: Not listed, r
+= €13
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Association Scheme:
+Plan: 2 7
+3 10
+4
+15
+11 14
+*Remark:
+1859542
+13
+266831♪
+4
+11
+16
+7
+12 1
+9
+4
+6
+13
+1
+8
+10
+16 2
+5
+10
+5
+15
+7
+14
+13
+11
+2
+6
+3
+9
+Pseudo Latin square type;
+blocks determine the assoc-
+iation scheme.
+When the associate classes are renamed
+this design has the same parameters as
+design LS18 which has the L;(4)
+association scheme.
+Design M11:
+v = 16,
+n₁ = 6,
+r = 6,
+n:
+k
+= 3,
+9, A,
+=
+2, λε
+b = 32
+= 0
+Dual:
+of treatments 1, 2, 5 and 6 and their
+associate relations shows that the stand-
+ardized L,(4) association scheme is
+inadequate. The resulting design is M11,
+Solution 2 and has a pseudo Latin square
+type association scheme where the blocks
+provide the association relations between
+treatments.
+Design M12:
+v = 16, r = 9,
+k
+=
+3,
+b = 48
+ni
+=
+6,
+n
+=
+9,
+=
+λι 3, λε 0
+=
+2
+P₁ = 2 3] P,= [ 2 ]
+6
+C₁ = 3/16, c₂ = -3/8, H= 12, ▲ = 32
+= .71, E,
+E₁ =
+=
+.59, E = .63
+Solution: Nonunique; 3-resolvable
+Complement: Not listed, r = 39
+Dual: A D(3), WHC (1956)
+Association Scheme: A pseudo Latin square type;
+same as for design M10.
+Plan: Repeat the plan of M10 three times.
+=
+k = 3, b = 48
+A₁ 0, λε
+=
+9,
+Design M13:
+v = 16,
+n₁ =
+r = 9,
+6,
+n:
+P₁ =
+2 31
+2
+= 2
+P₁= [ ² 4]
+-3/32, c, 3/16, H= 40/3, A =
+E₁ = .65, E,
+=3
+=
+.71, E = .68
+Solution: Nonunique; 3-resolvable
+Complement: Not listed, r
+= 39
+Dual: Not a D(x), x = 1, 2, 3
+128/3
+Association Scheme: A pseudo Latin square type;
+blocks provide the scheme.
+Plan: Start with design LS17, Solution 2 and
+retain its blocks but interchange the
+names of the associate classes.
+We now
+have a design with the parameters for a
+Latin square type L₂(4) design.
+However, it is now impossible to describe
+the association relations by means of a
+4 x 4 array (as may be seen by considering
+treatments 1, 2, 5, and 6 only and their
+placement in the array). Hence the design
+is not a Latin square type but has a
+pseudo Latin square association scheme
+which is determined from the blocks.
+Design M14:
+V =
+ni
+C₁ =
+E,
+3/16, C₂
+=
+=
+P₁ = 2 3]
+=
+1
+P,= [24]
+-3/8, H= 8, A = 128/9
+= .71, E, .59, E = .63
+Solution 1: Nonunique; 3-resolvable
+Complement: Not listed, r = 26
+A D(3), WHC (1956)
+Association Scheme: A pseudo Latin square type;
+blocks provide the associa-
+tion scheme.
+Plan: Duplicate the plan of M10.
+Solution 2: Nonunique; 3-resolvable
+Complement: Not listed, r
+= 26
+Dual: Not a D(x), x = 1, 2, 3
+Association Scheme:
+A pseudo-Latin square type;
+blocks provide the associa-
+tion scheme.
+Plan: Start with design LS19, Solution 2 and
+interchange the names of the associate
+classes but retain the blocks intact. The
+resulting design has the parameters for an
+L,(4) association scheme but examination
+c, = 1/9,
+E
+=
+=
+27,
+r = 10, k = 3, b = 90
+10, n,= 16, λ,
+2, A2
+= 0
+1 81
+=
+P.-] P.-[51]
+8
+=
+= -1/9, H= 16, ▲ = 60
+.69, E,
+=
+Solution:
+.64, E = .66
+Resolvable
+Complement: Not listed, r = 80
+Dual: A D(3), WHC (1956)
+Association Scheme: Same as design PG2
+Plan: Duplicate the plan of PG2.
+10
+305

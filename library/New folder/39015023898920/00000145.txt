@@ -1,0 +1,334 @@
+TABLE V.
+Singular group divisible designs - Continued
+Design S109: v= 20, r = 9,
+m= 10, n= 2,
+k = 10,
+λ =
+b=
+= 18
+9,
+2
+= 4
+Solution 3: Nonunique; nonresolvable
+Complement: Self complementary
+Dual: Not a D(x), x = 1, 2, 3, 4
+Groups: (10,2)
+c₁ = 1, c₂ = 7/16, H= 17, ▲ = = 72
+E, 1.00, E₂ = .94, E = .94
+Solution 1: Nonunique; nonresolvable
+Complement: Self complementary
+Dual: Irregular
+Plan: 1 11 2 12 3 13
+5
+15
+9 19
+2 12 3 13
+4 14
+6 16
+1 11
+3
+13
+4 14
+5
+15
+7 17
+2 12
+4 14
+5 15
+6
+16
+8 18
+3 13
+Groups: (10,2)
+5 15
+6 16
+7 17
+9 19
+4 14
+6 16 7 17
+8 18
+1 11
+5 15
+Plan: 1 11
+4
+14
+2
+2 12
+5
+15
+3
+3 13
+6 16
+1
+231
+6 16 10 20
+7 17 8 18
+9 19
+2 12
+6 16
+4 14 10 20
+8 18
+9 19
+1 11
+3 13
+7 17
+5 15 10 20
+9 19
+1
+11
+2 12
+4 14 8 18
+4 14
+7
+17
+5
+15
+9 19
+10 20
+1 11
+2
+12
+5 15
+7 17 10 20
+5 15
+8 18
+6 16
+7 17
+10 20
+2 12
+3 13
+6 16
+8 18 10 20
+6 16
+9
+19
+4 14
+8 18
+10 20
+3 13
+4 14
+7 17
+9 19 10 20
+7 17
+1
+11
+8
+18
+3
+13
+10 20
+4 14
+5 15
+8 18
+1 11 10 20
+8 18
+2
+12
+9 19
+1 11
+10 20
+5 15
+6 16
+9 19
+2
+12 10 20
+9 19
+3
+13
+7
+17
+2 12
+10 20
+6 16
+7 17
+1 11
+3
+13 10 20
+1
+11
+4
+14
+7 17
+2 12
+6 16
+7 17
+8 18
+2 12 4 14 10 20
+2 12
+5
+15
+8
+18
+3 13
+4 14
+8 18
+9 19
+3 13
+5
+15
+10 20
+3 13 6
+16
+9 19
+1
+11
+5 15
+9 19
+1 11
+4 14
+6 16
+10 20
+1 11
+4
+14
+7 17
+5 15
+9 19
+2 12
+5
+15
+8 18
+6
+16
+7 17
+Design S110: v= 22, r = 5,
+k = 10,
+b = 11
+3 13
+6
+16
+9 19
+4
+14
+8 18
+m= 11, n= 2,
+λι
+=
+5,
+2 = 2
+1 11
+4 14
+7
+17
+8 18
+3 13
+2 12 5 15
+8
+18 9 19
+1 11
+3 13 6 16
+9 19 7 17
+2 12
+Solution 2: Nonunique; nonresolvable
+Complement: Self complementary
+Dual: Irregular
+Groups: (10,2)
+c₁ = 1, c₂ = 17/44, H= 47/5, A = 22
+1.00, E,= .94, E= .94
+E,
+Solution: Unique; nonresolvable
+Complement: Not listed, k = 12
+Dual: The true duplicate solution for the BIB
+design (11,22,10,5,4), Roy and Laha (1956)
+Groups: (11,2)
+Plan: Cyclically develop the initial block
+Plan: 1 11
+1 11
+1 11
+1
+11
+1 11
+17
+1
+1
+11
+1 11
+2 12
+2 12
+2 12
+3 13
+3
+4
+14
+=========222 22333 +
+2 12 3 13 4 14
+5 15
+2 12 3 13
+6 16
+7 17
+2 12
+4 14
+6 16
+9 19
+2 12
+5
+15
+7 17
+8 18
+3 13
+6
+16
+8 18
+9 19
+1 11 3 13
+7 17
+8 18 10 20
+11 4 14
+5
+15
+6
+16 10 20
+4 14
+8 18
+9 19 10 20
+5 15
+7 17
+9 19 10 20
+3 13
+4 14
+8
+3 13 5 15
+18 10 20
+9 19 10 20
+12
+4 14 7 17
+5 15
+8 18 9 19
+6 16
+8 18 10 20
+2 12 6 16 7 17
+3 13
+9 19 10 20
+E,
+4 14 6
+16
+7 17 10 20
+4 14 5 15
+7 17 9 19
+13 5 15
+6 16
+8 18 9 19
+55
+765
+5 15 6 16
+7 17 8 18
+1 12 4 15 5 16 9 20 3 14
+using cycles of length 11 and cycling within
+the two subsets of treatments 1-11 and
+12-22. Counting from the left (or right)
+each pair of positions within blocks
+contains a replication.
+Design S111: v = 22, r = 10, k = 10, b = 22
+m= 11, n= 2, λ₁
+10, A2 = 4
+=
+c₁ = 1, c₂ = 17/44, H= 94/5, A = 88
+1.00, E,= .94, E = .94
+Solution 1: As given by BCS (1954); nonunique;
+5-resolvable
+Complement: Not listed, r
+= 12
+Dual: Truly self dual
+Groups: (11,2)
+(Plan continued on next page)
+133

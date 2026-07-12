@@ -1,0 +1,51 @@
+(3.25)
+w':
+(3.26)
+(3.27)
+(3.28)
+(3.29)
+=
+1
+σ² + koz'
+P₁ = wQi+w'Qi,
+W
+=
+di
+=
+w'
+w-
+— w''
+C₁A+ rλ₁W
+A+rHW+W2,
+d2
+=
+C₂A+ rλ₂W
+A+rHW+22⋅
+The combined intra- and inter-block estimate î of the treatment effect t; is given by the equation
+(3.30)
+r{w'+w(k−1)}î{ = (k− d₂)P;+ (d₁ — d₂)S₁ (Pi),
+where S₁(P) is the sum of the Pi's for those treatments which are the first associates of the ith treatment
+and where Σt₁ = 0.
+The variance of the estimate of the difference of two treatment effects in this case is given by
+(3.31)
+-
+V (î'¡ − î'u) = r{w'+w(k − 1)}
+2(k-di)
+-
+here j=1 or 2 according as the ith and uth treatments are first or second associates.
+Corresponding to the expression (3.18a) for V(t) for intra-block analyses, Bradley, Walpole, and Kramer
+(1960) provide the formula for the variance of a single combined intra- and inter-block treatment estimate,
+namely,
+(3.32)
+where
+-
+V (î}) = [n₁ (k − d₁ ) + n₂ (k − d½ ) ]/Rv (k−1)
+Corresponding to (3.18b) we have
+(3.33)
+R=r{w'+w(k-1)}/(k-1).
+1
+Var(îi +ĝ) = Var(î;) + Var(ĝ) =Var(î¦) +
+vrw'
+The quantities w and w' which enter into the above equations are not known and have to be estimated
+from the observations themselves. This can be done by forming auxiliary tables of analysis of variance.
+33

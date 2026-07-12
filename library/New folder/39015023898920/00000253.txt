@@ -1,0 +1,267 @@
+TABLE XI. Partially balanced designs based on triangular association schemes – Continued
+Plan:
+4158037269
+372694IS
+1
+5
+10
+8
+26937158U4
+1580426937
+10
+Design T35:
+c₁ = 4/9,
+E
+=
+V =
+ni
+c₂
+=
+=
+.84, E,
+=
+10,
+6,
+3
+r = 10, k =
+P, { ³ 2]
+4,
+3,
+λι
+=
+4, λε
+4
+b = 25
+= 2
+P₁ = [2]
+2
+2/9, H = 33/2, ▲ = 135/2
+.79, E = .83
+Solution: Nonresolvable
+Complement: Not listed, r = 15
+Dual: Irregular
+Association Scheme: T(5)
+Plan:
+158042OPOLS∞m
+2 10
+269376-329475
+9 10
+1
+7
+8 2
+6
+10
+3
+Design T38:
+3 10
+v = 15,
+8,
+ni
+P₁
+=
+{
+r = 8,
+na
+4 3
+=
+313
+6,
+4
+8
+36752TBCIA36
+3 10
+1
+7 9
+156289034TIS
+68013294750∞
+942076158394
+415807SZTRO-9
+3726962∞RO347
+2 10
+k = 4,
+b = 30
+λι
+3, λε
+4
+=
+P‚= [ * ¦]
+0
+9 10
+4/15, C:
+C₁ =
+E,=
+= .80,
+=
+E,
+=
+-4/15, H= 12, A
+.70, E = .76
+=
+135/4
+Solution: Unique; nonresolvable
+Complement: Not listed, r = 22
+Dual: Not a D(x), x = 1, 2, 3
+Association Scheme: T(6)
+Plan:
+867524801936
+10
+3 10
+696289UBATIS
+370132947568
+042076-SB3a+
+1
+5
+10
+8
+4
+9 10
+7
+9
+1
+5
+415804ISROFI5
+10
+10
+10
+10
+9 10
+3726937269372
+2693726237269
+158O4ISROTIS∞
+Design T36:
+C₁ =
+=
+4/15, C2
+E, .80, E,
+Solution:
+V =
+10, r = 8,
+k
+=
+4, b
+n₁ =
+6, n
+3 2
+=
+3,
+λι
+=
+2, λε
+P
+1
+=
+P₁ = [ 4 2]
+2
+8/15, H= 27/2, A = 45
+.87, E = .82
+4-resolvable
+Complement: Not listed, r = 12
+Dual: A D(3), WHC (1956)
+Association Scheme: T(5)
+Plan: Duplicate the plan of T33.
+Design T37: v = 10,
+C₁ =
+E,
+=
+5/14,
+.82, E,
+C:
+=
+=
+=
+=
+20
+= 4
+r = 10, k = 4, b = 25
+=
+6, n 3, λι
+P₁ = 3 2 ]
+=
+3, λε
+P₁ = [ + 2]
+13/28, H = 67/4, ▲ = 70
+.85, E = .83
+Solution: Nonresolvable
+Complement: Not listed, r = 15
+Dual: Irregular
+Association Scheme: T(5)
+=
+43215BOTB+87619
+10
+10
+32154OTB4376198
+21543734306-98
+15432343UTI9876
+10
+7
+Design T39:
+C₁ =
+=
+r =
+v = 28,
+= 12, n₂ =
+n₁ =
+51
+P‚ -{ 6,5]
+Р
+1
+10
+4531822106
+11
+6
+2
+12
+11 12 2
+84530622
+8 11
+13
+4
+11
+15
+8
+13 15 4
+13 15
+10 11
+10
+6
+10 11 12
+3429
+5 9
+15 5
+12 14
+9
+12
+14 15
+12 14
+42
+12 14
+554
+9
+15
+5
+15
+4, b = 56
+k =
+8,
+15, A
+=
+=
+2, A,
+4
+P₁ = [
+= [ + 8]
+1/7, C
+-2/7, H= 11, ▲ = 28
+E₁ = .78, E, = .70, E = .73
+Complement: Not listed, r = 48
+Dual: Not a D(x), x = 1, 2, 3
+Association Scheme: T(8)
+=
+Plan: Using the BIB design (7,7,4,4,2) whose
+unique solution is given by developing
+the initial block 1 2 3 5 modulo 7 as
+model, construct, in turn, n 8 BIB
+designs, one from the treatments of each
+row (column) of the triangular association
+scheme T(8).
+241

@@ -1,0 +1,53 @@
+[the sum of the marginal subtotals of Q's corresponding to the row, the column, and to each of the I-2
+Latin square symbols associated with treatment i] less [IQi]. The Qi and S₁ (Qi) associated with treatment i
+are then entered in the ith row of an auxiliary v-rowed table whose headings are as shown.
+Treatment
+number i
+Qi
+S₁(Qi)
+The are then calculated from (3.10) and entered into the last column of the table.
+For the combined intra- and inter-block treatment effects estimates, î, we follow the same procedure
+for calculating S₁(Pi) except that the P; are substituted for the Qi in the association scheme. For calculation
+of the it is convenient to set up an auxiliary v-rowed table with P₁ replacing Q₁, S₁ (Pi) replacing S₁ (Qi) and
+î replacing îi in the above table. Then t¦ is calculated from (3.30).
+3.4. D(2) designs based on cyclic association schemes. In section D of Table II association schemes of
+cyclic type are given for five values of v, namely v=5, 13, 17, 19, 37. These are standardized in the form
+C(v: X1, X2,...,xn)
+from which one obtains the n₁ first associates of treatment i (i=1, 2, . . ., v) by adding i to the numbers
+X1, X2,. . ., xn, and reducing the sums modulo v whenever they exceed v. Any treatment that is not a first
+associate of treatment i is its second associate.
+For example, the standard association scheme for v=5 treatments is given as C(5: 2, 3). The first
+associates of treatment i are shown in the table.
+Treatment
+First associates
+i
+of treatment i
+4
+45123
+345
+2 3
+12345
+3
+4
+5
+1
+For intra-block estimates the quantities Q are listed in the cyclic association scheme alongside the
+treatment symbols for first associates of each treatment i (i = 1, 2, . . ., v). Row totals are then formed and
+they are the S₁(Qi). For computation of S₁ (Pi) we substitute the P; for the Qi and then the row totals give
+S₁(Pi).
+3.5. D(2) designs based on partial geometries. For the partial geometries A₁ = 1 and λ=0 always, so
+that the experimental plan itself can serve as an association scheme. There will be r blocks that contain
+treatment i and those r(k-1) other treatments in the blocks with i are its n₁ first associates. All other
+treatments (which never appear in a block with treatment i) are its n₂ second associates.
+Also among the type of D(2) designs called miscellaneous nearly all designs have A₁ = c, c a positive
+integer, and λ20 or A₁ = 0 and λ= c. Hence, what is said here about use of the blocks of the design as an
+association scheme, applies also to nearly all miscellaneous designs.
+=
+The arrangement of the auxiliary computation tables for desk calculator analysis of designs of miscel-
+laneous type D(2) designs based on partial geometries will not be described here. The interested reader is
+referred to the statistical analysis section for "simple partially balanced incomplete block designs" in
+Chapter III of BCS (1954) for the appropriate suggestions for analyses of these designs [which were previously
+classified as "simple"].
+4. Illustrative examples as guides for analyses using desk calculators. Whenever electronic computers
+are available, their use in analyses of the D(2) type of incomplete block design is highly recommended. How-
+39

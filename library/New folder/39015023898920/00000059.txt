@@ -1,0 +1,58 @@
+(c) The estimates of σ² and σ are obtained by equating S2 and S to their expectations. Thus
+S2= (N-b-v+1)²,
+S}=(b−1)^2+(N_u)ôi.
+This gives
+where så is the error mean square and
+is the "blocks adjusted" mean square. Hence
+2= 0.08664
+o²= 0.04747
+w=
+=
+1
+0.08664
+= 11.5420
+1
+w' =
+^2 = s2,
+b-1
+-
+02-N-v
+(s² — s²),
+st=
+=
+S2
+-
+b-1
+1
+= 0.239221
+²+ ko² (0.08664) + 4(0.04747)
+w'
+พ
+3.6164
+11.5420-3.6164
+= 0.4563
+W =
+w
+-
+dı
+d2
+-
+C₁A+ rλ₁W
+▲ + rHW + r²W²
+= 0,
+=
+=
+C2A+ rλ₂W
+A+rHW + r² W²
+4
+45
+15
++4(0.4563)
+4
+45
+27
++4
+(0.4563) + 16(0.4563)2
+= 0.1794.
+= = 3.6164
+47

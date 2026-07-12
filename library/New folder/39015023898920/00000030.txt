@@ -1,0 +1,121 @@
+and the following blocks:
+1
+2
+10
+2 3
+7
+4 7 8
+6 7 2
+1
+3
+9
+2
+4
+6
+4
+9
+6
+6
+8
+4
+1
+4
+8
+21
+5
+10
+4
+10
+5
+6
+10
+2
+1
+5
+10
+2
+8
+7
+5
+6
+4
+7
+9
+3
+1
+6
+9
+2 9
+6
+5
+7 3
+7
+10
+2
+1
+7
+8
+3
+4
+5
+5
+8
+4
+8
+9
+1
+3
+6
+9
+5 9 3
+8
+10
+1
+31
+8
+7
+9
+10
+1
+3
+10
+5
+(9) A family due to Masuyama (1965). Suppose we can construct a triangular design with parameters
+v', b', r', k', λi, λź, ní, n½, Pjk (i=1, 2) and a BIB design with parameters v"=v', k" = k', b", r",λ". Then
+by adjoining the two sets of blocks we have the triangular design with parameters
+(2.26)
+v=v'=v",
+b=b'+b",
+r=r' + r", k=k'=k",
+λι = λ"+ λί,
+λε= λ" + λ.
+=
+An example of such a design arises from combining the triangular design with v' 10, r'=2, k' = 4,
+b'=5, n=5, λ=1, λ=0 and the BIB design (v", b", r", k", λ") = (10, 15, 6, 4, 2) to obtain a solution of
+(2.27)
+v = 10,
+b=20,
+A₁ = 3,
+r=8,
+k=4,
+12=2,
+n=5.
+Another way of stating the basis for this construction is the following: v treatments are replicated
+r=r₁₂ times in b=b₁+ b₂ blocks such that every pair of treatments occurs exactly λ times. If b₁ blocks
+constitute a triangular design with r₁ replications, the remaining b₂ blocks are a triangular design in 2
+replications.
+(10) Family due to Chang, Liu and Liu (1965). If a triangular design with parameters
+v', r', k', b', ní, X, (P)'
+and a second triangular design with parameters
+v" = v', r", k″ = k', b", n", \"', (pik)" (i, j, k=1, 2)
+have identical triangular association schemes, then the adjoined design is triangular, with the same asso-
+ciation scheme and parameters
+b=b'+b",
+(2.28)
+v=v'=v",
+λ= λή + λ"
+r=r'+r",
+k= k' = k",
+λ2 = λ2 + x2,
+n≥ 5
+18

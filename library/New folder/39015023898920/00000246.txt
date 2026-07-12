@@ -1,0 +1,322 @@
+TABLE XI.
+Partially balanced designs based on triangular association schemes
+-2/5, C₂ =
+C₁ =
+6,
+{ ³ 23/]
+1/5, H = 21/2, A = 45/2
+Design T1:
+C₁ =
+1/5,
+C 2
+v = 10,
+ni
+=
+6,
+³
+r =
+n2
+=
+6,
+3, λι
+k
+=
+b =
+2,
+30
+=
+1, λη
+=
+0
+P.-[3] P.-[42]
+32
+Pi
+P,=
+-1/10, H= 13/2, ▲ = 10
+E,= .56, E₂ = .48, E = .53
+2
+Solution: Unique; resolvable
+Complement: Not listed, r = 24
+Dual: Not a D(x), x =
+Association Scheme:
+Plan:
+= 1, 2
+T(5)
+Design T4:
+V = 10,
+r =
+9,
+k = 2,
+b = 45
+ni
+=
+3,
+n₂ =
+λι
+= 0, A2
+3
+3
+P
+P₂ =
+·= [ + 2]
+4
+.42, E,
+=
+43780
+12569
+39760
+12456
+24970
+13568
+10
+8
+6 10
+9 10
+12345
+65869
+1234
+54699
+12387
+Design T2:
+10
+V =
+n₁ =
+Р
+=
+-2/5, c₂ =
+E, 42, E,
+=
+-
+4 10
+7
+10,
+6,
+3
+r =
+n2
+=
+21
+3,
+7
+3 10
+3, λι
+1/5, H= 7/2, A
+.56, E = .45
+k
+8690
+= 2,
+=
+0, λη
+4
+b = 15
+-
+P₁ = [ + 2]
+=
+Solution: Unique; nonresolvable
+Complement: Not listed, r = 12
+Dual: A D(3), Shrikhande (1965)
+Association Scheme:
+Plan:
+T(5)
+6
+90508
+2 10
+12347
+879234569-
+5 10
+10 1
+1236784950
+2
+5/2
+1
+Design T3:
+C₁ =
+v =
+ni
+=
+10,
+6,
+= 2,
+k
+r = 6,
+3, A, 0, λη
+n2
+3 2
+=
+==
+b
+4 2
+=
+P.-] P.-[ ]
+Р
+-2/5, c₂ =
+E,= .42, E,
+=
+1
+2
+1/5, H= 7, A = 10
+.56, E = .45
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 24
+Dual: Not a D(x), x = 1, 2, 3
+Association Scheme:
+T(5)
+Plan: Duplicate the plan of T2.
+=
+30
+2
+E,
+=
+.56, E = .45
+Solution: Unique; 2-resolvable
+Complement: Not listed, r
+= 36
+Dual: Not a D(x), x = 1, 2, 3
+Association Scheme: T(5)
+Plan: Repeat the plan of T2 three times.
+Design T5:
+c₁ =
+=
+2/15,
+V =
+15,
+=
+r =
+8,
+k =
+=
+n 8, n =3
+6,
+1
+4
+2
+2.
+b =
+60
+=
+1, λε
+λι
+4
+P.3]-[1]
+C 2
+=
+=
+E, .54, E,
+-2/15, H= 8, ▲
+.47, E = .50
+=
+P₂ = [ ¹ ¦]
+Р
+= 15
+Solution: Unique; nonresolvable
+Complement: Not listed, r 52
+Dual: Not a D(x), x =
+Association Scheme: T(6)
+78966
+1, 2
+333555
+14
+34444
+14
+80
+Plan:
+1
+6
+1
+6
+14 10
+11 13
+1
+6
+12 11
+1
+10
+14 12
+11
+11
+15
+12
+6
+12
+15
+5 15
+3 10
+13
+14
+7
+4
+11
+15
+13
+12 5
+14
+15
+7 10
+3
+7
+13
+8 11
+8
+14
+10
+11
+10
+10
+2120
+9003
+13
+5
+11
+13
+15
+14
+15
+234511-13252226
+67892420 22
+9435
+45354
+4
+=
+45/4
+897373∞+9
+-89748595
+Design T6:
+с
+=
+1
+v =
+n₁ =
+Р
+15,
+P₁ =
+=
+-2/15, C₂
+8,
+n
+= Į
+6,
+k
+=
+2,
+=
+6, λι 0,
+4 3
+303
+=
+b = 45
+=
+P₂ = [ 4 ]
+2
+1
+2/15, H= 7, A
+E,= .47, E, .54, E = .50
+2
+=
+=
+Solution: Unique; nonresolvable
+Complement: Not listed, r 39
+Dual: Not a D(x), x = 1, 2
+Association Scheme:
+T(6)
+(Plan continued on next page)
+234

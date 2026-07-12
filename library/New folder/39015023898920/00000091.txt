@@ -1,0 +1,45 @@
+Table I. Glossary and Notation
+a. General
+balanced incomplete block design- An arrangement of v treatments in b blocks, each of size k, such that (1) no treatment occurs
+more than once in any block, (2) each treatment occurs in r blocks, and (3) such that every pair of treatments occurs in exactly
+A blocks. Such a design may be denoted by BIBD, by BIB design, by D(1) or by its parameters expressed as an ordered pentuple
+(v, b, r, k, λ). For BIB designs it is necessary (but not sufficient) that vr= = bk, λ(v − 1) = r(k − 1), k < v, d < r < b, v ≤ b (or
+rk).
+-
+BIBD (v, b, r, k, λ) – A balanced incomplete block design whose parameters are v, b, r, k, λ. When the design is symmetric (v=b)
+then the notation is abbreviated to "BIBD (v, k, λ)."
+v-the number of treatments in a design
+b-the number of blocks in a design
+r-the number of replications; the number of blocks in which each treatment appears
+k-the number of treatments contained in a block
+A-in a balanced incomplete block design A is the number of blocks in which a pair of treatments occurs.
+D(m), m ≥ 2, and integral - An abbreviation for "a partially balanced incomplete block design with m associate classes." Example:
+"Dual: D(3)" means that the dual of the design being enumerated is a partially balanced design with three associate classes,
+but that identification details are omitted.
+BCS (1954)- A much-used abbreviation for reference to the original publication.
+R. C. Bose, W. H. Clatworthy and S. S. Shrikhande, Tables of Partially Balanced Designs with Two Associate Classes, North
+Carolina Agricultural Experiment Station, Technical Bulletin, No. 107, 1954.
+plan or solution - An arrangement of treatments in blocks according to the specifications provided by the parameters is called a
+plan or a solution. Sometimes only one combinationally distinct (unique) solution is possible for a set of parameters; for other
+sets of parameters it may be possible to construct more than one combinationally distinct (nonunique) plan.
+the true n-plicate (for n=2, duplicate) solution for the BIB design (v, bn, rn, k, nλ) — A description of a particular solution (or plan)
+for BIB design with the recorded parameters. To construct it one would construct a plan for the BIB design with parameters
+( v, b, r, k, λ), and then repeat this plan n times (n=2, 3, . . .) to obtain the desired plan for the referenced design.
+b. Uniqueness and Nonuniqueness
+isomorphic - Two designs are said to be isomorphic if by a 1-1 transformation of the treatments of the plan of one of the designs,
+its blocks can be brought into coincidence with the blocks of the other, the order of treatments within blocks being of no con-
+sequence.
+Clearly, for two partially balanced designs with two associate classes to be isomorphic it is necessary that they have the same
+sets of parameters, and the transformation of treatments must provide identical association schemes for the designs.
+nonisomorphic-Two designs which have the same set of parameters are nonisomorphic (nonunique, distinct, combinationally
+distinct) if they are not isomorphic.
+unique- A design is said to be unique if all possible solutions or plans for that design can be put into isomorphism with any one
+of them.
+nonunique-See nonisomorphic.
+c. Resolvability
+resolvable - A plan or solution for a design is said to be resolvable if its blocks can be divided into subsets each of which contains
+every treatment exactly once. Clearly, for resolvable designs it is necessary that b/r=v/k an integer.
+a-resolvable (a= 1, 2, . . . or c <r) – A design whose blocks can be divided into subsets such that each subset contains every
+treatment precisely a times where a is an integer less than r, is called an a-resolvable design or is said to have an a-resolvable
+plan (or solution). Clearly, r/a must be an integer. A 1-resolvable design is a resolvable design.
+79

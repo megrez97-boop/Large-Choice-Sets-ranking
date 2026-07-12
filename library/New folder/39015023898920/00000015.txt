@@ -1,0 +1,73 @@
+We can exhibit the parameters pix of the second kind as the elements of the two symmetric matrices
+(1.10)
+P₁
+=
+[P
+LP
+P21
+Pi Piz
+P22
+and
+P2
+=
+[Pi Piz
+P1 P22
+21
+1
+Since the above matrices are symmetric, it is unnecessary to write down the elements p₂, and på
+explicitly. These values will accordingly be omitted in the rest of the monograph. The computed quantities
+P₁ and P2, which arise in the analysis of these designs, should not be confused with the matrices P₁ and P2.
+3. Classification of D(2) designs. This volume contains more than 800 experimental designs of type
+D(2) for which 2 ≤ k ≤ 10 and 2 <r< 10 where k is the number of experimental units in a block and r is
+the number of blocks in which each treatment appears. These designs are classified into the following
+types:
+(a) Group Divisible (GD), consisting of three subtypes
+(al) Singular (S)
+(a2) Semi-Regular (SR)
+(a3) Regular (R)
+(b) Triangular (T)
+(c) Latin Square types (LS)
+(d) Cyclic (C)
+(e) Partial Geometry (PG)
+(f) Miscellaneous (M).
+These classifications are defined and briefly described in the next chapter. General least squares
+analysis of D(2) designs is provided in the third chapter along with a general method of solution suitable for
+modern computers. Methods for use with a desk calculator are also illustrated.
+4. Scope of the tables. The extensive expansion of the present classification of D(2) designs from 375
+to more than 800 parametric specifications necessitated the introduction of new modes of presentation to
+conserve space and to minimize publication costs. Simultaneously, it has been attempted to provide con-
+siderable auxiliary information not heretofore provided in such compilations of designs. To efficiently use
+this volume the reader should be aware of the tabular subdivisions, their purpose and scope. There are 20
+tables designated by 0 and the roman numerals I, II, . . ., XIX.
+Table 0. Auxiliary Table for Identifying Designs of Potential Interest According to the Magnitudes
+of Parameters k and v.
+Table 0 is the key guide to entry of Tables IV through XIX. It is felt that the user of this volume, when he
+is searching for a design, will generally know the block size k and the number v of treatments for his pro-
+posed experiment. Thus Table 0 has 9 subheadings "k=2", "k=3”, . . ., “k= 10". Under each subheading
+the entries are for increasing magnitudes of v, the number of treatments. Under k, v combinations, the entries
+are for the number of replications r and the number b of blocks. The table entries are design reference
+numbers having the combination of values k, v, r, b. Knowing these design reference numbers and the titles
+for Tables IV through XIX, the user is guided to designs of interest. For instance, if the user is searching
+for an experimental arrangement with blocks of size k=4 to accommodate v = 10 treatments and is willing
+to have an r as large as 10, entry of Table 0 first for k=4, then v = 10 leads to the following designs for r=2,
+4, 6, 8, and 10:
+k=4
+v
+r
+b
+Ref. Nos.
+10
+10
+24000
+10
+6
+8
+20
+SO523
+T28
+S9, T29, T33
+15
+T30
+S10, R106, T31, T34, T36
+R107, R108, T32, T35, T37
+3

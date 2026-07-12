@@ -1,0 +1,52 @@
+The variance of the difference between the effects of the ith and uth treatments is given by (3.11) and
+is estimated by replacing o² by s2 (taken from Table 20). Hence the estimated variance of the difference
+between two treatments which are first associates (i.e., occur in the same row or column of the association
+scheme) is
+-
+V (î₁ — îu) = 2s² k — c₁ _ 2 (0.09084) (4 — 8/15)
+V(îì—
+=
+r k-l
+=
+4(4-1)
+=28(.09084)/45
+= 0.05652.
+Likewise the estimated variance of the difference between two treatments which are second associates (i.e.,
+do not occur in the same row or column of the association scheme) is
+e
+2s2k-c₂
+r k-1
+=
+2(0.09084) (4-8/15)/4(3)
+26
+=
+(0.09084)
+45
+= = 0.05249.
+Since each treatment has n₁ = 2n-4 first associates and n₂ = (n − 2) (n −3)/2 second associates, and
+n=5 in this example, the estimated average variance is
+[0.05652(6)+0.05249 (3)]/9=0.05518.
+Step 4. Inter-block analysis of variance and the estimation of the weights w and w', and the coefficients
+d, and d₂. The inter-block analysis of variance follows Table 6 of section 2 since there are replication groups
+orthogonal to the blocks. Because each replication group contains exactly one replication, r' = 4 and n=1.
+The following calculations are to be made.
+(a) S2="Treatments unadjusted" sum of squares
+=
+G2
+r N
+(9.40)2+(8.88)2+
+4
+=879.9827/4-219.5391
+= 0.4566
+•
++(9.27)2 (93.71)2
+40
+is obtained in the usual manner by squaring the treatment totals Ti (from column (3) of Table 17) and adding
+them together, dividing by the number of replications, and subtracting the correction factor, G²/N.
+(b) S="Blocks adjusted" sum of squares is obtained by subtraction, i.e., by using the formula
+S=S2-S2-S-S2
+=7.0336-0.4566-1.4234-1.6351
+= 3.5185
+where the total sum of squares, S2, the replication groups sum of squares, S3, and the error sum of squares,
+S2, are taken from the intra-block analysis of variance Table 20. We thus get the following table.
+57

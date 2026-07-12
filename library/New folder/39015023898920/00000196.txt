@@ -1,0 +1,260 @@
+TABLE IX.
+Regular group divisible designs - Continued
+Design R22:
+536
+1 5
+124
+564
+123
+546
+123
+465
+123
+256
+134
+5
+3
+4
+645
+123
+5
+V =
+6,
+r = 8,
+k = 2,
+b= 24
+n= 2, λ = 4,
+2
+= 1
+c₁ = 2/3, c₂
+=
+m 3,
+=
+0, H= 9, A= 18
+E,= .75, E₂ = .50, E = .54
+Solution: Unique; resolvable
+Complement: Not listed, r = 16
+Dual: Irregular
+Groups: (3,2)
+Plan:
+1
+2
+123
+456
+3
+635
+2
+124
+564
+456
+1 4
+123
+123
+456
+346
+123
+125
+456
+123
+256
+134
+k = 2,
+- 0,
+=
+b = 24
+2
+= 2
+Design R26:
+c₁ = 5/7, c₂ =
+9,
+k = 2,
+=
+v = 6,
+m= 3,
+r =
+b= 27
+n = 2, A₁ 5,
+2
+=
+-1/7, H= 10, A = 21
+E.78, E, .47, E = .51
+2
+Solution: Unique; resolvable
+Complement: Not listed, r = 18
+Dual: Irregular
+Groups: (3,2)
+Plan:
+256
+635
+123
+456
+134
+12
+2
+4
+456
+456
+564
+123
+123
+123
+456
+456
+346
+123
+123
+125
+7/20, H= 11, A =
+E= .56, E₂ = .61, E= .60
+Solution: Unique; resolvable
+Complement: Not listed, r
+Dual: Irregular
+Groups: (3,2)
+Plan:
+123
+= 18
+Plan:
+Design R24: V= 6,
+m= 2,
+r = 8, k = 2,
+n = 3, λ₁
+b = 24
+1,
+2
+=
+221
+Design R27:
+v = 6,
+m= 3,
+r = 9,
+n = 2,
+k = 2,
+b = 27
+λ₁
+=
+=
+1, A2
+22
+= 2/9, C 2
+c₁ =
+1/5, C2
+=
+30
+Design R23:
+v = 6,
+m= 3,
+r =
+8,
+n = 2,
+X₁
+c₁ = 0, c₂ = 1/3, H= 10, A
+=
+E, .50, E₂ = .60, E = .58
+=
+Solution: Unique; resolvable
+24
+Complement: Not listed, r = 16
+Dual: A D(6), WHC (1956)
+Groups: (3,2)
+Duplicate the plan of R18.
+c₁ =
+10/27, H= 21/2, A = 27
+E= .56, E₂ = .61, E = .59
+Solution: Unique; resolvable
+Complement: Not listed, r
+Dual: Irregular
+Groups: (2,3)
+Plan:
+=
+16
+346
+2
+125
+645
+132
+426
+135
+6
+294
+135
+635
+721
+456
+123
+256
+134
+564
+123
+4
+4
+b= 27
+=
+λη 1
+Design R25: v = 6,
+m= 2,
+c₁ = 1/2, c₂
+=
+r =
+9,
+n = 3, λ₁
+0, H= 9, ▲ = 18
+E= .67, E, .50, E = .56
+2
+Solution: Unique; resolvable
+=
+Complement: Not listed, r 18
+Dual:
+Irregular
+Groups: (2,3)
+Plan:
+=
+k 2,
+=
+365
+124
+356
+124
+346
+125
+3,
+256
+564
+635
+134
+123
+124
+346
+6
+635
+134
+256
+4
+5
+125
+124
+456
+346
+564
+125
+123
+Design R28:
+v = 6,
+m= 3,
+r = 10,
+k = 2,
+b= 30
+n = 2, λ₁
+=
+6, λ2
+= 1
+c₁ =
+3/4, C2
+=
+-7/24, H= 11, A = 24
+E= .80, E2.44, E.48
+Solution: Unique; resolvable
+Complement: Not listed, r = 20
+Dual: Irregular
+Groups: (3,2)
+(Plan continued on next page)
+184

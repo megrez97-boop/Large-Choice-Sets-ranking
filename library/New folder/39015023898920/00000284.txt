@@ -1,0 +1,229 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes -
+– Continued
+Solution 2:
+Nonunique; 3-resolvable
+Complement: Design LS27, Solution 2
+Dual: A D(3), WHC (1956)
+Association Scheme: L₂(3)
+Plan: Duplicate the plan of LS49, Solution 2.
+Solution 3: Nonunique; 3-resolvable
+Complement: Design LS27, Solution 3
+Dual: A D(3), WHC (1956)
+Association Scheme: L₂(3)
+Plan: Duplicate the plan of LS49, Solution 3.
+Design LS51: v = 25,
+n₁ =
+P
+1
+r = 2,
+k
+=
+5, b: = 10
+= 0
+=
+n₂
+3 41
+16, λι 1, λε
+2
+12]_P₂= [ ² ;]
+-3/5, H= 3, A
+c₁ = 1/5, c₂
+=
+E,= .83, E,
+=
+2
+.71, E = .75
+Pi
+= 2
+= 16
+Solution: Affine resolvable
+Complement: Not listed, r
+Dual: Design SR46
+Association Scheme: L,(5)
+Plan: To construct, use
+Set 5.1 once
+Set 5.2
+once
+Set 5.3 once
+Set 5.4
+once
+16, A,
+nz
+3 4
+12
+Solution: Unique; affine resolvable
+Complement: Not listed, k
+Dual:
+Design SR11
+Association Scheme:
+=
+€ 20
+L₂(5)
+Plan:
+To construct, use
+Set 5.1
+once
+Set 5.2 once
+Each set constitutes a complete
+replication.
+Design LS52:
+v =
+25,
+r = 3,
+k =
+=
+12, A,
+=
+n₁ = 12, n₂
+6
+5,
+1, λε
+b = 15
+=
+P₁ = 5 ] P₁= [69]
+=
+0
+20
+b
+1,
+λη
+=
+0
+2
+Each set constitutes a complete
+replication.
+Design LS54: v = 25, r = 4, k =
+C₁ =
+n₁ = 8,
+P₁
+=
+=
+-
+5, b = 20
+=
+200
+2, λη 0
+P.- [2]
+· [ 29 ]
+1/5, c -3/5, H= 6, A = 8
+2
+E, .83, E₂ = .71, E = .75
+=
+2
+=
+Solution: Unique; resolvable
+Complement: Not listed, r 16
+Dual: A D(3), WHC (1956)
+Association Scheme: L₂(5)
+Plan: Duplicate the plan of LS51.
+Design LS55: v = 25, r = 6, k
+1
+c =
+1/5, C2
+E, = .83, E,
+Solution:
+n₁ = 12, n₂
+P₁ =[ 5 6
+=
+12, A,
+=
+=
+5,
+b = 30
+=
+2, λε
+6
+=
+P‚= [ ' ;]
+P₂
+2
+= -1/5, H= 10, ▲ = 24
+=
+.77, E = .80
+Nonunique; resolvable
+=
+Complement: Not listed, r = 24
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(5)
+Plan: Duplicate the plan of LS52.
+Design LS56: v=
+c
+=
+1
+E,
+=
+1/5, C2
+.83, E,
+Solution:
+25,
+r = 8, k
+= 16, n₂
+9 6
+=
+=
+=
+5,
+300
+b = 40
+=
+2, A2
+8, A,
+P.-P.-[12]
+P,
+=
+= −1/15, H= 14, ▲ = 48
+=
+.79, E = .82
+Resolvable
+=
+Complement: Not listed, r 32
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(5)
+Plan: Duplicate the plan of LS53.
+0
+C₁ =
+1/5, C2
+=
+-1/5, H= 5, A
+= 6
+=
+.77, E = .80
+E,= .83, E,
+Solution: Nonunique; affine resolvable
+Complement: Not listed, r
+Dual:
+Design SR28
+Association Scheme:
+Plan:
+L,(5)
+To construct, use
+Set 5.1 once
+Set 5.2
+once
+Set 5.3 once
+= 12
+Each set constitutes a complete
+replication.
+Design LS53: v=
+=
+C 1
+n₁ =
+=
+25,
+r = 4,
+k
+8, λ,
+16, n₂ =
+9 6
+=
+=
+5,
+P₁{ ;] P₁ = [ 12 ]
+Pi
+1/5, C2
+E,= .83, E, = .79, E = .82
+-1/15, H= 7, A
+Р
+2
+= 12
+272

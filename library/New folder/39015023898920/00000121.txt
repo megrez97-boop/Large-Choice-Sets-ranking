@@ -1,0 +1,228 @@
+TABLE V. Singular group divisible designs - Continued
+Design S15:
+v = 18,
+r = = 8,
+m= 9,
+n = 2,
+k = 4,
+λ₁ =
+b= 36
+8,
+A2
+= 1
+-
+C1 1, c₂ = -1/6, H= 25/2, A = 36
+E,
+1.00, E₂ = .72, E= .73
+2
+Solution: Unique; 2-resolvable
+Complement: Not listed, r
+= = 28
+Dual: Design T79
+Groups: (9,2)
+=
+1, c2=-5/22, H= 31/2, A 55
+E 1.00, E₂ = .71, E = .72
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 45
+Dual: Design T97
+Groups: (11,2)
+Plan:
+Cyclically develop the five initial blocks
+Plan: Cyclically develop the four initial blocks
+1 12 2 13
+1 12
+3 14
+1 12
+4 15
+1 12 5 16
+1 10 2 11
+1 10
+3 12
+10 1
+13 4
+10 1 14 5
+using cycles of length 9 and cycling
+within the two subsets of treatments 1-9
+and 10-18. The two positions within
+blocks on the left (right) contain four
+replications, and each initial block provides
+two replications.
+1 12
+6 17
+using cycles of length 11 and cycling with-
+in the two subsets of treatments 1-11 and
+12-22. The two left-most positions within
+blocks contain five replications.
+Design S18:
+v =
+8,
+r =
+= 3,
+k = 6,
+b = 4
+mF 4,
+n = 2,
+λι
+= 3,
+λ2
+= 2
+c₁ = 1, c₂
+Design S16:
+v = 20, r =
+m 10, n= 2,
+9,
+k = 4,
+b= 45
+E, 1.00,
+A₁
+=
+9,
+2
+= 1
+=
+45
+=
+1, c₂-1/5, H= 14, A
+E, 1.00, E,= .71, E= .73
+Solution: Unique; resolvable
+Complement: Not listed, r
+=36
+11/16, H= 17/3, A = 8
+==
+E₂ = .94, E= .95
+Solution: Unique; nonresolvable
+Complement: A degenerate design, r = 1
+Dual: The BIB design (4,8,6,3,4), Roy and Laha
+(1956)
+Groups: (4,2)
+Plan:
+Dual: Design T87
+Groups: (10,2)
+Plan: 1 11 2 12
+1 11
+3 13
+7856
+2341
+5678
+1234
+6785
+3412
+3 13 4 14
+2 12
+5 15
+5 15 9 19
+67
+16 8 18
+4 14 8 18
+6 16
+10 20
+Design S19:
+v = 8,
+r =
+6,
+k = 6,
+b= 8
+17 10 20
+7 17 9 19
+m= 4,
+λ
+n = 2,
+=
+6,
+=
+2 4
+12379
+12379
+11 4 14
+1 11 5 15
+6 16
+2 12
+5 15
+6 16
+8 18
+3 13
+9 19
+10 20
+8 18 10 20
+54979
+14
+19
+17
+12345
+11
+67890
+H2345
+16
+17
+8 18
+12
+3 13
+14 9 19
+5 15 10 20
+1 11
+8 18
+9 19
+10 20
+4 14 6 16
+7 17
+12345
+23
+14 10 20
+5 15 6 16
+11
+19
+2 12 10 20
+92678
+12345
+12345
+5 15
+12345
+11 7 17
+-
+1, c2= 11/16, H= 34/3, ▲ = 32
+E, 1.00, E2.94, E = .95
+Solution: Unique; 3-resolvable
+Complement: A disconnected design
+Dual: Truly self dual
+Groups: (4,2)
+2 12 8 18
+13 9 19
+Plan:
+16
+17
+8 18
+6857
+2143
+5678
+1234
+6
+3412
+6857
+2143
+7586
+1234
+5678
+3412
+7586
+5
+1 11 10 20
+2
+4 14
+2468
+12 3 13
+5 15
+6 16 7 17
+8
+18
+9 19
+Design S17:
+v = 22, r = 10,
+m 11, n= 2,
+k = 4,
+λ₁
+=
+b= 55
+10, A2
+1
+109

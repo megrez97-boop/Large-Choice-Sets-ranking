@@ -1,0 +1,336 @@
+TABLE V. Singular group divisible designs - Continued
+15
+14
+54
+16
+17
+18 5 19
+21
+22222222
+19 6
+20
+21345678
+2
+14 1 17
+16 3 18
+3
+17 4 19
+4
+18
+1345
+10
+11
+6
+25
+12
+5
+20
+7
+26
+13
+21
+8
+15
+2
+20 7
+22
+9
+1
+8
+9
+23
+10
+24 11
+25 12
+26 13
+D123
+2222225
+21
+8
+23
+10
+16
+3
+9
+24
+11
+17
+4
+23 10 25
+24
+26
+15
+P1232
+18
+5
+11 26
+19
+6
+15
+20
+7
+14
+21
+8
+16
+9
+45
+23213
+223244222
+Plan: Cyclically develop the three initial blocks
+1 8 15 22 2 9 16 23
+1
+1
+8 15 22 3 10 17 24
+8 15 22 4 11 18 25
+using cycles of length 7 and cycling within
+the four subsets of treatments 1-7, 8-14,
+15-21 and 22-28. The four positions within
+columns at the left (right) contain three
+replications, and each initial block provides
+two replications.
+Design S74:
+v = 32, r = 5, k = 8,
+m= 16, n= 2, λ₁ = 5,
+b=20
+λg
+= 1
+Solution 3: Nonunique; 4-resolvable
+Complement: Not listed, r =18
+Dual: Irregular
+c₁ = 1, c₂ = 1/8, H= 9, ▲
+= 20
+E, 1.00, E,= .89, E= .89
+Groups: (13,2)
+Plan: 13 26 2 15
+2
+3
+4
+៨៩៦៩
+15 3
+16
+16
+17
+17
+18
+4567
+17 10
+18
+19
+5
+18
+6
+19 8
+21
+6
+7
+8
+9
+10
+11
+12
+1
+22222224
+19
+20 9
+20
+8
+21 10 23
+21
+22
+11
+10
+23 12
+25
+23
+11 24 1 14
+25
+14
+213
+25 13 26
+14
+26 3 16 9
+222222222E
+20
+24
+2 15 8 21
+P1213234567∞a
+242424222
+23
+Solution: Unique; affine resolvable
+Complement: Not listed, r = 15
+Dual: Design SR59, Solution 1
+Groups: (16,2)
+25
+14
+2 18
+26
+7 23
+15
+12 28
+Plan: 16 32 1 17 6 22 11 27
+4 20 5 21 13 29
+9 25 10 26 3 19
+14 30 15 31 8 24
+16
+17
+16 32
+2 18
+7 23
+12 28
+18
+3 19
+5 21
+6
+22
+14 30
+19
+8 24
+10
+26
+11 27 4 20
+20
+13 29
+15 31
+1 17 9 25
+16 32
+3 19
+8
+4 20
+6 22
+18
+20
+21
+26
+BEEKBA2222222
+15
+14
+17
+16
+19
+23 10
+214356723
+14
+17 4 18
+35
+1 16 3 23 10
+16 3 19
+6
+18
+20 7 26 13
+2222
+5 24 11
+25 12
+19
+6
+21 8 15
+P=232
+9 25 11 27
+14 30
+1 17
+24 13 29
+7 23 15 31
+12 28 5 21
+2 18
+10 26
+16 32
+4 20
+9 25
+14 30
+5 21
+7 23
+8 24 1 17
+20
+7
+21
+22 9 14
+23
+10 26
+12
+28
+10 17
+4
+15 31
+2 18
+13 29 6 22
+3 19
+11 27
+8
+22
+9 24 11 16
+3
+22224
+23
+10 25 12 18
+24 11 25
+25
+11 26 13 19 6
+12 15 2 20
+26 13 14
+21
+15
+2 17
+B2222
+16 32
+5 21
+10
+26
+15 31
+6789
+6 22
+8 24
+9 25
+2 18
+1
+11 27
+17
+13 29
+14 30
+7 23
+3 19
+4 20
+12 28
+Design S73:
+v = 28,
+IF 7,
+r = 6,
+n = 4,
+k = 8,
+λ₁
+=
+6,
+1, c,= -1/4, H= 19/2, A = 21
+E, 1.00, E, .85, E= .86
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 15
+Dual: Design T68
+Groups: (7,4)
+b= 21
+=
+A2 1
+Design S75:
+v = 32,
+IF 8, n = 4,
+7,
+r = 7,
+k = 8,
+λ₁
+=
+28
+C₁ = 1, c₂=-5/16, H= 11, A
+E, 1.00, E, .84, E= .86
+Solution: Unique; resolvable
+=
+Complement: Not listed, r = 21
+Dual: Design T75
+Groups: (8,4)
+Plan:
+b= 28
+A2
+= 1
+In a resolvable plan for the combinatorially
+unique BIB design (8,28,7,2,1) replace each
+treatment with a group of n = = 4 distinct
+treatments given by the groups of the
+association scheme (8,4) of Table II.
+124

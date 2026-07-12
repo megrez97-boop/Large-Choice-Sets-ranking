@@ -1,0 +1,274 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes – -
+Continued
+Design LS57: v=
+C₁ =
+=
+1/5,
+C 2
+E, .83, E,
+ni
+=
+=
+=
+25,
+8,
+r =
+n;
+4
+=
+P₁ = 3,12]
+6,
+k = 5,
+16, λ₁ 3,
+=
+P,= [
+-3/5, H= 9, A = 18
+.71, E = .75
+Solution: Unique; resolvable
+Complement: Not listed, r = 24
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(5)
+b = 30
+λ,
+= 0
+2 6
+]
+Plan: Repeat the plan of LS51 three times.
+Design LS58: v=
+C₁ =
+1/5,
+c
+E, .83, E,
+=
+n₁ =
+=
+=
+r =
+9,
+k
+=
+5,
+b = 45
+12, A₁
+λη
+= 0
+25,
+12, n,=
+P₁ =[ 5 ]
+1
+Pi
+-1/5, H= 15, ▲ =
+.77, E = .80
+Solution: Nonunique; resolvable
+Complement: Not listed, r
+= = 36
+Association Scheme:
+Dual: A D(3), WHC (1956)
+L,(5)
+=
+=
+54
+3,
+[69]
+Plan: Repeat the plan of LS52 three times.
+Design LS59: v = 25,
+CI
+E
+=
+1/5, C2
+= .83, E,
+n₁ =
+=
+=
+=
+r =
+8,
+k 5,
+16, A₁
+8, n =
+4
+', {
+P₁ = 3,12]
+=
+4, λε
+b = 40
+=
+P₁ = [ 2 ]
+2
+-3/5, H= 12, ▲ = 32
+.71, E = .75
+Solution: Unique; resolvable
+Complement: Not listed, r = 32
+Dual: A D(3), WHC (1956)
+Association Scheme: L₂(5)
+Plan: Repeat the plan of LS51 four times.
+Design LS60: v = 25, r = 10, k
+с
+=
+1
+E,
+=
+1/5, C2
+.83, E,
+n₁ =
+8,
+n2
+4
+=
+P₁ = 312]
+P,
+16, A₁
+=
+=
+5,
+5, λη
+2
+= [
+P₂=
+2
+= -3/5, H= 15, ▲ = 50
+= .71, E = .75
+Solution: Unique; resolvable
+Complement: Not listed, r
+= = 40
+Dual: A D(3), WHC (1956)
+b
+=
+=
+9]
+0
+50
+0
+Solution: Affine resolvable, Agrawal (1965)
+Complement: Not listed, r = 16
+Dual: A design with the parameters of design
+SR46 and a nonstandardized association
+scheme with m 4, n = 5.
+Association Scheme: L,(5)
+Plan: To construct, use
+Set 5.3 once
+Set 5.4
+once
+Set 5.5
+once
+Set 5.6 once
+Each set constitutes a complete
+replication.
+Design LS62: v=
+=
+16, λ₁
+=
+25,
+r = 8,
+b
+k = 5,
+= 40
+n₁ =
+8,
+2,
+A = 1
+=[²
+2
+P
+=
+n:
+3 4
+12
+Pi
+=3
+C₁ = 29/105, c. 13/105, H= 13, ▲ = 42
+=
+E,= .85, E, = .82, E = .83
+Solution:
+Resolvable
+Complement: Not listed, r
+Dual: Irregular
+Association Scheme:
+L₂(5)
+Plan: To construct, use
+= 32
+Set 5.1
+twice
+Set 5.4 once
+Set 5.2 twice
+Set 5.5
+once
+Set 5.3
+once
+Set 5.6
+once
+Each set constitutes a complete
+replication.
+Design LS63: v=
+25,
+n₁ = 8,
+r = 10, k
+na
+3 4
+=
+16, λ
+=
+5,
+b = 50
+=
+3, λη 1
+2 6
+P‚={ ³ 12] P‚= [ ² %]
+CI
+=
+19/63, C₂ =
+1/21, H = 16, ▲ = 63
+E, .85, E, = .81, E = .82
+=
+Solution:
+Resolvable
+Complement: Not listed, r
+Dual: Irregular
+Association Scheme: L,(5)
+Plan: To construct, use
+= 40
+Association Scheme: L,(5)
+Plan: Repeat the plan of LS51 five times.
+Design LS61: v=
+P
+8,
+25,
+r = 4,
+n₂ =
+k
+=
+5,
+b
+16, λ,
+3 4
+Pi
+12
+2
+=
+=
+=
+20
+0, A2
+= 1
+2 6
+9]
+C₁ =
+E,
+=
+-1/15, C2
+.79, E, = .83, E = .82
+1/5, H = 7, A
+=
+12
+Set 5.1 3 times
+Set 5.4
+once
+Set 5.2 3 times
+Set 5.5
+once
+Set 5.3 once
+Set 5.6
+once
+Each set constitutes a complete
+replication.
+273

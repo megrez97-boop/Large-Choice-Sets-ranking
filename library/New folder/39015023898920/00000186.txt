@@ -1,0 +1,340 @@
+Reference
+number
+4
+Dual designs
+TABLE VIII. Regular group divisible designs: parameters and auxiliary information-Continued
+E
+Z
+Efficiencies
+Number
+N=W
+Unique
+solution
+of solutions Complementary design
+given
+E₁
+E, E
+Literature source
+R41
+15
+10
+R42
+6 3 3
+23
+2 75
+3
+3 2
+70
+52
+33
+56
+5
+1
+2
+1
+--
+.50
+.89
+6990
+.54
+.76
+$55
+.52
+.78
+188
+150 Yes
+1
+NL, r=65
+18 Yes
+1
+TSC
+Not a D(x), x=1, 2.
+TSD.
+R43
+6
+6
+3
+12
+2 3 3
+2 .83 .77 .79
+36 No
+2 Sol. 1, 2: TSC
+Sol. 1, 2: Irregular.
+Sol. 1: TSC
+R44
+6
+3 12 3
+2
+2 .89 .76 .78
+36 No
+2
+Sol. 2: TSC
+R45
+6 7 3 14
+2
+42.86
+.86 .73.78
+42 No
+2 Sol. 1, 2: TSC
+Sol. 1, 2: Irregular.
+R46
+6
+7
+3
+14 3 2
+2
+3 .76 .81 .80
+42 No
+2 Sol. 1, 2: TSC
+Sol. 1, 2: Irregular.
+R47
+6 8
+3
+166
+2 3
+5
+2 .87 .70
+.76
+48 No
+2 Sol. 1, 2: TSC
+Sol. 1, 2: Irregular.
+R48
+3
+16
+3
+3 2
+3
+.83 .79 .80
+48 No
+2
+Sol. 1, 2: TSC
+Sol. 1, 2: Irregular.
+R49
+3 18
+R50
+R51
+66
+18
+3
+18
+R52
+6
+R53
+6 10
+R54
+R55
+R56
+90369
+3
+18
+20
+8
+3 16
+11920
+33
+3 24
+3223 ~ ~ ~ 2
+23322444
+2
+.89 .67 .74
+54 ?
+1
+TSC
+6
+.89 .76
+.78
+54 ?
+TSC
+2
+.74
+.81 .79
+54 ?
+1 TSC
+3
+.78 .81 .80
+54 Yes
+1 TSC
+.90 64 .72
+60 ?
+1 TSC
+0
+1 .67 .76 .75
+24 Yes
+1 R134
+2
+0
+22
+2 .67 .76
+6 2 .89 .71
+.75
+48 ?
+1
+R136
+.73
+72 ?
+1
+NL, r=15
+R57
+9
+3
+R58
+6
+3
+R59
+5
+R60
+3 18
+R61
+9
+7 3
+R62
+7 3 21
+NELL 2 N
+24
+4
+2
+0 3 .67 .76 .75 72 ?
+24
+4
+2
+2 3
+.74 .77 .76
+15
+21
+3 3
+23
+3333
+3333
+.80 .72 .74
+1
+.83 68 .71
+1 .86 64 69
+1
+2
+.71 .76 .75
+R63
+3 24
+3
+3
+5
+1 .87 .61
+.66
+382 8
+1
+NL, r=15
+A D(3), Clatworthy (1956).
+72 No
+2
+NL, r=15
+Sol. 2: not a D(x), x =1, 2, 3.
+45 ?
+1
+R165
+Irregular.
+54 ?
+1
+NL, r=12
+Irregular.
+63 ?
+1
+NL, r=14
+Irregular.
+63 ?
+1
+NL, r=14
+Irregular.
+72 No
+2 NL, r=16
+Sol. 1, 2: Irregular.
+R64
+99 3
+3 27
+3
+3
+6
+1 .89
+.57 .63
+81 No
+2 NL, r=18
+(Sol. 1: Irregular.
+Sol. 2: Irregular.
+Sol. 1: Irregular.
+R65
+9
+3
+27
+3
+3
+3 2
+.78
+.74
+75 81 No
+3 NL, r=18
+R66
+9
+10
+3 30
+3
+7
+1
+.90
+.54
+.60
+90 No
+2 NL, r-20
+Sol. 1: a D(3), Clatworthy (1956).
+Sol. 2: not a D(x), x = 1, 2, 3.
+Irregular.
+a D(3), Clatworthy (1956).
+Irregular.
+Not a D(x), x=1, 2, 3.
+Irregular.
+TSD.
+A D(3), Clatworthy (1956).
+Not a D(x), x=1, 2, 3.
+Sol. 1: not a D(x), x =1, 2, 3.
+Sol. 2: not a D(x), x=1, 2, 3.
+Sol. 3: not a D(x), x=1, 2, 3.
+(Sol. 1: Irregular.
+Sol. 2: Irregular.
+Clatworthy (1955).
+BCS (1954) [Thompson (1956), Freeman
+(1957)).
+Sol. 1: BSC (1954).
+Sol. 2: Freeman (1957).
+Clatworthy (1956).
+Sprott (1955) [Freeman (1957)].
+Sol. 1: Clatworthy (1956).
+Sol. 2: Freeman (1957).
+Sol. 1: Clatworthy (1956).
+Sol. 2: Freeman (1957).
+Sol. 1: Clatworthy (1956).
+Sol. 2: Freeman (1957).
+Sol. 1: Clatworthy (1956).
+Sol. 2: Freeman (1957).
+Freeman (1957).
+Clatworthy (1956).
+Freeman (1957).
+Freeman (1957) [Ikeda (1967)].
+Liu and Chang (1964).
+BCS(1954).
+Clatworthy (1956).
+Sprott (1955) [Freeman (1957), Ikeda
+(1967)).
+BCS (1954).
+Sol. 1 BCS (1954).
+Sol. 2 John (1966).
+BCS (1954) (Clatworthy (1967)].
+BCS (1954) [Clatworthy (1967)].
+Clatworthy (1956), (1967).
+BCS (1954) [Clatworthy (1967)].
+Sol. 1: Clatworthy (1956).
+Sol. 2: Clatworthy (1967).
+Sol. 1: Liu and Chang (1964).
+Sol. 2: Clatworthy (1967).
+Sol. 1: BCS (1954) [Clatworthy (1967)].
+Sol. 2: Freeman (1957).
+Sol. 3: John (1966).
+Sol. 1: Liu and Chang (1964).
+Sol. 2: Clatworthy (1967).
+174

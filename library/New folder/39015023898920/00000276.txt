@@ -1,0 +1,283 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes - Continued
+Plan: Cyclically develop the following twelve
+initial blocks
+1
+5
+9
+10
+13
+14
+1
+26045
+11
+15
+13
+1
+371595.
+5
+9 13
+1
+5 9 13
+1
+6 11
+5 10 15
+9 14 3
+13 2 7
+using cycles of length 4 and cycling
+within four subsets of treatments 1-4,
+5-8, 9-12, and 13-16. Each position
+within blocks contains three replications.
+Remark: Design LS17, Solution 2 with the names
+of its associate classes interchanged
+but its plan retained intact has a
+pseudo Latin square type association
+scheme and is recorded as design M13
+where its association scheme is provided
+by the blocks.
+Design LS18: v=
+Design LS19: v=
+16,
+= 9,
+= J
+n₂ =
+6,
+6, λι
+k = 3,
+=
+λη
+b = 32
+= 2
+4
+3
+CI
+E,
+= -3/8,
+ni
+P. + 2]
+=
+0,
+P‚= [ 6 ³]
+2
+3/16, H = 8, A = 128/9
+= .59, E, = .71, E = .63
+2
+Solution 1: Nonunique; 3-resolvable
+Complement: Not listed, r = 26
+Dual: A D(3), WHC (1956)
+Association Scheme: L;(4)
+Plan: Duplicate the plan of LS18.
+Solution 2: Nonunique; 3-resolvable
+Complement: Not listed, r = 26
+Dual: Not a D(x), x = 1, 2, 3
+Association Scheme: L,(4)
+Plan: 1 7 12
+14 1
+27
+0815627-332
+8150270632
+15087
+12
+14 1
+7
+12
+14
+8
+13
+11
+2
+9
+13
+8
+16 9
+16,
+r = 3,
+k = 3, b =
+16
+2
+11
+2
+9
+n₁ =
+9,
+n2
+=
+=
+10
+3
+12
+5
+10
+16
+6
+3
+5
+10
+3
+16
+5
+13
+3
+6
+15
+9
+6
+14
+11 5
+4
+15 9
+4
+14 11
+Nonresolvable
+469
+15
+5
+4 14
+4
+11
+4
+4 4
+P₁ = + 2]
+6, λ 0, λε 1
+P₁
+=
+6 3
+·= [ ° ³]
+32/9
+C₁ =
+-3/8, C₂
+=
+3/16, H= 4, A
+E,= .59, E, = .71, E = .63
+Solution:
+Complement: Not listed, r = 13
+Dual: Truly self dual
+Association Scheme: L;(4)
+12813Konmay46
+Plan:
+10
+16
+11
+13
+12
+14
+9
+15
+13
+14
+15
+16
+78564123
+7856
+6345
+785
+9
+10
+6
+5
+11
+12
+2 16
+3
+13
+4 14
+1 15
+41239012
+Remark: The design M8, which has the same
+parameters as design LS18 except that
+the names of the associate classes are
+interchanged, has a pseudo Latin square
+association scheme. The present design
+cannot be constructed by use of the
+L,(4) association scheme (as can be
+seen by considering the r 3 blocks
+=
+that contain any treatment a). It is
+not known whether designs LS18 and
+M8 are combinatorially equivalent.
+Design LS20: v = 16,
+n₁ = 6,
+n2
+r = 9,
+-
+9,
+λι
+P₁ =[ 23 ]
+с =
+1
+-3/32, C₂
+=
+=
+E₁ = .65, E,
+Solution:
+k = 3,
+=
+0, λ₂
+2
+b = 48
+P‚= [ ² 4]
+2
+3/16, H = 40/3, ▲ = 128/3
+.71, E = .68
+Nonunique; 3-resolvable
+Complement: Not listed, r = 39
+Dual: Not a D(x), x = 1, 2, 3
+Association Scheme: L₂(4)
+Plan:
+1 6 11
+16 1 6
+11 16
+6 11 16
+25
+1
+12
+2
+5
+15
+2
+12
+15
+11
+15
+12
+8
+11
+3 8
+14
+3
+9
+14
+652529343
+142723-∞mbos4596
+27141823OL360645
+7142823-530459
+1
+15
+10
+16
+9
+50826-7332
+13
+12
+6
+4
+8150726а63325
+9
+=
+2
+081597202633;
+8
+8 9 14
+307
+7 10
+31
+10 16
+6 9
+11
+14 4 5
+11 14 4
+14
+5 11
+4 7
+13
+10 13
+264

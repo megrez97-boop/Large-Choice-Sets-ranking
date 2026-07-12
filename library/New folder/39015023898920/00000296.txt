@@ -1,0 +1,219 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes - Continued
+Design LS121:v = 81,
+P₁ - 13 187
+r = 4,
+k = 9,
+n, = 32, n, 48, λ,
+b = 36
+=
+30
+=
+1, λε
+12
+P‚= [ ¹2 29]
+2
+0
+=
+=
+-5/27, H= 7, A
+=
+12
+C₁ =
+1/9,
+C2
+E, .90, E, = .87, E = .88
+=
+Solution:
+Affine resolvable
+Complement: Not listed, r
+Dual: Design SR50
+Association Scheme: L,(9)
+Plan: To construct, use
+Set 9.1 once
+= 32
+Set 9.2
+once
+Set 9.3
+once
+Set 9.4
+once
+Plan:
+To construct, use
+Set 9.1
+once
+Set 9.4
+once
+Set 9.2 once
+Set 9.5
+once
+Set 9.3 once
+Set 9.6
+once
+Each set constitutes a complete
+replication.
+Design LS124:v = 81, r = 7, k = 9, b = 63
+=
+с
+1
+119,
+с
+2
+n₁ =
+= 56, n₂
+=
+24, A,
+=
+1, λε
+= 0
+P.37 18] P,-[424]
+=
+= -1/27, H= 13, A = 42
+E,= .90, E, = .89, E = .90
+Solution:
+Affine resolvable
+Complement: Not listed, r
+Dual: Design SR89
+Association Scheme:
+=
+= 56
+L,(9)
+81,
+Each set constitutes a complete
+replication.
+Design LS122:V
+C 1
+=
+=
+n, 40, n,= 40,
+=
+P, -[1920]
+P,= [20 20]
+1/9, c₂ = -1/9, H= 9, A = 20
+2
+E, .90, E, = .88, E = .89
+Solution:
+Affine resolvable
+Complement: Not listed, r
+Dual: Design SR64
+Association Scheme: L,(9)
+Plan: To construct, use
+= = 40
+Plan:
+To construct, use
+r = 5,
+k = 9,
+λ,
+=
+1, λε
+b = 45
+= 0
+Set 9.1 once
+Set 9.5
+once
+Set 9.2
+Set 9.3
+once
+Set 9.6
+once
+once
+Set 9.7
+once
+Set 9.4
+once
+Set 9.1 once
+Set 9.4 once
+CI
+=
+1/9, C:
+Set 9.2 once
+Set 9.5
+once
+Set 9.3 once
+Each set constitutes a complete
+replication.
+Design LS125:v = 81,
+n₁ =
+=
+8,
+r =
+k
+=
+9,
+=
+b
+64, n2
+=
+=
+20
+72
+14
+=
+16, λ₁ 1, λ
+P.-[494] P.-[56]
+P,=
+-1/63, H= 15, A = 56
+E,= .90, E₂ = .89, E = .90
+Solution:
+2
+Affine resolvable
+Complement: Not listed, r
+Dual: Design SR98
+Association Scheme:
+= 64
+Each set constitutes a complete
+replication.
+Design LS123:V
+ni
+P
+=
+81,
+r = 6, k = 9,
+= 48, n₂
+1
+=
+27 201
+32, A₁
+P₂
+=
+L.(9)
+b = 54
+Plan:
+To construct, use
+1,
+λε
+= 0
+30 18
+Set 9.1 once
+Set 9.5
+once
+2
+13
+Set 9.2
+once
+Set 9.6
+once
+CI
+=
+1/9, C
+=
+-1/15, H= 11, A
+= €30
+=
+=
+E, .90, E, .88, E = .89
+Solution:
+Affine resolvable
+Complement: Not listed, r
+Dual: Design SR79
+Association Scheme: L,(9)
+= 48
+Set 9.3
+once
+Set 9.7
+once
+Set 9.4 once
+Each set constitutes a complete
+replication.
+Set 9.8
+once
+284

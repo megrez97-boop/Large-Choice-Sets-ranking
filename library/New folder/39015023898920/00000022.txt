@@ -1,0 +1,92 @@
+The parameters of the corresponding SGD are
+(2.5)
+v=nv*,
+r=r*,
+b=b*,
+m=v*,
+A₁ = r
+k=nk*,
+n = n,
+λ2 = A*
+where m,n 2. Thus SGD designs always have block sizes which are composite numbers > 4. In this volume
+the tabled SGD designs have k=4, 6, 8, 9, 10.
+For example, suppose v*b*=3, r*=k*=2 and λ*= 1, the smallest possible unreduced BIB design.
+It has blocks 1 2, 13, 2 3. If we replace each treatment with n = 3 new treatments, we obtain the arrangement
+which is the SGD design with
+111213212223,
+111213313233,
+Assoc. Scheme
+212223313233
+r=2,
+v=9, b=3, m=3,
+k=6,
+λ₁ = 2
+11 12 13
+n = 3,
+λε=1
+21 22
+23
+31
+32 33
+(2.6)
+More generally, consider the whole class of unreduced BIB designs with parameters
+v*=t,
+b*=t(t−1)/2,
+r*=t-1,
+k*=2, λ*= 1,
+whose solution consists of all possible pairs of the t treatments. Replacing each treatment with n new treat-
+ments, we obtain the corresponding SGD design with parameters
+(2.7)
+where t⇒ 2.
+v=nt,
+b=t(t−1)/2,
+r=t-1,
+k=2n,
+m=t,
+λ₁ =t-1,
+n=n,
+λ₂ = 1,
+Again, consider the BIB design (7,7,3,3,1) whose blocks are obtained by developing the initial block
+(1,2,4) modulo 7. For convenience we write the blocks as columns
+1
+2
+3
+4
+5 6 7
+2 3
+4
+5 6
+7 1
+4 5 6 7 1 2 3.
+Replacing each treatment with n=2 new treatments as indicated by the association scheme below, we
+obtain
+Assoc. Scheme
+Blocks
+1 8
+1 8 2
+9
+4 11
+2
+9
+2
+9
+3
+10
+5 12
+3
+10
+3
+10
+4
+11
+6
+13
+4
+11
+4
+11
+5
+12
+7
+14
+10

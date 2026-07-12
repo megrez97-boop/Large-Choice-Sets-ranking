@@ -1,0 +1,54 @@
+TABLE VII. Semiregular group divisible designs - Continued
+Design SR110:v = 90,
+0, c₂
+m
+10,
+r = 9,
+n= 9,
+=
+k = 10,
+λ₂
+b= 81
+0, A2
+= 1
+1/9, H= 171/10, A = 729/10
+E, .90, E₂ = .91, E= .91
+Solution:
+Nonunique; nonresolvable, Bose and
+Connor (1952)
+Complement: Not listed, r = 72
+Dual: The BIB design (81,90,10,9,1), Roy and
+Laha (1956).
+Groups: (10,9)
+Plan:
+To construct the b = 81 blocks of this
+design one can start with a solution for
+the symmetrical balanced incomplete block
+design (v, b, r, k, λ) = (91, 91, 10, 10, 1). It
+is known [see Marshall Hall, Jr., J. Dean
+Swift and Raymond Killgrove (1959)]
+that there exist four solutions for this
+design, but one solution may be found in
+T. Kitagwa and M. Mitome (1955). From
+this design select for deletion 10 blocks
+containing a common treatment (say the
+treatment labeled 91). Upon removal of
+the 10 chosen blocks, strike out the
+common treatment (91) and use the 10
+subsets so obtained as the 'groups' for
+the desired GD design. The set of 81
+residual blocks constitute a solution for
+design SR110. The groups will not be in
+the standardized form, and therefore,
+relabeling of treatments both in the plan
+and in the groups would be required if
+standardization is desired.
+Since there exist 4 distinct solutions
+for the SBIB design and since the deletion
+of blocks from each of them can be done in
+91 ways, it should be simple, though
+tedious, to construct several independent
+plans for this GD design.
+1
+I
+172

@@ -1,0 +1,252 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes - Continued
+Design LS70: v =
+=
+ni
+=
+121, r =
+10,
+k = 5,
+20, n₂ = 100, λ₁
+10
+P₁ =[900]
+Pi
+5/121, c₂ =
+E₁ = .81, E₂
+=
+2,
+λη
+b = 242
+P₂ = [ [218]
+=
+-45/121, H= 66/5, A = 968/25
+.74, E = .75
+Solution: Unique; 5-resolvable
+Complement: Not listed, r
+= 232
+Dual: Not a D(x), x = 1, 2, 3
+Association Scheme: L₂(11)
+Plan: Utilize the BIB design (11,11,5,5,2),
+whose unique solution is:
+a b c gj
+aehjk
+ab fik
+bcdh k
+ce f go k
+cfhij
+ac dei
+bdefj
+d
+g
+i j k
+adfgh
+beghi,
+0
+Solution: Unique; nonresolvable
+Complement: Design LS7
+Dual: Design SR35
+Association Scheme: L₂(3)
+Plan: 4
+49
+9
+1
+8
+7
+1
+6
+2 9
+991934
+885212
+774365
+633548
+522697
+Design LS73: v =
+ni
+9,
+= 4,
+r = 8,
+k = 6,
+b = 12
+=
+6, λ₂ 4
+1 2
+P
+1
+=
+16/21, c₂
+.95, E,=
+=
+=
+CI
+E
+=
+Solution:
+-
+4, λι
+n₂
+=
+P₁ = [ 2 2]
+11/21, H = 15, A = 56
+.91, E = .93
+Unique; 4-resolvable
+Complement: Design LS8
+Dual:
+A D(3), WHC (1956)
+Association Scheme: L₂(3)
+Plan: Duplicate the plan of LS72.
+as a model to construct BIB designs, one
+from the treatments of each row and one
+from the treatments of each column of the
+association scheme L₂(11).
+=
+The
+2(11)(11) = 242 blocks so obtained constitute
+the unique solution for the present design.
+Blocks arising from the rows comprise
+five replications and blocks arising from
+the columns comprise five. It is also
+possible to arrange treatments within
+blocks so as to provide two replications
+for each position within blocks.
+Design LS71: v=
+ni
+441, r =
+40, n2
+=3
+•, [19,20]
+Pi
+380
+=
+10,
+=
+25, A,
+nz
+Design LS74: v= 36, r = 2,
+k = 6,
+=
+1, λ,
+b == 12
+= 0
+=
+16
+ni
+4
+P. [20] P.-[218]
+=
+-2/3, H= 3, A 2
+10,
+400, A1
+P2
+= [
+k = 5,
+1, λη
+2 38
+b = 882
+=
+0
+C 1
+=
+E,
+=
+1/6, C2
+.86, E,
+=
+=
+.75, E = .78
+361
+CI 5/441, c₂ = -95/441, H= 63/5, A = 882/25
+=
+E, = .80, E,
+-
+.77, E = .77
+Solution: Unique; 5-resolvable
+Complement: Not listed, r = 872
+Dual: Not a D(x), x = 1, 2
+Association Scheme: L₂(21)
+Plan: Utilize the BIB design (21,21,5,5,1),
+whose unique solution is provided by
+developing the initial block 3 6 7 12 14
+modulo 21, for constructing BIB designs,
+one from the treatments of each row and
+one from the treatments of each column of
+the association scheme L₂(21). The
+2(21)(21) = 282 blocks so obtained
+constitute a solution for the present
+design. By careful arrangement of treat-
+ments within blocks it is possible to
+have a 5-resolvable plan with two replica-
+tions for each position within blocks.
+Design LS72: v
+CI
+=
+16/21,
+E,
+9, r = 4, k
+=
+=
+ni
+= 4.
+n 2
+1 2
+=
+Р
+4, λι
+Р
+-
+Cz
+6, b = 6
+3, λη 2
+=
+P.-] P.-[2]
+=
+=
+11/21, H = 15/2, A
+95, E₂ = .91, E = .93
+2
+=
+14
+=
+30
+Solution: Unique; affine resolvable
+Complement: Not listed, k
+Dual: Design SR13
+Association Scheme: L₂(6)
+Plan: To construct, use
+Set 6.1 once
+Set 6.2 once
+Each set constitutes a complete
+replication.
+Design LS75: v= 36,
+ni
+=
+r = 3,
+k
+20, A₁
+-
+15, na =
+=
+6,
+b = 18
+1, A2
+= 0
+6 9
+= [ °,18]
+P₂ =
+10
+6 8
+P₁
+12
+C 1
+=
+1/6, C:
+=
+-1/4, H= 5, A
+=
+6
+=
+E,= .86, E, .80, E = .82
+Solution: Nonunique; affine resolvable
+Complement: Not listed, r = 15
+Dual: Design SR30
+Association Scheme: L,(6)
+(Plan continued on next page)
+275

@@ -1,0 +1,68 @@
+provided λ, λ2. An example is the use of a solution from family (5), duplicated, for
+v' = 10=b',
+r'=k' = 4,
+λ = 2,
+λ=0
+and the complement of the solution from family (7) with n=5, k=6 for
+v"=b" = 10, r"=k"=4,
+n=5,
+X" = 1,
+X2=2
+to obtain a solution for
+v = 10, r=8, k=4,
+b=20,
+n=5, λ=3,
+12 = 2.
+(11) Other triangular designs derived from the preceding constructions. Given any triangular design
+that is constructed by any one of the ten procedures described above, we may derive another triangular
+design by taking the complement of the given design. If the given design has parameters, v, b, r, k, λi, ni,
+Pix i=1, 2, then the complementary design has parameters
+v' = v,
+(2.29)
+r'=b-r,
+b' = b,
+k'=v-k,
+λ=b-2r+λ1,
+ni
+=ni,
+λ=b-2r+λ2,
+(Pix)'=Pik
+i=1, 2 and n≥ 5.
+(12) A family due to M. Masuyama (1965). When n is even, one may construct the triangular design
+with parameters
+(2.30)
+v=n(n-1)/2,
+b= (n−1)(n−3) (n−5) . . . 3 ∙ 1,
+•
+...
+λ₁ = 0,
+r= (n-3)(n-5)... 3.1,
+k=n/2,
+λ2 = (n−5) (n−7). 3
+•
+•
+by forming blocks no two of whose treatments lie in the same row or column of the association scheme.
+The case n=6 gives design T16 of Tables X and XI, while n ≥8 gives designs with r≥ 15.
+The simple constructions given above provide quick constructions for some of the 100 parametric speci-
+fications for triangular designs with r, k≤ 10 and listed in Tables X and XI. Other triangular designs, as
+well as some of these simple ones, may also be constructed by mathematically sophisticated procedures.
+Appropriate references to sources are given in Table X.
+BCS (1954) provided 36 triangular designs having 3 ≤ k ≤ 10 and 2 < r < 10. Clatworthy (1956) was able
+to expand the original listing to 76 designs by construction of new designs with k=2 and 3 and by including
+n-plicates of solutions provided by BCS (1954). In the early 1960's three researchers at Peking University,
+under the leadership of C. W. Liu, constructed many new triangular designs which have been included,
+and Masuyama (1965) published new procedures for constructing triangular designs, several of which
+were published the same year by the Chinese group. Shrikhande (1965), Ray-Chaudhuri (1962), (1965),
+Seiden (1961), (1963) also constructed new triangular designs. Using a newly constructed D(1) design with
+v=b=56,r=k=11 and λ=2 by Hall, Lane and Wales (1968), the author has constructed the new triangular
+design T91.
+It can be shown that 57 of the 100 parametric specifications for triangular designs given in Tables X
+and XI lead to plans that are unique (up to an isomorphism). Of the remaining 43 parametric specifications
+nonuniqueness has been established in 11 cases by the construction of 2 or 3 distinct plans for each.
+Due to the fact that several of the triangular designs are of the linked blocks type, they are related to
+balanced incomplete block designs through their duals, and consequently several others have duals which
+are SGD designs. Among the triangular designs there exists ample evidence that a symmetrical triangular
+design is not necessarily self-dual or truly self-dual as there are 5 cases for which the duals are SGD designs.
+There are others which are truly self-dual and still others for which the weaker assertion, self-dual, can be
+made.
+19

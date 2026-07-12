@@ -1,0 +1,197 @@
+TABLE XV. Partially balanced designs based on the cyclic type of association scheme - Continued
+= 21
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Association Scheme: C(29)
+Plan: Cyclically develop, modulo 13, the single
+initial block:
+1 2 4 5 6 8 9
+Each position within blocks contains a
+replication.
+Design C25:
+v = 29,
+r =
+7,
+n
+1
+= 14, n =
+14, A₁
+k = 7,
+= 2,
+b
+λε
+6
+P
+2
+Solution: Nonresolvable
+Complement: Not listed, r
+=
+553/1885,
+=
+Pi
+=
+=
+=
+[ 7 7]
+=
+259/1885, H = 87/7, A
+C1
+=
+E, .89, E, .87, E = .88
+=
+Solution:
+Nonresolvable
+Complement: Not listed, r = 22
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Association Scheme: C(29)
+29
+1
+1885/49
+Plan: Cyclically develop, modulo 29, the single
+initial block:
+1 7 16 20 23 24 25
+Each position within blocks contains a
+replication.
+Design C26:
+CI
+=
+V =
+ni
+=
+17,
+8,
+r = 8,
+n2
+=
+P₁ [ 34 ]
+P,
+116/221, c₂
+=
+8, λι
+k
+= 8, b = 17
+=
+4, λ2
+4
+P₁=[
+=
+=
+43313
+3
+88/221, H= 119/8, A 221/4
+E, .94, E, = .92, E = .93
+=
+Solution:
+Nonresolvable
+Complement: Design C28
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Association Scheme: C(17)
+Plan: Cyclically develop, modulo 17, the single
+initial block:
+1 2 4 8 9 13 15 16
+Each position within blocks contains a
+replication.
+Design C27:
+CI
+=
+V =
+29,
+r =
+8,
+k
+=
+8, b
+=
+=
+3, λη
+n₁ = 14, n₁ =
+6 7
+Р
+1144/3335, c₂
+=
+14, A,
+29
+= 1
+P‚= [ ' }]
+2
+248/3335, H = 29/2, ▲
+E₁ = .91, E, = .88, E = .90
+=
+3335/64
+Plan: Cyclically develop, modulo 29, the single
+initial block:
+1 2 8 17 21 24 25 26
+Each position within blocks contains a
+replication.
+Design C28:
+=
+v = 17,
+ni
+=
+8,
+r = 9, k = 9, b 17
+n2
+=
+P₁[ 34 ]
+423/731, c₂
+=
+8,
+λι
+=
+5, λε
+4
+= 4
+P₁ = [ * ]
+342/731, H= 17, Δ =
+5848/81
+E, .95, E, = .94, E = .94
+=
+Solution:
+Nonresolvable
+Complement: Design C26
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Association Scheme: C(17)
+Plan: Cyclically develop, modulo 17, the single
+initial block:
+35 6 7 10 11 12 14 17
+Each position within blocks contains a
+replication.
+Design C29:
+CI
+=
+y =
+13,
+ni = 6,
+7730/9503,
+r = 10, k =
+=
+=
+6, λ₁
+n:
+2
+10, b = 13
+=
+8, A₂ 7
+3
+P‚ -{ ² 3] P‚= [ ³ 3]
+=
+C2 6830/9503,
+H = 39/2,
+A = 9503/100 E,= .98, E, = .97, E = .97
+Solution:
+Nonresolvable
+Complement: Design C16
+2
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Association Scheme: C(13)
+2
+Plan: Cyclically develop, modulo 13, the single
+initial block:
+2 4 5 6 7 8 10 11 12 13
+Each position within blocks contains a
+replication.
+294

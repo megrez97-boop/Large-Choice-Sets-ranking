@@ -1,0 +1,52 @@
+The estimates can be written
+(3.48)
+i = (wrI
+wrI — — (w—w') NN')-¹ (wT— — (w−w') NB
+where T is the vector of totals for the treatments and B is the vector of block totals. The variances of the
+treatment estimates are given by
+1
+V (ti) = uii
+V (t-ĝ) = un-
+vrw'
+-
+V (îì— îj) = 2 (µ¿i — Uij)
+-
+NN') -1.
+where u and u are the variance and covariance terms from the matrix U=(wrI-— (w−w') NN'
+(Note that this matrix is not multiplied by 2 because the actual variances and covariances are used in
+weights of the analysis, or more exactly, estimates ŵ amd ŵ' of the weights.)
+5.2.2. Model 2: Groups of blocks form complete replications. If groups of blocks have associated with
+them fixed effects, pc, and if the blocks that make up the group contain n complete replications, then the
+analysis can be modified quite simply. The structure of the experiment is represented by the observational
+equation
+Vijc―ti + Pc+nj + Eijc
+where the replication parameters, pc, sum up to zero.
+In the analysis of variance, the block sum of squares is partitioned as shown in section 5.1.2. The ex-
+pected values of the sums of squares are
+E(S2) = (b-r') o² + (N −v-kr' + k) of
+E (S²) = (N − v − b + 1) σ²
+from which one solves for o² and σ by using the observed values in place of the expected values. The
+values for w = 1/σ² and w' = 1/(σ² + ko?) are then computed and used as in the analysis given in section
+5.2.1.
+The replication parameter estimates are given by
+with variance
+Rc
+pc
+=
+nv
+012
+G
+N
+V(pc)=
+r'-1 k(r'-1)
+=
+σ2+
+02.
+vnr'
+vnr'
+5.2.3. Replication groups orthogonal to blocks (Youdenized). When the treatments are arranged in
+complete replications by rows of the design as described in section 5.1.3., then the model becomes
+Yijcti+ Pc + Nj + Eijc.
+As before, because the replications are orthogonal to blocks and treatments, the only change has to do with
+the partitioning of the error estimate. This is carried out exactly as in the intra-block analysis.
+68

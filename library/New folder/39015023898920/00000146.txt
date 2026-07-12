@@ -1,0 +1,329 @@
+TABLE V. Singular group divisible designs - Continued
+1 12 4 15 5 16 9 20 3 14
+using cycles of length 11 and cycling within
+the two subsets of treatments 1-11 and
+12-22. Each position within blocks contains
+Plan: Cyclically develop the two initial blocks
+12 1 15 4 16 5 20 9 14 3
+Plan:
+67890
+12345
+12345
+5 10
+6 11 16 21
+12 17 22
+8 13 18 23
+14 19 24
+15 20 25
+6 11
+7
+12
+8 13
+16 21
+17 22
+18 23
+9 14 19 24
+5 10
+15 20 25
+23451
+34512
+7 12 17 22
+8 13 18 23
+9 14 19 24
+5 10 15 20 25
+6
+5 10
+11 16 21
+2222222222
+8 13 18 23
+9 14 19 24
+6
+15 20 25
+11 16 21
+7
+12
+17
+a replication, and each initial block provides
+five replications.
+Solution 2: Nonunique; 5-resolvable
+Complement: Not listed, r
+= 12
+Dual: Not a D(x), x = 1, 2, 3
+Groups: (11,2)
+Plan: Cyclically develop the two initial blocks
+1 12 3 14 4 15 5 16 9 20
+13 2 17 6 18 7 19 8 21 10
+using cycles of length 11 and cycling
+within the two subsets of treatments 1-11,
+and 12-22. Five replications are generated
+by each of the initial blocks, and each
+position within blocks contains a
+replication.
+Solution 3: Nonunique; nonresolvable
+Complement: Not listed, r = 12
+Dual: Irregular
+Groups: (11,2)
+Plan:
+1 12
+234
+2 13
+34567
+45678
+45678
+15
+16
+5678
+365
+22222
+Design S113:
+v = 25, r = 8,
+m= 5, n = 5,
+k = 10,
+λ
+= 8,
+=
+b= 20
+λ₂ 2
+c₁ = 1, c₂ = -2/25, H= 13, A = 40
+E, 1.00, E2= .89, E = .91
+-
+=
+= = 12
+Solution: Unique; 2-resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Groups: (5,5)
+Duplicate the plan of S112.
+Plan:
+Design S114:
+v = 30, r = 5,
+m= 6, n = 5,
+k = 10,
+λ₁
+=
+5,
+b= 15
+A₂ = 1
+15
+c₁ = 1, c₂ = −1/5, H= 8, ▲ =
+E, 1.00, E,= .88, E= .90
+Solution: Unique; resolvable
+Complement: Not listed, k = 20
+Dual: Design T52
+14
+16
+20
+15
+17 10 21
+3
+14
+16
+17
+18 11
+4
+15
+17
+18
+19
+1 12
+5 16
+18
+19 9 20
+2
+13
+6 17
+8
+19
+9 20 10 21
+3
+14
+Groups: (6,5)
+7
+9
+10
+11
+B2222
+18
+8 19 10 21 11
+20
+11
+21 1 12
+2
+22222
+9 20 10
+21
+11
+1
+13
+123
+12224
+1 12
+2
+13
+3 4
+22343
+4
+15
+13
+14
+15
+5678
+5
+16
+Plan:
+17
+7 18
+8 19
+135
+2 7 8
+3
+4
+9 10
+13 14
+15
+6
+11 12
+468
+16
+19 20
+21 22
+25 26
+27 28
+17 18 23 24
+29 30
+21
+13 2 15 4 14
+43
+12
+1
+14 3
+16
+15 4 16
+17
+54
+435
+14 3 17 6 18
+16 5 18 7 19
+18
+19 8
+21
+10
+233
+47222222
+3567
+16
+17
+18
+19
+8 20
+20
+11 13 2
+16
+12
+17
+21
+10 13
+2
+12
+15
+22 11
+12
+1 15
+4
+14
+17 6 19
+7 20 9 21 10 22 11 14
+20 9 22 11 13
+9 21 10 15
+56789CE
+20 9
+21 10
+22 11
+13
+12
+21
+143
+18
+19
+POL21435678
+25 27
+26 30
+28 29
+19 22
+20 23
+21 24
+25 28
+10
+780
+365
+124
+8 12
+11
+921
+13 15
+19 21
+14 18
+20 24
+16 17
+22 23
+26 29
+27 30
+789
+456
+123
+7 10
+13 16
+02
+11 14 17
+12 15 18
+13 17
+19 23
+25
+14 15
+16 18
+20 21 26
+22 24
+7 12
+13 18 19
+Design S112:
+v = 25, r = 4,
+m= 5, n = 5,
+k = 10,
+b= 10
+8 10
+14 16
+20
+λ₁
+=
+= 4, λ2 1
+=
+9 11
+15 17 21 23
+22222
+228 222
+29
+27
+30
+536
+124
+7 11
+8
+9
+6
+10
+12
+24
+25 30
+26 28
+27 29
+645
+123
+c₁ = 1, c₂ = -2/25, H= 13/2, A = 10
+=
+E, 1.00, E₂ = .89, E = .91
+2
+Solution: Unique; 2-resolvable
+Complement: Not listed, k = 15
+Dual: Design T32
+Groups: (5,5)
+134

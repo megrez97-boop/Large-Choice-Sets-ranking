@@ -1,0 +1,105 @@
+The estimated variance of the combined intra- and inter-block estimate of a treatment effect is, using
+the formulae (3.32) and (3.33),
+V() :
+=
+=
+n₁ (k-d₁) + n₂ (k-d2)
+vr{w' + (k−1)w}
+2(4-0)+12(4-0.1794)
+15(4){3.6164+3(11.5420)}
+=0.0234675.
+Step 6. Summarization of results.
+The results of the analysis may be summarized in two tables. Column (2) of Table 15A gives the unad-
+justed treatment means obtained by dividing the treatment totals, Ti, taken from Table 8 by r. Column (3)
+gives the adjusted means, without recovery of inter-block information, obtained by adding the estimate of
+the general mean, G/N, to the intra-block estimates, î₁, obtained from Table 10. Column (4) gives the ad-
+justed means with recovery of inter-block information, obtained by adding the estimate of the general mean,
+G/N 2.7333, to the combined intra- and inter-block estimates, t, obtained from Table 14.
+TABLE 15A
+TREATMENT MEANS
+Treatment
+number
+Unadjusted
+Adjusted with inter-block information
+mean
+Not recovered
+Recovered
+12345
+2.775
+2.350
+2.8577
+2.8253
+2.3627
+2.3553
+2.450
+2.4483
+2.4527
+2.950
+2.6789
+2.7806
+2.800
+2.8022
+2.8022
+6
+2.925
+2.8994
+2.9079
+7
+2.825
+2.7710
+2.7889
+8
+2.725
+2.8066
+2.7795
+9
+2.825
+2.9289
+2.8888
+10
+2.450
+2.5272
+2.4988
+11
+2.975
+2.8494
+2.8957
+12
+3.125
+3.0127
+3.0526
+13
+2.525
+2.6649
+2.6157
+14
+2.425
+2.5455
+2.4991
+15
+2.875
+2.8438
+2.8564
+Table 15B gives the standard deviations of the estimated treatment means given in columns 3 and 4 of
+Table 15A, the standard deviations of the estimated treatment effects (of Table 10 and Table 14), and the
+standard deviations of the estimated differences between two treatments.
+TABLE 15B
+STANDARD DEVIATIONS FOR ESTIMATED TREATMENT EFFECTS
+AND TREATMENT DIFFERENCES
+Intra-block
+Combined intra-
+and inter-block
+Standard deviation of an estimated treatment mean....
+0.1639
+0.1676
+Standard deviation of estimated treatment difference:
+(a) between first associates.....
+0.2403
+0.2287
+(b) between second associates...
+0.2322
+0.2235
+(c) average..
+0.2334
+0.2243
+50

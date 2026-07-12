@@ -1,0 +1,311 @@
+TABLE XI. Partially balanced designs based on triangular association schemes - Continued
+Solution 3: As given by Seiden (1963a);
+nonresolvable
+Complement: Not listed, r = 21
+Dual: Self dual, Hoffman (1963)
+Association Scheme: T(8)
+Plan: 1 2 12 16 22 25 26
+1
+3
+11
+15
+17 20 28
+1
+4 9
+17
+18
+23 27
+1
+5 13
+14
+15
+22 24
+1
+6 10
+16
+18
+19 21
+1
+7 14
+19
+23
+26 28
+1
+8 20 21 24
+25 27
+3
+13 17
+21
+23 25
+4 8 13
+19
+20 26
+5
+10
+18
+20
+24 28
+6 9 11
+22 23 24
+7 10 11
+14 21 27
+9 12 15
+19 27 28
+4
+12
+14
+16 24 27
+5 11 12
+18
+19 25
+6 10 13
+15
+26 27
+7 8 9
+18 24 26
+8
+10 16
+22 23 28
+5
+9 13
+16
+21 28
+6
+7
+10
+4 11
+15 18
+21
+22 26
+19 22 27
+7
+8 12
+15 21 23
+17 25 26
+7
+9 15
+16
+20 25
+18 20 23
+IIII~~~~22 333 334444555967
+8 11 14 25 28
+12 17 20 22
+6 8 17
+9 10 14
+12 13 14
+7 11 13 16
+Design T78:
+=
+2/9, C2
+=
+1
+V = 36,
+ni
+=
+Р
+=
+17 19 24
+r = 2,
+k
+21,
+14, na
+7 6
+15
+P,{
+=
+λι
+= 8,
+=
+1, λε
+b = 9
+=
+P₂ = [410]
+-5/9, H= 25/8, A = 9/4
+E = .90, E, = .82, E = .85
+Solution: Unique; nonresolvable
+Complement: Not listed, k = 28
+0
+Dual: The BIB design (9,36,8,2,1), Roy and Laha
+(1956)
+Association Scheme: T(9)
+Plan: 1 2 3 4
+9 10 11 12
+16 17 18 19
+22 23 24 25
+27 28 29 30
+31 32 33 5
+34 35 6 13
+36 7 14 20
+8 15 21 26
+Design T79:
+C₁ =
+219,
+C 2
+v =
+ni
+36,
+5 6 7 8
+13 14 15 1
+20 21 2 9
+26 3 10 16
+4 11 17 22
+12 18 23 27
+19 24 28 31
+25 29 32 34
+30 33 35 36
+r =
+= 14, n
+7 6
+15
+1
+=
+4,
+k
+=
+21, A,
+=
+8, b = 18
+2, A₂ = 0
+4
+P₁ = [
+[ + 10]
+= -5/9, H= 25/4, A = 9
+E, .90, E₂ = .82, E = .85
+=
+Solution:
+Unique; 2-resolvable
+Complement: Not listed, r = 14
+Dual: Design S15, a unique design
+Association Scheme: T(9)
+Plan: Duplicate the plan of T78.
+Design T80:
+=
+CI 2/9, C2
+V =
+ni
+==
+P
+=
+36,
+r = 6,
+14, n2
+7 6
+15
+k
+=
+=
+21, A,
+=
+P₁ =
+2
+8,
+3, λη
+4
+b = 27
+-
+[ + 10]
+0
+-5/9, H= 75/8, A
+E,= .90, E, = .82, E = .85
+2
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 21
+Dual: Design S45, a unique design
+Association Scheme: T(9)
+=
+81/4
+Plan: Repeat the plan of T78 three times.
+Design T81:
+v = 36, r = 8,
+ni
+=
+14, n2
+1
+=
+2/9, C2
+=
+7 6
+15
+=
+k
+=
+21, λι
+=
+P,
+8,
+4, λε
+4
+b = 36
+=
+P₂ = [ + 10]
+2
+-5/9, H= 25/2, A = 36
+E,= .90, E₂ = .82, E = .85
+2
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 28
+Dual: Design S77, a unique design
+Association Scheme: T(9)
+Plan: Repeat the plan of T78 four times.
+Design T82: v =
+n =
+2/9, C2
+=
+=
+1
+36, r = 10, k
+14,
+0
+b = 45
+=
+8,
+=
+21, A,
+n2
+5, λε €0
+7 6
+Pi
+1
+15
+P₂= [410]
+225/4
+-5/9, H= 125/8, ▲ =
+E, .90, E₂ = .82, E = .85
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 35
+Dual: Design S120, a unique design
+Association Scheme:
+T(9)
+Plan: Repeat the plan of T78 five times.
+15,
+Design T83:
+V =
+n₁ =
+8,
+c, = 13/25,
+1
+r = 6, k = 9, b = 10
+n2
+=
+6,
+4 3
+3
+=
+λ, 3, λε
+4
+= 4
+P₁ = [ + ]
+P,
+=
+C 2 17/25, H = 104/9, A = 100/3
+E¸ = .94, E₂ = .96, E = .95
+Solution 1:
+Nonunique; nonresolvable
+Complement: Design T62, Solution 1
+Dual: The BIB design (10,15,9,6,5), for which
+there exist 3 nonisomorphic solutions,
+Roy and Laha (1956)
+Association Scheme:
+T(6)
+(Plan continued on next page)
+250

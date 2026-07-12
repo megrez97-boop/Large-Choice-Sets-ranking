@@ -10,8 +10,25 @@ rgumbel <- function(n, loc = 0, scale = 1) {
 set.seed(42)
 n <- 10000
 
+if (rstudioapi::isAvailable()) {
+  try(setwd(dirname(rstudioapi::getActiveDocumentContext()$path)), silent = TRUE)
+}
+
+find_project_root <- function() {
+  curr <- getwd()
+  for (i in 1:5) {
+    if (dir.exists(file.path(curr, "studies"))) {
+      return(curr)
+    }
+    curr <- dirname(curr)
+  }
+  return(getwd())
+}
+proj_root <- find_project_root()
+
 # 準備存檔
-pdf("C:/Users/User/Documents/R/Thesis/noise/gumbel/gumbel_comparison.pdf", width = 10, height = 8)
+output_pdf <- file.path(proj_root, "studies/noise/gumbel/gumbel_comparison.pdf")
+pdf(output_pdf, width = 10, height = 8)
 par(mfrow = c(2, 3)) # 2列3欄的佈局
 
 # 1. 調整 Scale (驗證 temp 的影響)
@@ -38,4 +55,4 @@ abline(v = 10, col = "red", lwd = 2, lty = 2)
 
 dev.off()
 
-cat("PDF plots generated at C:/Users/User/Documents/R/Thesis/noise/gumbel/gumbel_comparison.pdf\n")
+cat("PDF plots generated at", output_pdf, "\n")

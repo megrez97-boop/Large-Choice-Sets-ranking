@@ -11,7 +11,21 @@ library(httr)
 library(FielDHub)
 library(ggplot2)
 
-# --- 1. Global Helper Functions ---
+# --- 1. Global Helper Functions & Path Resolution ---
+if (rstudioapi::isAvailable()) {
+  try(setwd(dirname(rstudioapi::getActiveDocumentContext()$path)), silent = TRUE)
+}
+find_project_root <- function() {
+  curr <- getwd()
+  for (i in 1:5) {
+    if (dir.exists(file.path(curr, "studies"))) {
+      return(curr)
+    }
+    curr <- dirname(curr)
+  }
+  return(getwd())
+}
+proj_root <- find_project_root()
 
 # Fetch available Ollama models
 get_ollama_models <- function() {
@@ -149,7 +163,7 @@ server <- function(input, output, session) {
   # Load Data
   observe({
     path <- if (is.null(input$data_file)) {
-      "C:/Users/User/Documents/R/Thesis/studies/AI ranking test/data for thesis/data partition -  only 12.xlsx"
+      file.path(proj_root, "studies/LLM_Ranking_Engine_v1/data for thesis/data partition -  only 12.xlsx")
     } else {
       input$data_file$datapath
     }

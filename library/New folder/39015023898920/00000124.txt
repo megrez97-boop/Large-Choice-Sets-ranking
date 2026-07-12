@@ -1,0 +1,276 @@
+TABLE V. Singular group divisible designs - Continued
+Plan:
+1
+8
+2 9
+23
+9
+4 11
+3
+10
+5 12
+3 10
+4 11
+6
+13
+4 11
+5
+12
+7
+14
+5 12
+6
+13
+1
+8
+6 13
+7
+14
+2 9
+7 14
+8
+3
+10
+123489 o
+4567123
+9
+4
+10 5
+11
+11
+POI2348
+12
+13
+14
+1
+10
+Plan:
+1
+1234567
+10
+11
+234567
+89O1234
+v=
+m= 7,
+Design S33:
+CI
+1,
+= 2/7, H= 32/3, A
+E, 1.00, E,= .87, E= .88
+2
+Solution 1: Nonunique; 3-resolvable
+Complement: Design S60, Solution 1
+Dual: Truly self dual
+Groups: (7,2)
+14, r =
+6,
+k = 6,
+b= 14
+n = 2,
+λ₁
+=
+6,
+A₂ = 2
+= 28
+P8W0234
+11 4 10
+10
+12
+13
+14
+2143567
+9 2 8
+11
+3
+12
+13
+14
+9
+10
+023498
+1435672
+12
+13
+5
+14 7
+2
+1
+356
+11 4
+Plan:
+Solution 4:
+Nonunique; 3-resolvable
+Complement: Design S60, Solution 4
+Not a D(x), x = 1, 2, 3
+Dual:
+Groups: (7,2)
+POA234
+1234567
+8
+9
+10
+11
+12
+13
+14
+2345671
+2
+9 4
+11
+10
+11
+12
+13
+14
+567123
+6
+7
+1
+1234800
+Plan:
+9
+8 3
+9
+11
+1234567
+89O1234
+10
+11
+11
+4567123
+9
+1234800
+2345
+12
+13
+6
+14
+8 1
+Solution 2:
+Nonunique; 3-resolvable
+Complement: Design S60, Solution 2
+Dual: Irregular
+9 4 11
+89O1234
+1234567
+10
+11
+6
+2345671
+3
+11
+5
+4567123
+P012348
+7
+1
+123489g
+7
+3 10
+11
+10
+98183
+12 5 14
+14
+214 3657
+2
+8
+10
+11
+13
+4
+10
+12
+3
+13
+14
+6
+12
+9
+11
+3657214
+P32408
+1436572
+9
+Design S34:
+V=
+b= 21
+=
+23
+=
+14, r = 9,
+m= 7, n = 2,
+1, c, 2/7, H= 16, A
+E= 1.00, E₂ = .87, E = .88
+k = 6,
+A₁ 9,
+=
+λε
+=
+63
+Solution 1: Nonunique; 3-resolvable
+Complement: Not listed, r = 12
+Dual: Design S89
+Groups: (7,2)
+Plan: Repeat the plan of S32 three times.
+Solution 2:
+Nonunique; 3-resolvable
+Complement: Not listed, r = 12
+Dual:
+Not a D(x), x =
+Groups: (7,2)
+1, 2, 3
+Groups:
+(7,2)
+Plan:
+1234567
+9
+11
+12
+13
+2345671
+8 2 9 4
+10
+11
+5 12
+14
+6 13
+14
+8
+4567123
+11
+c₁ =
+12
+6
+13
+14
+8
+9
+10
+9
+BRA2349
+213456
+a8O1234
+10
+11
+8 1
+10
+7
+11
+4
+12 5
+13 6
+14 7 8
+2 10
+13456
+11
+4567213
+12349∞
+Solution 3:
+Nonunique; 3-resolvable
+Complement: Design S60, Solution 3
+Dual: Irregular
+Groups: (7,2)
+(Plan continued on next page)
+112

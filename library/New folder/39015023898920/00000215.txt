@@ -1,0 +1,249 @@
+TABLE IX. Regular group divisible designs – Continued
+78
+18
+7
+34
+43
+56
+56
+12
+2
+1
+12
+Plan:
+26
+34
+24
+15
+1
+72
+13
+37
+6 5
+57
+87
+56
+43
+34
+56
+1
+2
+1
+2
+77
+75
+86
+78
+63
+5
+Solution 5:
+Nonunique; 2-resolvable
+Complement: Truly self complementary
+Dual: Not a D(x), x = 1, 2, 3
+Groups:
+Plan:
+(4,2)
+78
+6
+88
+87
+56
+24
+43
+24
+13
+48
+4
+1
+2
+8
+12
+43
+34
+57
+56
+87
+2
+6
+12
+13
+1
+3
+1
+2
+88
+78
+Note: There exist at least four nonisomorphic
+solutions for design R103 because the
+present method of construction uses the
+BIB design (8,14,7,4,3) which is known
+from the work of Nandi (1946b) to have
+four nonisomorphic solutions. Only the
+resolvable solution for the BIB design is
+used here.
+Solution 3: As given by John (1966); nonunique;
+nonresolvable
+Complement: Truly self complementary
+Dual: Irregular
+57
+13
+78
+68
+2 6
+5
+2
+4
+3 7
+78
+8
+65
+24
+13
+4788
+3667
+4
+2455
+24
+5
+1321
+3
+34
+56
+56
+12
+12
+2
+5788
+7565
+8687
+3676
+2544
+3434
+1321
+1122
+Solution 6:
+Nonunique; 5-resolvable
+87
+43
+Complement: Truly self complementary
+Dual: Not a D(x), x = 1, 2, 3
+Groups: (4,2)
+Plan:
+6
+88
+24
+4
+57
+3
+13
+6
+7
+18292345
+887788
+367665
+245354
+111223
+5786∞∞∞
+36755766
+4
+4
+4
+4
+223----5
+1111223
+3
+45678123
+23456781
+12345678
+5678123+
+345678-2
+23456781
+1
+4
+12345678
+4638
+5
+1527
+8274
+5163
+4
+Groups: (4,2)
+Plan:
+b= 9
+λα 1
+=
+Design R104: v=9,
+r = 4,
+m= 3,
+n = 3,
+k = 4,
+λ₁ 3,
+=
+E,
+=
+c, 4/5, C21
+=
+=
+135/16
+4/45, H= 6, A
+.94, E2.77, E= .80
+Solution:
+Nonresolvable
+Complement: Design R137
+Dual: Truly self dual, Clatworthy (1971a)
+Groups: (3,3)
+Plan:
+5887
+87
+63
+5
+6
+3766
+43
+34
+57
+2544
+1123
+4887
+Solution 4:
+Nonunique; 2-resolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (4,2)
+Plan:
+6
+12
+2
+78
+3766
+65
+2455
+24
+1123
+13
+88
+24
+87
+3
+13
+88
+57
+43
+12
+56
+2
+12
+78
+34
+36
+2
+5
+12
+23456789-
+89123456
+1
+8
+9
+456789-23
+123456789
+203

@@ -1,0 +1,293 @@
+TABLE XIX. Miscellaneous partially balanced designs - Continued
+Design M5:
+y =
+n₁ =
+P
+16,
+r = 9,
+k
+= 2,
+b:
+=
+72
+=
+9,
+λι
+=
+0,
+λη
+=
+6,
+n2
+2 31
+P.= [24]
+= 1/8, H = 10, A:
+=
+CI -1/16, C2
+E,= .48, E, =
+.53, E = .51
+=
+Solution: Nonunique; resolvable
+Complement: Not listed, r
+Dual: Not a D(x), x =
+= 63
+1, 2
+2
+24
+1
+Association Scheme: A pseudo Latin square type;
+12345678
+the blocks specify the
+association scheme.
+required design is repeated twice.
+only the 130 distinct blocks.
+Design M7:
+V =
+CI
+=
+27,
+=
+r = 10, k 2,
+16, λ,
+10, n₂ =
+n₁ =
+2/27, C2
+=
+1
+P‚=[ ¹ 8]
+P₂
+Retain
+= 0
+b
+=
+135
+=
+1,
+2
+[
+5 5
+10
+=
+-2/27, H= 12, ▲ = 135/4
+E,= .52, E₂ = .48, E = .50
+Solution:
+2
+2-resolvable
+Complement: Not listed, r
+Dual: Not a D(x), x = 1, 2
+=
+125
+Association Scheme: Obtainable from the plan.
+Plan: To construct the b = 135 blocks for the
+=
+present design first identify the n, 10
+first associates for treatment a
+(a
+=
+1,2,...,27) in the design PG2.
+Then form blocks of size k
+=
+2 by pairing
+treatment a with each of its first
+associates. This produces 270 blocks; we
+eliminate the repetitions to obtain the
+Plan: 1 9
+16
+1 13
+2 14
+2 13
+2 12
+3 15
+14
+3
+11
+4 12
+4
+15
+4 10
+5 13
+5
+10
+5 9
+6 10
+11
+6
+16
+7 11
+7 12
+7 15
+8 16
+9
+8 14
+1
+11
+1
+3
+2
+4
+6
+5
+7
+8
+6 8
+Design M8:
+9 10
+9 11
+v = 15,
+n₁ = 6,
+6 14
+12
+10 12
+7 13
+13 14
+13 15
+15 16
+==
+2 10
+3
+9
+4 16
+5 15
+8 12
+2400024
+13579135
+14 16
+53872165
+12469ORD
+678545
+12349
+467834
+12350
+5 8
+9 13
+9 14
+10 15
+9 12
+10 11
+10 14
+12 16
+11 16
+13 16
+11 15
+12 13
+14
+15
+Remark: Compare with design LS4 which has the
+same parameters but a nonisomorphic
+solution.
+V = 26, r = 10, k
+Design M6:
+1
+n = 10, n2
+3 6
+=
+b = 135 distinct blocks required for the
+plan of design M7.
+C₁ =
+1/5, C2
+=
+1
+r =
+=
+= 3, b = 30
+k
+6,
+8,
+=
+A,
+n2
+P‚= ¹ 4]
+2,
+=
+λη : 0
+3
+P₁ = [ 3 ]
+2
+-1/5, H= 28/3, A = 20
+E,= .71, E₂ = .63, E = .66
+2
+3-resolvable
+Complement: Not listed, r
+Solution:
+Dual:
+A D(3), WHC (1956)
+=
+24
+Association Scheme: Same as that of PG1
+Plan: Duplicate the plan of PG1.
+Design M9:
+v = 15,
+r = 9, k
+=
+3, b = 45
+ni
+6,
+n2 =
+1
+8, λι
+=
+=
+2,
+b
+=
+130
+15, A₁
+=
+1, A2
+= 0
+C₁ =
+1/5, C2
+4
+P₂
+=
+2
+[ ¹ º]
+=
+P‚=[ ³ ;]
+1
+CI 1/13, c₂ = -3/26, H= 21/2, A
+E,= .52, E₂ = .47, E = .49
+Complement: Not listed, r = 120
+Dual: Irregular
+Association Scheme:
+= 26
+8
+Provided by the plan itself.
+Plan: To construct the b
+=
+130 blocks for the
+present design one may proceed according
+to the construction technique of Liu and
+Chang (1964). Start with a solution for
+the design PG7 and for treatment a
+10 second associates
+1,2,...,26). Then form
+identify its n
+=
+=
+in PG7 (a
+blocks for the present design by pairing
+a with each of its second associates.
+This gives 260 blocks, each of size k
+but each of the desired blocks for the
+=
+2,
+=
+=
+3, λ. = 0
+3
+PP-['
+Р
+P‚= [ ³ ³]
+2
+-1/5, H= 14, A = 45
+E,= .71, E₂ = .63, E = .66
+Solution:
+2
+3-resolvable
+=
+Complement: Not listed, r 36
+Dual: A D(3), WHC (1956)
+Association Scheme: Same as that of PG1
+Plan: Repeat the plan of PG1 three times.
+304

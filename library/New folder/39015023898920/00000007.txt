@@ -1,0 +1,44 @@
+Preface
+This volume is the result of cooperative efforts of several organizations and individuals. The
+initial idea of revising the much referenced monograph of incomplete block designs,
+R. C. Bose, W. H. Clatworthy, and S. S. Shrikhande,
+Tables of Partially Balanced Designs With Two Associate Classes,
+Tech. Bul. No. 107 of the North Carolina Agricultural Experiment
+Station, Raleigh, North Carolina, 1954,
+came after I received an invitation from Joan Raup Rosenblatt and Joseph M. Cameron to spend
+a part of my 1968-69 sabbatical leave with the Statistical Engineering Laboratory of the National
+Bureau of Standards. Since the establishment of its Statistical Engineering Laboratory in the mid-
+Forties under the direction of Churchill Eisenhart, the Bureau of Standards has consistently pro-
+vided strong support for the development of experimental arrangements useful in statistically
+planned and analyzed experiments. As a former member of this Laboratory I had done much inves-
+tigation into extending the number of available partially balanced designs of the type catalogued in
+the publication of Bose, Clatworthy and Shrikhande (hereafter briefly referred to as “BCS(1954)”).
+It was natural then to conceive of a sabbatical year project which would combine mutual interests
+of the writer and the National Bureau of Standards to provide a greatly expanded revision of
+BCS(1954) incorporating the many published results of a host of researchers in partially balanced
+designs. This group includes W. J. Youden, Joseph M. Cameron, William S. Connor, Dale M.
+Mesner and myself, all former members of the Statistical Engineering Laboratory, as well as many
+other investigators of the United States, Canada, England, India, Japan and China.
+The project of revising BCS(1954) has been financially supported directly by my "home"
+institution, the State University of New York at Buffalo, through sabbatical salary received during
+Academic Year 1968-1969, through a Grant-in-Aid, Contract 50-1120-A, received from The Re-
+search Foundation of State University of New York, and through a National Science Foundation
+Grant, GP8391, which supported me during the summers of 1968, 1969, and 1970, and completed
+my financial support during the other half of Academic Year 1968-69.
+I was also generously assisted in many ways by the University of North Carolina where I
+worked full time on this project during AY 1968-69 as Visiting Professor with the Department
+of Statistics. At Chapel Hill I was provided office space, secretarial assistance, use of library facili-
+ties, and the congenial professional association so necessary to an extended project of this
+magnitude.
+I am deeply indebted also to the Department of Experimental Statistics and to the North
+Carolina Agricultural Experimentation Station of the State University of North Carolina for their
+approval to conduct the revision of BCS(1954).
+The National Bureau of Standards has assisted the writer in so many ways in the preparation,
+editing, and publication of this volume that any attempt to enumerate them fully will be futile.
+I spent parts of the summers of 1968, 1969, and 1970 as a Guest Worker and have been in constant
+communication with associates there during the Academic Years from September 1968 through
+June 1971.
+To Joseph M. Cameron of the Office of Measurement Services I am indebted for much profes-
+sional advice, for helpful suggestions in the early stages of preparation, and for providing a general
+least-squares approach to the analysis of the designs which is included in Chapter 3 of the
+Introduction.

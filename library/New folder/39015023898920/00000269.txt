@@ -1,0 +1,474 @@
+
+LS59
+LS60
+LS61
+2235
+10
+94
+ссся
+16
+5 50
+16
+5
+83
+5
+20
+16
+.79 .83
+FF
+888
+.71
+.75
+200 Yes
+NL, r=32
+L2 (5)
+A D(3), Clatworthy (1956).
+.71
+.75
+250 Yes
+1
+NL, r=40
+L2 (5)
+A D(3), Clatworthy (1956).
+.82
+100 ?
+1
+NL, r=16
+L2 (5)
+A design with the parameters of
+LS62
+25
+5
+40
+166
+2 1 .85 .82
+.83
+200 ?
+1 NL, r=32
+L2 (5) Irregular.
+LS63
+25 10
+5
+50
+16
+3
+1 .85 .81 .82 250 ?
+1 ML r=40
+L2 (5) Irregular.
+5
+LS64
+25
+LS65
+25
+LS66
+223
+9
+25 10
+555
+16
+2
+45
+5
+មគ
+12 12
+50 8 16
+111
+2
+222
+.79
+.82
+288
+.83
+.82
+.84
+.83
+1 2 .82 .84 .83
+888
+200 ?
+1
+NL, r=32
+L2 (5)
+A D(3), Clatworthy (1956).
+225 ?
+1
+NL, r=36
+La (5)
+250 ?
+1
+NL, r=40
+L2 (5)
+Irregular.
+Irregular.
+LS67
+36 10 5 72 10 25
+0
+.82 .72 .75
+360 Yes
+1 NL, r=62
+L2 (6) Not a D(x), x=1, 2, 3.
+LS68
+LS69
++LS70 121
+ទី៩៖
+36
+5
+СЯ
+5
+36
+10
+5
+10
+3225
+36 15 20
+.79 .82 .81
+180 ?
+1
+NL, r=31
+Ls (6)
+SD, Hoffman (1963).
+72
+15 20
+2
+.79
+.82
+.81
+360 ?
+1
+NL, r=62
+L3 (6)
+A D(3), Clatworthy (1956).
+5 242 20 100
+2
+0
+.81
+.74
+.75 1210 Yes
+1
+NL, r=232
+L2 (11)
+Not a D(x), x=1, 2, 3.
++LS71 441 10
+882
+40 400
+.80
+.77
+.77 4410 Yes
+1
+NL, r=872
+L2 (21)
+Not a D(x), x=1, 2.
+LS72
+LS73
+12
+LS74
+LS75
+LS76
+36
+LS77
+LS78
+LS79
+LS80
+LS81
+LS82
+LS83
+តតតតតតតតត
+12
+622
+2
+95
+.91
+.93 36 Yes
+1 LS7
+L2 (3)
+SR35.
+95 .91 .93
+72 Yes
+1
+LS8
+La (3)
+A D(3) Clatworthy (1956).
+10
+18
+15
+24
+10 25
+36
+15 20
+36
+10 25
+15 20
+10
+25
+10
+6
+6
+68
+10
+25
+18
+30
+16
+7
+7 16
+6
+222222248"
+86
+.75
+.78
+72 Yes
+1
+NL, k=30
+L2 (6)
+SR13.
+SR 46 and nonstandard asso-
+ciation scheme.
+Clatworthy (1956).
+Clatworthy (1956).
+Clarworthy, new.
+Chang and Liu (1964) [Clatworthy
+(1967)].
+Chang and Liu (1964) [Clatworthy
+(1967)).
+Clatworthy, new.
+Clatworthy (1967).
+Chang and Liu (1964) [Clatworthy
+(1967)).
+Chang and Liu (1964) (Clatworthy
+(1967)].
+BCS (1954).
+Clatworthy (1956).
+Chang and Liu (1964).
+Chang and Liu (1964).
+BCS (1954) [Clatworthy (1967)].
+BCS (1954).
+Yates (1936).
+.86 .80
+.82
+108 No
+1
+NL, r=15
+L3 (6)
+SR30.
+2
+.86
+.75 .78
+144 Yes
+1
+NL, r=20
+L2 (6)
+A D(3), Clatworthy (1956).
+2
+.86
+.80
+.82
+216 No
+1
+NL, r=30
+L3 (6)
+A D(3), Clatworthy (1956).
+Yates (1936) [Clatworthy (1967)].
+Clatworthy (1956), (1967).
+Clatworthy (1956), (1967).
+86
+.75
+.78
+216 Yes
+1
+NL, r=30
+L2 (6)
+A D(3), Clatworthy (1956).
+.86
+.80 .82
+324 No
+1
+NL, r=45
+L3 (6)
+A D(3), Clatworthy (1956).
+Clatworthy (1956), (1967).
+Clatworthy (1956), (1967).
+.86
+.75 .78
+288 Yes
+1
+NL, r=40
+L2 (6)
+A D(3), Clatworthy (1956).
+5
+.86
+.75 .78
+360 Yes
+1
+NL, r=50
+L2 (6)
+9
+2
+.82 .85 .84
+.93 .89
+294 ?
+1
+NL, r=43
+L3 (7)
+.91 112 ?
+1 LS116
+L2 (4)
+A D(3), Clatworthy (1956).
+SD, Hoffman (1963).
+TSD, Hoffman (1963) and
+Clatworthy (1971).
+LS84
+2
+LS85
+23
+LS86
+LS87
+7777
+LS88
+LS89
+49
+7 28
+LS90
+42
+VELKYN
+14 12
+21 18
+28 24
+35
+30
+TECHNIE
+36
+30
+24
+.87
+888
+.87 .78 .80 98 Yes
+.82
+.84
+.84
+.86
+18
+.87 .85
+.86
+36
+12
+.87 .85
+.87
+12
+36
+2
+.87 .78 .80
+18
+30
+2
+0
+.87 .82 .84
+ន 8 ឌ ឌ ឌ នម
+1
+NL, r=12
+L2 (1)
+SR14.
+147 No
+1
+NL, r=18
+L3 (7)
+SR31.
+196
+No
+1
+NL, r=24
+L, (7)
+SR48.
+245 ?
+1
+NL, r=30
+Ls (1)
+SR62.
+294 ?
+1
+NL, r=36
+Lo (7)
+SR77.
+196 Yes
+1
+NL, r=24
+L2 (7)
+294
+No
+1
+NL, r=36
+L3 (7)
+A D(3), Clatworthy (1956).
+A D(3), Clatworthy (1956).
+LS91
+7
+56
+24
+24
+2
+0 .87 .84 .86
+392 No
+1 NL, r-48
+4(7)
+A D(3), Clatworthy (1956).
+LS92
+10
+7
+70
+LS93
+6 7
+42
+LS94
+49
+9
+7
+63
+1280
+30 18
+2
+36
+30
+233
+0
+.87
+.85
+.86
+490 ?
+1
+NL, r=60
+Ls (7)
+A D(3), Clatworthy (1956).
+3
+0 .87 .78 80
+294 Yes
+1
+NL, r=36
+L2 (7)
+A D(3), Clatworthy (1956).
+0
+.87 .82
+.84
+441 No
+1
+NL, r=54
+L3 (7)
+A D(3), Clatworthy (1956).
+Clatworthy (1956), (1967).
+Clatworthy (1956), (1967).
+Yates (1936) [B.C.S. (1954)].
+Bose and Nair (1939), p 369
+[Vartak (1955), Clatworthy (1956)].
+Yates (1936) [Clatworthy (1967)].
+Yates (1936) [Clatworthy (1967)].
+Yates (1936) [Clatworthy (1967)].
+Yates (1936) [Clatworthy (1967)].
+Yates (1936) [Clatworthy (1967)].
+Clatworthy (1956).
+Clatworthy (1956) [Clatworthy
+(1967)].
+Clatworthy (1956) [Clatworthy
+(1967)].
+Clatworthy (1956), (1967).
+Clatworthy (1956).
+Clatworthy (1956), (1967).
+
+See footnote at end of table.
+257

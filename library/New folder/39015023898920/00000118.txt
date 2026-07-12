@@ -1,0 +1,321 @@
+TABLE IV. Singular group divisible designs: parameters and auxiliary information Continued
+Dual designs
+M41.
+The BIB design (6, 12, 10, 5, 8), Roy and Laha (1956).
+TSD.
+The BIB design (3, 15, 10, 2, 5), Roy and Laha (1956).
+$5.
+Efficiencies
+Reference
+number
+E
+N-W
+Unique
+solution
+Number of
+solutions given
+Complementary design
+E:
+E
++597
+$98
+12
+82
+05
+63 10 9 70
+5 10
+06
+21
+26
+2
+$99
+12 10 10
+12
+$100
+15 2 10
+3
+$101
+15
+4
+10
+6
+$102
+15
+6 10
+$103
+15
+8
+10
+12
+$104
+15 10 10
+15
+$105
+18 10 10 18 9
+63 3
+339
+3225
+3
+10
+1 1.00 .88
+5 4 1.00
+888
+88
+630
+No
+1
+NL,r-60
+98 98
+60 Yes
+1
+A disconnected design.
+10
+8 1.00 98 98
+120 Yes
+2
+A disconnected design.
+5
+2
+1 1.00
+94
+.95
+30 Yes
+A disconnected design.
+5555
+5
+2 1.00
+94 .95
+60 Yes
+1 A disconnected design.
+3 1.00
+.94 .95
+90 Yes
+A disconnected design.
+$25.
+8
+4 1.00
+.94 .95
+120 Yes
+A disconnected design.
+$57.
+5
+10
+5 1.00
+94 .95
+150 Yes
+A disconnected design.
+2
+10
+5 1.00
+.95
+.95
+180 No
+4 Sol. i: $65, Sol. i,
+i-1, 2, 3, 4.
+$106
+$107
+$108
+2220
+3 10
+6
+10
+9 10 18
+555
+628
+299
+1 1.00 .91 .93
+2 1.00
+5
+9
+3 1.00 .91 .93
+aaa
+91 .93
+338
+60 Yes
+1
+TSC.
+120❘ Yes
+1
+TSC.
+180 Yes
+1 TSC.
+$109
+20
+9 10 18 10
+2 9
+4 1.00 .94 .94
+180 No
+3 Sol. 1, 2, 3: SC
+$110 22 5 10
+11
+11 2 5 21.00
+.94
+96
+.94
+90
+110 Yes
+1 NL, K-12
+TSD.
+ĮSol. 1: not a D(x), x- 1, 2, 3.
+(Sol. 2, 3, 4: Irregular.
+SR22, Sol. 1.
+A D(3), WHC (1956).
+A D(3), WHC (1956).
+Sol. 1: Irregular.
+Sol. 2: Irregular.
+Sol. 3: not a D(x), x-1, 2, 3, 4.
+The true duplicate solution for the BIB design (11, 22, 10, 5, 4),
+Roy and Laha (1956).
+(Sol. 1: TSD.
+Sol. 2: not a D(x), x = 1, 2, 3.
+Sol. 3: Irregular.
+T32.
+A D(3), WHC (1956).
+T52.
+A D(3), WHC (1956).
+T69.
+T76.
+The true duplicate solution for the BIB design (21, 42, 10, 5, 2),
+Roy and Laha (1956).
+$111
+22 10
+10
+22
+11 2 10
+4 1.00
+.94
+.94
+90
+220 No
+3 NL, r-12
+S112
+25
+10
+10
+S113
+25
+10
+20
+$114
+30 5
+10
+15
+$115
+30 10
+10 30
++S116
+35
+6
+10 21
+†S117
+40 7 10 28
+†S118
+42
+СЛ
+5 10
+21
+2222
+55
+7
+8
+21
+5555552
+1 1.00
+.89 .91
+100 Yes
+1
+NL, k-15
+2 1.00
+.89 .91
+200 Yes
+1
+NL, r-12
+1 1.00
+.88 .90
+150 Yes
+NL, K-20
+10
+2 1.00 .88 90
+300 Yes
+1 NL, r-20
+675
+1 1.00
+.88
+.89
+210 Yes
+NL, r-15
+1 1.00
+.87 .88
+280 Yes
+1
+NL, r-21
+1 1.00 .91 .91
+210 Yes
+1 NL, r-16
++$119
+42
+10 10 42 21
+2
++$120
+45 8 10 36
+9
++$121
+50
+6 10
+30 25
+252
+10
+1 1.00 87
+2 1.00 .91 .91
+.88
+420 No
+NL, r-32
+Sol. given: TSD.
+360 Yes
+1
+NL, r-28
+T82.
+1 1.00 .91 .91
+300 Yes
+1
+NL, r-24
+SR 76.
+†S122
+50
+9 10
+45 10
+5
+1 1.00 .86 .87
+450 Yes
+1
+NL, r-36
+T90.
+†S123
+55
+10
+55 11
+5
+10
+1 1.00 .86
+.87
+550 Yes
+1
+NL, r-4
+45
+T100.
++$124
+82
+10
+10
+82
+41
+2 10
+1 1.00
+.90
+.90
+820 ?
+1
+NL, r-72
+M42.
+† Plan not verified by computer.
+106

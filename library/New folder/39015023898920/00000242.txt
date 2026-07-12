@@ -1,0 +1,362 @@
+Reference V
+number
+TABLE X. Partially balanced designs based on triangular association schemes: parameters and auxiliary information
+of
+Efficiencies
+Number
+01
+λι
+N=W Unique
+solution
+E₁
+E,
+E
+solutions
+given
+Complementary
+design
+Dual designs
+Literature sources
+T1
+T2
+T3
+៨:៩៩៨។
+10
+10
+99
+10
+T4
+10 9
+33S9
+2
+T5
+15 8 2 60
+T6
+15
+T7
+21 10 2
+T8
+21 10 2 105
+22222222
+30 6 3
+2 15
+2 30
+2 45
+6666
+33
+1
+10
+0
+3
+0 2
+3
+0 3
+2 45
+8 6
+105
+10 10 1
+10 10
+0123010
+56
+48
+.53
+60 Yes
+1
+NL, r=24
+Not a D(x), x=1, 2.
+42 .56 .45
+30 Yes
+1
+NL, r=12
+42 .56 .45
+60 Yes
+1
+NL, r=24
+A D(3), Shrikhande (1965).
+Not a D(x), x=1, 2, 3.
+.42
+.56 .45
+90 Yes
+1
+NL, r=36
+Not a D(x), x=1, 2, 3.
+.54 47 .50
+120 Yes
+1
+NL, r=52
+Not a D(x), x=1, 2.
+.47
+.54 .50
+90 Yes
+1
+NL, r=39
+Not a D(x), x=1, 2.
+.53
+.47 .49
+210 Yes
+1
+NL, r=95
+Not a D(x), x=1, 2.
+0 1
+48
+53 .50
+210 Yes
+1
+NL, r=95
+Not a D(x), x=1, 2.
+Sol. 1: T71
+Sol. 1: TSD.
+T9
+10
+310
+3 3 10 6 3 1
+0
+.74 .63
+.70
+30 No
+2
+Sol. 1
+Sol. 2: T71
+Sol. 2
+Sol. 2: TSD.
+T10
+10 6 3 20 6
+3 20.74 .63
+.70
+60 No
+3 NL, r=14
+T11
+10 9 3 30
+6
+3 3 0.74 .63 .70
+90 No
+2 NL, r=21
+T12
+10 6 3 20
+6 3 1
+T13
+10 9 3 30
+6
+3
+2 .71
+1 4 .67
+.73
+.77
+.78
+.71
+21
+60 No
+90 ?
+2 NL, r=14
+Sol. 2: Irregular.
+1 NL, r=21
+Not a D(x), x=1, 2, 3.
+T14
+15
+4
+3
+20
+1
+0 .71 .63 .67 60 ?
+1 NL, r=16
+Not a D(x), x=1, 2.
+T15
+15
+T16
+15
+55
+83
+33
+3 40
+6
+2
+3 3 15
+20
+.71
+0 1 .63
+18
+.63
+.67
+.71
+.66
+600
+120 ?
+1
+NL, r=32
+45
+Yes
+1
+NL, r=12
+T17
+15
+6
+3 30
+0 2
+.63
+.71 .66
+T18
+T19
+15
+55
+15 10
+3
+50
+8
+6
+-
+2 .70 .73
+.71
+9
+T20
+21
+5
+3
+T21
+T22
+21 10
+3
+T23
+T24
+36
+T25
+45 8
+3333333
+45
+6
+3 .63 .71 .66
+35
+10 10
+1
+0 .70 .62 .66
+21 10 3 70 10 10 2
+O
+.70 62 .66
+88 8
+90 Yes
+1 NL, r=24
+Sol. 1: Irregular.
+150 No
+2
+NL, r=40
+Sol. 2: Irregular.
+135 Yes
+1
+NL, r=36
+105 ?
+1
+NL, r=30
+210 ?
+1
+NL, r=60
+70
+10 10
+65
+.70
+.67
+210 ?
+1
+NL, r=60
+28 6 3 56 12 15 1
+-
+69
+62
+3 84 14 21
+62
+33
+.65
+168 ?
+1
+NL, r=50
+Not a D(x), x=1, 2.
+.65 252 ?
+1
+NL, r=77
+Not a D(x), x=1, 2.
+120 16
+28
+360 ?
+1
+NL, r=112
+Not a D(x), x=1, 2.
+Sol. 1: a D(3), Clatworthy (1956).
+Sol. 2: a D(3), Clatworthy (1956).
+Sol. 3: not a D(x), x=1, 2, 3.
+Sol. 1: a D(3), Clatworthy (1956).
+Sol. 2: a D(3), Clatworthy (1956).
+Sol. 1: Irregular.
+Not a D(x), x=1, 2, 3.
+TSD.
+A D(3), Clatworthy (1956).
+A D(3), Clatworthy (1956).
+Not a D(x), x=1,2.
+Not a D(x), x=1, 2, 3.
+irregular.
+Clatworthy (1955) [Masuyama (1965)].
+Clatworthy (1955) [Masuyama (1965)].
+Clatworthy (1955).
+Clatworthy (1955).
+Clatworthy (1955) [Masuyama (1965)].
+Clatworthy (1955) [Masuyama (1965)].
+Clatworthy (1955).
+Clatworthy (1955).
+BCS (1954) [Masuyama (1965)].
+Clatworthy, new.
+BCS (1954).
+Clatworthy, new.
+Masuyama (1965).
+BCS (1954).
+Clatworthy new.
+BCS (1954).
+Masuyama (1965).
+Liu and Chang (1964) [Chang, Liu and
+Liu (1965), Masuyama (1965)).
+BCS (1954) [Masuyama (1965) Ikeda
+(1967)].
+BCS (1954).
+BCS (1954) [Seiden (1961), Ray-Chaud-
+huri (1962), Masuyama (1965)].
+BCS (1954).
+BCS (1954).
+Masuyama (1965).
+Clatworthy (1956).
+Clatworthy (1956) [Masuyama (1965)].
+Clatworthy (1956).
+Chang, Liu and Liu (1965).
+Clatworthy (1956) [Masuyama (1965)].
+Clatworthy (1956) [Masuyama (1965)].
+Clatworthy (1956).
+
+†T26
+55 9 3
+165 18
+36
+63
+495 ?
+1
+NL, r=156
+Not a D(x), x=1, 2.
+†T27
+66 10
+3 220 20
+45
+63
+64
+660 ?
+1 NL, r=210
+Not a D(x), x=1, 2.
+Clatworthy (1956).
+Clatworthy (1956).
+T28
+10 2
+4 5 6
+3
+0
+.83
+.71
+.79
+20 Yes
+1 T57
+The BIB design (5, 10, 4, 2, 1), Roy and BCS (1954) [Masuyama (1965)].
+Laha (1956).
+See footnote at end of table.
+230

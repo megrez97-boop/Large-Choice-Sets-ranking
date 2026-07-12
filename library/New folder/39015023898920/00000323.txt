@@ -1,0 +1,157 @@
+TABLE XIX. Miscellaneous partially balanced designs - Continued
+Design M39:
+V =
+27,
+r = 10, k = 10, b = 27
+n₁ = 10, n,
+1
+=
+P‚- ¹ 8]
+16, A₁
+Pi
+2
+=
+1, λη
+=
+= [515]
+10
+c, = -2/33, c₂ = 14/33, H = 87/5, A = 297/4
+E,= .89, E₂ = .94, E = .92
+Solution:
+2
+Nonresolvable
+Complement: Not listed, r = 17
+Dual: Self dual, Hoffman (1963)
+Association Scheme: Same as design PG2 or
+Plan:
+design M7
+5
+The method of construction is due to C. W.
+Liu (1963) and proceeds as follows.
+the association scheme with parameters
+v = 27, n₁ = 10, n₂ =
+Р
+1
+1 8
+8
+P₂
+= 16
+[ [ 5,5]
+2
+=
+10
+From
+which may be derived from the blocks of
+design M7 of these tables, one forms
+blocks corresponding to treatment a
+1,2,...,27) which consist of the
+(a
+=
+n, = 10 first associates of a.
+Design M40:
+1/7, C2
+y = 70,
+n₁ = 27,
+=
+r = 6, k =
+nz
+=
+P₁ = 12 184]
+28
+10, b
+=
+42, A
+=
+2, λε
+=
+9 18
+=
+P.-[23]
+-2/7, H= 51/5, A = 126/5
+E,= .91, E,= .88, E = .89
+Solution: Nonunique; 3-resolvable
+Complement: Not listed, r
+Dual: Design S50
+Association Scheme:
+= 36
+Same as design PG14
+42
+0
+Plan: Cyclically develop the following six
+initial blocks
+1 14 9 20 17 26 25 50 57 64
+1 8 15 22 35 30 41 38 47 46
+1 29 36 43 56 51 62 59 68 67
+26 25 50 57 64 1 14 9 20 17
+30 41 38 47 46 1 8 15 22 35
+51 62 59 68 67 1 29 36 43 56
+using cycles of length 7 and cycling with-
+in the ten subsets of treatments 1-7,
+8-14, 15-21, 22-28, 29-35, 36-42, 43-49,
+50-56, 57-63, and 64-70. The first three
+initial blocks give rise to three
+replications and the five columns on the
+left (right) give rise to three replica-
+tions.
+Design M41:
+=
+v = 70, r = 9, k
+=
+n:
+n₁ = 27,
+1/7, C2
+=
+E, .91, E,
+=
+=
+42, A,
+=
+=
+10, b = 63
+0
+3, λε
+9 18
+23
+P₁ =1214] P,= [228]
+28
+-2/7, H= 153/10, ▲ = 567/10
+= .88, E = .89
+Solution: Nonunique; 3-resolvable
+Complement: Not listed, r = 54
+Dual: Design S97
+Association Scheme: Same as design PG14
+Plan: Repeat the plan of PG14 three times.
+Design M42:
+CI
+E,
+5/41, C2
+v =
+ni
+=
+82,
+r = 10, k
+=
+45, n 36, A,
+24 201
+P₁ = 24 16
+=
+]
+=
+=
+=
+10, b 82
+2, λε
+= 0
+P
+=
+[25 20]
+= 82
+-4/41, H= 91/5, A
+= .91, E, = .89, E = .90
+Solution:
+5-resolvable
+Complement: Not listed, r = 72
+Dual: Design S124
+Association Scheme: Same as design PG15
+Plan: Duplicate the plan of PG15.
+311

@@ -1,0 +1,214 @@
+TABLE IX. Regular group divisible designs - Continued
+Plan:
+13
+4 2
+3 6 5
+Design R43:
+v = 6,
+r = 6,
+k= 3,
+b = 12
+m= 2,
+n = 3,
+λ₁
+= 3,
+A₂
+= 2
+c₁ = 3/5, c, = 2/5, H= 9, A = 20
+E= .83, E,= .77, E = .79
+2
+Solution 1: As given by BCS (1954); nonunique;
+2-resolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (2,3)
+Plan:
+2
+6245
+6415
+4316
+2153
+4352
+2163
+3
+6 2
+2313
+6125
+4654
+5
+3
+Solution 2: As given by Freeman (1957), no. 1,
+Table III; nonunique; 2-resolvable
+complementary
+Complement: Truly self
+Dual: Irregular
+Groups: (2,3)
+Plan:
+3254
+2613
+6
+5
+1465
+1916
+4524
+2353
+42
+15
+36
+2 5 6
+4
+2
+13
+1
+42
+53
+3
+1 5
+56
+41
+4
+1
+62
+74
+23
+91
+6
+45
+23
+56
+Design R45:
+v = 6,
+r =
+7,
+k = 3,
+m= 2,
+n = 3,
+A₁
+= 4,
+λε
+b= 14
+= 2
+= 24
+c, 2/3, c, = 5/18, H= 10, A:
+E, .86, E, .73, E = .78
+=
+Solution 1: As given by Clatworthy (1956);
+nonunique; nonresolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (2,3)
+Plan: 1 3 5
+1
+3
+5
+1
+3
+5
+2
+4
+1
+2 6
+1
+4
+6
+2
+3
+6
+2 4 5
+2
+3
+4
+4
+5
+6
+3
+4
+6
+2
+5
+6
+12
+3
+2
+4
+56
+34
+Solution 2:
+As given by Freeman (1957);
+nonunique; nonresolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (2,3)
+5432
+3165
+1 3
+6
+24
+Design R44: v = 6,
+=
+3/4, C2 =
+m= 3,
+r = 6,
+k= 3,
+b= 12
+n = 2,
+A₁ = 4,
+λ₂
+= 2
+3/8, H= 28/3, A = 64/3
+E, .89, E,= .76, E = .78
+Solution 1:
+Nonunique; 3-resolvable
+Complement: Truly self complementary
+Dual: A D(3), WHC (1956)
+Groups: (3,2)
+Plan: Duplicate the plan of R42.
+Solution 2: As given by Sprott (1955);
+nonunique; resolvable
+Complement: Truly self complementary
+Dual: Not a D(x), x =
+1, 2, 3
+Plan:
+1122
+3665
+2544
+1123
+5466
+56
+3254
+34
+4
+1123
+12
+2
+Design R46:
+C₁ =
+3/8, Ca
+=
+3434
+y=
+= 6,
+m= 3,
+r =
+=7,
+n = 2,
+A₁
+=
+k= 3, b = 14
+2, A2
+=
+3
+25/48, H= 34/3, A = 32
+E,= .76, E₂ = .81, E= .80
+Solution 1:
+As given by Clatworthy (1956);
+nonunique; nonresolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (3,2)
+5005
+6
+6
+Groups: (3,2)
+(Plan continued on next page)
+188

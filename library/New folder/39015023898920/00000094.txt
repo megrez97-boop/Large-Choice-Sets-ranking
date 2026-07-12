@@ -1,0 +1,9 @@
+listed references in brackets-Whenever listed references are contained in brackets, [], in Tables VI, VIII, X, . it is intended
+to convey the assertion that the particular plan, solution or construction of the author referred to is isomorphic with the con-
+struction provided by the author listed immediately to the left of the brackets. For example, the reference "Bose and Nair
+(1939) [Clatworthy (1967), John (1966)], Freeman (1957)" would mean that the solutions published by Clatworthy (1967) and
+John (1966) can be put into isomorphism with the solution published by Bose and Nair (1939) but that the solution of Freeman
+(1957) is possibly distinct.
+Design Sl.xy-An identifying symbol for designs of the "simple" design classification enumerated in the publication by Bose,
+Clatworthy and Shrikhande (1954).
+82

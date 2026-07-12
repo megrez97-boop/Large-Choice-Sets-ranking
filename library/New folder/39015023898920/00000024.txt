@@ -1,0 +1,65 @@
+schemes in a great many cases, and to D(3) designs in several other cases. This class of designs is also
+characterized by a high frequency of resolvability among the plans.
+Two constructions of SRGD designs are given below, but generally the reader should consult BSB (1953).
+4a. Construction of SRGD designs by "block cutting" of BIB designs. Suppose we start with a BIB
+design D with parameters (v*, b*, r*, k*, λ*= 1). A particular treatment occurs in r* blocks. Suppose we
+delete treatment 0 and the r* blocks in which it occurs from the design D.
+Ꮎ
+x
+x
+x
+0
+x
+x
+x
+•
+0
+x
+x
+r* blocks
+Dropping the treatment
+k-1 treatments
+from these r* blocks we get an r*x (k-1) array which forms an association
+scheme for the residual b*—r* blocks with the former blocks now playing the role of groups of the associa
+tion scheme. The residual blocks of D are b*-r* in number and any two treatments that occur together in
+a group of the association scheme never occur together in the residual blocks while any pair of treatments
+belonging to different groups occur together in λ*= 1 block of the residual blocks. Consequently, the residual
+blocks constitute a GD design with parameters
+(2.8)
+v = v* - 1,
+r = r* - 1,
+b=b*-r*,
+k= k*,
+m=r*,
+n = k*-1,
+λ=0,
+λ₂ = 1.
+Clearly, to keep the GD design from being nondegenerate, we must require of the BIB design that k* ≥3,
+r* ≥3, b*-r* ≥ 3, λ *= 1.
+We summarize the foregoing in the following
+Theorem: By omitting a particular treatment 0 and all the r* blocks containing it from a BIB design with
+A*= 1, we obtain a GD design with the parameters given in (2.8).
+Remark. The GD designs obtained by this procedure of "block cutting" may be of the regular or semi-
+regular types depending on the BIB designs with which we start.
+Suppose we start with the family of BIB designs frequently referred to as the orthogonal series OS2
+(or alternatively as the finite projective planes) given by
+(2.9)
+v*=b*=s²+s+1,
+r*= k*=s+1,
+λ*=1
+where s=p", where n is a positive integer and p is a prime. We cut from a design (2.9) the r* blocks con-
+taining an arbitrary treatment and the process leaves a residual set of blocks constituting a semi-regular
+GD design with parameters
+(2.10)
+v=s²+s,
+r=s,
+b= s2,
+k=s+1,
+m=s+1,
+n=s,
+λ=0,
+λε= 1.
+The designs of family (2.10) arising from s = 2, 3, 4, 5, 7, 8, and 9 have r≤ 10 and are catalogued by BCS (1954)
+except for the case s=9 which was inadvertently omitted. All are included in our Tables VI and VII however.
+1
+12

@@ -1,0 +1,188 @@
+TABLE IX. Regular group divisible designs – -
+Continued
+Design R61:
+v = 9,
+r =
+7,
+MF 3,
+n = 3,
+=
+k= 3,
+λι
+18
+= 4,
+λ2 =
+b= 21
+= 1
+Plan:
+1
+123
+2
+6
+123
+123
+7785∞∞∞
+9
+7
+7
+9
+9
+9
+3 6
+4452344~~656
+1121-2356233
+124
+=
+c₁ = 2/3, c₂ -1/9, H= 9, A =
+E= .86, E₂ = .64, E = .69
+Resolvable
+Complement: Not listed, r
+Solution:
+Dual: Irregular
+Groups: (3,3)
+= 14
+Plan: To construct, use
+Set 3.1
+once
+Set 3.2
+4 times
+Set 3.3
+once
+Set 3.4
+once
+Each set constitutes a complete
+replication.
+Design R62:
+v = 9,
+r = 7,
+k = 3,
+b = 21
+m= 3,
+n = 3,
+A₁
+=
+1,
+2
+= 2
+=
+c, 1/5, c₂ = 16/45, H= 11, A = 30
+E,= .71, E₂= .76, E = .75
+Solution:
+2
+Resolvable
+Complement: Not listed, r
+Dual: Irregular
+Groups: (3,3)
+Plan: To construct, use
+= 14
+Set 3.1
+twice
+Set 3.2
+once
+Set 3.3
+twice
+Set 3.4
+twice
+Each set constitutes a complete
+replication.
+789
+456
+789
+789
+976
+456
+456
+835
+Solution 2:
+Nonunique; resolvable
+Complement: Not listed, r
+Dual: Irregular
+Groups: (3,3)
+Plan: To construct, use
+= 16
+Set 3.1
+once
+Set 3.2
+5 times
+Set 3.3
+once
+Set 3.4
+once
+Each set constitutes a complete
+replication.
+Design R64:
+v=
+9,
+m= 3,
+r =
+9,
+k = 3,
+b= 27
+n = 3,
+λ₁
+=
+= 6,
+A2
+= 1
+C₁ =
+3/4, C2
+E,
+2
+=
+-1/2, H= 11, A = 24
+.89, E₂ = .57, E= .63
+Solution 1: As given by Liu and Chang (1964);
+nonunique; nonresolvable
+= 18
+Complement: Not listed, r
+Dual: Irregular
+Groups: (3,3)
+To the plan of R63, Solution 1 annex a
+fourth replication which is
+Design R63:
+v = 9,
+m= 3,
+r = 8,
+n = 3,
+k = 3,
+λ₁ 5,
+b= 24
+=
+2
+=
+214
+Plan:
+C 2
+=
+-19/63, H= 10, A = 21
+= 5/7,
+C1
+E,= .87, E,= .61, E = .66
+Solution 1:
+Complement: Not listed, r
+Nonunique; 4-resolvable
+= 16
+Dual: Irregular
+Groups: (3,3)
+1 4 7
+Solution 2:
+2 5 8
+6
+3
+9
+Nonunique; resolvable
+Complement: Not listed, r
+Dual: Irregular
+Groups: (3,3)
+Plan:
+To construct, use
+Set 3.1 once
+Set 3.2 6 times
+= 18
+Set 3.3
+once
+Set 3.4
+once
+Each set constitutes a complete
+replication.
+192

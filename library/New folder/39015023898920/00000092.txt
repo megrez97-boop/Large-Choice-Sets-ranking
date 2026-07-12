@@ -1,0 +1,58 @@
+nonresolvable-A design that is not resolvable is said to be nonresolvable (i.e., it is not one-resolvable ). However, a nonresolvahe
+design may be a-resolvable where 2 < a <r.
+affine resolvable design – A resolvable design for which every block intersects all the blocks outside its own replication in a constant
+number of treatments is called affine resolvable. For such designs it is necessary that k²/v be integral.
+d. Complementary designs
+complementary design-The complement of a design D is a design D* such that D* has the same number of treatments v and the
+same number of blocks b as the parent design D, and whose jth block consists of precisely those treatments which do not
+occur in the jth block (j = 1, 2, . . ., b) of the parent design D.
+-
+tabular entry for complementary designs, “Design AB.xyz” – Whenever the complementary design of a particular listed design
+is identified as Design AB.xyz it is meant that the result of the complementation operation can be placed into isomorphism with
+the design identified as Design AB.xyz.
+a degenerate design - An expression used to partially describe the complement of a particular recorded design (plan) when each
+treatment appears only r=1 time in the complementary design. Obviously this degenerate complementary design is unique
+(up to an isomorphism) so that its complement (the parent design) has a unique solution (up to an isomorphism).
+connected design — A design is a connected design if every block and every treatment of the design are connected to every other block
+and treatment. Two treatments, two blocks or a block and a treatment are said to be connected if it is possible to pass from
+one to the other by means of a chain consisting alternately of blocks and treatments such that any two consecutive members
+of the chain (i.e., a treatment and a block) are such that the treatment occurs in the block.
+disconnected design - A design is said to be disconnected if it breaks up into connected parts such that a block or a treatment of
+one part is unconnected with a block or a treatment of another part.
+NL, r=c- An expression used to partially describe the complement of a particular design. It means that the complementary design
+is not listed in the present enumeration but that it is a design of the same type and it has r=c replications.
+NL, k=c-An expression used to partially describe the complement of a particular listed design. It means that the complementary
+design is not listed in the enumeration of the present publication but that it is a design of the same type whose block size is
+k = c.
+self complementary design- A design D is said to be self complementary if its complementary design D* has precisely the same
+parameters as the parent design D. The designs D and D* may or may not be isomorphic. For a design to be self complementary,
+it is clearly necessary that v=2k (b=2r).
+SC-self complementary
+truly self complementary-If a design D is self complementary (SC) and if D and its complementary design are also isomorphic, we
+say design D is truly self complementary (TSC). A TSC design is always a SC design but a SC design may not be a TSC design.
+TSC-truly self complementary.
+e. Dual designs
+dual design-The dual (or inverse) of a design D is a design D' whose treatments are the blocks of design D and whose blocks are
+the treatments of design D. If design D has parameters (v, b, r, k, . . .) then its dual D' has parameters (v', b', r', k', . . .)
+= (b, v, k, i r, .). If N = (nij) is the v× b incidence matrix of the design D then the incidence matrix of design D' is the b×v
+matrix N', where N' is the transpose of N.
+.
+-
+tabular entry for dual designs, “Design AB.xyz” – Whenever the dual design of a particular solution (or plan) is identified as Design
+AB.xyz, it is meant that the inversion produces a design which can be set into an isomorphism with the recorded solution for
+Design AB.xyz. Since the dual (or inverse design) depends upon the order in which the blocks are arranged prior to inversion,
+the dual design can assume many different appearances, all of which can be placed into isomorphism with any one of the
+inversions.
+irregular - A dual of the design D is said to be irregular when it is not a D(1) or a partially balanced incomplete design of m associate
+classes (denoted by D(m)) where m ≥ 2. Clearly, if the design D possesses two or more distinct types of block structure, its
+dual will be irregular.
+.
+..
+not a D(x), x= 1, 2,
+t, t an integer - It may be quite difficult to specifically identify the type of design that the dual design
+actually is. In the difficult cases it may be easy to specify some design types that the dual is not. “Not a D(1) means that the dual
+design is not a balanced incomplete block design, and "not a D(x), x=2, . . t" means that the dual design is not a partially
+balanced design with x associate classes (x = 2, or 3, . . ., or t).
+self dual- A design D is said to be self dual if its dual design D' has the same parameters as design D. Clearly, for a design to be
+self dual it is necessary that v=b and r=k. It is not necessary that the dual D' of a design D be such that D is isomorphic to D'.
+80

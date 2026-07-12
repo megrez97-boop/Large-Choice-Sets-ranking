@@ -1,0 +1,52 @@
+To Joan Raup Rosenblatt, Chief of the Statistical Engineering Laboratory, I am grateful for
+provision of congenial and delightful working conditions, and for giving me access to the Bureau's
+staff and facilities.
+To Janace Speckman of the Statistical Engineering Laboratory I am deeply grateful for as-
+sistance extending over the 3-year period. About 95 percent of the statistical experimental arrange-
+ments of this volume have been checked for their validity by computer techniques devised and
+programmed by Janace Speckman and Joseph M. Cameron. All but minor parts of all tabulations
+of this publication were typeset through computer-controlled processes. This necessitated key
+punching of most of the contents of the odd numbered Tables V through XIX onto computer cards
+and subsequent verification through a series of intricate arithmetical and combinatorial checks.
+The tabular portions of this publication evolved from the author's handwritten copy. The transition
+from handwritten copy to computer output has required of Miss Speckman extraordinary alertness
+to detect errors and many forms of inconsistency in writing. Her critical reading of drafts of the
+introductory chapters led to a number of improvements.
+The vast amount of key punching required was done by Mrs. Eleanor S. Brown and Miss
+Joanne Mobley.
+Mrs. Carla G. Messina of the Office of Standard Reference Data deserves special mention for
+devising the computer program for transforming ordinary computer output into the phototypeset
+pages.
+The introductory Chapters I and II, parts of Chapter III and the bibliography were typed in
+final manuscript by Veronica Connor of the Statistical Engineering Laboratory. For her stenographic
+skills and daily assistance with many requests I am most grateful.
+Because of the rather extensive nature of BCS(1954) and its widespread use among researchers
+in combinatorial arrangements and by experimentalists, it is felt that a listing of the main new fea-
+tures of this volume would be informative. This is provided in the following section.
+What is new in this volume. The heavy dependence of this volume upon the original publica-
+tion will be obvious to anyone familiar with it. Insofar as the economic aspects of publication would
+permit, the strong features of the BCS(1954) publication have been retained. For those familiar with
+partially balanced designs it is perhaps worthwhile to summarize the new features of this volume.
+Among them the following are perhaps worth mentioning:
+1. The number of parametric specifications for designs has been increased from the 376 cata-
+logued by BCS(1954) to 781 in this volume. The BCS(1954) publication contained a single design
+construction for each parametric specification; in the present volume many parametric specifica-
+tions have multiple constructions, providing altogether approximately 950 combinatorially distinct
+designs.
+2. Table 0 is an auxiliary table which provides the user of this volume a quick summary of
+those designs of interest to him based on his requirements as to the number v of treatments, the
+number k of experimental units per block and the number r of replications of each treatment.
+3. For all designs whose plans were explicitly presented, a computer verification was per-
+formed to show that the design is a valid one having the specified association scheme. This made
+possible the detection and correction of the few cases of incorrect designs in BCS(1954). Approxi-
+mately 95 percent of the designs of this volume have been computer verified for validity.
+4. Standardization of association schemes has been provided for nearly all designs that have
+specific displayed plans or constructions. These association schemes are displayed in Table II and
+then referred to by symbolic designators whenever a plan is displayed. This standardization of asso-
+ciation schemes has made necessary the reorganization of the solutions or plans of many previously
+published designs.
+5. Standardized sets of blocks constituting complete replications of treatments have been in-
+troduced as construction modules or units (to reduce publication costs). These are displayed com-
+pletely in Table III and then referred to by symbolic designators in presenting the plans of certain
+regular group divisible, semi-regular group divisible and Latin square type designs.
+vi

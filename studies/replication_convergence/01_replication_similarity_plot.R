@@ -5,16 +5,44 @@
 library(ggplot2)
 library(wdm)
 
+# 自動偵測工作目錄並切換
+if (rstudioapi::isAvailable()) {
+  try(setwd(dirname(rstudioapi::getActiveDocumentContext()$path)), silent = TRUE)
+}
+
+# 尋找專案根目錄 (向上搜尋包含 studies 且包含 sigir2024-rbo 或 delivery 的資料夾)
+find_project_root <- function() {
+  curr <- getwd()
+  for (i in 1:5) {
+    if (dir.exists(file.path(curr, "studies")) && 
+        (dir.exists(file.path(curr, "sigir2024-rbo")) || dir.exists(file.path(curr, "delivery")))) {
+      return(curr)
+    }
+    curr <- dirname(curr)
+  }
+  return(getwd())
+}
+proj_root <- find_project_root()
+
 # 載入我們 6/20 整合的 RBO 腳本 (Corsi & Urbano 2024 實作版)
-rbo_path <- "C:/Users/User/Documents/R/Thesis/sigir2024-rbo/rbo/R/rbo.R"
+# 優先載入 sigir2024-rbo，其次載入 delivery 的備份，最後載入 library 中的檔案
+rbo_path <- file.path(proj_root, "sigir2024-rbo/rbo/R/rbo.R")
+if (!file.exists(rbo_path)) {
+  rbo_path <- file.path(proj_root, "delivery/final code/modules/rbo/rbo.R")
+}
+if (!file.exists(rbo_path)) {
+  rbo_path <- file.path(proj_root, "library/Related paper/RBO and kendalls tau/sigir2024-rbo-main/rbo/R/rbo.R")
+}
+
 if(file.exists(rbo_path)) {
   source(rbo_path)
+  message("✅ 成功載入 RBO 核心演算法: ", rbo_path)
 } else {
-  stop("無法找到 RBO 腳本。路徑錯誤:", rbo_path)
+  stop("無法找到 RBO 腳本。請確認專案完整性。")
 }
 
 # --- 1. 資料讀取 (真實 LLM 數據) ---
-rds_path <- "C:/Users/User/Documents/R/Thesis/studies/replication_convergence/gemini_global_rankings_t20_r20.rds"
+rds_path <- file.path(proj_root, "studies/replication_convergence/gemini_global_rankings_t20_r20.rds")
 if (!file.exists(rds_path)) {
   stop("找不到真實數據 RDS 檔案！請確認 Gemini 評估程式已經執行完畢。")
 }
@@ -106,7 +134,7 @@ p <- ggplot(results, aes(x = Replication, y = Similarity, color = Metric, group 
   )
 
 # 儲存圖表
-output_path <- "C:/Users/User/Documents/R/Thesis/studies/replication_convergence/Replication_Convergence_Plot_t20.png"
+output_path <- file.path(proj_root, "studies/replication_convergence/Replication_Convergence_Plot_t20.png")
 ggsave(output_path, plot = p, width = 8, height = 6, dpi = 300)
 
 cat("繪圖完成！圖表已儲存至:", output_path, "\n")
