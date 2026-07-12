@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a cohesive, immersive narrative that effectively captures the futuristic, high-tech vision requested for the airport experience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a bold, creative vision of teleportation, though it lacks the detailed narrative flow of Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Contains good futuristic concepts but lacks a structured story format and professional marketing slogan quality.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to address the futuristic 2050 context, offering generic travel advice instead of innovative airport design concepts.",
+      "rank": 4
+    }
+  ]
+}

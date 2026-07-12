@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Best alignment with the prompt; provides a vivid, creative narrative and includes the required marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong narrative structure, though the slogans are less imaginative and the story is slightly less futuristic.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Good conceptual ideas, but fails to provide the required story format and lacks specific marketing slogans.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Weakest entry; lacks futuristic creativity and fails to include the required marketing slogans entirely.",
+      "rank": 4
+    }
+  ]
+}

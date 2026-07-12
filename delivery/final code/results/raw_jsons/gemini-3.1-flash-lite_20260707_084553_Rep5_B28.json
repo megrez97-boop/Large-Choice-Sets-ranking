@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most detailed, creative, and cohesive narrative that perfectly aligns with the futuristic 2050 vision.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong thematic blend of tradition and technology, though the narrative is slightly less descriptive than Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on practical utility but lacks the immersive storytelling and visionary flair requested for a futuristic airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too vague and abstract; it fails to describe specific futuristic technologies or airport-specific experiences.",
+      "rank": 4
+    }
+  ]
+}

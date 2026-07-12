@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Excellent focus on high-tech automation and personalized convenience, perfectly aligning with the futuristic, innovative airport vision.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Strong emphasis on mobility and automated services, though the description feels slightly less cohesive than Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a good narrative, but focuses too heavily on basic language translation rather than truly futuristic innovation.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to meet the futuristic criteria, describing a stressful, traditional airport experience instead of an innovative one.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Best alignment with the prompt by providing both a futuristic narrative and three catchy marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Strong futuristic vision, but the slogans are repetitive and less creative than those in Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on current amenities like dog parks rather than the requested high-tech, futuristic airport experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to address the airport design task entirely, focusing instead on personal travel philosophy.",
+      "rank": 4
+    }
+  ]
+}

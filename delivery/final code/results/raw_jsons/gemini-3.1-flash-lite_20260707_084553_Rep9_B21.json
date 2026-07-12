@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly captures the futuristic, high-tech vision requested with creative, specific examples and includes the required slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Strong focus on efficiency and technology, though it lacks the immersive storytelling flair found in Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on luxury but lacks the specific futuristic, high-tech elements required for a 2050 airport design.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides generic travel advice rather than a futuristic airport experience, failing to meet the core prompt requirements.",
+      "rank": 4
+    }
+  ]
+}

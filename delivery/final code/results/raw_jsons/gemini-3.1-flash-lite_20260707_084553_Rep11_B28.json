@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Perfectly aligns with the influencer persona by emphasizing remote work, high-tech efficiency, and seamless travel experiences.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Highly innovative and futuristic, though slightly less focused on the professional remote work aspect than Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Good cultural integration, but lacks the depth of specific technological innovation requested for a 2050 futuristic airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Too focused on nature and basic service rather than the cutting-edge technology and futuristic innovation requested.",
+      "rank": 4
+    }
+  ]
+}

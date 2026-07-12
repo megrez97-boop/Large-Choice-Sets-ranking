@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Perfectly captures the futuristic, high-tech, and innovative Tokyo 2050 theme requested by the prompt.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses well on traveler comfort and service, though it lacks the high-tech aesthetic of Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a decent futuristic vision but feels generic compared to the creative depth of Option B.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Completely irrelevant; it describes a personal travel anecdote rather than a futuristic airport design concept.",
+      "rank": 4
+    }
+  ]
+}

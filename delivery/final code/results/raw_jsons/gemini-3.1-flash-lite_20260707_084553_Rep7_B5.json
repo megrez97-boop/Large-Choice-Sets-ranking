@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly captures the futuristic vision with specific, creative examples that align with the influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides practical, innovative technological solutions, though it lacks the narrative flair and emotional engagement of Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Covers essential airport functions well but relies on generic marketing language rather than a compelling narrative.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too vague and abstract; it fails to describe any actual futuristic technology or specific airport services.",
+      "rank": 4
+    }
+  ]
+}

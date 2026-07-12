@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Perfectly captures the futuristic 2050 vision with creative, detailed technology and includes all required marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Strong narrative and relevant slogans, but slightly less comprehensive in scope than Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Attempts to address futuristic concepts but lacks the required structure, storytelling, and marketing slogans.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely fails the prompt by describing current, mundane airport procedures instead of a futuristic 2050 experience.",
+      "rank": 4
+    }
+  ]
+}

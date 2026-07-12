@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly follows all instructions, providing a creative, futuristic narrative and three distinct, catchy marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Strong narrative quality, but failed to provide the required marketing slogans as requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Includes slogans, but the narrative is too informal and lacks the visionary, futuristic tone requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to provide a complete story and lacks the required marketing slogans entirely.",
+      "rank": 4
+    }
+  ]
+}

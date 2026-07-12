@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best balance of narrative storytelling, futuristic technology, and professional marketing slogans that fit the 2050 theme.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Strong narrative flow and clear technological vision, though the slogans are slightly generic compared to Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Creative and evocative tone, but lacks specific technological details and fails to provide distinct, structured marketing slogans.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Weakest structure; the writing style is informal and lacks the professional polish required for a high-tech airport proposal.",
+      "rank": 4
+    }
+  ]
+}

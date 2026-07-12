@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly aligns with the 2050 futuristic vision by proposing immersive AI and holodeck technology.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Strong focus on modern tech like holograms and ergonomic workspaces, though it describes a past experience.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes relevant futuristic elements like luggage robots, but lacks the creative depth requested for 2050.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the prompt as it discusses a past trip to Brazil without airport technology.",
+      "rank": 4
+    }
+  ]
+}

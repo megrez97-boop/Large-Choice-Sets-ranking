@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly aligns with the persona and requirements, providing a creative story and relevant slogans for 2050.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers creative futuristic amenities, though it lacks the professional influencer tone and specific slogans requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides generic travel advice rather than a futuristic vision, failing to address the specific design prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Describes mundane, current-day airport procedures, completely ignoring the futuristic 2050 context and creative requirements.",
+      "rank": 4
+    }
+  ]
+}

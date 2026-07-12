@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Captures the visionary, high-tech, and immersive aesthetic perfectly, aligning best with the futuristic Tokyo 2050 brief.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a strong narrative experience, though the preference for human servers feels slightly less futuristic than others.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses heavily on functional automation, but lacks the creative, inspiring storytelling requested for a futuristic experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The concept is too grounded in nature and lacks the high-tech, innovative edge required for a 2050 airport.",
+      "rank": 4
+    }
+  ]
+}

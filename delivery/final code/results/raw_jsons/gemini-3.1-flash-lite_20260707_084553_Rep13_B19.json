@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Captures the futuristic, high-tech, and personalized essence of the prompt most creatively and effectively.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong narrative flow and tone, though slightly less imaginative regarding the specific technology than Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Good descriptive imagery, but the narrative feels more like a standard report than a personal influencer experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Lacks the futuristic, high-tech vision requested, focusing instead on minor improvements to current airport processes.",
+      "rank": 4
+    }
+  ]
+}
