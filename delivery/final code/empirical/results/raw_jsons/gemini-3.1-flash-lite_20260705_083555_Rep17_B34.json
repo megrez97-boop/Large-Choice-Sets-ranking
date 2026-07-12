@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, structured step-by-step guide and includes the required top three bits of advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers helpful Japan-specific travel tips but fails to include the required top three bits of advice section.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains useful advice but lacks a clear, professional step-by-step flow for navigating the airport process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The content is disorganized, lacks professional tone, and fails to address the specific requirements of the prompt.",
+      "rank": 4
+    }
+  ]
+}

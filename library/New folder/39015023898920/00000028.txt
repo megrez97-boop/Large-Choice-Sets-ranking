@@ -1,0 +1,74 @@
+(5) The family of triangular singly-linked block designs. Shrikhande (1952) and Bose and Shimamoto
+(1952) gave the family of triangular designs with
+(2.20)
+v=n(n-1)/2,
+r=2,
+b=n,
+k=n-1,
+A₁ = 1,
+λ=0,
+n≥ 5.
+These designs may be constructed by taking the rows (or columns) of the association scheme as blocks.
+They are clearly singly-linked blocks designs and so their duals are necessarily BIB designs with
+v*=n,
+b*=n(n-1)/2,
+r*=n−1,
+k*=2, λ*= 1,
+which are recognized as the subfamily of unreduced BIB designs with k=2. Clearly, designs of either family
+may be constructed for n > 5.
+(6) A family of triangular designs due to Chang, Liu, and Liu (1965) and to M. Masuyama (1965). Ap-
+parently independently, the family of designs with
+v=n(n-1)/2,
+(2.21)
+r=2(n-2),
+was constructed as follows.
+b= n(n-1),
+A₁ =n-3,
+k=n-2,
+12 = 0.
+n≥ 5
+We note that the row of the triangular association scheme has n-1 treatments and that the number
+n-l
+of distinct blocks, each of size k=n-2, that can be formed from a row is
+=n-1, each treatment
+n- -2
+of the row occurring n-2 times, and each pair of treatments of the row occurring n-3 times. Since a
+treatment accurs in 2 rows of the association scheme, r=2(n-2) and since each row gives rise to n— -1
+blocks, the total number of blocks is b=n(n−1). The treatments not lying in the same rows (or columns)
+never occur together in any block so that λ₂ = 0, while treatments in the same row or column of the association
+scheme occur together in n-3 blocks. Thus it is clear that for n 5 the designs of family (2.21) can always
+be constructed.
+For example, consider the case n=5, for which
+v = 10, r=6,
+k=3, b=20,
+11 =2,
+λε= 1.
+Now Design T10, Solution 1 has these parameters but the plan is obtained by duplicating the plan of Design
+T9, Solution 1, i.e., each of the blocks (displayed in columns) of the following set of ten occurs twice
+1 1 1
+2 2
+3 5 5 6 8
+2
+3 4 3
+4
+4 6 7 7 9
+5 6
+7
+8 9
+10
+8 9 10
+10
+However, the present method of solution yields 20=b distinct blocks:
+1 1 1 2 1 1 1 5 2 2 2 5 3
+3
+3 6 4 4
+4 7
+2 2 3 3 5 5 6 6 5 5 8 8 6
+6
+8
+8 7
+799
+3 4 4 4 6 7
+7789998
+10 10 10 9 10 10 10
+16

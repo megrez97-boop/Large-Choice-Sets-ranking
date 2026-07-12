@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best alignment with the prompt by providing both the required story and three catchy marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong focus on futuristic technology like hyperloops and AR, but failed to provide the required marketing slogans.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Evocative description of the atmosphere, but lacks concrete details on airport functionality and missing marketing slogans.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses on historical themes rather than the requested futuristic, high-tech airport experience for a remote worker.",
+      "rank": 4
+    }
+  ]
+}

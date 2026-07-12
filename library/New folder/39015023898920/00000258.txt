@@ -1,0 +1,254 @@
+TABLE XI. Partially balanced designs based on triangular association schemes - Continued
+ni
+=
+4
+3,
+4
+P.3] P.- [1]
+2
+=
+1
+Design T61:
+V = 15,
+8, na
+=
+r = 6,
+6, λι
+k
+= 6,
+b = 15
+=
+λ,
+=
+Nonresolvable
+Plan:
+1
+12 13 15
+10
+11 10 13
+C=249155
+11 14 15
+3 6
+14 12 4 8
+1 9
+112592354
+7543894362
+2310307458
+11 14
+6
+9 15 10
+2 13 14
+3 11 12
+6 8
+7 10
+8 12 7 2 13
+E,=
+=
+10/21, c:
+= .91, E, =
+Solution:
+=
+2/21, H= 31/3, A = 105/4
+.85, E = .88
+Complement: Design T84
+Dual: Truly self dual
+Association Scheme: T(6)
+Plan: 1
+11
+9
+08643122553:
+7653153
+64217
+32139
+21284543W
+7
+5
+4
+8
+9
+3
+10 11
+14
+5 10
+2
+2
+11
+4 5
+12
+15
+13
+14
+3
+4
+6
+10
+7
+8
+11
+10
+7
+6
+12
+9
+14
+12
+6
+11 15
+8
+9
+8
+9
+15
+13
+13
+15 12
+14 10
+48
+14
+7
+11
+Solution 3: Nonunique; nonresolvable
+Complement: Design T83, Solution 3
+Dual: The a, solution of Nandi (1946a) for the
+BIB design (10,15,6,4,2), Roy and Laha
+(1956)
+Association Scheme: T(6)
+Plan: 1 2
+3 1
+10 12
+14 13
+7 10 15 4
+2 15 13
+3
+9
+87965314
+10 14 15
+11 15 12
+1 4 13
+156
+5 1 11
+6
+9
+5 11 10 3 8
+11 14 4 2 9 7
+4
+3 6
+8 12 14
+5
+8 12 2
+7 13
+Design T62:
+y = 15,
+r = 4,
+k = 6,
+ni
+=
+8,
+n:
+=
+6, λι
+λε
+4 37
+=
+1,
+4
+b = 10
+2
+=
+P.-[3] P.- [1]
+2
+=
+C₁ = 1/4, c₂ = 1/2, H= 22/3, ▲ = 40/3
+E₁ = .87, E,
+=
+.91, E
+= .89
+Solution 1: Nonunique; nonresolvable
+Complement: Design T83, Solution 1
+Dual: The B₂ solution of Nandi (1946a) for
+the BIB design (10,15,6,4,2), Roy and
+Laha (1956)
+Association Scheme: T(6)
+Plan:
+845
+4 10
+12 14 1
+4 15 10
+7
+5
+8
+9
+3 10
+1
+2625
+6 2 13 15 14
+2 12 5
+12 6 13
+8 7 13
+7 3 1
+15
+4 3 9
+12 11
+34
+3 14 11 8 6 5
+14 7 11 4 2 9
+1 5 9
+10 13 11
+Solution 2:
+Nonunique; nonresolvable
+Complement: Design T83, Solution 2
+2
+Dual: The a₁, solution of Nandi (1946a) for the BIB
+design (10,15,6,4,2), Roy and Laha (1956)
+Association Scheme:
+T(6)
+Design T63:
+CI
+=
+E,
+=
+82/187,
+v = 15,
+n₁ =
+Р
+r = 10, k
+=
+8, n2 6,
+P₁ = 43]
+λι
+=
+=
+6,
+b = 25
+=
+4, λε 3
+4
+P;= [ ¹ ¦]
+=
+C 2 62/187, H= 53/3, A = 935/12
+.90, E₂ = .88, E = .89
+Solution 1: Nonunique; nonresolvable
+Complement: Not listed, r = 15
+Dual: Irregular
+Association Scheme: T(6)
+Plan: To the plan for T61 annex the plan for
+T62, Solution 1.
+Solution 2:
+Nonunique; nonresolvable
+Complement: Not listed, r
+Dual: Irregular
+Association Scheme: T(6)
+Plan:
+=
+15
+To the plan of T61 annex the plan for
+T62, Solution 2.
+Solution 3: Nonunique; nonresolvable
+Complement: Not listed, r
+Dual: Irregular
+Association Scheme: T(6)
+=
+€15
+Plan: To the plan for T61 annex the plan for
+T62, Solution 3.
+246

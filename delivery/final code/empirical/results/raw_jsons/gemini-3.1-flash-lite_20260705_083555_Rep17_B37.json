@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, structured, and professional guide that perfectly matches the influencer persona and requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Good narrative flow for Part 1, but the advice in Part 2 is repetitive and lacks professional depth.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is too simplistic and misses critical steps like security screening details or document preparation.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The guide is incomplete, lacks necessary detail, and contains several grammatical errors that undermine professional quality.",
+      "rank": 4
+    }
+  ]
+}

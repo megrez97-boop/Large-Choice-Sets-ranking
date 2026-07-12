@@ -1,0 +1,74 @@
+with v-1 degrees of freedom. This quantity is easily obtained by multiplying corresponding items in columns
+(4) and (6) of Table 23 and adding. Thus
+x²=Σ î;P₁=6.5518
+with 9 degrees of freedom. Since 0.50 < p(x²) < 0.70, x² is obviously nonsignificant, as it should be.
+The estimated variance of the difference between two treatments which are first associates, i.e., occur
+in the same row or column of the association scheme, is
+2(k-d₁)
+r{w'+w(k−1)}
+=7.5798/140.9708 0.053769.
+The estimated variance of the difference between two treatments which are second associates is
+2(k-d2)
+r{w'+w(k−1)}
+=
+7.1595/140.9708 0.050787.
+The estimated average variance is
+[6(0.05377)+3(0.05079)]/9=0.05277.
+Using the formula (3.32), we obtain for the estimated variance of the combined intra- and inter-block
+estimate of the treatment effect, î,
+V (†{) :
+=
+=
+-
+n₁ (k − d₁) + n₂ (k − d½)
+vr{w' + (k-1)w}
+6(4-0.2101)+3(4-0.4203)
+10(4){2.2175+3(11.0084)}
+= 0.02375.
+Step 6. Summary of results. We summarize the results for this data analysis in two tables. The estimated
+Treatment means, Table 24A, consists of the unadjusted means obtained by dividing the values of T¿ from
+Table 17 by r=4, the adjusted treatment means without recovery of inter-block information which are
+obtained by adding G/N=2.34275 of the t; from Table 19 and the adjusted treatment means obtained by
+adding G/N to the combined intra- and inter-block estimates of Table 23. A second summary table, Table
+24B, provides the estimated standard deviations of the estimated treatment means, treatment effects and
+treatment differences.
+TABLE 24A
+ESTIMATED TREATMENT MEANS
+Adjusted with inter-block information
+Treatment
+number
+Unadjusted mean
+Not recovered
+Recovered
+1234567890
+2.3500
+2.2636
+2.2869
+2.2200
+2.2774
+2.2615
+2.2900
+2.2921
+2.2939
+2.2550
+2.4299
+2.3895
+2.3400
+2.1627
+2.2035
+2.3975
+2.4325
+2.4235
+2.2950
+2.4903
+2.4423
+2.6300
+2.6763
+2.6614
+2.3325
+2.1474
+2.1922
+2.3175
+2.2555
+2.2730
+61

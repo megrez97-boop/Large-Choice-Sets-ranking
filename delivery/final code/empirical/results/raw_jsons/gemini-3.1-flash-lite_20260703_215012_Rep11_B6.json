@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a clear, logical step-by-step guide and follows the three-sentence advice constraint perfectly.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Captures the influencer persona well, though the advice section is formatted as a list rather than sentences.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is informative but fails to provide the required three-sentence advice section at the end.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides inaccurate information regarding bag drop procedures and lacks the required structure for the advice section.",
+      "rank": 4
+    }
+  ]
+}

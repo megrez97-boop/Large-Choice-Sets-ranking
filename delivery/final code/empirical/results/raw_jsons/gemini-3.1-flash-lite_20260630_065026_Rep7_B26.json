@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly fulfills all requirements with a vivid story and three catchy, professional marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear vision of the experience, though the slogans lack the polish of Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Discusses the concept well but fails to provide the required story and marketing slogans.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely irrelevant to the prompt as it focuses on Iceland travel tips instead of a futuristic airport.",
+      "rank": 4
+    }
+  ]
+}

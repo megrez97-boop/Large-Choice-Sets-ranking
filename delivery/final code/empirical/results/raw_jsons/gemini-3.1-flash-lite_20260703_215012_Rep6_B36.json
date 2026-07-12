@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a clear, step-by-step guide and includes the required three bits of advice for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a logical process but fails to clearly separate the content into the requested two-part structure.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses only on arrival/customs and completely misses the required guide for boarding and departure.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Fails to provide a step-by-step navigation guide, offering only vague tips instead of actionable instructions.",
+      "rank": 4
+    }
+  ]
+}

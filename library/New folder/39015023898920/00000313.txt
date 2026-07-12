@@ -1,0 +1,425 @@
+TABLE XVIII. Miscellaneous partially balanced designs: parameters and auxiliary information
+Efficiencies
+Number
+Reference
+Number
+V
+N2
+N=vr
+Unique
+solution
+of solutions Complementary design
+given
+Dual designs
+Literature sources
+E₁
+E₂
+E
+M1
+16
+M2
+16
+66
+56
+6 2
+M3
+16
+222
+2 40
+48 6 9
+56
+5 10
+10 2 BO 10
+5
+0
+M4
+16 10 2 80
+M5 16 9 2 72
+22
+5
+10
+5
+9
+M6 26 10
+2 130
+10
+15
+0
+M7
+27
+M8
+15
+M9
+15
+M10
+556
+9
+16 3 3
+2333
+693
+10 2 135 10
+16
+1
+6 3
+30 6
+45
+6
+16
+6
+1
+X X X X X XFFF
+53
+.46
+.48
+53
+44
+.48
+53
+48
+.51
+53 .46
+.48
+48 .53
+.51
+52 .47
+.49
+0 52 .48
+.50
+0 71 63
+.66
+0 .71 63
+.66
+0 .71 59
+.63
+இககககக
+80 ?
+1
+NL, r=35
+Not a D(x), x=1, 2.
+Clatworthy (1955).
+96
+No
+1
+NL, r=42
+Not a D(x), x=1, 2.
+Clatworthy (1955).
+160 ?
+1
+NL, r=70
+Not a D(x), x=1, 2.
+Clatworthy (1955).
+160 ?
+1
+NL, r=70
+Not a D(x), x=1, 2.
+Clatworthy (1955).
+144
+No
+1
+NL, r=63
+Not a D(x), x=1, 2.
+260
+?
+1
+NL, r=120
+270 ?
+1
+NL, r=125
+Irregular.
+Not a D(x), x=1, 2.
+90 ?
+NL, r=24
+A D(3), Clatworthy (1956).
+135 ?
+1
+NL, r=36
+48 No
+1
+NL, r=13
+† M11
+16
+6 3 32
+M12 16 9
+3
+6
+9
+9
+2
+0 .71 59 .63
+96 No
+2 NL, r=26
+3
+0
+.71
+59 .63
+144 No
+1
+NL, r=39
+††M13 16 9
+3 48 6 9
+2
+65
+71 68
+144 No
+1
+NL, r=39
++M15 35 9
+M14 27 10 3 90 10 16
+3 105 18 16
+64 66
+270 ?
+1
+NL, r=80
+A D(3), Clatworthy (1956).
+1
+.65
+.67
+315 ?
+1
+NL, r=96
+†† M153
+81 10
+3 270 20 60 1
+0
+68
+.65 65
+810 ?
+1
+NL, r=260
+++M16
+16 3
+12 6
+0
+1
+.73
+.80 77
+48 No
+1
+NL, k=12
+SR26, Solution 2.
+A D(3), Clatworthy (1956).
+TSD, Hoffman (1963) and Clatworthy
+(1971).
+Sol. 1: a D(3), Clatworthy (1956).
+|Sol. 2: Not a D(x), x =1, 2, 3.
+A D(3), Clatworthy (1956).
+Not a D(x), x=1, 2, 3.
+Clatworthy (1955).
+Liu and Chang (1964).
+Claworthy (1955).
+Derived from Design PG 1.
+Derived from Design PG 1.
+Bose and Nair (1939), p. 363.
+Sol. 1: Derived from Design M10.
+Sol. 2: Clatworthy, new.
+Derived form Design M 10.
+Clatworthy, new.
+BCS (1954), Design SI. 8.
+Ray-Chaudhuri (1962).
+Mesner (1967).
+Clatworthy, new.
+tt M17
+16 6
+24
+2
+.73 .80 .77 96 No
+1
+NL, r=18
+A D(3), Clatworthy (1956).
+++ M18
+16
+36
+3
+.73 .80 .77
+144 No
+1
+NL, r=27
+A D(3), Clatworthy (1956).
+Clatworthy, new.
+Clatworthy, new.
+M19 40
+M20
+8
+16 5
+8 5
+4
+80
+5
+Ся
+16
+10
+21
+12 27
+22
+75
+0 .77 .71 .73
+320 ?
+1
+NL, r=72
+A D(3), Clatworthy (1956).
+0 .85 .77
+.82
+80 ?
+1
+NL, r=11
+(1971).
+M21 16 10
+M22 17 10
+5
+M23 45 6
+555
+M24 45
+++M25 85 10 5 170
+M26 26 6 6
+9
+СЯ
+5
+88$ཆཎྜ
+32
+10
+5
+34
+8
+54
+12 32
+2
+12
+32
+20 64 2
+43232
+0
+.85
+2
+0
+0
+.81
+26
+15 10 2
+0
+.87
+ឌ គ ន ន គ គ
+.77
+86 .84 .85
+0 82 .75
+.82 .75 .77
+.81
+FIKKE B
+.82
+160 ?
+1
+NL, r=22
+A D(3), Clatworthy (1956).
+170 ?
+1
+NL, r=24
+Not a D(x), x=1, 2, 3.
+.77 270 ?
+1
+NL, r=48
+A D(3), Clatworthy (1956).
+BCS (1954), Design Sl. 13.
+TSD, Hoffman (1963) and Clatworthy Clatworthy (1956).
+Clatworthy (1956).
+Preece (1966).
+BCS (1956), Design Sl. 15.
+405 ?
+1
+NL, r=72
+A D(3), Clatworthy (1956).
+BCS (1956), Design Sl. 16.
+.77 .78
+850 ?
+1
+NL, r=160
+A D(3), Clatworthy (1956).
+BCS (1956), Design Sl. 27.
+.84
+156 ?
+2
+NL, r=20
+Sol. 1: S44, Sol. 1.
+BCS (1956), Design Sl. 5.
+Sol. 2: S44, Sol. 2.
+M27 26 9
+M28 16 7 7
+6 39 15 10
+3
+0
+.87
+Sol. 1: S94, Sol. 1.
+.81 .84
+234 ?
+2 NL, r=30
+Sol. 2: $94, Sol. 2.
+16 6 9
+2 .93
+.89
+880
+.91
+112 No
+1 M34
+TSD, Hoffman (1963) and Clatworthy
+(1971).
+M29 35
+M30 35 9
+M31 63 10
+M31a 16 5
+++ M32 16 9
+M32a 16 10
+7
+30 18 16
+7 45 18 16
+66
+3
+23
+2 0 .88
+.83
+.86
+210 No
+1
+NL, r=24
+$46.
+7 90 30 32
+0 .88 .83 .86 315 No
+0 .87 .84 .86
+1
+NL, r=36
+$95.
+630 ?
+1
+NL, r=80
+A D(3), Clatworthy (1956).
+10 5 10
+8 18
+8
+20
+5
+10
+090
+132
+3 .89 94 .92
+80 ?
+1
+TSC
+SR54 Sol. 3.
+91
+94 .93 144 No
+1 TSC
+SR100, Solution 2.
+89
+.94
+.92
+160 ?
+1 TSC
+A D(3), Clatworthy (1956).
+Derived from Design PG7, Sol. 2.
+BCS (1956), Design Sl. 6.
+Clatworthy, new.
+Liu and Chang (1964).
+BCS (1954), Design Sl. 10.
+BCS (1954), Design Sl. 11.
+Derived from Design PG 10.
+Bhagwandas (1968).
+Clatworthy, new
+Bhagwandas (1968).
+301

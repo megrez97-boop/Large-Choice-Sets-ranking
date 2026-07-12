@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Excellent narrative flow and includes both the required story and three high-quality, catchy marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Strong futuristic vision, but lacks the required marketing slogans requested in the prompt instructions.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Creative and includes slogans, but the focus on a monster attack is less professional for a high-tech airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to describe a futuristic 2050 experience, instead providing a generic summary of current airport frustrations.",
+      "rank": 4
+    }
+  ]
+}

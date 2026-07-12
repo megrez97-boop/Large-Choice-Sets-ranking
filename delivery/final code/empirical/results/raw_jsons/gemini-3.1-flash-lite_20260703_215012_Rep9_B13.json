@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "It perfectly follows the two-part structure requested and provides clear, actionable steps for first-time travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a logical step-by-step guide, though the advice section is slightly less detailed than Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Includes helpful tips but fails to provide a cohesive step-by-step guide for the airport navigation process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "This is a list of general tips rather than a structured step-by-step guide for airport navigation.",
+      "rank": 4
+    }
+  ]
+}

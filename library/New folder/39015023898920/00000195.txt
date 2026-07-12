@@ -1,0 +1,334 @@
+TABLE IX. Regular group divisible designs -
+– Continued
+Design R15:
+v = 4,
+r = 10,
+k = 2,
+b= 20
+m= 2,
+n = 2,
+λ₁
+=
+6,
+λ2
+= 2
+c₁ = 3/4, c₂
+=
+E= .80, E,
+=
+1/8, H= 12, A = 32
+.53, E= .60
+Solution: Unique; resolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (2,2)
+Plan:
+12
+34
+Solution:
+Unique; resolvable
+Complement: Design R96
+Dual: A D(5), Ramakrishnan (1956)
+Groups: (3,2)
+Plan: 1
+3
+256
+4 6
+1
+2
+5
+635
+124
+564
+123
+346
+4 5
+2
+1 3
+12
+34
+2 4
+HHH
+1
+12
+2
+34
+12
+34
+12
+24
+13
+34
+34
+2
+12
+43
+12
+43
+2
+12
+2
+2
+3 4
+13
+2
+24
+4
+23
+Design R16: v = 4,
+r =
+10,
+k = 2,
+b= 20
+m= 2,
+n = 2,
+λ₁ = 4,
+λg
+Ci =
+4/7, ca
+19/42, H= 13, A= = 42
+E= .70, E₂ = .65, E= .66
+Solution: Unique; resolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (2,2)
+Plan:
+34
+12
+34
+2
+12
+34
+2
+12
+34
+12
+12
+24
+13
+1
+3
+4
+3 4
+24
+13
+24
+13
+43
+12
+2
+43
+2
+12
+Design R19:
+v = 6,
+t=
+= 6,
+c, = 1/2,
+=
+m= 3,
+k = 2,
+=
+b= 18
+n = 2, λ₁ 2, A2 = 1
+C3 1/4, H= 7, A = 12
+E= .67, E,= .57, E = .59
+Solution: Unique; resolvable
+Complement: Not listed, r = 12
+Dual: Irregular
+Groups: (3,2)
+Plan:
+456
+123
+1
+2
+4
+246
+645
+4
+135
+123
+3
+456
+536
+123
+124
+365
+3
+4
+43
+3
+Design R20:
+4/9, cz
+E= .64, E,
+-
+v = 6,
+m= 2,
+r =
+7,
+k = 2,
+b= 21
+n = 3,
+λ₁
+=
+2,
+A₂ = 1
+5/27, H= 15/2, A = 27/2
+.55, E = .58
+Solution: Unique; resolvable
+Complement: Not listed, r
+= = 14
+Dual:
+Irregular
+Groups: (2,3)
+Plan: 1 3
+1 3
+1
+5
+1
+5
+Design R17:
+v = 4,
+m= 2, n= : 2, 1
+r = 10,
+k= 2,
+= 2, λ₂ = 4
+b = 20
+2 4
+2
+6
+2
+4
+4
+6
+5
+6
+4
+5
+3
+6
+2
+3
+3
+5
+3
+1
+6
+2
+6
+4
+6
+2
+5
+1
+4
+1
+2
+3
+4
+c₁ = 1/3, c₂ = 13/24, H= 14, A = 48
+E,= .60, E₂ = .69, E = .65
+Solution: Unique; resolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (2,2)
+Plan: 1
+2
+34
+2
+12
+2
+12
+24
+13
+24
+13
+34
+43
+12
+43
+24
+13
+24
+13
+43
+12
+12
+4
+1
+2
+43
+2 3
+Design R18:
+C1
+E,
+=
+= 1
+v = 6,
+4,
+m= 3,
+n = 2,
+0, c₂= 1/3, H= 5, A
+.50, E₂ = .60, E= .58
+2
+= 6
+λ
+k = 2,
+=
+: 0,
+1
+3 4
+1 4
+2 3
+b= 12
+2
+=
+1
+Design R21:
+=
+c, 3/5, c₂
+=
+E, .71, E,
+Solution:
+V=
+6,
+r = 7,
+k = 2,
+m= 3,
+n = 2,
+λ
+=
+3,
+b= 21
+A2
+= 1
+=
+2/15, H= 8, A 15
+.54, E = .56
+Unique; resolvable
+= 14
+Complement: Not listed, r
+Dual: Irregular
+Groups: (3,2)
+Plan: 1
+2
+3
+456
+5
+6
+4
+536
+123
+456
+124
+365
+124
+4
+456
+123
+645
+123
+3 5
+135
+246
+183

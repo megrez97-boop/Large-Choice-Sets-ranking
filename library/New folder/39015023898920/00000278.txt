@@ -1,0 +1,215 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes - Continued
+unique solution for the present design,
+the blocks arising from the rows
+constituting 4 replications and those from
+the columns providing the other four
+replications.
+Design LS26: v= 9,
+n2
+Design LS27: v =
+9,
+r =
+ni
+=
+4,
+=
+Р
+1
+P, { ¹ 2]
+8,
+4, λι
+k
+=
+4,
+=
+2,
+2
+b
+=
+18
+4
+=
+P₁ = [ ² ²]
+P2
+CI
+=
+4/15, C2
+=
+8/15, H
+=
+27/2, A
+r = 4,
+k
+=
+4,
+b = 9
+=
+1, λη
+= 2
+==
+45
+4,
+n₁ =
+Pi
+1
+n2
+1 2
+= 4/15, c₂
+=
+8/15, H
+=
+=
+E,= .80, E, = .87, E = .83
+4, λ
+2
+P₁ = [ ² ²]
+27/4, A45/4
+Solution 1: As given by BCS (1954); nonunique;
+nonresolvable
+Complement: Design LS49, Solution 1
+Dual: Truly self dual
+Association Scheme: L₂(3)
+Plan:
+9245T3168
+681249735
+168924573
+249735681
+2
+4
+5
+7
+5
+1
+6
+Solution 2: By method of P. M. Roy (1954c);
+nonunique; nonresolvable
+Complement: Design LS49, Solution 2
+Dual: Truly self dual
+Association Scheme: L,(3)
+Plan:
+6
+189952374
+821574693
+514763829
+196328745
+E¸= .80, E₂ = .87, E = .83
+Solution 1:
+2
+Nonunique; 4-resolvable
+Complement: Design LS50, Solution 1
+Dual: A D(3), WHC (1956)
+Association Scheme: L₂(3)
+Plan: Duplicate the plan of LS26, Solution 1.
+Solution 2:
+Nonunique; 4-resolvable
+Complement: Design LS50, Solution 2
+Dual: A D(3), WHC (1956)
+Association Scheme: L₂(3)
+Plan: Duplicate the plan of LS26, Solution 2.
+Solution 3:
+Nonunique; 4-resolvable
+Complement: Design LS50, Solution 3
+Dual: A D(3), WHC (1956)
+Association Scheme: L₂(3)
+Plan: Duplicate the plan of LS26, Solution 3.
+Design LS28: v= 16,
+C 1
+=
+1/4, C2
+=
+E₁ = .80, E₂
+=
+ni
+=
+6,
+r = 2, k =
+n2
+=
+9, λ,
+=
+4, b = 8
+1, λε 0
+P.-23] P.-[21]
+Р
+-1/2, H= 3, A
+.67, E = .71
+P‚= ² 4]
+=
+2
+Solution: Unique; affine resolvable
+Complement: Not listed, k = 12
+Dual: Design SR9
+Association Scheme: L₂(4)
+Plan: 1 2 3 4
+1
+5
+9 13
+5 6 7 8
+2
+6 10 14
+9
+10 11 12
+3
+7
+11 15
+13 14 15 16
+4
+8 12 16
+Solution 3:
+By method
+of P. M. Roy (1954c);
+nonunique; nonresolvable
+Complement: Design LS49, Solution 3
+Dual: Truly self dual
+Association Scheme: L₂(3)
+954187236
+631842597
+7
+5
+211634TS8
+Plan:
+6 9
+7
+5
+9
+4
+188526943
+7
+=
+4,
+b = 12
+=
+1, A2 0
+63
+· = [ 6 ³]
+2
+Design LS29: v= 16,
+CI
+=
+1/4,
+=
+n₁ =
+=
+9,
+4 4
+=
+P₁ = + 2]
+6,
+r =
+3,
+k
+n 2
+λ
+P
+6
+C 2 -1/8, H= 5, A =
+E, .80, E₂ = .73, E = .77
+2
+Solution 1: Nonunique; resolvable
+Complement: Not listed, k
+= 12
+Dual: Design SR26, Solution 1
+Association Scheme:
+L,(4)
+(Plan continued on next page)
+266

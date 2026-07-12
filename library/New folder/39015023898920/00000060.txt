@@ -1,0 +1,75 @@
+Step 5. Calculation of P, G and the inter-block estimates t'. From (3.38), (3.39) and (3.40) we have
+and
+P₁ =wQi+w'Qi,
+where
+=
+11.5420Q; +3.6164Q;
+-
+r{w'+w(k−1)} î{ = (k − d₁)P₁ + (d₁ − d₂)G¦,
+G₁ = P₁ + S₁(Pi)
+is the sum of the P's corresponding to the same group as the treatment i. Hence
+(3.44)
+=
+k-di
+r{w' + w(k − 1)}
+1
+Pi +
+d₁ - d2
+r{w'+w(k-1)}
+G
+= 0.02615P-0.001173G.
+The combined intra- and inter-block estimates, t, of the treatment effects, ti, can now be calculated
+by using this formula. The calculations can be systematically arranged as in the subsidiary Table 13 for
+the calculation of G. The values of P₁ are calculated from the formula above. The subsidiary table is then
+formed by writing P, below each treatment i in the association scheme. The row sums of the P's now give
+the quantities G. For example, the treatments in the first group are 1, 6, and 11. Hence
+TABLE 13
+CALCULATION OF G
+Group
+Treatments and Pi's
+Gi
+1
+1
+4.3675
+6
+7.5281
+11
+7.0625
+18.9581
+2
+2
+- 14.4613
+7
+2.1187
+12
+12.2044
+-.1382
+3
+3
+8
+- 11.4296
+1.0684
+13
+-5.1931
+- 15.5543
+4
+1.7474
+9
+5.8834
+14
+-1.3865
+- 9.0173
+5
+5
+2.5496
+10
+- 9.0520
+15
+4.6552
+- 1.8772
+G{ = G = G{₁ = P₁+P6+P₁1=4.3675+7.5281+7.0625=18.9581.
+The values of G' are now substituted in column (5) of Table 14, along with Q; and Q from Table 8 and
+P from Table 13. Equation (3.44) may now be used to calculate the values t' of Table 14. As a check on
+our calculations we may use the facts that all columns, except the treatment symbol column, of Table 14
+should add up to zero, except for round-off errors.
+48

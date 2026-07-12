@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly captures the futuristic 2050 vision with a compelling narrative and highly relevant, catchy marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Strong technical focus on 2050 innovations, though the narrative style is slightly less engaging than Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Lacks specific futuristic technological details for 2050, focusing more on general amenities than a high-tech vision.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails the prompt requirements by describing an existing airport in Madrid instead of the requested Tokyo 2050 concept.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, structured, and relevant guide specifically tailored to a major Japanese airport experience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers excellent cultural and practical advice for Japan, though it lacks a clear step-by-step boarding process guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Includes a clear step-by-step guide but uses generic terminology like TSA which is not applicable to Japanese airports.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The guide is poorly written, lacks professional tone, and fails to provide the requested three bits of advice.",
+      "rank": 4
+    }
+  ]
+}

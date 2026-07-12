@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most structured, clear, and actionable step-by-step guide specifically tailored to the requested format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Includes helpful pre-flight tips but is too long and includes unnecessary steps like booking flights.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Lacks a clear step-by-step structure and focuses too much on packing rather than airport navigation.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Poorly written with grammatical errors and fails to provide a comprehensive guide for the traveler.",
+      "rank": 4
+    }
+  ]
+}

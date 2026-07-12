@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best narrative flow, vivid imagery, and includes all required components with high-quality, catchy marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong thematic focus on blending tradition with technology, though the slogans are less punchy than Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Covers all requirements well, but the writing style feels more like a list than an immersive story.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to provide the required creative story format and lacks the requested three distinct marketing slogans.",
+      "rank": 4
+    }
+  ]
+}

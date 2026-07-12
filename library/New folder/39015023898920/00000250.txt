@@ -1,0 +1,251 @@
+TABLE XI. Partially balanced designs based on triangular association schemes -
+– Continued
+Design T18:
+C
+=
+C2
+1/8,
+E, .70, E,
+=
+P
+=
+1,
+v = 15,
+= 8,
+ni
+r =
+n: =
+4 3
+10, k
+6, λι
+=
+3,
+λε
+b = 50
+= 2
+3
+=
+2
+[
+4
+=
+1/4, H
+=
+P,{
+44/3, ▲ = 160/3
+.73, E = .71
+Solution 1: As given by BCS (1954); nonunique;
+2-resolvable
+Complement: Not listed, r = 40
+Association Scheme: T(6)
+3457
+Plan:
+2 15
+10 12 2
+8 13
+1
+7 10
+15 3 8
+5 15
+6 12
+3 11 7
+5 4 3
+12083273SONG043
+6 9 5
+11 14 6
+4 13 11
+9 1 4
+2 9
+Dual: Irregular
+Plan: 1 12
+13
+14
+1
+2 6
+13 10 14
+11 14
+15
+4 12
+13
+3 13
+14
+5 8
+9
+15
+10
+15
+11
+3
+5
+8 14
+6
+7
+10 13
+2178097a6∞
+1122334455
+12491
+12359
+LR132
+33958
+12647
+10 5 1
+8 6 2
+15 11 10
+2085273SON
+12 4 8
+9 15
+3 14 12
+4 10 6
+9
+14 15
+8 11
+13 12 9
+1
+1425376998
+1
+7 14
+14
+8 2
+7 15
+6 3
+9 11
+CH4KL CENTROS C4943
+08527
+27356
+12085
+7 12
+5 13
+4
+4 10
+1 13 12
+8 10 5
+1 12 11
+5 14
+13
+11
+5 13 7
+6 1 3
+2
+5
+10 15 1
+12
+98876
+23311
+30254
+12356
+12
+10
+6 13
+10
+13 14
+10
+9 11
+5 15
+1 10 12
+4 11
+9 15
+12345
+11 12 15
+12368
+7 11
+13 15
+4 8
+6 10
+12 14
+4 9
+5 12
+7 13
+6 14 15
+7 14
+8 13
+8 10 11
+10 15
+7
+8 12
+12345
+59243
+6 14
+5 11 13
+Solution 2:
+8 15
+9
+13
+6 12
+10
+14
+7 11
+Adapted from Masuyama's solution
+(1965); nonunique
+Complement: Not listed, r
+Dual: Irregular
+Association Scheme: T(6)
+= 40
+Design T19:
+=
+V =
+15,
+n₁ = 8,
+-1/5, C₂
+=
+r =
+13
+5 11
+4 14 6
+9,
+=
+k 3,
+b
+= 45
+n₂ = 6,
+4 31
+=
+λ, 0, λε
+=
+4
+=
+P. 3] P.- [1]
+P‚{
+1/5, H= 14, A
+E,= .63, E, = .71, E = .66
+2
+Solution: Unique; 3-resolvable
+Complement: Not listed, r = 36
+Dual: A D(3), WHC (1956)
+Association Scheme: T(6)
+Plan:
+= 45
+Repeat the plan of T16 three times.
+Design T20:
+V =
+C₁ =
+1/7, C2
+21,
+n₁ = 10, n,=
+=
+P
+-
+3
+b = 35
+1, λε 0
+4 67
+r = 5, k = 3,
+10, λ,
+=
+5
+ย
+P₂
+=
+-[ 3.
+-3/14, H= 19/3, A = 28/3
+E,= .70, E, = .62, E = .66
+Solution:
+Nonresolvable
+Complement: Not listed, r
+Dual: Not a D(x), x = 1, 2
+Association Scheme: T(7)
+Plan:
+= 30
+Apply the construction procedure described
+for design T14 to the triangular associa-
+tion scheme with parameter n = 7.
+238

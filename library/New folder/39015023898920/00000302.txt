@@ -1,0 +1,248 @@
+TABLE XV. Partially balanced designs based on the cyclic type association scheme
+b = 25
+= 0
+Design C1:
+v = 5,
+r = 2,
+k
+-
+ni
+n2
+=
+2,
+A,
+C₁ =
+2/5, c₂ =
+=
+2,
+P₁ = { ° } ]
+=
+2,
+1, λη
+b = 5
+0
+=
+P₁ = [ ¹ ¦ ]
+2
+-2/5, H= 5/2, ▲ = 5/4
+E,= .62, E, = .42, E = .50
+Solution: Unique; nonresolvable
+Complement: Design C12
+Dual: Truly self dual, Clatworthy (1971)
+Association Scheme:
+Plan:
+C(5)
+º¦]
+ni
+Design C5:
+V =
+2,
+P₁
+c₁ = 2/5, c₂
+=
+r = 10, k
+2, A,
+n2
+-
+=
+=
+P₂ =
+2,
+5,
+-2/5, H= 25/2, ▲ = 125/4
+E,= .62, E, = .42, E = .50
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 15
+Dual: A D(3), WHC (1956)
+Association Scheme: C(5)
+Plan: Repeat the plan of C1 five times.
+λε
+34512
+12345
+Design C2:
+v = 5,
+ni
+=
+1
+r = 4,
+2, n2
+0
+k = 2,
+=
+2,
+λι
+-
+2, λε
+b
+=
+=
+P₁ = [ ¹ ¦]
+2
+10
+20
+CI
+=
+2/5, Cz
+=
+-2/5, H= 5, A
+E,= .62, E, = .42, E = .50
+=
+5
+Solution: Unique; 2-resolvable
+Complement: Design C13
+Dual: A D(3), WHC (1956)
+Association Scheme:
+C(5)
+Plan: Duplicate the plan of C1.
+=
+Design C6:
+V = 5,
+r = 6, k
+=
+2,
+b = 15
+=
+2,
+0
+=
+2, A,
+n2
+=
+2, A2 1
+P₁
+P₂
+=
+C =
+26/55, C 2
+=
+1
+= [ ' } ]
+14/55, H = 15/2, A = 55/4
+E,= .65, E₂ = .57, E = .61
+Solution: Unique; 2-resolvable
+Complement: Design C15
+Dual: Irregular
+Association Scheme: C(5)
+Plan:
+3
+4
+34512
+12345
+5
+2
+12345
+34512
+12345
+2345-
+3
+1
+= 1
+6, k
+=
+2,
+b = 15
+45/4
+Design C3:
+V = 5,
+n₁ =
+c₁ =
+2/5, C2
+2,
+=
+n2 2, A,
+P₁ ={[ ° } ]
+= −2/5, H= 15/2, A
+E¸= .62, E¸= .42, E = .50
+2
+Solution: Unique; 2-resolvable
+Complement: Design C14
+Dual: A D(3), WHC (1956)
+Association Scheme: C(5)
+3, λ. = 0
+P₂= [ ¹ ¦]
+2
+=
+Plan: Repeat the plan of C1 three times.
+Design C4:
+v = 5,
+r = 8,
+k
+=
+2,
+n2 =
+2,
+=
+λι 4, λε
+1
+b
+=
+P₁ = [ ' ¦ ]
+2
+= 0
+20
+Design C7:
+ni
+=
+v =
+5,
+= 2,
+=
+r = 8, k
+n2 2,
+=
+λι
+0
+P
+P
+=
+2
+C₁ =
+46/95, C2
+=
+=
+20
+2, b
+3, λε 1
+1
+=
+· [ ' /]
+14/95, H= 10, A = 95/4
+=
+E,= .66, E, = .54, E: .59
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 12
+Dual: Irregular
+Association Scheme: C(5)
+Plan:
+1
+12345
+34512
+34512
+12345
+34512
+12345
+4
+2
+23451
+12345
+4
+4
+5
+CI
+=
+=
+ni 2,
+=
+2/5, Cz
+P‚{ ° }]
+-2/5, H= 10, A
+E,= .62, E₂ = .42, E = .50
+2
+= 20
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 12
+Dual:
+A D(3), WHC (1956)
+Association Scheme: C(5)
+Plan: Repeat the plan of C1 four times.
+290

@@ -1,0 +1,25 @@
+entries are varied and were explained previously for Tables IV, VI, . . ., XVIII. Entries whose meanings
+are not clear are explained in Table 1. Glossary and Notation. The next entry is "Association Scheme."
+If the association scheme is not standardized it is either given in detail or else a design Reference No. is
+given where it may be found. If the association scheme is standardized a symbolic reference of the form
+(m, n), T(n), Li(n) or C(v) will be given to Table II where it is given in detail. The blocks themselves serve
+as association schemes for the Partial Geometry type of D(2) and for most of the miscellaneous designs. The
+last entry is "Plan." Here the plan may be given in detail as was always done in BCS (1954); a shortened form
+using the replication sets of Table III may be employed; a shortened form using cyclical development of
+specified initial blocks may be displayed; or a word message may be used (1) for convenience, (2) for designs
+for which N=bk=vr is so large the design is thought to have slight usefulness or (3) for cases for which the
+construction may be extremely tedious. The need to find ways to cut publication costs has affected the pres-
+entation of the plans, but a side benefit may be greater accuracy in some instances.
+5. Special features of these tables. This publication has a few features that are new for tabulations of
+incomplete block designs of type D(2). Something in excess of 95 percent of the designs of this volume have
+been tested by electronic computer for validity of the plan as a D(2) design with the specified parameters
+and association scheme. The computational constants C1, C2, H, and ▲ and the efficiency factors E1, E2, and E
+were computed according to the formulas of Chapter III. The only cases where designs were not computer
+verified for validity were those for which the plans were described by word messages.
+...9
+All the information that the reader now finds in the "odd” numbered Tables V, VII, . . XIX was trans-
+ferred from the computer to magnetic tapes. These computer tapes became the input for programs developed
+by the National Standard Reference Data System which essentially automatically controlled the type-
+setting for these tables. Thus it is expected that a much smaller incidence of typographical errors will occur
+in these particular tables.
+6

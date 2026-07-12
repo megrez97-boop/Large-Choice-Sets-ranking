@@ -1,0 +1,386 @@
+Sol. 1: Irregular.
+R67
+9
+R68
+10
+10
+3
+30
+3 3
+2
+.80
+་
+R69
+10
+96
+R70
+R71
+12
+R72
+12
+R73
+12
+R74
+12
+R75
+12
+R76
+R77
+12
+R78
+ನನ ನನನನನನನ
+12
+33
+5
+30 3
+20
+5
+35
+2
+32
+.70
+1
+.89
+828
+.72
+.76
+228
+.74
+90
+No
+2 NL, r=20
+Sol. 2: Irregular.
+.74
+90 ?
+1
+NL, r=20
+Irregular.
+.68 .70
+60 ?
+1
+NL, r=14
+Not a D(x), x=1, 2, 3.
+3
+20
+7
+28
+7
+28
+36
+12
+10
+40
+10
+12 10
+33
+40
+40
+66362 & 3 64
+82242-GO
+2242634 23
+.67 .73
+78
+.72
+2
+1 .76
+.70
+222
+.72
+72
+1
+.86 69
+.70
+1
+.75
+69
+72
+2 .67 .73
+222822
+60 ?
+NL, r=15
+Not a D(x), x=1,2.
+Sol. 1: Clatworthy (1956, 1967).
+Sol. 2: John (1966).
+BCS (1954) [Clatworthy (1967)].
+Freeman (1957) [Liu and Chang (1964)
+Ikeda (1967)).
+BCS (1954).
+72 ?
+1
+NL, r=18
+Irregular.
+BCS (1954).
+84
+?
+1
+NL, r=21
+Irregular.
+84
+?
+1
+NL, r=21
+Irregular.
+96 ?
+1
+NL, r=24
+Irregular.
+108 ?
+1
+NL, r=27
+Not a D(x), x=1, 2, 3.
+1 80 .64
+68
+120 ?
+1
+NL, r=30
+Irregular.
+22
+2 .67 .73
+2 .70
+.73
+323
+.72
+22
+.72 120
+?
+1
+NL, r=30
+Not a D(x), x=1,2.
+120 ?
+1
+NL, r=30
+Not a D(x), x-1, 2, 3.
+R79
+143
+6
+3
+28 7
+2 0
+1
+.67 .72 .71
+84 No
+2 NL, r=22
+R80
+14
+3 42
+7
+2
+.89 .65
+.67
+126 ?
+1 NL, r=33
+R81
+15
+30 5 3 0
+1.67 .71 .71 90 No
+2 NL, r=24
+Sol. 1: Irregular.
+R82
+15
+40 5
+3
+2
+1 .75
+.70
+.71
+R83
+15
+3
+45
+15
+3
+5
+2
+1 .74
+.69 .71
+ངང
+120 No
+2 NL, r=32
+Sol. 2: Irregular.
+135 ?
+2 NL, r=36
+Sol. 1: Irregular.
+Sol. 2: Irregular.
+R84
+15
+15
+5
+1
+.78 69 .70
+135 No
+2
+NL, r-36
+Sol. 1: Irregular.
+Sol. 2: Irregular.
+Sol. 1: Not a D(x), x=1, 2.
+|Sol. 2: Not a D(x), x=1, 2.
+Not a D(x), x=1, 2, 3.
+Sol. 1: Not a D(x), x=1, 2. |
+|Sol. 2: Not a D(x), x =1, 2. J
+BCS (1954).
+Clatworthy (1956).
+BCS (1954).
+Freeman (1957).
+BCS (1954).
+BCS (1954).
+(Sol. 1: BCS (1954).
+Sol. 2: Bose and Nair (1939) [P. M. Roy
+(1954c), Clatworthy (1967)].
+Freeman (1957) [Ikeda (1967)].
+Sol. 1: BCS (1954); Sol. 2: John (1966).
+Sol. 1: BCS (1954).
+Sol. 2: Clatworthy (new).
+Sol. 1: BCS (1954).
+Sol. 2: John (1966).
+Sol. 1: BCS (1954).
+Sol. 2: Clatworthy (new).
+BCS (1954).
+R85
+15
+R86
+16
+R87
+16
+R88
+R89
+18
+R90
+20
+R91
+21
+R92
+R93
+R94
+FKKER22224
+10
+18
+10
+ខខខខàនម
+10
+7
+80
+462
+3442223643
+5445
+1 .80 .67 .68
+150 No
+1
+NL, r=40
+Irregular.
+Clatworthy, new
+1
+.67 .71 .70
+96 ?
+1
+NL, r=26
+Not a D(x), (x)=1, 2.
+BCS (1954).
+74 .70 .71
+144 ?
+1
+NL, r-39
+Irregular.
+BCS (1954).
+.71
+.70
+144 ?
+1
+NL, r=40
+Not a D(x), x=1,2.
+BCS (1954).
+2
+0
+.70
+.70
+162 ?
+1
+NL, r=45
+Not a D(x), x-1,2.
+BCS (1954).
+.70
+.70
+180 ?
+1
+NL, r=51
+Not a D(x), x=1, 2.
+BCS (1954).
+.70
+.70
+189 ?
+1
+NL, r=54
+Not a D(x), x=1, 2.
+BCS (1954).
+67
+.70
+69
+216 ?
+1
+NL, r-63
+Not a D(x), x=1,2.
+BCS (1954).
+0
+1
+67 .70
+69
+240 ?
+1
+NL, r=70
+Not a D(x), x=1,2.
+BCS (1954).
+2
+94 .87
+24 Yes
+1
+A disconnected
+TSD.
+design.
+R95
+12
+2
+R96
+12
+3
+R97
+5
+10
+R98
+16
+3
+2
+1 A disconnected A D(3), Clatworthy (1956).
+Not a D(x), x=1, 2.
+Irregular.
+(Sol. 1 Irregular.
+6 Sol. 1-6: TSC
+Sol. 2, 3, 4: not aD(x), x=1, 2, 3.
+Sol. 5: Irregular.
+Sol. 6: not a D(x), x=1, 2, 3.
+BCS (1954) [Sprott (1955), Freeman
+(1957), David and Wolock (1965)
+Masuyama (1967)].
+BCS (1954).
+BCS (1954), altered.
+Freeman (1957) (John (1966)]
+Sol. 1: Freeman (1957).
+Sol. 2: Ikeda (1967).
+Sol. 3: John (1966).
+Sol. 4, 5, 6: Utilizing constructions of
+Nandi (1946b)
+.94 .87 .89
+Yes
+395
+.87 .91 .90
+2 .90 .85 .85
+តន
+48 Yes
+40 ?
+1
+design.
+R18
+1 TSC
+52
+22
+3
+.87 .84 .85 64 No
+175

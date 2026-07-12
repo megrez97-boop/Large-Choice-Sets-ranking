@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "This is the only option that provides a complete, step-by-step guide for departing from a Japanese airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "This focuses on arrival procedures rather than the requested departure guide, making it less relevant for the task.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The tone is overly informal and the content is incomplete, failing to provide a clear step-by-step guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "This is a personal anecdote rather than a professional guide, lacking actionable instructions for a first-time traveler.",
+      "rank": 4
+    }
+  ]
+}

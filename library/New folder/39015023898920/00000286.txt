@@ -1,0 +1,242 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes - Continued
+Design LS64: v=
+25,
+n₁ =
+r =
+8,
+8,
+n₂ =
+k
+= 5,
+b
+=
+16, A₁
+=
+0,
+λε
+=
+40
+2
+2
+Resolvable
+=
+E₁ =
+P.-[312] P.-[29]
+=
+-1/15, c, 1/5, H= 14, A = 48
+.79, E, = .83, E = .82
+Solution:
+Complement: Not listed, r = 32
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(5)
+Plan: Duplicate the plan of LS61.
+Design LS65: v = 25, r = 9,
+n₁ = 12, n,
+5 6
+=
+²
+P‚{ ³ %] _P‚= [ ° 9]
+k = 5,
+12, A,
+=
+1, λε
+6
+b = 45
+= 2
+=
+4/35, C2
+=
+17/70, H = 15, A
+=
+56
+=
+Resolvable
+CI
+E
+= .82, E, .84, E = .83
+Solution:
+Complement: Not listed, r = 36
+Dual: Irregular
+Plan: To construct, use
+Association Scheme: L,(5)
+Design LS67: v=
+ni
+=
+36,
+10, n
+r = 10, k
+25, A,
+=
+P₁ = 425]
+C
+=
+5/36, C2
+=
+20
+P₂
+2
+=
+=
+5,
+4,
+b = 72
+λε 0
+=
+= [ 2.8]
+16
+-5/9, H= 72/5, A = 1152/25
+E,= .82, E₂ = .72, E = .75
+2
+Solution: Unique; 5-resolvable
+Complement: Not listed, r = 62
+Dual: Not a D(x), x = 1, 2, 3
+Association Scheme: L₂(6)
+Plan:
+Using as a model the BIB design
+(6,6,5,5,4) (whose six blocks are:
+a b c d e, a b c d f, a b c ef,
+abdef, ac def, b c d e f) construct
+12 BIB designs, one from the treatments
+of each row and one from the treatments of
+each column of the L₂(6) association
+scheme. The 12(6) 72 blocks so constructed
+constitutes the plan for the present design.
+By careful arrangement of the treatments
+within the blocks it is possible to provide
+two replications for each position within
+blocks.
+Design LS68: v =
+36,
+=
+5, b = 36
+0, A2 1
+6
+=
+P₂= [ °,9]
+2
+r = 5,
+k =
+n₁ =
+15, n₂ =
+20, A₁
+=
+6 8
+Pi
+12
+Set 5.1 once
+Set 5.4 twice
+Set 5.2 once
+Set 5.5
+twice
+с
+1
+-5/54, c₂ =
+E₁ = .79, E,
+Set 5.3
+once
+Set 5.6 twice
+10
+b = 50
+52
+5/36, H = 42/5, A
+= .82, E = .81
+Solution: Nonresolvable
+Complement: Not listed, r
+= 31
+Dual: Self dual, Hoffman (1963)
+Association Scheme: L,(6)
+=
+432/25
+Plan: Cyclically develop the following six
+initial blocks
+7 24 33 16 29
+24 31 15 26 5
+6 11 34 15
+Each set constitutes a complete
+replication.
+Design LS66: v = 25, r =
+=
+1/9,
+n₁ =
+=
+C 2
+=
+2
+E,= .82, E₂
+Solution:
+8,
+10, k = 5,
+n₂ =
+16, λ,
+=
+P,{
+3
+1, λε
+2
+=
+Р
+12]_P‚= [ ² ;]
+2/9, H= 17, A = 72
+.84, E = .83
+Resolvable
+Complement: Not listed, r = 40
+Dual: Irregular
+Association Scheme: L,(5)
+Plan: To construct, use
+25
+2 12 25
+22 33
+8 23
+33 13 6
+14 29 19 3 12
+using cycles of length 6 and cycling
+within the six subsets of treatments 1-6,
+7-12, 13-18, 19-24, 25-30, and 31-36.
+Each position within blocks contains a
+replication.
+Design LS69: v = 36, r = 10, k
+ni
+P
+=
+15, n
+6 8
+=
+2
+12]
+Set 5.1
+Set 5.2 once
+once
+Set 5.4 twice
+Set 5.5 twice
+Set 5.3 twice
+Set 5.6 twice
+C₁ =
+-5/54,
+C2
+=
+= 5,
+=
+20, λ,
+b
+= 72
+0, A2
+= 2
+22
+10
+P₂ = [
+[69]
+2
+5/36, H 84/5, A = 1728/25
+=
+E,= .79, E, = .82, E = .81
+2
+5-resolvable
+Complement: Not listed, r = 62
+Solution:
+Dual:
+A D(3), WHC (1956)
+Association Scheme: L,(6)
+Plan: Duplicate the plan of LS68.
+Each set constitutes a complete
+replication.
+274

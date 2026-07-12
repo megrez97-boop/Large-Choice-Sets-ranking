@@ -1,0 +1,229 @@
+TABLE V. Singular group divisible designs - Continued
+Design S24:
+v = 9,
+r = 8,
+k = 6,
+b = 12
+m= 3,
+n = 3,
+λ₁
+=
+8,
+λ. = 4
+Design S20:
+y= 8,
+r =
+= 9,
+m= 4,
+n = 2,
+λ₁
+=
+k = 6,
+9, λ2
+b = 12
+= €6
+=
+1, c₂= 11/16,
+H= 17, A:
+=
+72
+E,= 1.00, E₂ = .94, E = .95
+Solution: Unique; 3-resolvable
+Complement: A disconnected design
+Dual: Design S83
+Groups: (4,2)
+Plan: Repeat the plan of S18 three times.
+=
+CI 1, c₂ = 4/9, H= 14, A = 48
+1.00, E₂ = .90, E = .92
+E,
+Solution: Unique; 2-resolvable
+Complement: A disconnected design
+Dual: Design S55
+Groups: (3,3)
+Plan: Repeat the plan of S21 four times.
+Design S21:
+v = 9, r =
+m= 3,
+2,
+n= 3, A1
+k = 6,
+b= 3
+=
+2,
+A2
+=
+1
+Design S25: v = 9, r = 10, k = 6,
+n = 3, λ,
+IF 3,
+=
+10, A2 5
+b= 15
+-
+Ci
+1, c,
+=
+E= 1.00, E,
+4/9, H= 7/2, A = 3
+.90, E = .92
+Solution: Unique; nonresolvable
+Complement: A disconnected design
+Dual: The BIB design (3,9,6,2,3), Roy and Laha
+(1956)
+Groups: (3,3)
+Plan: 1 4
+2 5
+3
+6
+594
+231
+789
+897
+c₁ = 1, c₂= 4/9, H= 35/2, A 75
+1.00, E₂ = .90, E= .92
+2
+E,
+Solution: Unique; 2-resolvable
+Complement: A disconnected design
+Dual: Design S102
+Groups: (3,3)
+Plan: Repeat the plan of S21 five times.
+Design S26: v = 10,
+r =
+m= 5, n = 2,
+6,
+k = 6,
+A₁ 6,
+b = 10
+=
+=
+2 = 3
+1, c2= 1/2, H= 11, A
+30
+Design S22:
+v = 9,
+r = 4,
+k = 6,
+b= 6
+=
+4,
+2
+=
+2
+m= 3, n= 3, λι
+c₁ = 1, c₂= 4/9, H= 7, ▲ = 12
+E, 1.00, E,= .90, E = .92
+2
+Solution: Unique; 2-resolvable
+Complement: A disconnected design
+Dual: Design S3
+Groups: (3,3)
+Plan: Duplicate the plan of S21.
+Design S23:
+=
+v =
+9,
+r =
+6,
+k = 6,
+n = 3,
+λι
+=
+6, λ2
+b= 9
+= 3
+m= 3,
+1, c₂ = 4/9, H= 21/2, ▲ = 27
+E= 1.00, E,= .90, E = .92
+Solution: Unique; 2-resolvable
+Complement: A disconnected design
+Dual: Truly self dual
+Groups: (3,3)
+Plan:
+897
+564
+231
+789
+456
+123
+3
+6
+1
+231
+8
+2
+9
+3
+7
+868
+6
+594
+123
+789
+456
+6
+564
+231
+8
+9
+867
+456
+123
+789
+C 1
+E, 1.00, E₂ = .91, E = .92
+Solution: Unique; 3-resolvable
+Complement: Design S9
+Dual: Design T58
+Groups: (5,2)
+Plan:
+34512
+78966
+10
+23451
+67899
+12345
+3
+10
+89667
+45123
+2
+92678
+10
+2345.
+10
+1
+78986
+12345
+67899
+10
+3, Az
+b = 6
+= 1
+Design S27:
+v = 12,
+m= 4,
+r = 3,
+k = 6,
+n = 3,
+λ₁
+-
+c₁ = 1, c₂ = 1/6, H= 5, ▲ = 6
+E, 1.00, E, .86, E= .88
+=
+Solution: Unique; affine resolvable
+Complement: Truly self complementary
+Dual: Design SR20, Solution 1
+Groups: (4,3)
+Plan: 1 2
+3
+24
+57
+02
+6 9
+10
+8
+11 12
+(Plan continued on next page)
+110

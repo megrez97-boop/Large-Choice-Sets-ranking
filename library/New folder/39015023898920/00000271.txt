@@ -1,0 +1,384 @@
+LS118
+49
+G
+©
+49 12 36
+3
+1
+.92
+30
+.89 .90
+441
+?
+Pes
+1 | NL, r=40
+L2 (7)
+LS119 81
+2
+18 16
+LS120 81
+3
+9
+27 24
+LS121 81
+36 32
+48
+LS122
+81
+45 40 40
+LS123
+81
+32
+នគិតខ
+64
+0 .90
+.82
+56
+.90
+.86
+8838
+.83
+162 Yes
+1
+NL, r-16
+L₂ (9)
+SR16.
+.87
+243 ?
+1
+NL, r-24
+L3 (9)
+SR33.
+0
+90 .87
+.88
+324 ?
+1
+NL, r-32
+L, (9)
+SR50.
+0 .90 .88
+.89
+405 ?
+1
+NL, r-40
+L₁ (9)
+SR64.
+0 .90
+.88 .89
+486 ?
+1
+NL, r-48
+Lo (9)
+SR79.
+LS124
+81
+56
+24
+0 90
+89
+.90
+567 ?
+1
+NL, r-56
+L7 (9)
+SR89.
+LS125
+81
+72 64 16
+0
+.90 89
+.90
+648 ?
+1
+NL, r-64
+Lg (9)
+SR98
+LS126
+81
+36
+16 64
+0 90
+.82
+.83
+324❘ Yes
+1
+NL, r-32
+L2 (9)
+A D(3), Clatworthy (1956).
+LS127
+81
+54
+24
+56
+2
+0
+90
+.86 .87
+486 ?
+1 NL, r-48
+L3 (9)
+A D(3), Clatworthy (1956).
+LS128
+81
+8
+72
+32
+48
+2
+0 .90
+.87
+.88
+648 ?
+1
+NL, r-64
+L, (9)
+A D(3), Clatworthy (1956).
+SD Archbold and Johnson (1956). Vartak (1955), Archbold and Johnson
+Yates (1936) [Clatworthy (1967)].
+Yates (1936) [Clatworthy (1967)].
+Yates (1936) [Clatworthy (1967)].
+Yates (1936) [Clatworthy (1967)].
+Yates (1936) [Clatworthy (1967)].
+Yates (1936) (Clatworthy (1967)].
+Yates (1936) [Clatworthy (1967)).
+Clatworthy (1956), (1967).
+Clatworthy (1956), (1967).
+Clatworthy (1956), (1967).
+V (1956).
+LS129
+81 10
+90
+40
+40
+2
+0 90
+.88
+.89
+810 ?
+NL, r-80
+L₁ (9)
+A D(3), Clatworthy (1956).
+LS130 81
+6
+54 16
+64
+3
+0 .90
+.82
+.83
+486 Yes
+NL, r-48
+L2 (9)
+A D(3), Clatworthy (1956).
+Clatworthy (1956), (1967).
+Clatworthy (1956), (1967).
+LS131 81
+9
+81
+24
+56
+0
+90
+.86
+.87
+729 ?
+1
+NL, r-72
+L3 (9)
+A D(3), Clatworthy (1956).
+Clatworthy (1956), (1967).
+LS132
+81
+72
+16 64
+0 90 .82
+.83
+648 Yes
+1
+NL, r=64
+L₂ (9)
+A D(3), Clatworthy (1956).
+LS133 81 10
+9
+LS134 100
+9
+9
+100
+LS135 25
+8
+10 20
+2020
+1120
+90 16 64
+0
+.90 .82
+.83
+810 Yes
+1
+NL, r-80
+L2 (9)
+A D(3), Clatworthy (1956).
+27
+72
+8 16
+05
+89 .90
+89
+900 ?
+NL, r-91
+(*)
+2 .96
+.92
+.93
+200 ?
+1 NL, r=12
+L2 (5)
+A D(3) Speckman (1970).
+LS136 36 10
+10 36 10 25
+2
+.94 .92 .92
+360 ?
+1 NL, r=26
+L2 (6)
+(?).
+LS138 100
+LS137 100 2 10 20 18 81
+3 10 30 27 72
+LS139 100
+LS140 100
+2922
+0 .91
+0
+.91
+66
+.83
+.85
+200 Yes
+1
+NL, r-18
+L2 (10)
+SR 17.
+.87
+88
+300 ?
+1
+NL, r=27
+L3 (10)
+SR 34.
+10 40 36 63
+0 91
+.88 .89
+400 ?
+NL, r-36
+L (10)
+SR 51.
+10 40 18 81
+0
+.91
+.83
+.85
+400 Yes
+1
+NL, r-36
+L2 (10)
+A D(3), Clatworthy (1956).
+Clatworthy (1956), (1967).
+Clatworthy (1956), (1967).
+BCS (1954).
+Chang and Liu (1964) [Clatworthy
+(1967)).
+Bose and Nair (1939) (Liu (1963)
+Chang and Liu (1964)].
+Yates (1936) [Clatworthy (1967)].
+Yates (1936) [Clatworthy (1967)].
+Yates (1936) [Clatworthy (1967)].
+Clatworthy (1956) (1967).
+LS141 100
+10
+60 27 72
+0
+.91
+.87 .88
+600 ?
+1
+NL, r-54
+L3 (10)
+A D(3), Clatworthy (1956).
+Clatworthy (1956) (1967).
+LS142 100
+LS143 100
+LS144 100
+8 10
+10
+9
+10
+LS145 100
+8 10
+LS146 100 10 10
+22222
+100
+៩៖ ម ខ គ
+80
+36
+63
+2
+0
+60
+18
+81
+0
+66
+.91 .88 .89
+800 ?
+1
+NL, r-72
+L, (10)
+A D(3), Clatworthy (1956).
+Clatworthy (1956) (1967).
+91
+.83
+.85
+600 Yes
+NL, r-54
+La (10)
+A D(3), Clatworthy (1956).
+Clatworthy (1956) (1967).
+90
+27
+72
+0
+.91
+.87
+.88
+900 ?
+1
+NL, r-81
+L3 (10)
+A D(3), Clatworthy (1956).
+Clatworthy (1956) (1967).
+80
+18
+81
+0
+.91 .83 .85
+800 Yes
+1
+NL, r-72
+L₂ (10)
+A D(3), Clatworthy (1956).
+Clatworthy (1956) (1967).
+18
+81
+5
+0 .91 .83 .85
+1000❘ Yes
+1
+NL, r-90
+L2 (10)
+A D(3), Clatworthy (1956).
+Clatworthy (1956) (1967).
+*The association scheme for LS 134 is nonstandard and is given with the plan in Table XIII.
++ Plan not verified by computer.
+259

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly aligns with the 2050 futuristic theme, includes the required story and slogans, and demonstrates creative vision.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a decent airport experience description but lacks the futuristic 2050 vision and the required marketing slogans.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on negative, current-day security procedures rather than the requested futuristic, innovative, and high-tech airport experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Completely irrelevant to the prompt; it describes a personal travel anecdote rather than a futuristic airport design.",
+      "rank": 4
+    }
+  ]
+}

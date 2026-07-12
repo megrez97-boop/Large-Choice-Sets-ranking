@@ -1,0 +1,53 @@
+block being 12 5 14). Design LS15 was corrected and the 19 valid plans have been included in Tables
+XII and XIII of the present volume. Even though the square lattice designs of Yates (1936), (1937) may be
+classified as D(2) designs based on Latin square association schemes, they were omitted from the BCS (1954)
+collection. They are included here because (a) they are valid designs of this classification (b) they are useful
+experimental arrangements and hence of potential interest to our readers, and (c) their inclusion brings out,
+through their duals, strong combinatorial relationships with many of the SRGD designs. Clatworthy (1956)
+expanded the listing of D(2) designs with r, k ≤ 10 based on Latin square type L¡(n) association schemes to
+111 parametric specifications by adding to the BCS (1954) listing the designs of the same type with k=2,
+by including the lattice designs of Yates, by including n-plicate designs built up from the BCS (1954) designs
+and the Yates designs, and by including three newly constructed designs. The present volume contains an
+expanded listing beyond Clatworthy's (1956) enumeration. Starting with the latter enumeration, the author
+added new designs taken from publications by Bose and Nair (1939) [but omitted from the BCS (1954) list]
+P. M. Roy (1954c), Vartak (1955), Shrikhande (1959), Liu (1963), Chang and Liu (1964), Clatworthy (1967)
+and five new designs [LS36, LS40, LS44, LS61, LS64] constructed by the author and published here for the
+first time. The construction procedures will not be described here, but the reader is referred to the above
+references, especially Clatworthy (1967) where very general construction procedures are presented. These
+are generalizations of some designs constructed by Chang and Liu (1964), and the generalizations are interest-
+ing not only for themselves and a few new resulting designs, but because of the relationships of the present
+designs to certain subclasses of GD designs that are brought to light.
+The present D(2) designs are strongly related to certain SRGD designs and to D(3) designs.
+Of the 146 parametric specifications listed in Tables XII and XIII, there are 56 instances in which the
+plans are unique (up to an isomorphism) and 36 cases for which multiple distinct solutions are possible,
+leaving 65 cases for which their uniqueness status is unsettled.
+D. Cyclic Designs
+1. Introduction. Let the treatments be designated by the integers 1, 2, . v. Let the first associates
+of treatment i be given by
+i+d₁, it d₂, . . .,i+dn,
++
+(mod v),
+provided the d's satisfy the following conditions:
+(1) The d's are all different and 0<d; < v,j=1,2, . . ., n₁;
+-
+d¡
+..
+1
+dn, occurs a times whereas each of the numbers e₁,e2,
+·
+., en, occurs ẞ times, where
+(2) Among the n₁(n₁ − 1) differences d; — d, (j, j' = 1, 2 . . ., n₁;j #j') reduced mod v, each of the
+numbers d₁,d₂,
+a ẞ and where
+d₁,d2, . . ., dn,, e₁,e2,..., eng
+are the numbers 1,2, . . ., v. Such an association scheme is said to be cyclic. A D(2) design whose associa
+tion scheme is cyclic is called a cyclic design, or a D(2) design based on a cyclic association scheme.
+Remark. To reduce an integer mod v subtract from it a suitable multiple of v, so that the reduced integer
+xv and positive, which is an unconventional procedure for retention of treatment symbols 1, 2, . . ., v.
+A D(2) design for which the relationships among the v treatments are given by the cyclic association
+scheme defined above is itself known as a cyclic type of partially balanced design.
+For cyclic designs it is clearly necessary that
+(2.35)
+n₁a+n₂ẞ=n₁ (n₁ — 1).
+-
+21

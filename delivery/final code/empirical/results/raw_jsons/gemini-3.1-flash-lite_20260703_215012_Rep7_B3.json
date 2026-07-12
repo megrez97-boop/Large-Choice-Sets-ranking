@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most practical, actionable advice for Japan-specific cultural etiquette and airport navigation for first-time travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Captures the influencer persona well but lacks the specific, detailed step-by-step instructions required for a comprehensive guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains a clear, logical list of steps but feels too generic and lacks the requested influencer tone.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses too heavily on a specific baggage feature rather than providing a general guide for all travelers.",
+      "rank": 4
+    }
+  ]
+}

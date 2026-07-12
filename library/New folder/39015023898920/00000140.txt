@@ -1,0 +1,286 @@
+TABLE V. Singular group divisible designs - Continued
+Design S90:
+V= 21, r = 9,
+m= 7,
+n = 3,
+k = 9,
+λ₁ = 9,
+b = 21
+λε 3
+=
+c1, c2= 5/21, H= 16, ▲ = 63
+E, 1.00, E₂ = .91, E= .92
+Solution 1:
+Nonunique; 3-resolvable
+Complement: Not listed, r = 12
+Dual: Self dual
+Groups: (7,3)
+Plan:
+Repeat the plan of S88 three times and
+rearrange the treatments within blocks so
+as to provide a replication for each
+position within blocks.
+Solution 2:
+Nonunique; 3-resolvable
+Complement: Not listed, r
+= : 12
+Dual: Not a D(x), x = 1, 2, 3
+Groups: (7,3)
+Plan:
+Cyclically develop the three initial blocks
+1 8 15 3 10 17 6 13 20
+8 15 1 11 18
+15
+1 8
+4 12 19 5
+16 2 9 21 7 14
+using cycles of length 7 and cycling
+within the three subsets of treatments 1-7,
+8-14, and 15-21. Each position within blocks
+contains a replication, and each initial
+block provides three replications.
+Solution 3: Nonunique; 3-resolvable
+Complement: Not listed, r = 12
+Dual: Irregular
+Groups: (7,3)
+Plan:
+Design S91:
+V= 27, r =
+m= 9,
+4,
+k = 9,
+b= 12
+n= 3,
+λ = 4,
+λ2 = 1
+Ci
+1, c2
+=
+E,
+-
+1/9, H= 7, A = 12
+1.00, E2 .90, E= .91
+Solution: Unique; affine resolvable
+Complement: Not listed, k
+= 18
+Dual: Design SR43, Solution 1
+Groups: (9,3)
+Plan: 1 10 19 4 13 22
+2 11 20
+3 12 21
+258
+11 20
+14 23
+8 17 26
+3 12 21
+6 15 24
+9 18 27
+5 14 23
+36
+399
+7 16 25
+8 17 26
+15 24 9 18 27
+12 21
+6
+15 24
+147
+258
+477
+582
+2235
+030
+13 22
+16 25
+18 27 1 10 19
+10 19
+13
+16
+11 20
+14 23
+17 26
+2 11 20
+15 24
+69
+1
+10 19
+4
+13 22
+14 23
+18 27
+7 16
+25 8 17 26
+3 12 21
+Design S92:
+=
+1, c2
+v = 27,
+m= 9, n = 3,
+r = 8,
+k = 9,
+b= 24
+A₁
+=
+8,
+A2
+= 2
+11 18
+=
+1/9, H= 14, A = 48
+E, 1.00, E₂ = .90, E= .91
+=
+2
+=
+16
+Solution 1: Nonunique; resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Groups: (9,3)
+Plan: Duplicate the plan of S91.
+Solution 2: Nonunique; resolvable
+Complement: Not listed, r = 16
+Dual: Irregular
+Groups: (9,3)
+1
+2
+89
+15
+16
+56
+3 10 17 4 11 18
+4
+5
+6
+7
+1234
+4567
+18
+21
+234SOTA
+2
+9 16
+10 17
+5 12
+19 6 13 20
+20 7 14 21
+1 8 15
+KERKLEY
+19
+4567123
+12 19
+6 13 20
+14
+21
+8
+15
+2 9
+16
+3 10
+17
+15
+16
+17
+18
+19
+20
+21
+89OI234
+1234567
+10 18
+2143657
+9 16
+12
+19 5 12
+20
+13 21
+14 15
+21
+13 15
+234567
+16 2 9 18
+14
+16
+1
+17
+8 15
+10
+17
+15
+11
+13
+11
+12 19
+10
+17
+13
+20
+13 20
+12 19
+9 16
+12
+14
+21
+15
+14 21
+9
+16
+11
+18
+POI2348
+3 10 19
+4 11 20
+H2348aa
+4567123
+11
+12
+Plan: 1 10 19 2 11 20
+3 12 21
+13
+4 13 22 5 14 23
+6 15 24
+14
+7 16 25
+8 17 26
+9 18 27
+9
+1
+10
+10 19
+2 11 20
+3 12 21
+4 13 22
+7 16 25
+5 14 23
+6 15 24
+R24
+1436572
+14 21
+3657214
+123
+1
+10 19
+5 14 23
+2 11 20
+3
+12 21
+6 15 24
+4 13 22
+10 19
+11 20
+6 15 24
+4 13 22
+3 12 21
+17 26
+9 18 27
+18 27
+16 25
+17 26
+8 17 26
+9 18
+27
+5 14 23 7 16 25
+8
+876
+222
+(Plan continued on next page)
+128

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Best balance of narrative flow, futuristic vision, and professional marketing slogans that directly address the prompt requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Excellent technical detail and creative features, but lacks the cohesive narrative story requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Good tone, but the slogans are generic and the narrative lacks specific, vivid futuristic imagery compared to others.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Weakest structure; it reads more like a casual advertisement than a professional, structured response to the prompt.",
+      "rank": 4
+    }
+  ]
+}

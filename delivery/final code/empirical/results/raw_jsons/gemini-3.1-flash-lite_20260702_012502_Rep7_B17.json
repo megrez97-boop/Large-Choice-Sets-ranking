@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "The holographic assistant concept perfectly aligns with the futuristic, high-tech, and personalized experience requested by the influencer.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Strong focus on futuristic infrastructure and efficient processes, though the tone feels more like a corporate advertisement.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Highlights practical efficiency and VR entertainment, but lacks the creative, immersive storytelling depth of the top options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The inclusion of a $1000 gift card and telepathy feels unrealistic and lacks the technological focus requested.",
+      "rank": 4
+    }
+  ]
+}

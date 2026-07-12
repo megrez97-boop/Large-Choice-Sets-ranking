@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best alignment with the Japan context, providing clear arrival steps and practical advice for first-time travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a logical, step-by-step flow for departures, though it lacks the specific Japan-focused cultural nuance.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Very detailed, but overly focused on generic boarding procedures rather than the specific airport navigation requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too informal and focuses on U.S. security procedures, which is irrelevant for a guide about Japanese airports.",
+      "rank": 4
+    }
+  ]
+}

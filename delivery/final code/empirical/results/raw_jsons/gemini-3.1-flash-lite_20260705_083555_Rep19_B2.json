@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, professional, and comprehensive step-by-step guide that perfectly matches the influencer persona and requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Includes essential travel tips but the structure is disjointed and lacks the cohesive flow of a social post.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on arrival in Japan rather than the departure process requested, making it less relevant for the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too informal and lacks the necessary step-by-step detail required for a first-time traveler guide.",
+      "rank": 4
+    }
+  ]
+}

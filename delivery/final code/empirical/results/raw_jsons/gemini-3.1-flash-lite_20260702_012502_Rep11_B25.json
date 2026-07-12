@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best narrative flow; it effectively captures the futuristic, stress-free, and high-tech experience requested by the persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Strong technical vision, but lacks the requested narrative story format and cohesive marketing slogans.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes a story and slogans, but the experience feels more like a modern mall than a futuristic 2050 airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to provide the requested creative story, instead offering a generic list of features and influencer-style filler text.",
+      "rank": 4
+    }
+  ]
+}

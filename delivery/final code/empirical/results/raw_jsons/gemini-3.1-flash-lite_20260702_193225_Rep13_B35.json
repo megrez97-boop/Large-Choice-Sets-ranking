@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best alignment with the prompt by balancing high-tech efficiency, minimalist design, and clear, catchy marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Strong focus on futuristic automation and robotics, though the narrative style is less professional than Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Lacks the requested futuristic, high-tech innovation, focusing instead on basic sustainability and standard airport amenities.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to describe specific futuristic airport experiences, relying on vague, abstract marketing language instead of concrete details.",
+      "rank": 4
+    }
+  ]
+}

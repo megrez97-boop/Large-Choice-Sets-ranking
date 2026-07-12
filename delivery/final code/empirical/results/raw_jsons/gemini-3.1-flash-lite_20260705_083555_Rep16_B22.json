@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly matches the influencer persona, provides a clear guide, and includes all required advice components.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a very practical and logical step-by-step guide, though it lacks the requested influencer tone.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The guide is poorly written with grammatical errors and lacks the necessary depth for a first-time traveler.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "This is a personal anecdote rather than a helpful, structured guide for other travelers to follow.",
+      "rank": 4
+    }
+  ]
+}

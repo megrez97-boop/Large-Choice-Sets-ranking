@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best tone for an influencer; provides a clear, engaging narrative flow that perfectly matches the requested persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Very practical and structured, though it focuses more on arrival than the full departure process requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Follows the structure well but is too generic and lacks the specific Japanese airport context requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Poorly organized with repetitive sections and lacks a cohesive narrative structure for a social media post.",
+      "rank": 4
+    }
+  ]
+}

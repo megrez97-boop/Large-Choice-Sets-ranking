@@ -1,0 +1,279 @@
+TABLE IX. Regular group divisible designs – -
+Continued
+Design R78:
+v = 12, r = 10,
+m= 4,
+n=
+3,
+λι
+k = 3,
+= 1,
+b = 40
+λ2
+= 2
+c₁ = 1/7, c₂ = 11/42, H= 15, A = 56
+2
+E,= .70, E₂ = .73, E= .72
+Complement: Not listed, r = 30
+Dual: Not a D(x), x =
+Groups: (4,3)
+Plan:
+1, 2, 3
+34567BPKARI2
+12345672
+789OW2123456
+234567∞ON1
+8 10
+8 9 11
+9
+10 12
+10 11 1
+11 12
+8
+8 9
+10
+10 11
+11
+10
+11
+12 1 6
+8 10
+11
+10 12
+7 10
+8 11
+678901212345
+9 12
+1
+12345672
+456789OIDI23
+234567BQQAN.
+1234567agUE
+1
+9
+567
+1234
+4
+6 10
+11
+8 12
+Plan:
+1
+4
+250
+3
+3 8 9
+8
+10 11 14
+6 10 12
+1 5 11
+13
+9 11
+12 13
+1 4 12
+4
+2
+8 10
+78
+10
+6 8 14
+3
+7 11
+1
+9 10
+5
+9 14
+2 12 14
+2
+6 11
+3
+35712
+4 14
+7
+5 8
+6
+13
+5 10 13
+1
+13 14
+9 12
+2
+5 7
+6 7
+8
+11
+12
+2
+4 13
+4
+6
+9
+Design R80:
+v = 14, r = 9,
+k= 3,
+m= 7, n=
+2,
+A₁ = 6,
+λε 1
+b= 42
+=
+C₁ =
+112/3
+3/4, c₂ = :-3/56, H= 38/3, A =
+E= .89, E₂ = .65, E = .67
+Solution:
+2
+3-resolvable
+Complement: Not listed, r = 33
+Dual: Not a D(x), x = 1, 2, 3
+Groups: (7,2)
+Plan:
+Cyclically develop the six initial blocks
+1 8 2
+Design R79:
+v = 14,
+m= 7,
+r = 6,
+n = 2,
+k = 3,
+A₁ = 0,
+b= 28
+λ2 1
+9
+1 8
+=
+1
+8
+3
+10
+1
+8
+c₁ = 0, c₂ = 3/14, H= 26/3, A
+E= .67, E,= .72, E = .71
+=
+56/3
+1
+8 4
+Solution 1: As given by BCS (1954); nonunique;
+nonresolvable
+Complement: Not listed, r = 22
+Dual: Not a D(x), x = 1, 2
+Groups: (7,2)
+11 1 8
+using cycles of length 7 and cycling
+within two subsets of treatments 1-7 and
+8-14. Three replications are generated
+by pairs of initial blocks formed in
+order. Within each of these subsets of
+blocks, each position within blocks
+contains a replication.
+Plan:
+Design R81:
+v = 15, r = 6, k
+m= 5, n = 3, λ₁ 0,
+=
+ཆ་
+=
+b= 30
+λε
+= 1
+= 0, c₂ = 1/5, H= 9, A = 20
+E,= .67, E₂ = .71, E= .71
+Solution 1: As given by BCS (1954); nonunique;
+3-resolvable
+Complement: Not listed, r = 24
+Dual: Not a D(x), x = 1, 2
+Groups: (5,3)
+10
+11
+12
+13
+23456TARRH2R4
+7
+1
+8
+9
+712345667I2345
+8
+9
+10
+11
+12
+13
+14
+3
+4
+5
+11
+6
+7
+4567123AOH2R4
+11
+89O1234
+10
+5671234
+9 10
+12
+10 11 13
+12
+14
+13
+8
+14
+9
+1
+8 10
+14
+2
+8
+9 11
+Plan:
+Solution 2:
+Nonunique; nonresolvable
+Complement: Not listed, r
+Dual: Not a D(x), x = 1, 2
+Groups: (7,2)
+= 22
+2345
+1
+10
+13
+14
+345
+15 11
+67899
+51234
+11
+12
+8 9 11
+3
+9
+10 12
+4
+10
+6 13
+5
+6 7 14
+1
+7 8
+15
+234SH
+12 15
+1
+13 11
+2
+14
+15
+23
+12 3
+27890
+13 4
+10
+11 14 5
+9
+12345672345
+10
+4B12345-2306789
+6
+196
+(Plan continued on next page)

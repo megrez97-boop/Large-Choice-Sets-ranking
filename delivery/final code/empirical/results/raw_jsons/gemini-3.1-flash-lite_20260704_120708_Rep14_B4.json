@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most relevant, practical, and structured advice specifically tailored for navigating Japanese airport infrastructure and transit.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers helpful, actionable tips for a smooth experience, though it lacks specific context regarding Japanese airport procedures.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses too much on amenities like capsule hotels rather than providing a clear, step-by-step navigation guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The content is overly simplistic, lacks a clear step-by-step structure, and fails to address specific airport navigation.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly aligns with the persona by highlighting Japanese airport technology and providing a clear, structured guide.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a very detailed and accurate process, though it lacks the influencer's specific tone and tech-focus.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers practical advice but uses informal, messy formatting that feels less professional for a travel influencer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too generic and incorrectly references TSA, which is not applicable to airports in Japan.",
+      "rank": 4
+    }
+  ]
+}

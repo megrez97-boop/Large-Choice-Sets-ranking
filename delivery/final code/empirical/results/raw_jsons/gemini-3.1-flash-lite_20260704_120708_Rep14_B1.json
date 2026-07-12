@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, concise step-by-step guide and the required three bits of advice in the requested format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a good step-by-step guide but fails to include the required three bits of advice section.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains useful travel tips but lacks the required step-by-step airport navigation guide for the Facebook post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The content is too general and lacks the specific step-by-step airport navigation guide requested for the post.",
+      "rank": 4
+    }
+  ]
+}

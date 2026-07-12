@@ -1,0 +1,368 @@
+TABLE VI. Semiregular group divisible designs: parameters and auxiliary information
+Efficiencies
+Number
+Reference
+number
+V
+k
+ய
+n
+N=vr
+E₁
+E₂ E
+Unique of
+solution solutions
+given
+Complementary
+design
+Dual designs
+Literature sources
+SR1
+2
+SR2
+2
+SR3
+SR4
+2222
+2
+2
+2 12
+2
+222
+222
+2 0
+2
+0
+2
+0
+2 16 2
+2
+SR5
+SR6
+SR7
+6
+SR8
+SR9
+8
+SR10
+8
+SR11
+10 5
+SR12
+10 10 2
+222
+22222
+10 2 20 2 2
+2
+9
+22
+3
+0
+123451
+.50
+2 50
+50
+6 2 18
+3
+0
+2 27
+2
+3
+16
+231
+50
+2
+32
+25
+50
+SR13
+12 6
+SR14
+14 7
+SR15
+16
+SR16
+18
+SR17
+SR18
+6
+8962
+20 10 2
+222223
+2
+36
+2 49
+2
+64
+2
+81 2
+100
+8
+3 4
+2222222223
+.50
+2 .50
+2
+5
+1 .50
+2
+50
+6
+7
+0
+1
+O
+1
+9
+1
+.50
+10
+02
+O
+1
+.50
+2 0 1
+.................5
+.67
+.67
+50
+.67
+50
+.67
+50
+.67
+60
+2 50 .60
+60
+.57
+488822222
+60
+8 Yes
+1 TSC
+TSD.
+P. M. Roy (1954c) [Clatworthy (1955)).
+60
+16 Yes
+1 TSC
+A D(3), WHC (1956).
+Clatworthy (1955).
+60
+24 Yes
+1 TSC
+A D(3), WHC (1956).
+Clatworthy (1955).
+60
+32 Yes
+1 TSC
+A D(3), WHC (1956).
+Clatworthy (1955).
+60
+40 Yes
+1 TSC
+A D(3), WHC (1956).
+Clatworthy (1955).
+.56
+18 Yes
+1
+SR35
+LS7.
+Clatworthy (1955).
+.56
+36 Yes
+1
+NL, r=12
+A D(3), WHC (1956).
+Clatworthy (1955).
+56
+54 Yes
+1
+NL, r-18
+A D(3), WHC (1956).
+Clatworthy (1955).
+32 Yes
+1
+NL, r=12
+LS28.
+Clatworthy (1955).
+.57
+64 Yes
+1
+NL, r=24
+A D(3), WHC (1956).
+Clatworthy (1955).
+.56
+555
+.53
+50 Yes
+1
+NL, r=20
+LS51.
+Clatworthy (1955).
+56
+.53
+100 Yes
+1
+NL, r=40
+A D(3), WHC (1956).
+Clatworthy (1955).
+1 .50 55
+.52 72 Yes
+1
+NL, r=30
+LS74.
+Clatworthy (1955).
+.50 54 .52
+98 Yes
+1
+NL, r=42
+LS84.
+Clatworthy (1955).
+50 53 .52
+128 Yes
+1
+NL, r=
+56
+LS102.
+Clatworthy (1955).
+.53
+.67 .80
+30
+.51
+.77
+255
+53 52 162 Yes
+1
+NL, r=72
+LS119.
+Clatworthy (1955).
+200 Yes
+1
+NL, r=90
+LS137.
+Clatworthy (1955).
+12 Yes
+1
+TSC
+The BIB design (4, 6, 3, 2, 1), Roy and BCS (1954).
+Laha (1956).
+(Sol. 1: TSC
+Sol. 1: S6.
+BCS (1954).
+SR19
+64383
+320 2.67 .80 .77 24 No
+2
+Sol. 2: TSC
+Sol. 2: A D(3).
+Sol. 1: TSC
+Sol. 1: $27.
+SR20
+6 6 3 12 3 2 0
+203.67
+3.67 .80 .77
+36 No
+2
+Sol. 2: TSC
+Sol. 2: An affine resolvable design with
+four distinct x's, P. M. Roy (1954b).
+Sol. 1: TSC
+Sol. 1: S61.
+SR21
+6 8
+8 3 16
+3
+2 0
+4 .67
+.80
+SR22
+6 10 3
+20
+3
+2
+0
+5
+.67 .80 .77
+880
+.77
+48 No
+2
+Sol. 2: TSC
+60 No
+3 Sols: 1, 2, 3:
+Sol. 1: $106.
+TSC
+SR23
+3
+SR24
+933 93
+9 6 3 18
+3
+3
+0
+2
+.67 .75 .73
+54 No
+2 NL, r=12
+SR25
+9 9 3 27
+3
+3
+0
+3 .67 .75
+.73
+81 No
+2 NL, r=18
+SR26
+12
+3 16 3 4
+0
+1 .67 .73 .71
+48 No
+2 NL, r=12
+SR27
+12
+8
+3
+32
+3
+0
+2 .67 .73
+.71
+96 No
+3 NL, r=24
+0 1 .67 .75 .73
+27 Yes
+1 SR 65
+Sol. 2: A D(4), WHC (1956).
+Sols. 2, 3: Irregular.
+Truly self dual, P. M. Roy (1954b),
+and Clatworthy (1971).
+Sol. 1: A D(3), WHC (1956).
+Sol. 2: Not a D(x), x=1, 2, 3.
+Sol. 1: A D(3), WHC (1956).
+Sol. 2: Not a D(x), x=1, 2, 3.
+Sol. 1: LS29 Sol. 1 or LS36, Sol. 1.
+Sol. 2: LS29, Sol. 2 or M16.
+(Sol. 1: A D(3), WHC (1956).
+Sol. 2: A D(3), WHC (1956).
+Sol. 3: Irregular.
+Bose and Nair (1939). [P. M. Roy (1954b),
+John (1966)).
+BSC (1954).
+P. M. Roy (1954b).
+BCS (1954).
+Bose and Nair (1939).
+Sol. 1: BCS (1954).
+Sols. 2, 3: Unknown.
+Bose and Nair (1939), BCS (1954).
+[Clatworthy (1967)].
+BCS (1954).
+Clatworthy, new.
+BCS (1954).
+Clatworthy (1967).
+BCS (1954).
+Dual of the Design LS29, Sol. 1.
+BCS (1954).
+Design SR26, Sol. 2.
+Sol. 3, John (1966).
+137

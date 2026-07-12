@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most professional, structured, and comprehensive guide specifically tailored for a major Japanese airport experience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Excellent tone and clear instructions, though slightly less specific than Option D regarding terminal navigation.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The guide is functional but lacks the professional polish and detailed flow required for a high-quality influencer post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "This is a personal anecdote rather than a structured guide, failing to meet the core requirements of the task.",
+      "rank": 4
+    }
+  ]
+}

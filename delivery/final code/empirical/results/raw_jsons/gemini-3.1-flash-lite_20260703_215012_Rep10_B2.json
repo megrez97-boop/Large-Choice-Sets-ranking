@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Best structure and tone; clearly addresses both parts of the prompt with helpful, actionable advice for Japan.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Good content, but the advice in Part 2 is less relevant to international travel in Japan specifically.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The formatting is messy and lacks the professional influencer tone required by the context.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Worst option; it fails to include the required Part 2 advice section entirely.",
+      "rank": 4
+    }
+  ]
+}

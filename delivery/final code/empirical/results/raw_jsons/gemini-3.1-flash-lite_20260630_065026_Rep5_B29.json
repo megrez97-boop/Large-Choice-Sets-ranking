@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Comprehensive, visionary, and perfectly aligns with the futuristic 2050 theme while providing excellent marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Highly creative and personalized concept, though it lacks the professional structure and marketing slogans of Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Functional and clear, but the narrative is too generic and lacks the immersive futuristic flair requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too focused on current-day amenities like spas and cinemas, failing to capture a truly futuristic 2050 vision.",
+      "rank": 4
+    }
+  ]
+}

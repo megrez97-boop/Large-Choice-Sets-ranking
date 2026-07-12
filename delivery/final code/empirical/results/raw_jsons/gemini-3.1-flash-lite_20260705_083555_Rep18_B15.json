@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most clear, concise, and actionable step-by-step guide for a first-time traveler.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers excellent practical advice but fails to provide a comprehensive step-by-step airport navigation guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Too narrative and lacks the specific, structured step-by-step instructions required for a functional guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains poor grammar, lacks professional tone, and provides an incomplete, confusing process description.",
+      "rank": 4
+    }
+  ]
+}

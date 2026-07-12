@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "This option perfectly follows the prompt's structure, providing a clear step-by-step guide and three specific travel tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "It provides helpful steps but fails to focus exclusively on the airport departure process requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "This focuses on arrival and general Japan travel tips rather than the requested airport departure guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "This is a list of travel destinations completely unrelated to the airport navigation guide requested.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most comprehensive, structured, and actionable step-by-step guide for airport navigation and essential travel preparation.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Clear and helpful, though it lacks the detailed pre-flight preparation advice found in Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is functional but contains repetitive, filler text that detracts from the professional tone.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "This is a general Japan travel itinerary, not a guide for navigating the airport process.",
+      "rank": 4
+    }
+  ]
+}

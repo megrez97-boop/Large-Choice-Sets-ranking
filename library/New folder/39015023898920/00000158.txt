@@ -1,0 +1,282 @@
+TABLE VII. Semiregular group divisible designs - Continued
+Solution 2:
+Nonunique; resolvable
+Complement: Not listed, r = 40
+Dual: Not a D(x), x = 1, 2, 3
+Groups: (3,5)
+Plan: To the 25 blocks of design SR28 annex
+the 25 blocks given below:
+1 2 6
+10 14
+15
+Plan: Duplicate the plan of SR26, Solution 2.
+Solution 3: As given by John (1966); nonunique;
+resolvable
+Complement: Not listed, r
+= 24
+Dual: Irregular
+Groups: (3,4)
+Plan:
+3692
+2581
+1470
+3692
+1470
+10
+12
+2581
+1470
+2369
+10 11
+1470
+1470
+5 10
+12
+2369
+8125
+1258
+6923
+12
+11
+8125
+6923
+8 10
+12
+1470
+1258
+6 10
+11
+8 12
+5678
+1234
+9012
+11
+4 8 12
+5678
+1234
+k = 3,
+= 0,
+50/3
+A2
+b = 25
+=
+1
+Design SR28: v= 15,
+m= 3,
+r = 5,
+n = 5,
+λι
+=
+c₁ = 0, c₂ = 1/5, H= 25/3, A
+E= .67, E₂ = .71, E= .70
+=
+Solution: Nonunique; resolvable
+Complement: Not listed, r
+Dual: Design LS52
+Groups: (3,5)
+Plan:
+= = 20
+3261
+11
+48532
+01743
+9
+7 11 12
+4
+5 15
+10 2 3
+10 11 9
+13 8 15
+13 14 12
+1
+3 7 8
+7 14
+54281
+37401
+13
+12
+1 11 15
+43170
+39265
+13 11 6
+90452
+3 14
+2 15
+5 12
+4
+56
+9
+14
+8
+Note: If the five replications displayed here are also
+placed in a horizontal line, then each of the
+resulting five rows will again comprise a
+complete replication.
+Design SR30: v= 18,
+m= 3,
+r = 6,
+n = 6,
+k = 3,
+λ₁ 0,
+b= 36
+=
+A2
+= 1
+c₁ = 0, c₂ = 1/6, H= 10, A = 24
+E,= .67, E₂ = .71, E = .69
+Solution: Nonunique; nonresolvable
+Complement: Not listed, r = 30
+Dual: Design LS75
+Groups: (3,6)
+14658
+6 13
+29370
+3
+11
+14
+15
+8 10 12
+43261
+5 12
+8 13
+7
+9
+6 10 11
+1 14 15
+62135
+6 7 8
+2 10 15
+Plan:
+11 12
+5
+49
+4 14
+1
+13
+8
+259
+11
+1
+67423
+9 10 14
+11 13 15
+14
+1
+1 5 6
+7 12 14
+17 18
+4
+8 15
+3 5 10
+4
+2 12 13
+1
+8 9
+5
+824
+3612518
+773
+15
+18
+587
+6
+11
+332
+2587
+3 14
+6 17
+13 5
+15
+13
+9 7
+14
+18
+13
+11
+12
+17
+7
+2
+9
+13
+10
+12
+2
+16
+17
+3
+10
+5
+15
+16
+14
+18
+3
+7 11
+2
+4
+6
+4 8 6
+18
+10 8
+15
+11
+16
+11
+9
+3
+10 11
+14
+12
+6 14 10
+17
+15
+9
+17
+10
+258
+6 16
+5
+16 9
+16 12
+If the five replications are placed in a hori-
+zontal line, then each of the resulting five
+rows will comprise a complete replication.
+Design SR31: v= 21,
+Design SR29: v= 15, r = 10,
+MF 3, n=
+=
+k = 3,
+5, λι 0, A2
+b= 50
+2
+r = 7,
+m= 3, n = 7,
+k = 3,
+λ₁
+=
+=
+b= 49
+0, λε 1
+98/3
+=
+200/3
+c₁ = 0, c₂ = 1/5, H= 50/3, A =
+E, .67, E, .71, E = .70
+2
+Solution 1: As given by BCS (1954); nonunique;
+resolvable
+Complement: Not listed, r
+= 40
+Dual: A D(3), WHC (1956)
+Groups: (3,5)
+Plan: Duplicate the plan of SR28.
+c₁ = 0, c₂ = 1/7, H= 35/3, A
+E= .67, E,= .70, E = .69
+Solution: Nonunique; resolvable
+Complement: Not listed, r = 42
+Dual: Design LS85
+Groups: (3,7)
+(Plan continued on next page)
+Note:
+146

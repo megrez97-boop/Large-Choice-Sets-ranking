@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most professional, clear, and structured guide that perfectly matches the influencer persona and requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a practical, easy-to-follow step-by-step guide, though the formatting is slightly less polished than Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Includes interesting tech-focused details but focuses on arrival/baggage rather than the full departure process requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The content is disorganized and focuses on arrival procedures rather than the requested departure guide for travelers.",
+      "rank": 4
+    }
+  ]
+}

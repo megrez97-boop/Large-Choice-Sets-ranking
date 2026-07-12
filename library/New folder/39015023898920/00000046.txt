@@ -1,0 +1,79 @@
+Thus, if we have Model 1 given by (3.19) the auxiliary table is the following:
+TABLE 4
+Source of
+variation
+AUXILIARY TABLE FOR INTER-BLOCK ANALYSIS OF VARIANCE (WITH UNGROUPED BLOCKS)
+Degrees of
+freedom
+Expectation of the
+sum of squares
+Sum of squares
+Treatments
+(unadjusted)
+v-1
+S/2=Σ
+v T2 G²
+N
+Blocks
+(adjusted)
+b-1
+S (by subtraction)
+(b−1)σ² + (N−v)σ?
+Error
+N-b-v+1
+S2 (transfer from Table 1)
+(N−b-v+1)σ²
+G2
+Total
+N-1
+ΣΝ
+(transfer from Table 1)
+We estimate of and σ? by equating S2 and S2 to their expectations and hence estimate w and w' from
+(3.24) and (3.25). The estimated values of w and w' are substituted for w and w' wherever they occur.
+Rao (1947) has shown that ΣîP, has the x²-distribution with (v−1) degrees of freedom, but this depends
+upon the weights w and w' being known without error. Thus, there is no exact test of the significance of
+the treatment effects but an approximate test is obtained by testing έî;¡P, as a x²-variable with (v−1)
+degrees of freedom.
+In Model 2 which has blocks divided into replication groups, and in which we assume that the b; are
+identically distributed N(0, of) we have the following auxiliary table:
+TABLE 5
+AUXILIARY TABLE FOR INTER-BLOCK ANALYSIS OF VARIANCE (WITH GROUPED BLOCKS)
+Source of
+variation
+Treatments
+v-1
+(unadjusted)
+Degrees of
+freedom
+Sum of squares
+Expectation of the
+sum of squares
+St2=
+ΣΕ Ν
+TG²
+N
+Replication
+groups
+r'-1
+S2 (transfer from Table 2)
+Blocks within
+replication groups
+b-r'
+S2 (by subtraction)
+(b−r')σ²+(N−v−kr'+k)σf
+bw
+(adjusted)
+Error
+N-b-v+1
+S2 (transfer from Table 2)
+(N−b−v+1)σ²
+Total
+N-1
+Σxi-c
+G2
+N
+(transfer from Table 2)
+σ2 and of are again estimated by equating S and S2, to their expectations. We again estimate w and
+w' from (3.24) and (3.25) and use these estimates for w and w' wherever they occur.
+Finally in the case of Model 3 given by (3.22) where there are replication groups orthogonal to the blocks,
+34

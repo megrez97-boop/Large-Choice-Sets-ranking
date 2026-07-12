@@ -1,0 +1,118 @@
+TABLE XVII. Partially balanced designs based on partial geometrics - Continued
+Design PG13a:v
+C₁ = 1/33, C2
+E₁ = .89, E,
+ni
+= 297, r =
+=
+.6
+b
+-
+165
+=
+0
+=
+1, A2
+5 35
+=
+40, n₂ =
+5,
+256, λ,
+k
+7 32
+P₁ = [
+220
+55/3
+P. 224]
+-7/33, H= 26/3, ▲ =
+=
+=
+.87, E = .87
+Complement: Not listed, r = 160
+Dual: PG6a
+(N =
+Plan: Since this design is rather large
+vr = 1485) no construction is given.
+The interested reader is referred to
+Benson (1966).
+27,
+n2
+10,
+Design PG14: v =
+70,
+r =
+n₁ =
+=
+3,
+42, A,
+k =
+b
+=
+21
+=
+1, λε
+=
+0
+P,
+c₁ =
+1/7, C
+=
+E₁ =
+P.-[1214]
+28
+18
+P₁ = [ 928]
+2
+-2/7, H= 51/10, ▲ = 63/10
+= .91, E, = .88, E = .89
+Solution:
+Nonunique; nonresolvable
+Complement: Not listed, r = 18
+23
+Dual: A BIB design with parameters (21,70,10,3,1)*
+Plan: Cyclically develop the following three
+initial blocks
+1 14 9 20 17 26 25 50 57 64
+1 8 15 22 35 30 41 38 47 46
+1 29 36 43 56 51 62 59 68 67
+using cycles of length 7 and cycling
+within the ten subsets of treatments 1-7,
+8-14, 15-21, 22-28, 29-35, 36-42, 43-49,
+50-56, 57-63, and 64-70.
+*Remark: Bose (1960) has determined that the BIB
+design (21,70,10,3,1) has at least 8
+different solutions.
+Design PG15: v =
+=
+5/41,
+82,
+r = 5, k
+36, A₁
+=
+10, b = 41
+1, λε
+= 0
+n₁ = 45, n,
+P₁ =[24 20]
+=
+P₁= [25 20]
+2
+==
+C2 -4/41, H= 91/10, A = 41/2
+E,= .91, E₂ = .89, E = .90
+=
+36
+Solution: Nonresolvable
+Complement: Not listed, r
+Dual: The BIB design (41,82,10,5,1) for
+which the question of uniqueness is not
+settled. See Clatworthy, Lewyckyj and
+Martino (1971).
+Plan: Cyclically develop the initial block
+1 77 6 76 27 80 25 64 33 46
+using cycles of length 41 and cycling
+within the two subsets of treatments 1-41
+and 42-82. Counting from the left (or
+right) pairs of columns contain a
+replication.
+300

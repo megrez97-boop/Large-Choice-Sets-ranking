@@ -1,0 +1,12 @@
+Bose and Nair (1939), Clatworthy (1956), Ray-Chaudhuri (1962), Liu (1963), Liu and Chang (1964), Preece
+(1966), Mesner (1967) and Bhagwandas (1968).
+Most of the miscellaneous designs are characterized by one zero-valued A but there are 8 instances of
+designs that have both A's different from zero. In the latter case the association schemes are of no assistance
+in analyzing data arising from these designs. The reader is referred to Rao (1947) who gives general methods
+for analysis of incomplete block designs. For those designs having one zero-valued λ the blocks can serve
+as association schemes, and then the analysis procedures found in BCS (1954) for the simple type of D(2)
+designs are appropriate.
+Little is known about uniqueness among the plans for miscellaneous designs. In 21 instances the para-
+metric specifications for designs are known to be capable of multiple distinct solutions. Thus the uniqueness
+status is an open question for 25 of the 46 parametric specifications.
+26

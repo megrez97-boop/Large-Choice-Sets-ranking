@@ -1,0 +1,441 @@
+TABLE XI. Partially balanced designs based on triangular association schemes - Continued
+necessarily comprise the integers
+1,2,...,56. Further, the associate
+Plan:
+12
+13
+14
+15
+16
+17
+v =
+15,
+8,
+relations among the pairs of treatments
+are unidentified although the association
+scheme is known to be triangular.
+The present construction technique is
+described by Clatworthy (1968) for an
+entire collection of four families of
+designs, for which certain subsets of
+four designs either exist simultaneously
+or else fail to exist simultaneously.
+Design T92:
+C₁ =
+3/4, Cz
+n₁ =
+=
+P,{
+Р
+=
+n:
+4 37
+3
+=
+6, λ, 3, λε
+P₂
+1/2, H = 38/5, ▲ =
+E,= .97, E, = .95, E = .96
+2
+Solution: Unique; nonresolvable
+Complement: Design T48
+Dual:
+=
+[
+The BIB design (6,15,10,4,6), Roy and Laha
+(1956)
+Association Scheme: T(6)
+9
+19
+11
+16 17
+18
+10
+11
+13
+14
+15
+19 20 21
+11
+21 15
+17
+18
+14
+13
+20 8 15
+7 14
+10 12
+13
+222876
+18 19 20 21
+10 20 21 8
+7
+9
+10
+12
+12 11
+9 16 17 19
+16 3
+18
+20 19
+21
+17 4 5 6
+15
+20
+19
+21
+4
+5 6 13 14
+21
+15
+5
+6
+14
+12
+3 17 18 2
+18
+16 3
+12
+13
+6
+4 15 2 20
+14
+17
+4
+3
+5
+r =
+4,
+k = 10, b
+=
+6
+19
+4
+10
+21
+6
+20
+11
+=
+2
+3
+6
+17 11
+8
+10
+21
+4
+1)
+20
+1
+6 9
+17
+1
+72/5
+4
+598
+6
+2
+18027852
+9
+95
+11
+16
+8
+3
+1
+19 10 16
+35830
+12 13 19 16
+9
+1
+1
+18
+5
+4
+18
+4
+21
+7 5 11
+2 14 6
+15
+20
+1 7
+9
+6
+11 15
+13
+19
+4
+2
+13
+1 14 10
+12
+7
+1
+823
+1 15 7
+10 14 1
+13 4
+43
+16
+13
+229
+11
+3
+17
+8 7
+V = 21, r = 10, k = 10, b = 21
+10, n
+=
+10, λι
+P]
+P₁ =[ 5 ]
+Design T95:
+ni
+=
+Plan: 11
+11 12 14 15 10
+1 13
+14
+1
+955574
+84443m
+723922
+5 15
+005800
+6
+6
+9 10 6 12 13
+55754
+4442
+33310
+23929 ∞
+628657
+14 15
+95/182, c₂
+12
+13
+2 11 12
+15
+1 14
+7 8 10 11 1
+k
+c₁ =
+=
+=
+=
+5, 2 4
+4
+P₂= [ ¹ º]
+305/728, H = 187/10, ▲ = 2184/25
+E,= .95, E, = .94, E = .94
+2
+Nonresolvable
+Complement: Not listed, r = 11
+Self dual, Hoffman (1963)
+Solution:
+Design T93:
+v =
+n₁ =
+C₁ = 3/4,
+c
+=
+2
+=
+E₁ = .97, E,
+15,
+8,
+r = 8,
+n2
+4
+=
+P.3]
+P, {
+9313
+6, λ,
+=
+=
+=
+10, b
+6, λε 4
+4
+=
+P.-[1
+= ]
+2
+=[
+1/2, H= 76/5, ▲ = 288/5
+.95, E = .96
+Solution: Unique; 4-resolvable
+Complement: Design T49, a unique design
+Dual: Design S58, a unique design
+Association Scheme: T(6)
+Plan: Duplicate the plan of T92.
+Design T94: V = 21, r =
+n₁ =
+10, n
+5 4
+P,{
+ย
+=
+10,入​ı
+=
+6, λε
+4
+· [ + ]
+C₁ = 45/77, c₂ = 20/77, H = 183/10, A = 2079/25
+E₁ = .96, E,
+1
+Solution:
+= .92, E = .94
+Nonresolvable
+Complement: Not listed, r
+Dual: Self dual, Hoffman (1963)
+Association Scheme: T(7)
+12
+Dual:
+Association Scheme:
+T(7)
+Plan:
+2
+3
+1
+19
+457
+3426
+17
+1
+5642
+675
+12
+72
+13
+6
+18
+3 5
+8888
+9 10 11
+14
+6
+21
+1
+2
+3
+4
+17 19
+11 15
+18
+20
+21 1 5
+15
+9 13
+12
+11 10
+14
+12
+17
+11
+18
+10
+16
+3
+4800427
+15
+1
+12
+16
+9
+13
+14
+10
+3
+1
+028
+7
+9
+4
+7 8
+1
+13
+11 10
+19 16
+20
+10
+10, k
+=
+10, b = 21
+8
+= 3
+7
+1832
+17 11 19 14
+1
+9
+21
+5
+8
+7
+20 15
+9
+8
+14
+7 2
+3 15
+9
+16
+14
+P,= [
+5
+10
+7
+21 12 15
+18
+12
+11 20
+9
+20 3 8 18 19
+14
+5
+10
+19 8 21 16
+24392
+13
+6
+15
+17
+16 20
+13 21
+17 14 20 10
+16 19
+21
+13
+15 4 9 18
+= 11
+20
+14
+6
+10
+19
+13427722E
+7 6
+21
+16
+15
+653
+17 18
+20 19
+13 19 17
+21
+12
+11
+2310∞
+13
+18
+442
+21
+3
+11
+18 11 17 5 15
+565
+253

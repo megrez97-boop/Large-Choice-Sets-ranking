@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Perfectly captures the influencer persona while providing a clear, actionable, and well-structured guide for Japanese airports.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a very clear, logical step-by-step process, though it lacks the engaging influencer tone of Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The guide is functional but lacks specific context regarding Japanese airports and feels somewhat generic.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Poorly structured, lacks a clear step-by-step guide, and contains irrelevant advice about flight mode.",
+      "rank": 4
+    }
+  ]
+}

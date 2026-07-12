@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Best balance of futuristic technology, immersive storytelling, and professional marketing slogans that fit the 2050 theme perfectly.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Strong visual storytelling with creative elements like AI pods and robot chefs, though it lacks formal marketing slogans.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Highly imaginative concept, but the lack of marketing slogans and slightly chaotic narrative structure lowers its overall quality.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Weakest narrative; the slogans are generic and the story feels less innovative compared to the other futuristic concepts.",
+      "rank": 4
+    }
+  ]
+}

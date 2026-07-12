@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most comprehensive, well-structured guide and practical advice while maintaining an engaging, helpful tone for followers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Clear and professional, though it lacks the personal, influencer-style introduction that makes the content feel authentic.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is functional but overly simplistic and repetitive in its structure, lacking depth compared to other options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to provide the required three bits of advice and contains grammatical errors, making it the least professional.",
+      "rank": 4
+    }
+  ]
+}

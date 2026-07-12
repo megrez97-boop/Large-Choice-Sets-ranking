@@ -1,0 +1,64 @@
+TABLE 19
+INTRA-BLOCK ESTIMATES OF TREATMENT EFFECTS
+Treatment i
+Qi
+S₁(Q₁)
+î
+1234567890
+-0.2700
+0.0525
+-0.07917
+-0.2500
+-0.3075
+-0.06539
+-0.1075
+0.8800
+-0.05061
+0.2225
+- 1.0300
+0.08717
+-0.5725
+0.6600
+-0.18006
+0.3350
+0.3175
+0.08972
+0.4250
+-1.1125
+0.14750
+1.0450
+- 1.4225
+0.33350
+-0.6250
+-0.2025
+0.6675
+1.2950
+-0.19539
+-0.08728
+Step 3. Intra-block analysis of variance. Because we have complete replications orthogonal to the
+blocks, the intra-block analysis follows Table 3 of section 2 where r'=4, n=1. We make the following
+calculations.
+(a) S="Treatments adjusted" sum of squares
+=
+= (-0.07917) (-0.2700)+...+(-0.08728) (-0.2025)
+=0.7467
+is obtained by multiplying corresponding items in columns (4) and (2) of Table 19 and adding.
+(b) Sum of squares attributable to the overall mean,
+G2/N (93.71)2/40=219.5391.
+(c) S²="Blocks unadjusted" sum of squares
+=[10.432+8.112+ . . . +8.222] — (93.71)2/40
+=891.0701/4-219.5391
+S2=222.7675-219.5391
+= 3.2284
+is obtained by squaring the items in column (3) of Table 16 and subtracting the correction factor, G²/N.
+(d) S2="Replication groups" sum of squares
+r' R2 G2
+nv
+N
+(22.62)2+(25.98)2 + (24.22)2 + (20.89)2 (93.71)2
+10
+=2209.6253/10-219.5391
+40
+= 1.4234
+where the values of Re are obtained from the totals in the last row of column (2) of Table 16.
+55

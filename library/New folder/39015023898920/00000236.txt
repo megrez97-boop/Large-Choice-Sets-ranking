@@ -1,0 +1,240 @@
+TABLE IX. Regular group divisible designs – -
+Continued
+Design R186: v= 12, r = 8,
+k = 8,
+m= 6,
+n = 2,
+A₁
+=
+6,
+b = 12
+A2 5
+Design R188: v= 21,
+r = 8,
+k = 8,
+b = 21
+=
+m= 3,
+n = 7,
+λ₂
+=
+7,
+A₂ = 1
+c₁ = 24/31, c2
+=
+465/8
+c₁ = 8/9,
+=
+c₂ -8/7, H= 21/2, A
+=
+1323/64
+ΕΙ
+304/465, H= 61/4, A =
+= .97, E₂ = .95, E = .95
+Solution 1: John (1966) adapted; nonunique;
+nonresolvable
+Complement: Design R109, Solution 1
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Groups: (6,2)
+Plan:
+456
+12
+8
+9 10
+11
+9 10 11
+12
+10 11 12
+1
+7
+11 12
+1
+2
+8
+9
+12 1
+1
+9
+10
+10
+11
+11
+12
+12
+1
+34567QQ212
+23
+POA2I234567∞
+CARA234567
+678901212345
+34567890
+23456789
+21234norag
+E= .98, E₂ = .77, E = .82
+Solution:
+2
+Nonresolvable
+Complement: Not listed, r
+= 13
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Groups: (3,7)
+Plan: Cyclically develop, modulo 21, the single
+initial block:
+1 3 6 9 12 15 18 21
+Each position within blocks contains a
+replication.
+5
+Design R189: v= 24,
+m= 4,
+r = 8,
+k
+=
+8,
+b
+=
+n = 6,
+λ₁
+=
+4,
+A2
+=
+24
+2
+7
+8
+c, = 8/15, c2
+=
+9
+10
+8
+10
+11
+Groups: (4,6)
+2/9, H= 27/2, A = 45
+E= .94, E₂ = .90, E = .91
+Complement: Not listed, r = 16
+Plan: Cyclically develop the six initial blocks
+5 9 13 17 21 2 3 4
+Solution 2:
+Nonunique; nonresolvable
+Complement: Design R109, Solution 2
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Groups: (6,2)
+Plan:
+4
+21978632OTS I
+11
+127
+1
+10
+10
+0259348
+9
+10
+6
+8
+11
+12
+11 6
+1
+7
+25936IT4
+CH204817235
+9
+11
+6
+856022-7413
+524
+5
+2
+4
+1
+11
+6453H
+786
+11
+8 1
+6 7
+9
+82029
+12
+10
+11
+3202
+231547128690
+1 21 9 13
+17 6 7 8
+17 1 5
+21
+13
+10 11 12
+21 17 1
+5
+9 14 15 16
+9
+13 21
+1
+5 18 19 20
+13
+5 17 9 1 22 23 24
+using cycles of length 4 and cycling
+within the six subsets of treatments 1-4,
+5-8, 9-12, 13-16, 17-20, and 21-24. Each
+position within blocks contains a
+replication.
+=
+5
+1
+14
+= = 2
+Design R190: v= 48, r = 8,
+k = 8,
+λ,
+=
+4,
+b= 48
+λ2 1
+=
+C 1
+E,
+=
+=
+m 12, n = 4,
+8/15, c₂ = 1/15, H= 27/2, A = 45
+.94, E₂ = .88, E = .89
+Solution:
+2
+Nonresolvable
+Complement: Not listed, r =40
+Dual: Self dual, Hoffman (1963)
+Groups: (12,4)
+Design R187: v= 14,
+c₁ = 8/9,
+E,
+.98,
+=
+m= 2,
+r = 8,
+n = 7,
+k = 8,
+b
+λ₁
+=
+7, λ2
+C 2 -8/21, H= 91/8, ▲ = 441/16
+E₂ = .84, E= .90
+Solution: Unique; nonresolvable
+Complement: A disconnected design
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Groups: (2,7)
+Plan: Cyclically develop, modulo 14, the single
+initial block:
+1 2 3 5 7 9 11 13
+Each position within blocks contains a
+replication.
+(Plan continued on next page)
+224

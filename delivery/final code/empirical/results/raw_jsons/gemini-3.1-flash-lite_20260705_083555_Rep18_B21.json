@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most accurate, concise, and logical step-by-step guide for the departure process requested.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Includes helpful tips like using WiFi and checking banned items, though slightly less structured than Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on arrival procedures rather than the departure process requested, making it less relevant for this guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Completely fails to address the airport navigation guide requirement, focusing instead on general tourism advice.",
+      "rank": 4
+    }
+  ]
+}

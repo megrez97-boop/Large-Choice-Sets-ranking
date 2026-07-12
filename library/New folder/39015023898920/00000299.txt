@@ -1,0 +1,222 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes - Continued
+Design LS137:v
+=
+=
+100, r =
+81, A
+2,
+k =
+C₁ =
+ni
+Pi
+1/10, c, =
+E₁ = .91, E,
+18, n
+8 9
+72
+=
+=
+10, b = 20
+1,
+16
+=
+P₁ = [214]
+-4/5, H= 3, A = 2
+=
+.83, E
+= .85
+Solution: Unique; affine resolvable
+Complement: Not listed, r
+Dual: Design SR17
+Association Scheme: L,(10)
+Plan: To construct, use
+Set 10.1 once
+Set 10.2 once
+= 18
+Each set constitutes a complete
+replication.
+Design LS138:v = 100, r = 3,
+c =
+1
+1/10, C2
+n₁ =
+=
+27, n 72, λι
+P, {10 16]
+= -7/20, H= 5, A
+E,= .91, E₂ = .87, E = .88
+Solution:
+2
+Affine resolvable
+Complement: Not listed, r
+Dual: Design SR34
+Association Scheme: L,(10)
+Plan: To construct, use
+= 27
+k
+=
+=
+64
+0
+10, b = 30
+1, λ, = 0
+P‚= [ 6 21]
+Р
+=
+6
+Each set constitutes a complete
+replication.
+Design LS140:v = 100, r = 4,
+k = 10,
+b = 40
+=
+18, n
+=
+81, A,
+=
+8 9
+72
+=
+E, .91, E,
+=
+P₂
+1/10, c₂ = -4/5, H= 6, A = 8
+=
+.83, E = .85
+Solution: Unique; resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Plan: Duplicate the plan of LS137.
+Design LS141:v
+2, A, = 0
+16
+= [ 2 ]
+64
+Association Scheme: L,(10)
+CI
+=
+1/10, C2
+Solution:
+= 36
+=
+100, r = 6, k =
+10, b = 60
+ni
+=
+27, n
+Resolvable
+n₁ =
+= 54
+k = 10, b = 80
+63, λ, 2, λε
+Set 10.1
+once
+Set 10.2
+once
+Set 10.3 once
+Each set constitutes a complete
+replication.
+Design LS139:v = 100, r = 4,
+C₁ =
+1/10,
+ni
+=
+36, n
+=
+P, [14 21]
+=
+42
+63, λ,
+C: -1/5, H= 7, A
+E, .91, E, = .88, E = .89
+=
+Solution:
+Affine resolvable
+Complement: Not listed, r = 36
+Dual: Design SR51
+Association Scheme: L,(10)
+Plan: To construct, use
+Set 10.1 once
+Set 10.2 once
+Set 10.3 once
+Set 10.4
+once
+k
+=
+=
+-
+10, b = 40
+1, λε 0
+12 24
+‚= [
+P₂
+= 12
+38
+=
+=
+72, A, 2, λε 0
+Pi
+P₁-¹016]_P,= [ 6 21]
+=
+56
+-7/20, H= 10, ▲ = 24
+E,= .91, E, = .87, E = .88
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(10)
+Plan: Duplicate the plan of LS138.
+Design LS142:v = 100, r = 8,
+36, n₁ =
+=
+50
+= 0
+24
+38
+P.-[1421] P.-[123]
+=
+1/10, c, = -1/5, H= 14, A = 48
+с
+=
+E,
+=
+.91, E,
+=
+Solution:
+.88, E = .89
+Resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(10)
+= 72
+Plan: Duplicate the plan of LS139.
+k = 10, b = 60
+18, n
+81, A, 3, λε
+8 97
+Design LS143:v =
+n₁ =
+100, r = 6,
+P
+CI
+=
+1/10, C
+=
+72
+=
+= 54
+=
+P,= [
+= 18
+= 0
+2 16
+64
+-4/5, H= 9, A
+E, 91, E, .83, E = .85
+=
+=
+Solution: Unique; resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(10)
+Plan: Repeat the plan of LS137 three times.
+287

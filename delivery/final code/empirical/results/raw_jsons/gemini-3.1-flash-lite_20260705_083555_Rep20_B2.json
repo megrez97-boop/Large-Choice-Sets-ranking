@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most comprehensive, step-by-step guide for the entire airport process from check-in to boarding.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers excellent practical advice but fails to provide a complete step-by-step guide for the boarding process.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is too brief and focuses only on arrival rather than the full departure process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The content is overly conversational, lacks a clear step-by-step structure, and is incomplete.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most professional, clear, and comprehensive step-by-step guide suitable for a travel influencer's audience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Effectively incorporates specific cultural context about Japan, though it lacks the requested three-point advice section.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is functional but the advice section is poorly written and lacks the requested depth.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Fails to provide the required step-by-step airport navigation guide, focusing only on general travel tips.",
+      "rank": 4
+    }
+  ]
+}

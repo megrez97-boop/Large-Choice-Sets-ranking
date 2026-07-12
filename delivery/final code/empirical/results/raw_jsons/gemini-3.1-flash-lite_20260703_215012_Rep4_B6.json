@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most comprehensive, structured, and accurate step-by-step guide specifically tailored for a Japanese airport experience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Includes essential Japanese-specific procedures like iris scanning and fingerprinting, though it lacks the requested influencer tone.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Captures the influencer persona well but fails to provide the required step-by-step guide for navigating the airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is too generic and lacks the specific context of navigating a major Japanese airport.",
+      "rank": 4
+    }
+  ]
+}

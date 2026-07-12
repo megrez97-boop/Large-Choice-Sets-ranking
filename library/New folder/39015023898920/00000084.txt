@@ -1,0 +1,133 @@
+The block estimates, &, and position effect estimates, ô, along with their standard deviations are given
+below:
+ĥ
+ρ
+2.67714
+2.00636
+2.44136
+2.53492
+-0.08075
+s.d. (b) = 0.16462
+0.25525
+0.07925
+-0.25375
+s.d. (p) = 0.17361
+2.74458
+1.77525
+2.24847
+2.13125
+2.75547
+2.11269
+6.2. Inter-block analysis. The auxiliary analysis of variance table is given in Table 21. The weights are
+ŵ = 11.00874
+The matrix to be inverted is
+where
+ŵ'
+=
+2.217455.
+a
+b b
+b
+b b b c
+b
+a
+b
+b
+b
+c
+C
+b
+43
+C
+b
+C
+b
+b
+a
+b
+C
+b
+C
+b
+C
+b
+b
+b
+b
+a
+C
+C
+b
+C
+b
+b
+(wrl – (w — ŵ') NN'):
+=
+b
+b
+C
+C
+a
+b
+b
+b
+b
+k
+b
+C
+b
+C
+b
+a
+b
+b
+C
+b
+b
+C
+C
+b
+b
+b
+a
+C
+b
+b
+C
+b
+b C
+b
+b
+C
+a
+b
+b
+C
+b
+C
+49
+C
+C b b
+b
+b
+90
+C
+b
+b
+a
+b
+c b
+b
+b
+b
+a
+and
+a = 35.2437
+b 2.19782
+c = 4.39564.
+The inverse, U, has the same pattern, with the values for the corresponding element being
+ua = 0.035022
+and
+up 0.0081387
+Uc 0.0096292.
+72

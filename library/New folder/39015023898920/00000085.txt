@@ -1,0 +1,40 @@
+Some useful vectors for the estimation of the treatment means, ŵT, (ŵ—ŵ')N · B/k and their difference
+ŵT — (ŵ — ŵ' )N · B/k are given below:
+-
+·
+ŵT
+(ŵ — ŵ')N · B/k
+Difference
+103.4822
+85.0117
+18.4704
+97.7576
+80.2644
+17.4932
+100.8401
+81.4732
+19.3668
+99.2988
+77.3413
+21.9575
+103.0418
+87.3194
+15.7224
+105.5738
+81.3634
+24.2105
+101.0602
+76.9677
+24.0925
+115.8120
+83.2974
+32.5145
+102.7116
+87.5172
+15.1943
+102.0510
+83.2755
+18.7756
+The estimates of the inter-block treatment means are given in Table 24A (4th column) and their standard
+deviations in Table 24B. The position effect estimates are unchanged from the intra-block analysis.
+73

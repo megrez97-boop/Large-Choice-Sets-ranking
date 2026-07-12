@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly captures the influencer persona while providing a clear, concise guide and relevant advice for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a very practical and logical flow for arrivals, though it lacks the specific influencer tone requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The advice is generic and references TSA, which is not applicable to Japanese airports, making it inaccurate.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The steps are logically incorrect, as baggage drop-off and check-in occur before security, not after customs.",
+      "rank": 4
+    }
+  ]
+}

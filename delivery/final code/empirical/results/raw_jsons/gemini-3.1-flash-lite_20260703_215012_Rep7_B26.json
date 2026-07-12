@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most professional, structured, and comprehensive guide that perfectly matches the influencer persona and requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Friendly and helpful tone, but lacks the professional polish and clear formatting found in Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers good practical advice but fails to provide a clear, step-by-step navigation guide for the airport process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses only on arrival procedures rather than the departure process required for the Facebook post guide.",
+      "rank": 4
+    }
+  ]
+}

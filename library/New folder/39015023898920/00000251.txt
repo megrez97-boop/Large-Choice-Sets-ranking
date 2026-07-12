@@ -1,0 +1,303 @@
+TABLE XI. Partially balanced designs based on triangular association schemes - Continued
+Design T21:
+C 1
+=
+C1
+y =
+21,
+r = 10, k = 3,
+b
+=
+10, n,= 10, A₁
+5 4
+=
+2,
+λε
+=
+70
+0
+P,
+4
+P₁ = [ + ]
+1/7, =
+E₁ = .70, E, = .62, E = .66
+-3/14, H= 38/3, A
+Solution:
+5-resolvable
+Complement: Not listed, r
+=
+60
+1, 2, 3
+Dual: Not a D(x), x =
+Association Scheme: T(7)
+Plan: Duplicate the plan of T20.
+Design T22:
+2
+=
+112/3
+V = 21, t = 10, k = 3,
+n₁ =
+10, n
+=
+P‚- 5 :]
+{ 5
+P,
+=
+10, λ, 0, λε
+4
+b = 70
+=
+P₁= [ * ]
+2
+c -2/21, c, = 1/7, H = 46/3, ▲ = 56
+E,= .65, E,= .70, E = .67
+Complement: Not listed, r
+Dual: Irregular
+= 60
+220
+614 16
+Design T24:
+v = 36, r = 7,
+k
+ni
+P
+=
+1
+14, n,= 21,
+7 6
+15
+λ,
+=
+-
+3,
+b = 84
+1, A₂ = 0
+P₁ = [410]
+2
+c, = 1/12, c₂ = -5/24, H= 25/3, ▲ = 16
+E₁ = .69, E, = .62, E = .65
+2
+Complement: Not listed, r
+Dual: Not a D(x), x = 1, 2
+Association Scheme: T(9)
+= 77
+Plan: Apply the construction procedure
+described for design T14 to the
+triangular association scheme with
+parameter n = 9.
+Design T25: v = 45, r = 8, k
+C₁ =
+1/15, C₂
+ni
+=
+=
+16, n
+P, { 8
+=
+=
+21]
+28, A
+=
+=
+3,
+1,
+λ,
+b = 120
+4 12
+P,= [ 4
+-1/5, H= 28/3, A = 20
+E= .68, E, .63, E = .64
+Complement: Not listed, r
+Dual: Not a D(x), x = 1, 2
+Association Scheme: T(10)
+= 112
+Plan: Apply the construction procedure
+described for design T14 to the
+triangular association scheme with
+parameter n = 10.
+C₁ =
+=
+3/55, C1
+v = 55, r = 9, k = 3,
+=
+=
+18, n
+9 87
+P,{
+=
+28]
+36, A, =
+15
+=
+0
+b = 165
+1,
+2
+P₁= [
+λε
+4 14
+= 0
+21
+-21/110, H= 31/3, A = 220/9
+.68, E, = .63, E = .64
+Association Scheme: T(7)
+Plan: 1 12 19
+3 10 15
+5 11 16
+1 12 21
+3 10 20
+5 12 20
+1 13 17
+3 11 14
+5 12 20
+1 13 18
+3 11 19
+6 7 17
+1 14 18
+3 13 21
+6
+7 19
+1 14 20
+3 13 21
+6
+8 13
+1 15 16
+4
+7 18
+6
+8 19
+Design T26:
+1 15 19
+4
+7 21
+6
+9 12
+n
+1
+1 16 21
+4
+8 14
+6 9 17
+1 17 20
+4
+8 21
+6 10 12
+2
+8 20
+4 10 12
+6 10 13
+2
+8 21
+4 10 18
+2
+9 17
+4 11 12
+6 14 16
+E,
+2
+9 21
+4 11 14
+7 16 21
+2 10 16
+4 15 17
+7 17 20
+2 10 20
+4
+15 17
+8 14 20
+2 11 16
+7 16
+8 15 19
+2 11 17
+7 18
+9 12 21
+8 13
+9 14 18
+8 15
+10 13 18
+3 7 19
+9 15
+10 15 16
+3
+7 20
+9 18
+11 12 19
+3
+9 14
+5 11 13
+11 13 17
+3
+9 15
+Design T27:
+Design T23:
+28,
+V =
+n₁ =
+r = 6,
+k = 3, b = 56
+n₁ =
+12, n
+6 5
+10
+15, A,
+Р
+Solution:
+2 18 19
+2 18 19
+5555555
+=
+Nonresolvable
+Pi
+=
+=
+1, λ, 0
+P₁ = [ 4 8]
+2
+C₁ = 3/28, =
+C 2 -3/14, H= 22/3, ▲ = 112/9
+E,= .69, E, = .62, E = .65
+Complement: Not listed, r
+Dual: Not a D(x), x = 1, 2
+Association Scheme: T(8)
+Plan: Apply the construction procedure
+described for design T14 to the
+triangular association scheme with
+parameter n = 8.
+=
+50
+Solution: Nonresolvable
+Complement: Not listed, r = 156
+Dual: Not a D(x), x = 1, 2
+Association Scheme: T(11)
+Plan: Apply the construction procedure
+described for design T14 to the
+triangular association scheme with
+parameter n = 11.
+CI
+=
+1/22,
+v = 66, r = 10, k = 3,
+45, A,
+=
+20, n,
+9
+P. 103%]
+36
+=
+b = 220
+=
+1, λε 0
+16
+P₁ = [428]
+P,
+=
+C1 -2/11, H= 34/3, A = 88/3
+E,= .68, E₂ = .63, E = .64
+Complement: Not listed, r = 210
+Dual: Not a D(x), x = 1, 2
+Association Scheme: T(12)
+Plan: Apply the construction procedure
+described for design T14 to the
+triangular association scheme with
+parameter n = 12.
+239

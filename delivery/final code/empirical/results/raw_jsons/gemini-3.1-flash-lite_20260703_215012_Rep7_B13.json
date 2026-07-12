@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, structured, and accurate step-by-step guide specifically including immigration for international travel.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Clear and concise, but lacks the specific immigration step required for international travel in Japan.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is vague and lacks a clear structure, making it difficult for a first-time traveler to follow.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to provide any airport navigation steps, focusing instead on general travel advice, which ignores the prompt.",
+      "rank": 4
+    }
+  ]
+}

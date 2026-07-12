@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a clear, comprehensive step-by-step guide and includes the required three bits of advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Includes helpful tech-focused tips like the airport app, but lacks a distinct separation for the advice section.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is functional but lacks the professional tone and specific advice section requested in the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to provide a step-by-step guide for the airport process, focusing instead on general cultural etiquette.",
+      "rank": 4
+    }
+  ]
+}

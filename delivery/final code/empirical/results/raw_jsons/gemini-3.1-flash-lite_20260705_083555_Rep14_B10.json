@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a comprehensive, structured step-by-step guide and relevant advice tailored to the airport experience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a clear, logical process for airport navigation but lacks the specific advice section requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes helpful advice but the guide is incomplete as it only covers arrival, not departure.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Completely irrelevant to the task as it discusses travel deals and destinations instead of airport procedures.",
+      "rank": 4
+    }
+  ]
+}

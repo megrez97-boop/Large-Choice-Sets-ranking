@@ -1,0 +1,63 @@
+Fisher, R. A., and Yates, F. (1938), Statistical Tables for Biological, Agricultural and Medical Research. First edition (Oliver and Boyd,
+London).
+Fisher, R. A., and Yates, F. (1963), Statistical Tables for Biological, Agricultural and Medical Research. Sixth edition (Oliver and Boyd,
+London).
+Freeman, G. H. (1957), Some further methods of constructing regular group divisible incomplete block designs, Ann. Math. Statist.
+28, 479-487.
+Hall, M., Jr. (1967), Combinatorial Theory (Blaisdell Publishing Co., Waltham, Mass.).
+Hall, M., Jr., and Swift, J. D. (1955), Determination of Steiner triple systems of order 15, Math. Tables and Other Aids to Computation
+9, 146-152.
+Hall, M., Jr., Swift, J. D., and Killgrove, R. (1959), On projective planes of order nine, Math. Tables and Other Aids to Computation
+13, 233-246.
+Hall, M., Jr., Lane, R., and Wales, D. (1970), Designs derived from permutation groups, J. Comb. Theory 8, 12–22.
+Hanani, H. (1961), The existence and construction of balanced incomplete block designs, Ann. Math. Statist. 32, 361-386.
+Harshbarger, B. (1946), Preliminary report on rectangular lattices, Biometrics Bulletin 2, 115–119.
+Harshbarger, B. (1947), Rectangular lattices, Virginia Agricultural Experiment Station Memoir, 1.
+Henderson, M. (1964), Generalized finite planes, Colloquium Mathematicum 13:1, 29–36.
+Hoffman, A. J. (1960), On the uniqueness of the triangular association scheme, Ann. Math. Statist. 31, 492-497.
+Hoffman, A. J. (1963), On the duals of symmetric partially balanced incomplete block designs, Ann. Math. Statist. 34, 528-531.
+Ikeda, S. (1967), On a method of construction of group divisible designs, University of North Carolina, Institute of Statistics Mimeo.
+Series, No. 521, 18 pages.
+John, J. A. (1966), Cyclic incomplete block designs, J. Royal Statist. Soc. 28B, 345-360.
+John, J. A., et al. (1972), Cyclic Designs, Nat. Bur. Stand. (U.S.), Appl. Math. Ser. 62, 76 pages.
+Kitagawa, T. and Mitome, M. (1955), Tables for the Design of Factorial Experiments (Dover Publications, New York).
+Liu, C. (1963), A method of constructing certain symmetrical partially balanced designs, Scientia Sinica 12, 1935–1937.
+Liu, C., and Chang, L. (1964), Some PBIB (2) designs induced by association schemes, Scientia Sinica 13, 840-841.
+Liu, W., and Chang, L. (1964), Group divisible incomplete block designs with parameters v≤ 10 and r≤ 10, Scientia Sinica 13, 839-840.
+Masuyama, M. (1965), Cyclic generation of triangular PBIB designs, Rep. Statist. Appl. Res., Japanese Union of Scientists and Engineers
+12, 73-81.
+Masuyama, M. (1967), Construction cyclique de blocs incomplets partiellement equilibres, Revue de l'Institute International de
+Statistique 35:2, 107-124.
+Mesner, D. M. (1967), A new family of partially balanced incomplete block designs with some latin square design properties, Ann. Math.
+Statist. 38, 571-581.
+Nair, K. R. (1951), Rectangular lattices and partially balanced incomplete block designs, Biometrics 7, 145–154.
+Nandi, H. K. (1946a), Enumeration of non-isomorphic solutions of balanced incomplete block designs, Sankhyā 7, 305–312.
+Nandi, H. K. (1946b), A further note on non-isomorphic solutions of incomplete block designs, Sankhyā 7, 313–316.
+Preece, D. A. (1966), On Addleman's 217-9 resolution V plan. Technometrics 8, 705-707.
+Preece, D. A. (1967), Incomplete block designs with v=2k, Sankhyā 29A, 305–316.
+Ramakrishnan, C. S. (1956), On the dual of a PBIB design and a new class of designs with two replications, Sankhyā 17, 133–142.
+Rao, C. R. (1947), General methods of analysis for incomplete block designs, J. Amer. Statist. Assn. 42, 541–561.
+Ray-Chandhuri, D. K. (1962), Application of the geometry of quadrics for constructing PBIB designs, Ann. Math. Statist. 33, 1175-1186.
+Ray-Chandhuri, D. K. (1965), Some configurations in finite projective spaces and partially balanced incomplete block designs, Canad.
+J. Math. 17, 114–123.
+Roy, J. and Laha, R. G. (1956), Classification and analysis of linked block designs, Sankhyā 17, 115–132.
+Roy, J. and Laha, R. G. (1957), On partially balanced linked block designs, Ann. Math. Statist. 28, 488–493.
+Roy, P. M. (1954a), On the method of inversion in the construction of partially balanced incomplete block designs from the corresponding
+BIB designs, Sankhyā 14, 39–52.
+Roy, P. M. (1954b), Inversion of incomplete block designs, Calcutta Math. Society Bull. 46, 47–58.
+Roy, P. M. (1954c), On the relation between BIB and PBIB designs, J. Indian Soc. Agric. Statist. 6, 30-47.
+Rupp, M. (1952), The complete solutions of balanced incomplete block designs with ten or fewer replications, National Bureau of Stand-
+ards Report 1896.
+Ryser, H. J. (1963), Combinatorial Mathematics, Carus Mathematical Monograph No. 14, The Mathematical Association of America,
+(distributed by John Wiley and Sons).
+Saraf, W. S. (1961), On the structure and combinatorial properties of certain semi-regular group divisible designs, Sankhyā 23A,
+287-296.
+Seiden, E. (1961), On a geometrical method of construction of partially balanced designs with two associate classes, Ann. Math. Statist.
+32, 1177-1180.
+Seiden, E. (1963a), On necessary conditions for the existence of some symmetrical and unsymmetrical triangular PBIB designs and BIB
+designs, Ann. Math. Statist. 34, 348–351.
+Seiden, E. (1963b), A method of construction of resolvable BIBD, Sankhyā 25A, 393–394.
+Shrikhande, S. S. (1951), Designs for two-way elimination of heterogeneity, Ann. Math. Statist. 22, 235–247.
+Shrikhande, S. S. (1952), On the dual of some balanced incomplete block designs, Biometrics 8, 66–72.
+Shrikhande, S. S. (1959a), On a characterization of the triangular association scheme, Ann. Math. Statist. 30, 39–47.
+313

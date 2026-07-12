@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Captures the futuristic, innovative spirit of 2050 travel with creative, high-tech concepts like orbital flights.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a grounded, realistic vision of future airport automation, though it lacks the imaginative flair of Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on emotional experience but fails to describe specific futuristic technologies or airport infrastructure.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Describes current, stressful airport procedures rather than a futuristic, innovative experience for travelers.",
+      "rank": 4
+    }
+  ]
+}

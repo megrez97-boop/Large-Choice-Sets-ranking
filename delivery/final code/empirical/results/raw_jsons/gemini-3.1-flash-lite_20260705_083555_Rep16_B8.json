@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most accurate, logical, and actionable step-by-step guide for a first-time traveler.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Engaging tone suitable for social media, but the steps focus on arrival rather than departure.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Contains useful cultural tips but lacks a clear, structured step-by-step guide for the departure process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The instructions are vague and lack the necessary detail for a first-time traveler to navigate successfully.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+The reader is then informed that for k=4, v=10, r=2 there is only one design, designated T28, available;
+for r=4 he can choose among three designs, one singular GD and two triangular designs; for r=6 there is
+only the triangular design T30 available; but for r=8 and 10, there are five choices each, as indicated above.
+The user is then led to one or more tables among Tables IV through XIX depending upon his choices.
+Table I. Glossary and Notation. This table explains the concisely presented information in the tables.
+Abbreviations and symbols are explained, as are technical terms. Terminology not explained in the intro-
+ductory chapters is generally found here.
+Table II. Association Schemes for Catalogued Designs. The association schemes for GD designs, tri-
+angular designs, Latin square type designs, and cyclic designs have been standardized. These association
+schemes are referred to by symbols in Tables V, VII, IX, XI, XIII, and XV where the plans for the above
+types are detailed. Thus the standardized association scheme for a GD design having m=2 groups and
+n = 4 treatments per group is referred to by the symbol "(2,4)" opposite "Groups" in the Tables V, VII and
+IX and reference to section A of Table II informs us that the standardized association scheme (2,4) is
+1 3 5 7
+2 4 6 8
+and that there are 11 GD designs identified as having this particular association scheme. The symbol T(n)
+identifies the standardized triangular association scheme having v=n(n−1)/2 treatments. For the Latin
+square types the symbol Li(n) identifies a standardized Latin square type Li(n) association scheme con-
+sisting of a particular nXn array of treatment symbols 1, 2, . . ., n²=v along with (i-2) specific mutually
+orthogonal Latin squares employed to complete the scheme as explained in section C of Table II. For cyclic
+association schemes the symbol C (v: x1, x2, . . ., xn,) indicates that the n, first associates of treatment i
+are obtained by adding i to X1, X2,
+and reducing modulo v whenever i+x¡ exceeds v. The five stand-
+Xn₁
+ardized cyclic association schemes are given in section D and are referred to in Table XV more briefly by
+the symbol C (v).
+· .9
+Table III. Sets of Blocks Constituting Replications for Partially Balanced Designs Based on Group
+Divisible and Latin Square Types of Association Schemes.
+It was found that the plans for D(2) designs of GD and Latin square types sometimes could be expressed
+in terms of sets of blocks, each constituting a complete replication of treatments and that these replications
+were being repeated in many designs. This fact was utilized to reduce printing costs by displaying the replica-
+tion sets in Table III and then referring to these in Tables VII, IX, and XIII.
+The eight "even" numbered Tables IV, VI, . . ., XVIII provide a compact source of information for all
+D(2) designs of the eight classifications. Each design has a reference number, such as S32 or LS 113, and
+these occupy the left-most columns of the tables. Horizontal lines contain information about the design
+whose reference number appears at the left.
+For GD designs succeeding columns give the design parameters v, r, k, b, m, n, λ₁, and λ2; for the other
+types the column headings are for v, r, k, b, n₁, n2, A1, A2. The next three columns are occupied by efficiency
+factors E1, E2, and E which are computed from formulas given in chapter III. The next column contains the
+number of experimental units in the design, N=vr=bk, and provides the user a quick index as to the size
+of the design.
+The next column heading is "Unique Solution" and the entry will be "Yes" meaning that the solution
+is unique (up to an isomorphism), "No", meaning that two or more combinatorially distinct plans or solutions
+are known to be existent, and these plans are very frequently presented in the following "odd" numbered
+table; "?", meaning that the uniqueness status for this design specification is an unsettled question.
+The next column is headed "Complementary Design." The design complementary to the given one will
+be a design with the same number of treatments v and the same number b of blocks and its jth block will con-
+sist precisely of those treatments which do not appear in the jth block (j = 1, 2, . . ., b) of the given design.
+The new design has block size v-k and b-r replications. The entries in this column vary. If the complementary
+design is small (i.e., has 10 or fewer replications) it will be identified specifically, as "Design SR6" for ex-
+ample; whereas if it is large the entry may be "NL" followed by "r=xx" meaning the complementary
+design is a design with the same association scheme, is not listed in this book and it has r=xx replications.
+4

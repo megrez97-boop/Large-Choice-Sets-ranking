@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best alignment with the prompt by providing a clear, professional guide and three distinct, actionable pieces of advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Good tone for an influencer, but focuses on arrival rather than the departure process requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a decent guide, but the advice section is missing and the formatting is slightly disjointed.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Weakest entry as it references TSA, which is irrelevant to Japanese airports, and lacks a structured advice section.",
+      "rank": 4
+    }
+  ]
+}

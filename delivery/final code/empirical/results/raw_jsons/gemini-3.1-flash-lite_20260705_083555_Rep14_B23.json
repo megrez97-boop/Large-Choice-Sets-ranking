@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Perfectly captures the influencer persona while providing a clear, actionable, and well-structured guide for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a very logical and professional step-by-step process, though it lacks the engaging influencer tone.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is helpful but focuses on arrival rather than the requested departure process for first-time travelers.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to provide a comprehensive step-by-step guide for navigating the airport, focusing only on etiquette.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+(d) S²= Total sum of squares
+= (2.4)²+(2.5)2+
+= 9.1733
+·
++ (3.1)² — (164.0)2/60
+is obtained by taking the sum of squares of all the observations and subtracting the correction factor, G²/N.
+(e) S= Error sum of squares
+=Total sum of squares-S-St
+=9.1733-1.5641-4.9233
+= 2.6859
+(f) The treatment mean square, s=0.1117, and the error mean square, s2=0.08664, are obtained by
+dividing the corresponding sums of squares S and S2 by the respective degrees of freedom, and finally the
+F-ratio, si/s, is obtained by dividing the treatment mean square by the error mean square.
+We thus get the following "intra-block analysis of variance table."
+TABLE 11
+INTRA-BLOCK ANALYSIS OF VARIANCE (UNGROUPED BLOCKS)
+Source of
+variation
+Degrees of
+freedom
+Sum of squares
+Treatment
+v-1=14
+S² = 1.5641
+Mean square
+s²=0.1117
+(adjusted)
+Blocks
+(unadjusted)
+Error
+Total
+b-1=14
+St2=4.9233
+N-v-b+1=31
+N-1=59
+S2=2.6859
+S²=9.1733
+s2=0.08664
+F=s/s1.29
+The observed F-ratio of 1.29 with 14 and 31 degrees of freedom is not significant at the 5 percent level.
+The variance of the difference between the effects of ith and uth treatments is given by (3.11) and is
+estimated by replacing o² by s (taken from Table 11). Hence the estimated variance of the difference be-
+tween two treatments which are first associates (i.e., belong to the same group) is
+2s
+T
+2¹² (k − 1) = 2(0.08664)
+(4
+-
+4
+= 0.05776.
+Likewise the estimated variance of the difference between two treatments which are second associates
+(i.e., belong to different groups) is
+4
+4
+25² (k=92) =
+2s C2 2(0.08664)
+15
+=
+k-1
+4
+4 1
+21435
+28
+(0.08664)
+= 0.05391.
+Since each treatment has n₁ =n-1 1st associates and n₂ = n(m-1) second associates, the estimated
+average variance is
+0.05776 (n-1)+0.05391 (m-1)n
+v-1
+=0.054460.
+45

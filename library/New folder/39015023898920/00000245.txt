@@ -1,0 +1,192 @@
+TSD, Hoffman (1963) and Clatworthy | Liu (1963) [Chang, Liu and Liu (1965),
+(1971).
+Masuyama (1965)].
+The BIB design (28, 36, 9, 7, 2), Roy and BCS (1954).
+Laha (1956).
+The BIB design (10, 45, 9, 2, 1), Roy and BCS (1954) [Masuyama (1965)].
+T84
+15
+15
+∞
+6
+.96
+.94
+.95
+135 ?
+1 T61
+T85
+36
+7
+ས
+9
+28
+143
+21 1
+2 .90 .92
+.91 252 ?
+1 NL, r=21
+T86
+45
+155
+2
+9 10 16 28 1 0 .91 .83
+.86
+90 Yes
+1 NL, k=36
+Laha (1956).
+T87
+T88
+T89
+T90
+†T91
+T92
+15
+46
+444445
+20 16 28
+30
+16
+40 16
+666
+28
+10 9 50
+16 28
+9 45
+16 28
+22222
+2
+28 3
+234
+0 .91
+.83 .86
+1
+NL, r=16
+$16.
+0 .91 .83 .86
+1
+NL, r=24
+$47.
+0
+.91 .83 .86
+1
+NL, r=32
+$78.
+4 10
+6
+8
+6 3
+13
+5
+022
+.91
+.83
+.86
+1
+NL, r=40
+$122.
+.90
+.91 .91 405 ?
+1 NL, r=36
+SD, Hoffman (1963).
+.97 .95 .96
+60 Yes
+1 T48
+Laha (1956).
+T93
+T94
+1125
+8 10
+12
+21
+8 6 6
+10 10 21 10 10 6
+69 6
+.97 .95
+3
+T95
+21
+21 10
+10 10 21 10 10
+5
+35
+55
+55
+35
+99
+2170
+120 Yes
+1
+T49
+$58.
+1
+NL, r-11
+SD, Hoffman (1963).
+909
+210 ?
+1 NL, r=11
+SD, Hoffman (1963).
+T96
+55
+55
+T97
+T98
+T99
+T100
+55.10
+2345
+9999
+4680
+55555
+2 10 11 18
+36
+1
+0 .92
+10 22 18 36
+10 33 18 36
+10 44 18 36
+10 55 18
++ Plan not verified by computer.
+36
+2
+2345
+DO
+0
+.92
+0 .92
+.92
+0 .92
+ឌ ឌ ឌ ឌ
+Clatworthy (1956).
+Clatworthy (1956).
+Clatworthy (1956).
+Clatworthy (1956).
+Clatworthy, new.
+The BIB design (6, 15, 10, 4, 6), Roy and BCS (1954).
+The BIB design (11, 55, 10, 2, 1) Roy and
+Laha (1956).
+BCS (1954).
+Liu (1963), [Liu and Chang (1964),
+Chang, Liu and Liu (1965)). Masuyama
+(1965).
+Liu (1963), [Liu and Chang (1964),
+Chang, Liu and Liu (1965)]. Masuyama
+(1965).
+BCS (1954) [Masuyama (1965)].
+.87
+110 Yes
+1 NL, k=45
+3 3 3 3
+8888
+1 NL, r=18
+$17.
+1 NL, r=27
+$48.
+1 NL, r=36
+$79.
+1 NL, r=45
+S123.
+Clatworthy (1956).
+Clatworthy (1956).
+Clatworthy (1956).
+Clatworthy (1956).
+233

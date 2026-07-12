@@ -1,0 +1,169 @@
+TABLE VIII. Regular group divisible designs: parameters and auxiliary information-Continued
+Efficiencies
+Number
+Reference
+number
+V
+1
+E
+N=VI
+Unique
+solutions
+of solutions Complementary design
+given
+Dual designs
+Literature sources
+E₁
+E,
+E
+R197
+18 9 9 18 9 2
+.99 .94
+.94
+162 ?
+2 SC
+Sol. 1 & 2: SD, Hoffman (1963).
+R198
+24
+9
+9
+24 3
+1.99
+.76
+16
+.82
+22
+216 ?
+1 NL, r=15
+Sol. 1: Thompson (1956), Freeman (1957)
+Sol. 2: Ikeda (1967), adapted.
+TSD Hoffman (1963) and Clatworthy Clatworthy (1956) [Freeman (1957)].
+(1971).
+R199
+26
+R200
++R201
+R202
+2228
+26 13 2
+0
+3 .89 .92 .92
+234 ?
+1|| NL, r=17
+SD.
+28 4
+7 5
+2 .95
+.90 .91
+252 ?
+1
+NL, r=19
+SD, Hoffman (1963).
+78 9
+9 78 13
+6
+0
+1
+.89
+.90 90
+702 ?
+1
+NL, r=69
+SD, Hoffman (1963).
+Bannerjee (1951).
+Sprott (1959).
+80 9
+9
+80
+10
+.89
+.90 .90
+720 ?
+1
+NL, r=71
+TSD, Hoffman (1963) and Clatworthy BCS (1954), Bose and Nair (1939), p 359.
+(1971).
+R203 12
+10
+10 12
+4
+3
+.99 .98
+.98
+120 Yes
+1 A disconnected
+design
+TSD, Hoffman (1963) and Clatworthy
+(1971).
+Liu (1963) (John (1966), Clatworthy (1967)]
+R204
+143
+1110
+10 14
+2 7
+8
+6
+.98
+.96 .97
+140 Yes
+1 A disconnected
+TSD, Clatworthy (1971).
+design
+Freeman (1957) [John (1966), Clatworthy
+(1967)].
+R205
+14 10 10
+14 7 2 6
+7.96 .97 .97
+140 ?
+1 R112
+R206
+18
+10
+11110
+18 2
+9
+2
+.99
+.83 .90
+180 Yes
+R207
+27 10 10 27 3
+9
+1 .99
+.76 .82
+270 ?
+1 NL, r=17
+1 A disconnected
+design.
+TSD, Hoffman (1963) and Clatworthy Clatworthy (1956) [John (1966)].
+(1971).
+TSD, Hoffman (1963) and Clatworthy Bose and Nair (1939) [Clatworthy (1956),
+(1971).
+Freeman (1957)].
+TSD, Hoffman (1963) and Clatworthy Clatworthy (1956) [Freeman (1957)].
+(1971).
+R208
+32 10 10 32
+4
+6
+2 .96
+.90
+.92
+20
+320 ?
+1 NL, r=22
+†R209
+75 10 10 75 15
+5
+5
+1 .95
+.90
+.91
+750 ?
+1 NL, r=65
+SD, Hoffman (1963).
+Bose and Nair (1939).
+Freeman (1957).
+180
+† Plan not verified by computer.

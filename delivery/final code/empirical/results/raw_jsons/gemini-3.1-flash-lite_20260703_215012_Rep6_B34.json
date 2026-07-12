@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly balances the step-by-step guide with actionable advice, fitting the influencer persona and word count requirements perfectly.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Very structured and professional, though it lacks the personal influencer tone compared to Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Good structure, but the advice is slightly generic and lacks the depth of the top two options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Lacks clear formatting and paragraph breaks, making it difficult for a traveler to follow quickly.",
+      "rank": 4
+    }
+  ]
+}

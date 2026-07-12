@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best tone for a Facebook influencer and clearly addresses both parts of the prompt with helpful advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a very clear, structured step-by-step guide, though the advice section is repetitive and lacks depth.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is functional but lacks the requested second part with specific advice for avoiding common mistakes.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to provide a step-by-step navigation guide and focuses on irrelevant topics like scams instead of airport procedures.",
+      "rank": 4
+    }
+  ]
+}

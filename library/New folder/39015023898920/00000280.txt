@@ -1,0 +1,273 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes - Continued
+Design LS35: v= 16,
+=
+1/4, C 2
+=
+=
+=
+E, .80, E,
+6,
+n₁ =
+P₁ =[
+1
+=
+r = 10, k 4,
+n2 9,
+2 3
+b
+=
+5, λε
+=
+40
+0
+=
+=
+λ
+8] P₁ = [ 24 ]
+Pa
+-1/2, H= 15, A = 50
+.67, E = .71
+Solution: Unique; resolvable
+Complement: Not listed, r = 30
+Dual: A D(3), WHC (1956)
+Association Scheme: L₂(4)
+Plan: Repeat the plan of LS28 five times.
+Design LS36: v = 16,
+= J
+42
+342
+1
+1
+1 9 13
+13 14 16 5
+5 6 8 10
+Plan:
+1
+4 12 16
+1
+6 10
+1 3 5 13
+759
+15
+39
+14 15 13 6
+16 13 15 8
+11 12 10 16
+3 2 10 14
+10 11 9 15
+12
+9 11 13
+3
+8 12
+6 14
+6 12
+6
+4
+5 11
+15 16 14 7
+3 11 15
+8 16
+10 12 14
+498
+167320S
+5 7 9
+44838567
+272123
+=
+CI -1/8,
+=
+0, λ2 1
+3,
+k = 4,
+b = 12
+ni = 6,
+P
+n₂ =
+9, λ
+=
+2
+3
+316
+P₁ = [ 2 ]
+=
+C 2 1/4, H= 5, A = 6
+E,= .73, E, = .80, E = .77
+Solution:
+Nonunique'; affine resolvable,
+Agrawal (1965)
+Complement: Not listed, k
+= 12
+Dual: Design SR26, Solution 1
+7 11
+8 11 14
+5 12 15
+9 16
+4 7 10 13
+Solution 2: As given by Clatworthy (1967);
+= = 21
+nonunique; resolvable
+Complement: Not listed, r
+Dual: Irregular
+Association Scheme: L,(4)
+Plan: To construct, use
+Set 4.1
+twice
+Set 4.4
+once
+Set 4.2
+twice
+Set 4.5 once
+Association Scheme:
+L₂(4)
+Plan:
+1234
+6 11 16
+1234
+7 12 14
+8 11 13
+6 9 15
+4365
+1234
+5 12 15
+8 9 14
+7 10 13
+8 10 15
+7 9 16
+6 12 13
+5 11 14
+5 10 16
+Remark 1: Upon renaming the associate classes of
+this design it can be shown to be
+isomorphic with design LS29, Solution 1
+which has the L¸(4) association
+scheme.
+*Remark 2: See design M16 which has the same
+parameters but a nonisomorphic plan
+and a pseudo Latin square association
+scheme.
+Design LS37: v=
+n₁ = 6,
+16,
+Р
+1
+P₁ =[
+na
+2 3
+=
+9, λι
+k
+=
+=
+4,
+2
+P₁ = [
+2, λη
+2
+b
+=
+=
+4]
+28
+1
+CI
+=
+13/40, c₂ = 3/20, H = 11, A = 30
+E, .82, E₂
+= .78, E = .79
+Solution 1: As given by BCS (1954); nonunique;
+nonresolvable
+Complement: Not listed, r = 21
+Dual: Not a D(x), x = 1, 2, 3
+Set 4.3 once
+Each set constitutes a complete
+replication.
+Design LS38: v=
+C₁ =
+217,
+c 1
+ni
+=
+=
+16,
+9,
+P,{
+1/7, H
+4
+r = 8,
+=
+20
+k = 4, b = 32
+=
+2, A₂ 1
+º
+3
+= [ 6 ³]
+6, λ₁
+=
+P₁ =
+13, A 42
+=
+E,= .81, E, = .78, E = .80
+Solution:
+Nonresolvable
+Complement: Not listed, r = 24
+Dual: Irregular
+Association Scheme:
+Plan:
+5678123TO 203456
+2901234
+Lj(4)
+11
+9 10
+15
+12
+6
+9
+5 7 10
+13
+10 14
+10 11
+11 12
+12 9
+12
+2 9
+16
+11
+11
+15
+3 10
+4 5
+12
+16
+11
+1 6
+1
+13 9
+1
+14 10
+15 11
+16
+85679A2I234K345
+67855OTVORILSK3
+H29O34RK4I237856
+34566785
+12341234
+456786345
+4
+10
+15
+11
+16
+12 13
+9 14
+13 14 16
+16
+14 15 13
+13
+15 16 14
+14
+16 13 15
+15 4 5
+BK347823412
+Association Scheme: L₂(4)
+268

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most professional, clear, and actionable step-by-step guide that perfectly fits the requested word count constraints.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good structure and helpful advice, but the guide is slightly less detailed regarding security procedures than Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is overly simplistic and lacks the professional tone expected for a travel influencer's audience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Too specific to one airport and fails to provide a general guide applicable to all major Japanese airports.",
+      "rank": 4
+    }
+  ]
+}

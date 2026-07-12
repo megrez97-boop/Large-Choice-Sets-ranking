@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best structure; it clearly separates the guide and advice as requested and includes essential immigration steps for Japan.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a clear, logical step-by-step guide, but fails to include the required three-sentence advice section.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Too informal and lacks a structured step-by-step format, making it less effective as a guide for first-time travelers.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes irrelevant pre-airport steps like booking flights, which deviates from the specific task of navigating the airport.",
+      "rank": 4
+    }
+  ]
+}

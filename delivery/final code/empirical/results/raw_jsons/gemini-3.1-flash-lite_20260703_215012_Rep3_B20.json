@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most comprehensive, step-by-step guide and actionable advice tailored to the influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers practical advice and a clear process, though it lacks the engaging influencer tone of Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is incomplete as it focuses on arrival rather than the departure process requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to provide the required step-by-step guide or specific advice for navigating the airport.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Perfectly captures the futuristic 2050 vision with creative, high-tech imagery and professional, catchy marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong focus on user experience and operational efficiency, though the slogans are less evocative than Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Relatable and clear, but feels more like a current-day review rather than a visionary 2050 concept.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Lacks a narrative story and fails to provide the required marketing slogans, making it the weakest submission.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most comprehensive, accurate, and professional step-by-step guide suitable for a travel influencer's audience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Clear and logical flow, though it lacks the specific actionable advice requested for the second part.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too focused on airport amenities rather than the essential procedural steps required for a first-time traveler.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Vague instructions and relies on external search engines rather than standard airport procedures, making it unreliable.",
+      "rank": 4
+    }
+  ]
+}

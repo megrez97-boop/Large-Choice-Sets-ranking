@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Best fit for the context as it specifically addresses the Japanese airport experience and provides clear, logical steps.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good tone for an influencer, but it focuses on US airports rather than the requested Japanese airport context.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Too vague and lacks a structured step-by-step process for navigating a major international airport terminal.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The steps are logically incorrect, suggesting baggage claim before check-in for a departing traveler.",
+      "rank": 4
+    }
+  ]
+}

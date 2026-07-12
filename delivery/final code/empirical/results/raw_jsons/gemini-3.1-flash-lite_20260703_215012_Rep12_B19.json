@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most structured, step-by-step guide for the departure process requested in the prompt.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers excellent cultural and logistical advice for Japan, though it focuses on arrival rather than departure.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains significant grammatical errors and lacks the professional tone required for an influencer's post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to address the departure process entirely, focusing only on arrival and customs procedures.",
+      "rank": 4
+    }
+  ]
+}

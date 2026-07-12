@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most innovative and detailed concept with the unique Convini-Pods, perfectly aligning with the influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a strong, professional vision of 2050 with seamless AI integration, though lacks the creative flair of Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on practical convenience but feels less futuristic and innovative compared to the AI-driven concepts in other options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Lacks a cohesive narrative structure and feels more like a collection of random ideas rather than a futuristic vision.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most structured, clear, and professional step-by-step guide that perfectly matches the requested format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a decent logical flow but lacks the professional tone and concise formatting of the top option.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses on pre-travel preparation rather than the requested step-by-step airport navigation guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains grammatical errors and fails to provide a coherent, professional guide for the reader.",
+      "rank": 4
+    }
+  ]
+}

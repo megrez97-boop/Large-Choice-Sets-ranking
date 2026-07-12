@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most comprehensive and professional step-by-step guide while clearly separating the three required advice points.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a clear, logical flow for travelers, though the advice section is slightly less formal than Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The guide is helpful but lacks the structured formatting and professional tone expected for a travel influencer's post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The sequence is factually incorrect for airport procedures, as it places baggage claim and customs before check-in.",
+      "rank": 4
+    }
+  ]
+}

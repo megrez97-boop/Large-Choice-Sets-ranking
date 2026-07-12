@@ -1,0 +1,338 @@
+TABLE VII. Semiregular group divisible designs-Continued
+1
+10
+19
+20
+5
+14
+15 24
+9 18
+3
+4
+13
+22
+23 8
+17
+2 11
+12
+21
+6
+7
+16
+197
+18 11
+4
+21
+14
+7 24
+2 19
+12
+5
+22
+15 8
+17 10 3
+20
+13
+6
+23 16
+197
+18 11
+12
+5
+22
+23 16
+2 19
+20
+13
+6 7 24
+17 10
+3
+4
+21
+14 15 8
+1 18
+11
+20
+13
+6
+15
+8
+9 2
+19
+4
+21
+14
+23
+16
+17 10 3 12
+5 22
+7 24
+Design SR95: v= 32,
+m= 8,
+r = 8,
+n = 4,
+k = 8,
+b= 32
+λ₁
+=
+0,
+λ₂ = 2
+0, c₂= 1/4, H= 15, A
+=
+56
+C1
+=
+=
+E, .88, E,= .90, E= .90
+Solution:
+Affine resolvable, Saraf (1961)
+Complement: Not listed, r = 24
+Dual: Self dual, P. M. Roy (1954b)
+Groups: (8,4)
+Plan:
+Design SR96: v= 56,
+r = 7,
+m= 8, n = 7,
+k = 8,
+b= 49
+λ₁
+=
+0,
+A2
+= 1
+C₁ =
+0, c,= 1/7, H= 105/8, A = 343/8
+E= .88, E, .89, E= .89
+Solution:
+Unique; nonresolvable
+Complement: Not listed, r = 42
+Dual: The BIB design (49,56,8,7,1), Roy and
+Laha (1956)
+Groups: (8,7)
+Plan: Cyclically develop modulo 48 the initial
+block
+3 5 10 30 36 39 40
+to obtain 48 blocks of size k' = 7. Then
+to these blocks cyclically annex an
+additional new treatment in the order
+49, 50, 51, 52, 53, 54, 55, 56,
+cycling six times. Finally, annex the
+set of eight new treatments as the 49th
+block.
+Design SR97: v= 64, r =
+8,
+k = 8,
+b= 64
+m= 8, n = 8,
+λ₁
+=
+0,
+A2 = 1
+=
+56
+5322
+4421
+22
+29 30
+7423
+14 23 32
+1622
+31 24
+8
+022∞
+32
+1973
+2228
+21 30 7 16
+29
+15
+220*
+Ci
+=
+0, c₂
+=
+1/8, H= 15, A
+E, .88, E,= .89, E = .89
+Solution: Affine resolvable, Saraf (1961)
+Complement: Not listed, r = 56
+Dual: Self dual, P. M. Roy (1954b)
+Groups: (8,8)
+Plan:
+To construct, use
+25
+Set 8.1 once
+Set 8.6
+once
+18
+Set 8.3 once
+Set 8.7
+once
+26
+2
+Set 8.4
+once
+Set 8.8
+once
+Set 8.5
+once
+Set 8.9
+once
+1973
+10
+18
+25
+10
+02080
+27
+26
+18
+19
+12
+CHAN 222 223 224
+3
+27 12
+4
+CNT ON NNE KANN E ≈ 5 2 8ŏN
+2 3 4
+6
+12 13
+15
+16
+20
+24
+26 27
+19
+28
+20 13
+3
+20 13 30 15
+11 28 5 22
+29 14 31 16
+21 6
+3732
+32
+24
+8
+1972
+13 22
+8802
+1978
+25 10
+26 19
+18 27
+BE
+11
+20=3
+0208
+1978
+5322
++228
+ONK
+SEAN 222 22 2 2 ≈ *
+ART 20
+31
+8
+5 30 23 16
+28 29 6 15 24
+7 32 25
+24 1
+Each set constitutes a complete
+replication.
+10 3
+Design SR98: v= 72,
+m= 8,
+r = 9,
+n= 9,
+k = 8,
+λ = 0,
+λα
+b= 81
+= 1
+2329
+2000
+2482
+=
+567/8
+20
+29 30 23
+11 12
+21
+22
+31 32 9 10
+13
+14
+8
+17 18 27
+5
+6 15 16 25 26 19 20
+7
+16
+30 15
+8
+2235
+2842
+29
+21
+13
+6
+14
+30
+15
+6
+7
+30 31
+NELE
+23
+c₁ = 0, c₂ = 1/9, H= 135/8, A
+E, .88, E, .89, E = .89
+Solution:
+=
+Resolvable
+Complement: Not listed, r = 72
+Dual: Design LS125
+Groups: (8,9)
+Plan: 1 2 3 4 5 6 7 8
+50 59 46 41 72 15 21 28
+51 60 47 34 49 16 22 29
+52 61 48 35 66 57 23 30
+53 62 65 36 67 10 24 31
+54 63 42 37 68 11 9 32
+55 64 43 38 69 12 18 17
+56 25 44 39 70 13 19 26
+33 58 45 40 71 14 20 27
+(Plan continued on next page)
+14
+23 32
+31 24 25 18
+31 16
+23
+10 27
+19
+26 11
+18 11 28 21
+26
+8020
+1978
+6822
+15 32
+224 22-0
+24
+32
+8
+3 20 29
+27 12
+2253
+7 24 25 10 19 4 13
+16 25
+222 228
+2222253
+26 27 4 21 14
+18 19 12 29
+2223
+2802
+1973
+10 11 20
+13
+4022
+22
+167

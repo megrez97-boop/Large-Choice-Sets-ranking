@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most clear, sequential step-by-step guide for the airport process as requested in the prompt.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a friendly tone suitable for social media but lacks the structured step-by-step clarity of Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on arrival procedures rather than the departure process required for the Facebook post guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to provide the required step-by-step guide, instead offering general travel tips and cultural advice.",
+      "rank": 4
+    }
+  ]
+}

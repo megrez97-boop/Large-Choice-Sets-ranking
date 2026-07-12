@@ -1,7 +1,0 @@
-library(readxl)
-df <- read_excel('data/data partition-creative.xlsx', sheet=1, col_names=FALSE)
-cat('--- ID 52 ---\n')
-cat(as.character(df[df[[1]] == 52, 2]))
-cat('\n\n--- ID 3 ---\n')
-cat(as.character(df[df[[1]] == 3, 2]))
-cat('\n')

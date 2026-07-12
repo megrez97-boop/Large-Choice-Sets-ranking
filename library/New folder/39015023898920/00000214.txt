@@ -1,0 +1,159 @@
+TABLE IX.
+Regular group divisible designs - Continued
+Solution 4: Nonunique; nonresolvable
+Design R102: v= 8,
+m= 2,
+r = 10, k 4,
+n = 4, λ₁ 6,
+b = 20
+=
+λε 3
+=
+c₁ =
+2/3, C2
+=
+1/4, H= 15, A =
+54
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (2,4)
+Plan: To the plan for Solution 6 of design R98
+annex a replication whose blocks consist
+of the two groups.
+Solution 5: As given by John (1966); nonunique;
+nonresolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (2,4)
+Plan:
+6
+7
+18892345
+45678123
+23456781
+12345678
+5678 1 2 3 4
+34567∞12
+23456TB
+12345678
+7 8
+8
+1
+1
+5
+2 4
+6
+34
+78
+1
+5
+b= 18
+Design R101: v = 8,
+m= 4,
+r = 9,
+n = 2,
+k = 4,
+λ₁ 3,
+=
+A2
+= 4
+C₁ =
+= 2/5, C2
+==
+41/80, H 31/2, A = 60
+2
+E.83, E₂ = .86, E = .86
+Solution:
+3-resolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (4,2)
+Plan:
+E= .90, E₂ = .80, E = .84
+2
+Solution 1: Nonunique; resolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (2,4)
+Plan: To the eight replications of Solution I
+for design R98 annex two replications,
+the blocks of each consisting of the two
+groups.
+Solution 2: Nonunique; 2-resolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (2,4)
+Plan: To the eight replications of Solution 4
+for design R98 annex two replications,
+the blocks of each consisting of the two
+groups.
+Solution 3: Nonunique; 2-resolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (2,4)
+Plan: To the blocks of Solution 5 for
+design R98 annex two replications, the
+blocks of each consisting of the two
+groups.
+Solution 4:
+Nonunique; 5-resolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (2,4)
+Plan: To the blocks of Solution 6 for design
+R98 annex two replications, the blocks
+of each consisting of the two groups.
+6
+6
+88
+Design R103: v=
+8,
+m= 4,
+r = 10, k = 4,
+n = 2, λ₁ = 6,
+b= 20
+λ2
+=
+= 2/3, C2'
+=
+=
+E,
+C₁ =
+11/24, H= 17, A 72
+.90, E₂ = .85, E = .85
+Solution 1: True duplicate of solution for
+design R97; nonunique; 5-resolvable
+Complement: Truly self complementary
+Dual: Irregular
+78
+87
+370476
+488587
+263355
+2
+2
+111224
+4
+787898
+436756
+24
+34
+43
+224545
+57
+56
+56
+111233
+13
+12
+2
+12
+Groups: (4,2)
+Plan: Duplicate the plan of R97.
+Solution 2: As given by Freeman (1957);
+nonunique; resolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (4,2)
+(Plan continued on next page)
+202

@@ -1,0 +1,57 @@
+Chapter II. The Classification of Designs
+A. Group Divisible Designs
+1. Introduction. The largest, simplest and perhaps most important class of D(2) designs is known as
+group divisible. A group divisible (GD) design is a D(2) design for which the treatments may be divided
+into m groups of n distinct treatments each such that treatments that belong to the same group are first
+associates and two treatments that belong to different groups are second associates. The group divisible
+association scheme is an mXn array of the treatment symbols (1, 2, mn=v, say) such that rows of
+the array are groups.
+(2.1)
+For GD designs it is clear that
+v = mn, n₁ =n-1, n₂ = n(m-1).
+From the general condition n₁λ₁ + ngλ2 = r (k-1) we have for GD designs
+(2.2)
+-
+-
+(n − 1)λ, + n(m − 1)λ₂ = r(k − 1).
+-
+From the definitions of the parameters p¦k (i, j, k, = 1, 2) and consideration of the association scheme,
+it is clear that
+(2.3)
+P₁ = (P}x) = ("
+n 2
+0
+-
+0
+n(m-
+n-1
+(m²− 1)).
+P₂ = (P}x) = (n° 1 n(m − 2)
+= =
+-22)).
+1-1)).
+For any GD design λ2 > 0 is a necessary condition, since if λ2=0 then treatments that belong to dif-
+ferent groups never occur together in a block and the design breaks up into m disconnected sets of blocks,
+a degenerate form of design (called a disconnected design) that does not permit estimation of the comparisons
+of treatments belonging to different groups. When the zero-valued λ in a group divisible design is λ2, it may
+always be put into the proper form with A₁ = 0 by renaming the associate classes. (When properly renamed
+it is always true that p₁₂ =0.)
+2. Combinatorial properties of group divisible designs. Bose and Connor (1952) have made a careful
+study of the combinatorial properties of group divisible designs, and classified them into three subtypes
+depending on the values assumed by the quantities
+Q=r-λ₁ and rk — vλ₂ = P.
+They considered the v× b incidence matrix N= (nij) of a group divisible design, defined in the usual way
+as in section 4 of this chapter, and showed that the determinant of the treatment structure matrix, NN', is
+(2.4)
+-
+-
+|NN' = rk(rk — vλ2) m-1 (r — λ₁) m(n−1)¸
+They classified GD designs into three types from a consideration of the expression for | NN' | as follows:
+(1) Singular (S) if r — λ₁ = 0,
+-
+(2) Non-singular if rλ, >0
+-
+(2a) Semi-regular (SR) if rk — vλ2 = 0
+(2b) Regular (R) if rk — vλ2 >0.
+-
+7

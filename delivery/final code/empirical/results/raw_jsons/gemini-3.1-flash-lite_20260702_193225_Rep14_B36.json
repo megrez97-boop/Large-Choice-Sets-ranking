@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best alignment with the prompt by detailing specific futuristic technologies and providing relevant, catchy marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Good narrative, but it describes a past experience rather than the requested futuristic vision for 2050.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Lacks specific futuristic technological details and the slogans are generic compared to the other options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to address the futuristic technology requirement and focuses on exclusionary travel rather than innovative airport design.",
+      "rank": 4
+    }
+  ]
+}

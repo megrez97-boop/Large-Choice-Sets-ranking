@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most relevant, practical advice for Japan-specific travel, including cultural etiquette and essential tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a clear, structured step-by-step guide, though it lacks the cultural nuance provided in Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The writing style is informal and repetitive, lacking the professional tone expected from a travel influencer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely fails to address the prompt's requirement for a step-by-step guide for first-time travelers.",
+      "rank": 4
+    }
+  ]
+}

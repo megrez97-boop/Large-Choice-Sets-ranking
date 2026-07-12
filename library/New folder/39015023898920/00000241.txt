@@ -1,0 +1,92 @@
+TABLE IX. Regular group divisible designs - Continued
+Design R208: v= 32, r = 10,
+k=
+m= 4,
+n = 8,
+λ₁
+10, b= 32
+6, λ2 = 2
+-
+5/8, C2
+==
+5/128, H= 16, A = 1536/25
+E= .96, E₂ = .90, E = .92
+Solution:
+Nonresolvable
+Complement: Not listed, r
+Groups: (4,8)
+===== 22
+Plan: Cyclically develop the eight initial
+Design R209: v= 75, r = 10,
+m= 15, n= 5, λι
+k = 10,
+=
+b= 75
+5, A₂ = 1
+c₁ = 10/19,
+C 2
+=
+2/95, H= 17, ▲ =
+=
+285/4
+4
+E, .95, E,= .90, E = .90
+Solution:
+2
+Nonresolvable
+Complement: Not listed, r = 65
+Dual: Self dual, Hoffman (1963)
+Groups: (15,5)
+Plan: For the method of constructing a plan for
+this design see Freeman (1957), page 485,
+case
+n = 5 of the general construction
+procedure.
+blocks
+5 9 13
+17 21
+25 29
+29 1 9 13 17
+21
+25
+25 29 21 5
+13
+17
+1 10
+371
+26
+8
+11
+12
+21 25 29 1
+5
+9
+17 14
+15 16
+13 21
+25 29
+1
+5
+9 18
+19 20
+9 13
+17
+25
+29
+1
+5
+22
+23 24
+17
+5
+1 21 9
+29
+13 26 27 28
+1 17 5 9 25 13 21 30 31 32
+using cycles of length 4 and cycling
+within the 8 subsets of treatments 1-4,
+5-8, 9-12, 13-16, 17–20, 21-24, and 25-
+28.
+Each position within blocks contains
+a replication.
+229

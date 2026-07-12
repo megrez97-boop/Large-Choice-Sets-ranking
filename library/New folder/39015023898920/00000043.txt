@@ -1,0 +1,95 @@
+TABLE 1
+Degrees of
+freedom
+Treatments
+(adjusted)
+v-1
+INTRA-BLOCK ANALYSIS OF VARIANCE (WITH UNGROUPED BLOCKS)
+Source of
+variation
+Mean square
+St
+st=
+Sum of squares
+S? = ½ î¿Q
+Blocks
+(unadjusted)
+b-1
+=
+52-18-
+G2
+St
+Error
+N-b-v+1
+S (by subtraction)
+så
+N-b-v+1
+G2
+Total
+N-1
+Σ
+F= si/s
+N
+their variances calculated from (3.11) with σ replaced with the unbiased estimate s obtained from Table 1
+are available and so are estimates î¡ (i=1, 2, . . ., v) and their variances estimated from (3.18).
+2.1.2. Model 2: Subsets of blocks as replications. In many designs, it is possible to group the blocks
+in such a way, that within every group each treatment is replicated n times. These groups may be called
+replication groups. If there are r' such groups, then nr' = r. The experimental material in this case should
+be so divided that the blocks to which the treatment sets of the same replication group are assigned, are
+relatively more alike. Thus in agronomic experiments, the land may be divided into r' large pieces corres-
+ponding to the replication groups, and then each piece is subdivided into b' =b/r' blocks. In actually laying
+down the experiment, one makes a three-fold randomization in the assignment of (i) the replication groups to
+groups of blocks, (ii) the sets of treatments in a replication group to the individual blocks of the block groups,
+and (iii) the treatments of a set to the units in the corresponding block. Suppose that the ith treatment is
+applied to a unit in the jth block which occurs in the cth replication group, then we assume the model
+(3.21)
+Yij=g+ti+pc+xj + Eij,
+so that the observation is considered to be the sum of (i) a general effect g, (ii) the treatment effect ti, (iii)
+the replication effect pc, (iv) the differential effect x; of the jth block within its replication group, xj being re-
+TABLE 2 INTRA-BLOCK ANALYSIS OF VARIANCE (WITH GROUPED BLOCKS)
+Source of
+variation
+Degrees of
+freedom
+Treatments
+(adjusted)
+v-
+-1
+Replication
+groups
+r'-1
+Blocks within
+Sum of
+squares
+sz=iQi
+iW-
+R2 G2
+ην
+N
+Mean square
+S
+บ
+1
+St
+1
+replication
+b-r'
+S'ow
+k
+-
+nv
+groups (unad-
+justed)
+Error
+N-b-v+1
+S2 (by subtraction)
+s=
+St
+N-b-v+1
+G2
+Total
+N-1
+Σ
+F= s²/s²
+N
+31

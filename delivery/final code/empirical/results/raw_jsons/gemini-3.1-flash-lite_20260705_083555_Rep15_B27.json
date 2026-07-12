@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, logical step-by-step flow for the departure process, which is essential for the requested guide.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on modern tech and efficiency, fitting the influencer persona, but lacks a concrete step-by-step departure sequence.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers good preparation advice but fails to provide the required step-by-step guide for navigating the airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Describes the arrival process rather than the departure process requested for the Facebook post.",
+      "rank": 4
+    }
+  ]
+}

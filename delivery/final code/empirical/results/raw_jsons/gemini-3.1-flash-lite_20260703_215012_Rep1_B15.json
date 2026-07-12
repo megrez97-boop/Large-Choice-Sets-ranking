@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most comprehensive, actionable, and well-structured guide that perfectly fits the influencer persona and word count.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Excellent step-by-step format, though it lacks the detailed procedural flow found in the top-ranked option.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Contains useful information but suffers from poor grammar and a lack of professional formatting for a fan page.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too brief and lacks the practical tips and engaging tone required for a travel influencer's social media post.",
+      "rank": 4
+    }
+  ]
+}

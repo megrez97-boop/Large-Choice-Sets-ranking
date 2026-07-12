@@ -1,0 +1,378 @@
+Reference Y
+number
+k
+E
+TABLE VIII. Regular group divisible designs: parameters and auxiliary information-Continued
+Efficiencies
+x
+E₁ E₂
+W
+Number
+N=VT
+Unique
+solutions
+of solutions Complementary design
+given
+Dual designs
+Literature sources
+R144
+12 5 5 12 6 2 0 2.80 .87 .87
+60 ?
+1 R175
+(R176, Sol. 1
+Sol. 1: TSD, Clatworthy (1971).
+R145
+12 5 5 12 4 3 1 2 84 88 87
+60 No
+2
+R146
+12 10
+СЛ
+5 24 3 4 8 2 .96 .77
+.81
+R147
+122
+10 5 24 6
+20
+4
+.80 .87
+.87
+120 No
+120 ?
+R176, Sol. 2
+2 NL, r=14
+1 NL, r=14
+R148
+12 10
+5 24
+3
+2
+4 .84
+.88 .87 120 No
+2 NL, r=14
+R149
+15
+R150
+15
+110
+5 5
+10 5 30 5
+5 30
+30
+3
+8 2
+.96
+.80
+5
+3
+2
+3 .84 .86 .86
+R151
+R152
+R153
+122
+20
+10
+24
+905
+18 10 5 36
+555
+5 40
+24
+956
+9
+2
+5
+27
+2 .96 .82 .83
+1 96 .71
+1
+88 28
+.82
+150 ?
+1
+NL, r=20
+150 No
+2
+NL, r=20
+180 ?
+1
+NL, r=26
+Not a D(x), x=1, 2, 3, 4.
+.74
+200 ?
+1
+NL, r=30
+Not a D(x), x=1, 2, 3.
+.80 .83 .83 120 ?
+1
+NL, r=19
+(1971).
+R155
+25
+R156
+445
+R154 24 10 5
+7 5 35
+25 8
+R157
+25
+R158
+25
+10
+R159
+35 10 5
+R160
+39
+10
+R161
+40 9
+89
+†R162
+44 10
+сл сл слся слслался сл
+48
+5
+40
+45
+5 50
+65555
+2
+.80 .83
+5
+5
+1
+.86
+.82
+5
+5
+с с
+888
+.83
+.83
+8888
+240 ?
+1
+NL, r=38
+A D(3), Clatworthy (1956).
+175
+?
+1
+NL, r=28
+Irregular.
+.87
+.81
+.82 200 ?
+1
+NL, r=32
+Irregular.
+5
+5
+.89 .79
+.81 225 ?
+1
+NL, r=36
+Irregular.
+5
+5
+70
+5 7
+.84 .82
+5
+78 13
+3
+1 .84
+.82
+5
+72 10
+80 .82 .82
+5
+88 11
+1
+22222
+1 .90 .78 .79 250 ?
+1
+NL, r=40
+Irregular.
+.82
+350 ?
+1
+NL, r=60
+Not a D(x), x=1, 2, 3.
+82
+390 ?
+1
+NL, r=68
+Not a D(x), x=1, 2, 3.
+TSD, Hoffman (1963) and Clatworthy Clatworthy (1956) [David and Wolock
+(1971).
+Sol. 2: TSD, Clatworthy (1971).
+Sol. 1: a D(3), Clatworthy (1956).
+||Sol. 2: not a D(x), x =1, 2, 3, 4.
+a D(3), Clatworthy (1956).
+(Sol. 1: a D(3), Clatworthy (1956).
+Sol 2:not a D(x), x=1, 2, 3, 4.
+Sol. 3: a D(3), Clatworthy (1956)
+Not a D(x),x=1, 2, 3, 4, 5.
+Sol. 1: not a D(x), x =1, 2, 3.
+|Sol. 2: not a D(x), x = 1, 2, 3.
+(1965). John (1966)].
+Sol. 1 Bose and Nair (1939), p 369 [Clat-
+worthy (1956), John (1966), David and
+Wolock (1965)].
+Sol. 2 David and Wolock (1965).
+Sol. 1: Clatworthy (1956).
+Sol 2: Sprott (1955) [Freeman (1957).]
+Clatworthy (1956).
+Sol. 1: Clatworthy (1956).
+Sol. 2: John (1966).
+Sol. 3: Derived from R145, Sol. 2.
+Freeman (1957) [Ikeda (1967)], adapted.
+Sol. 1: BCS (1954).
+Sol. 2: John (1966).
+Ikeda (1967), corrected and adapted.
+Freeman (1957).
+TSD, Hoffman (1963) and Clatworthy BCS (1954).
+BCS (1954).
+BCS (1954) [Clatworthy (1967)].
+BCS (1954), Clatworthy (1967).
+Clatworthy (1967).
+Clatworthy (1967).
+BCS (1954).
+BCS (1954).
+360 ?
+1
+NL, r=63
+Not a D(x), x=1, 2.
+BSC (1954).
+.80 .82 .82 440 ?
+1
+NL, r=78
+R163
+R164
+58
+56
+69
+R165
+R166
+10
+90
+R167
+12
+R168
+15
+R169
+18
+R170
+27
+2587
+18
+R171
+28
+99
+45 10 5 90 9
+9 6 12 2
+9 10 6 15 3
+6 10
+6 18
+6 24
+6 27
+6 28 7
+3
+320
+32
+50
+66
+96
+55
+4533
+336 9
+15222
+54
+35
+92
+0
+1
+.80
+30
+.82
+7 6 .96 .94 .95
+380
+.82
+38
+450 ?
+1
+NL, r=80
+Not a D(x), x=1, 2.
+72 Yes
+1
+A disconnected
+Not a D(x), x=1, 2.
+design.
+7
+5
+7 6 .95 .93
+5
+2 .97 .85 .90
+3 .96
+2 .94
+55
+35
+90
+.94 90 ?
+1
+R59
+Irregular.
+60 Yes
+1
+A disconnected
+design.
+(1971).
+.87
+.97 .77 .82
+.87
+32
+1
+.92 .85 .86
+1 .89
+.86
+តតឌឌ
+.89
+.87
+.86
+887888
+108 ?
+1
+TSC
+A D(3).
+90 ?
+1
+R194
+TSD, Clatworthy, (1971).
+144 ?
+1
+NL, r=16
+Irregular.
+162 ?
+1
+NL, r=21
+SD, Hoffman (1963).
+168 ?
+1
+NL, r=22
+SD, Hoffman (1963).
+Bose, Shrikhande, and Bhattacharya,
+(1953).
+BCS (1954).
+Clatworthy (1956) [Freeman (1957),
+John (1966)).
+Freeman (1957).
+TSD, Hoffman (1963) and Clatworthy Bose and Nair (1939) [Sprott (1955),
+Freeman (1957)].
+Freeman (1957)]Ikeda (1967)], adapted.
+Clatworthy (1956) [Freeman (1957)].
+Freeman (1957).
+Freeman (1957).
+Archbold (1955) and Archbold and
+Johnson (1956), adapted.
+178

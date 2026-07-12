@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best tone for a social media influencer; provides a clear, actionable, and friendly step-by-step guide for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a logical flow, but lacks the engaging, influencer-style formatting that makes travel advice accessible and fun.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Too repetitive and focuses heavily on arrival/baggage claim rather than the requested departure process for travelers.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to provide the required step-by-step departure guide, offering only general travel tips instead.",
+      "rank": 4
+    }
+  ]
+}

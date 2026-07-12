@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, structured, and professional step-by-step guide that perfectly matches the requested format and tone.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers practical advice but lacks the structured step-by-step guide format required for a professional influencer post.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely ignores the prompt's requirement to provide a guide for travelers, focusing instead on general airport evolution.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Contains highly inappropriate, inaccurate, and offensive content that violates safety and professional standards for travel advice.",
+      "rank": 4
+    }
+  ]
+}

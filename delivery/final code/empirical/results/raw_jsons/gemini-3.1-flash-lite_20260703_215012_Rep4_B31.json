@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly follows the persona and structure requirements, providing a clear, professional guide and concise advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a comprehensive step-by-step process but lacks the engaging influencer tone requested in the context.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Includes helpful tips but the formatting is disjointed and lacks the professional polish of the top options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Fails to provide the required step-by-step guide for navigating the airport, focusing only on general preparation.",
+      "rank": 4
+    }
+  ]
+}

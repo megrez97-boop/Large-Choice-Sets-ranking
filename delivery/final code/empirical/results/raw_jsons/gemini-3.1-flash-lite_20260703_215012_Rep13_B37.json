@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most accurate, concise, and actionable step-by-step guide for departures while including the required three tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a clear and friendly tone suitable for a social media post, though it lacks specific advice section.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains helpful cultural context but fails to provide the required three distinct bits of advice at the end.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival procedures rather than the requested departure process, making it irrelevant for the specific task.",
+      "rank": 4
+    }
+  ]
+}

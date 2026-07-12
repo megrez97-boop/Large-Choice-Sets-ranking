@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Perfectly captures the futuristic, high-tech, and personalized experience requested by the influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses on luxury and comfort, though it feels more like a spa than a high-tech airport.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides practical automation but lacks the immersive, visionary atmosphere expected for a 2050 Tokyo airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The experience is too mundane and lacks the innovative, cutting-edge technology requested in the prompt.",
+      "rank": 4
+    }
+  ]
+}

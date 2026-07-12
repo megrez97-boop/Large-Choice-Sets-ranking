@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best alignment with the persona and provides a comprehensive, accurate step-by-step guide for Japan-specific airport procedures.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Clear and concise, but lacks the specific cultural context and professional tone required for a Japan-focused travel guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Generic advice that fails to address the specific complexities of navigating a major Japanese airport for travelers.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival procedures rather than the requested departure guide, failing to meet the core task requirements.",
+      "rank": 4
+    }
+  ]
+}

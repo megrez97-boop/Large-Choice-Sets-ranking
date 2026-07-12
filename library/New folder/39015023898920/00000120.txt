@@ -1,0 +1,240 @@
+TABLE V. Singular group divisible designs – -
+Continued
+Plan: Repeat the plan of S6 three times.
+4,
+Design S9:
+v = 10, r = 4,
+2, λι
+m= 5, n=
+k
+=
+b = 10
+=
+4,
+A2
+= 1
+Solution:
+Dual:
+Unique; resolvable
+Complement: Not listed, r = 20
+A D(3), WHC (1956)
+Groups: (6,2)
+Plan: Duplicate the plan of S11.
+c₁ = 1, c₂ = 1/10, H= 13/2, A = 10
+-
+E, 1.00, E₂ = .77, E= .79
+Solution:
+2
+Unique; 2-resolvable
+Complement: Design S26
+Dual: Design T29
+Groups: (5,2)
+Plan:
+78980
+10
+23451
+67890
+12345
+10
+6
+12345
+67890
+1
+2
+3
+10
+4
+10
+5
+34512
+89667
+b= 20
+= 2
+Design S10:
+v = 10, r =
+m= 5, n = 2,
+8,
+k = 4,
+A₁
+=
+8,
+2
+=
+40
+C₁ = 1, c,= 1/10, H= 13, A
+E, 1.00, E,= .77, E= .79
+Solution: Unique; 2-resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Groups: (5,2)
+= 12
+Plan: Duplicate the plan of S9.
+Design S13:
+v = 14,
+r = 6,
+k = 4,
+m= 7,
+n = 2,
+λ₁
+=
+6,
+A₂ =
+b= 21
+=
+1
+c₁ = 1, c₂ = −1/14, H= 19/2, A = 21
+E, 1.00, E,= .74, E= .75
+Solution:
+Unique; 2-resolvable
+Complement: Not listed, r = 15
+Dual: Design T66
+Groups:
+(7,2)
+Plan: Cyclically develop the three initial
+blocks
+1 8 2 9
+1 8
+3
+10
+1 8 4 11
+using cycles of length 7 and cycling
+within the two subsets of treatments 1-7
+and 8-14. The two left-most positions
+within blocks contain three replications,
+and each initial block provides two
+replications.
+Design S14:
+v = 16, r = 7, k = 4,
+m= 8, n = 2, λ₁ = 7,
+b= 28
+λ₂ = 1
+c₁ = 1, c₂ = −1/8, H= 11, ▲ - = 28
+E, 1.00, E₂ = .73, E = .74
+=
+==
+= 21
+Solution: Unique; resolvable
+Complement: Not listed, r
+Dual: Design T73
+Design S11: v = 12,
+m= 6,
+r = 5,
+n = 2,
+k = 4,
+b= 15
+Groups: (8,2)
+λ₁
+=
+5,
+2
+=
+1
+Plan: 1 9 2 10
+1 9
+246
+791
+135
+c1, c2= 0, H 8, A = 15
+E, 1.00, E,= .75, E = .77
+Solution: Unique; resolvable
+Complement: Design S58
+Dual: Design T49
+Groups: (6,2)
+Plan:
+357
+11 4 12
+2 10
+13 6 14
+4 12
+15
+8 16
+6 14
+1635
+3857
+11
+8 16
+7 15
+1236
+9
+4 12
+10
+7 15
+3 11 5 13
+14
+8 16
+9272
+1234
+5 13
+2 10
+6 14
+4 12
+11 15
+8 16
+789
+123
+789
+123
+10
+5 11 6 12
+4 10
+5 11
+6 12
+6 12
+20
+4 10
+5 11
+782
+124
+802
+3
+9
+6
+12
+10
+5
+11
+1234
+11
+780
+124
+5
+11
+9012
+6 14
+1 9
+5 13
+2 10
+8 16
+4 12
+4 12 7 15
+5 13
+5146
+7368
+7 15
+11
+8 16
+3 9
+4 10
+6 12
+1235
+9
+8 16
+10
+4 12
+11 6 14
+5 13
+7 15
+Design S12:
+ci
+E,
+v = 12, r = 10,
+m= 6, n = 2,
+1, c₂ = 0, H= 16, A =
+1.00, E,= .75, E= .77
+2
+60
+b= 30
+k = 4,
+λ₁ 10, A2 = 2
+=
+108

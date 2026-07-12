@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Perfectly captures the futuristic, high-tech, and seamless travel experience requested by the persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a creative, high-tech service concept, though the robot-seat feature feels slightly impractical.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Engaging and culturally thematic, but focuses more on entertainment than the overall futuristic airport infrastructure.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Lacks the futuristic, innovative, and high-tech vision required, reading more like a standard airport advertisement.",
+      "rank": 4
+    }
+  ]
+}

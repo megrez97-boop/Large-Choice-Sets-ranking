@@ -1,0 +1,62 @@
+It should be noted that the quantities C1, C2, H, and ▲ depend only upon the design and not upon the data
+obtained by its use. Hence these values may be tabled along with the design plans.
+The best linear estimate t; of the treatment effect t; is given by
+(3.10)
+for i = 1,2,
+r(k−1) î¡ = (k − C2) Qi + (C1 – C2) S1 (Qi),
+., v, under the restructions Σt₁ = 0 and Σt₁ = 0.
+The most frequent application of D(2) designs is that of comparative experimentation in which every
+test treatment is being compared with a control treatment. In the absence of a control treatment, all v treat-
+ments may have the same competitive status in the comparisons so that any (or even all) simple contrasts
+ti-tu (iu;, u= 1,2, . . ., v) may be of interest. Hence, it is conventional to provide the variance of the
+estimate of the difference between two treatment effects
+(3.11)
+V(i₁-in) == 0) (20²).
+--
+-
+k-cj
+k-1
+r
+where the treatments i and u are jth associates (j=1,2). If we had used a randomized block experiment with
+the same number r of replications, this variance would have been (203)/r where σ is the corresponding
+error variance. Since k < v, σ² is an general less than o
+If we neglect this difference and suppose that the reduction in the block size has produced no corre-
+sponding reduction in the error variance, we may set σ2 σ%. Then
+=
+(3.12)
+k
+=
+k
+E-j-1.2
+E;=
+j = 1, 2
+Cj
+gives the ratio of the variance of the estimate of ti-tu when the randomized block design is used, to the
+variance of the same estimate when the partially balanced design is used. The quantitites E1 and E2 are
+called the efficiency factors of the two kinds of comparison.
+For any given treatment i, there are v-1 possible treatment contrasts of the type ti-tu (u ‡ i=1,
+2, . . ., v). Of these n₁ are estimated each with variance
+(3.13)
+202 (k - c₁)
+r(k − 1)
+and the remaining n₂ are estimated each with variance
+(3.14)
+Hence, we can take
+(3.15)
+202 (k - C2)
+r(k-1)
+202
+r(k-1)
+{n(kc₁)+n2(k − c₂)}
+v-l
+-
+as the average variance of a treatment comparison. Taking the reciprocal of the ratio of this average variance
+to the variance in the case of the randomized block experiment and omitting the ratio σ2/σ², we get the
+overall efficiency E of the design, where
+(k-1)(v1)
+(3.16)
+E
+=
+n₁ (k − c₁) + n2 (k − C2) '
+where n is the number of ith associates of any treatment.
+29

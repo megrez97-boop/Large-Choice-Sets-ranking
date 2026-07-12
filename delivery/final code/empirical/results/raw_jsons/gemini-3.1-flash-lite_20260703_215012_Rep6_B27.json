@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly addresses the Japan context and includes the essential immigration step missing in other options.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a comprehensive, logical flow, though it lacks the specific Japan-related context required by the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is too brief and lacks a clear step-by-step process for navigating the airport terminal.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Uses incorrect terminology like TSA for a Japanese airport and lacks necessary steps like immigration.",
+      "rank": 4
+    }
+  ]
+}

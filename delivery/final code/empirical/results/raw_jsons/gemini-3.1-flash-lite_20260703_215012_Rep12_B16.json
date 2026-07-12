@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most comprehensive, structured, and professional step-by-step guide tailored specifically for international travel at Narita.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Clear and concise, but lacks the specific airport context and depth provided in Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses too much on cultural etiquette rather than the essential logistical steps required for airport navigation.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Poorly written, lacks professional tone, and fails to provide a coherent, actionable guide for travelers.",
+      "rank": 4
+    }
+  ]
+}

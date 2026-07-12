@@ -1,0 +1,86 @@
+where 1' = (1, 1, . . ., 1) and 01 and 02 are Lagrangian multipliers entering in the minimization.* (Dimen-
+sions of the submatrices may be inferred from the dimensions of N and N'.) On the right-hand side G is
+the grand total of all observations, B is the vector of block totals and T is the vector of treatment totals.
+The inverse of the matrix of normal equations can be written
+1
+bk
+0.1
+18
+1
+(3.47)
+0.1'
+0.1
+I+
+(1+NCN-J
+bk
+N
+N'C
+1
+1
+0.1
+0.1
+-c
+CN
+C
+0.1
+1
+-༠
+1'
+0.1' 0
+0
+0.1'
+l'
+0
+0
+บ
+1
+0
+bk
+18
+v
+0
+E D'
+18
+1
+0
+=
+0
+D C
+0
+1
+1
+I'
+0
+0
+b
+b
+0
+l'
+0
+0
+บ
+where C = k (rkI — NN'‍+kJ)-—
+-1
+J, J=11' is a matrix of all ones, and D, E are defined by (3.47). The
+by v matrix C is the basic matrix of the analysis and its computation should present no problems because
+(rkINN'+kJ) is well conditioned for PBIB designs.
+Parameter estimates
+The estimates of the parameters of the design and their variances are as follows:
+(a) grand mean
+G
+bk
+V(8) = = k
+1
+σ-2
+*The standard practice of introducing a grand mean, and having to then impose the restraints that block and treatment effects sum to zero is convenient and causes no confusion
+when only contrasts among treatments or among blocks are to be studied. When other functions of the parameters are of interest it is necessary to formulate the statistical model
+for one's experiment in terms of the parameters g, t₁, and b,; otherwise, the block estimate and variances and covariances may be incorrectly interpreted. An example may point
+up the problem. Consider a case where the blocks are different environmental conditions and the treatments are methods, one of which, t₁, is regarded as the standard method.
+One would wish to estimate the parameters for "conditions" as
+and for methods one would have
+8++ b, (block values under standard method t₁)
+g+t+b (treatment values under standard conditions)
+where the conditions of the first block, b₁, are regarded as standard.
+There is also a question of the interpretation of the grand mean. Note that in a repetition of the design with the same blocks but with say one treatment changed to produce
+a difference in effect of A, then the effect of the restraint is to change the expected value of g by A/v. For this reason, it is difficult to attach physical meaning to the parameter g.
+63

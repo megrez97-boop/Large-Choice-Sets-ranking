@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Comprehensive and visionary, perfectly capturing the high-tech, sustainable, and personalized experience requested by the prompt.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong narrative flow and professional tone, though slightly less detailed regarding futuristic infrastructure than Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Highly creative and imaginative, but the focus on rapid boarding feels less realistic and more sci-fi than others.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Lacks a cohesive narrative story, presenting more as a summary of features rather than an immersive experience.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+Chapter III. Analysis of Partially Balanced Designs
+1. Introduction. In this chapter, general solutions appropriate for data analysis are given. In section 2
+both the intra-block and the combined intra- and inter-block analyses are given for each of the three models
+for blocking configurations. Section 3 contains an explanation of the ways the association schemes can be
+used to provide easier ways to compute useful quantities for the analysis using hand calculations. Section 4
+provides 2 worked out examples as illustrative aids for those who use a desk calculator. Section 5 deals with
+the general least squares approach for data analysis, appropriate when calculations are done on an electronic
+computer. Finally, section 6 provides an example for use in checking out a computer code that utilizes the
+methods of section 5.
+Perhaps it should be emphasized that the data being analyzed here were taken from BCS (1954) and
+originated at the Agriculture Experiment Station, North Carolina State College. The analyses given in
+sections 4 and 6 differ from those of BCS (1954) in numerical computational details and in the provision of
+variances for single treatment effects not available in 1954.
+2. General analysis of D(2) designs. The general analysis procedure described in this section is a re-
+organization of that presented in BCS (1954) which is a refinement of the general analysis of Rao (1947)
+for partially balanced designs accomplished by the introduction of certain computational constants c₁,
+C2, H, and ▲ for intra-block analyses and additional constants d, and d₂ for the combined intra- and inter-
+block analyses of variance. We shall describe both these methods of analysis for each of three models.
+Intra-block estimates are obtained from treatment contrasts obtained within the blocks. These arise
+through the model commonly known as the fixed effects model in which the additive components representing
+treatment effects t; and block effects b; are conceived of as fixed but unknown constants which we may wish
+to intercompare.
+On the other hand, inter-block estimates arise from the assumption that the block effects are random
+variables, stochastically independent of each other and of the errors ej and identically distributed. They
+are derived from contrasts among the block averages.
+Under normality assumptions the intra-block estimates are independent of the inter-block estimates
+and this led to an analysis of D(2) designs in which the estimation of the t is based on a linear combination
+of the intra- and inter-block estimates of the ti.
+For each of these estimation procedures we shall provide for three different conceptual models depend-
+ing upon the nature of the blocking arrangements. These we define briefly.
+Model 1 is the case for which there is no provision for grouping of blocks. This model is independent
+of whether the b; are considered as fixed effects or random variables.
+Model 2 is the model in which the design provides for groupings of the blocks such that within every
+group each treatment occurs exactly n(≥ 1) times. The groups we call replication groups. If there are r'
+such groups then r=nr'. In the model 2 setup the block effect b; of model 1 is now thought of as b;= pc+x;
+where the pe represents a replication effect and the x; is a differential effect of the jth block in its replication
+group. The x, is considered to be a fixed but unknown quantity in intra-block analyses, but is conceived of
+xj
+as a N(0, of) variable in inter-block analyses. The quantity pc is a fixed but unknown constant.
+Model 3 is the model appropriate to designs which provide for replication groups orthogonal to the
+blocks. Suppose the first e positions in the b blocks give exactly n replications of all treatments, the next
+e positions provide exactly n replications, etc. If there are r' replication groups, then r=nr' and k=er'.
+These designs provide for a two-way elimination of heterogeneity, i.e., between blocks and between replica-
+tion groups orthogonal to blocks. Well-known examples of such designs are the Latin squares [Fisher (1958)]
+and the Youden square designs [Youden (1937)]. D(2) and BIB designs having replications orthogonal to
+27

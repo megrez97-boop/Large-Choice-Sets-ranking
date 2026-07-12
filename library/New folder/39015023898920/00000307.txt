@@ -1,0 +1,228 @@
+Reference V
+number
+TABLE XVI. Partially balanced designs based on partial geometries: parameters and auxiliary information
+01
+2
+λι
+14
+N=1 Unique
+solution
+Number
+of solutions
+given
+Complementary
+design
+E₁
+E
+Efficiencies
+E₁
+யீ
+Dual designs
+Literature sources
+PG1
+15 3 3 15 6
+810
+.71 .63
+.66
+60
+45 ?
+1 | NL, r=12
+TSD, Bose and Clatworthy (1955) and❘ Seiden (1961), Ray-Chaudhuri (1962).
+Clatworthy (1971).
+PG2
+27
+PG3 40
+PG4
+45
+PG5
+45
+PG6
+85 5
+†PG6a
+165
+345 10 10 5
+543
+59
+45 10
+40
+27
+63
+28
+85 20
+297 36
+CERER
+12
+12
+128
+ZITKNT
+16
+69
+64
+66
+135 ?
+27
+.73
+160 ?
+NL, r=40
+NL, r=36
+PG4.
+BCS (1954), Design SI. 7.
+SD, Bose and Clatworthy (1955).
+BCS (1954), Design Sl. 12.
+32
+0 82
+.75 .77
+135 ?
+1 NL, r=24
+PG2.
+16
+0 .82
+.79 .81
+315 ?
+NL, r=56
+64
+0 .81 .77
+.78 425 ?
+1
+NL, r=80
+.80 .79
+.79 1485 ?
+1
+NL, r=288
+PG7
+26 3
+13 15
+110
+1
+0
+.87 .81 .84
+78 No
+2 NL, k=20
+NL, r=40
+PG10.
+SD, Bose and Clatworthy (1955).
+PG13a.
+(Sol. 1: the difference set solution for the
+BIB design (13, 26, 6, 3, 1) Shrikhande
+(1952) and Roy and Laha (1956).
+Sol. 2: the BIB design (13, 26, 6, 3, 1)
+as given by Henderson (1964). Also
+Shrikhande (1952) and Roy and Laha
+(1956).
+SD, Bose and Clatworthy (1955).
+The BIB design (15, 35, 7, 3, 1) which is
+known to have 80 distinct solutions.
+PG5.
+BCS (1954), Design Sl. 14.
+Shrikhande (1965).
+BCS (1954), Design Sl. 26 (corrected).
+Benson (1966).
+BCS (1954) Design SI. 4.
+| Clatworthy, new.
+Clatworthy (1954).
+BCS (1954) Design Sl. 9.
+Seiden (1961).
+The BIB design (25, 50, 8, 4, 1) for which BCS (1954), Design SI. 17.
+the uniqueness is unsettled.
+The BIB design (19, 57, 9, 3, 1) known to BCS (1954), Design Sl. 18 (corrected).
+have at least two distinct solutions.
+The BIB design (28, 63, 9, 4, 1) which
+has recently been discovered to have
+at least two nonisomorphic solutions.
+PG 6a.
+The BIB design (21, 70, 10, 3, 1) known
+to have at least 8 distinct solutions.
+Shrikhande (1952), and Bose (1960).
+Sol. 1: BCS (1954), Design Sl. 21.
+Sol. 2: Seiden (1961).
+Benson (1966).
+BCS (1954), Design Sl. 22.
+The BIB design (41, 82, 10, 5, 1) for BCS (1954), Design Sl. 25.
+which the uniqueness is unsettled.
++PG8
+PG9
+35555565
+PG10 63
+195
+PG11 50
+156 30
+300
+555555
+19
+63
+125
+115
+7 15 18 16
+45 30 32
+425
+220
+220
+0
+.84 .81 .82 936 ?
+1
+0
+.88 .83 .86 105 No
+88865
+1
+NL, r=150
+1 | NL, r=12
+0
+.87
+.84
+25 28 21
+1
+0 .89 .86
+95
+86
+315?
+.88
+200 ?
+1 NL, r=21
+PG12 57 3
+19
+24
+2
+32 1 0 .90 .86
+88
+171❘ No
+1 NL, r=16
+PG13
+3333
+63
+49
+28 32 30 1
+0 .90 .88
+.89
+69
+252 No
+2 NL, r=24
++PG13a 297
+PG14 70
+5
+53
+3 10 21 27
+6655
+9 165 40
+22
+256
+23906
+0 .89 .87
+42
+0
+888888
+8888
+.87 1485 ?
+1
+NL, r=160
+.91 .88 .89 210 No
+1
+NL, F-18
+PG15 82 5 10 41
+45
+365
+10
+.91 .89 .90
+410 ?
+1 NL, r=36
+†Plan not verified by computer.
+295

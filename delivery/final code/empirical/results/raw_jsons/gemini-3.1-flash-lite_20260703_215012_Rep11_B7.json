@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most comprehensive, step-by-step procedural guide for the departure process requested in the prompt.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a clear, logical flow for departures, though it lacks the detailed structure found in Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on general travel tips rather than the specific step-by-step airport navigation guide requested for the post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Describes arrival procedures instead of the departure process required for a traveler heading to their plane.",
+      "rank": 4
+    }
+  ]
+}

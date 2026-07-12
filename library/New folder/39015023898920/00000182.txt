@@ -1,0 +1,299 @@
+TABLE VII. Semiregular group divisible designs-Continued
+C1
+1/8, H= 136/9, A
+11
+20
+222
+101
+10
+21 13
+224
+12 4
+543
+526
+232 242 244
+232
++32
+Design SR104:v = 72,
+r =
+8,
+k = 9,
+b = 64
+m= 9,
+n = 8,
+λ₁
+=
+= 0,
+A2 1
+=
+0, c₂
+-
+512/9
+18 10 20
+27 19 2
+19
+15 16 26 9
+24
+25
+6
+7
+287
+1
+7
+26
+18
+16
+8
+27
+17
+829
+58-
+221
+FREE♡
+11
+23
+15
+25
+18
+829
+17 27
+872
+3763
+14 24 16 26
+652
+ܢ | ܣ
+25
+18
+922
+17
+26
+8
+25+ EL TORE∞
+-01
+10
+19
+14
+13 23
+20 12 4 23 15
+20 12
+27 19 11
+221
+101
+298
+27
+18 19
+2 21
+223 23
+21 13
+324
+22
+12 22 14
+20
+21
+11
+3
+13
+5
+3 22 14
+24
+24
+E, .89, E₂ = .90, E = .90
+=
+Solution:
+Unique; nonresolvable
+Complement: Not listed, r
+=
+56
+Dual: The BIB design (64,72,9,8,1), Roy and
+Laha (1956)
+Groups: (9,8)
+25
+Plan:
+37665
+265
+542
+14
+23 15 16
+235
+16
+15
+24
+25
+17
+7 26
+652
+435
+4 23
+822
+Cyclically develop modulo 63 the initial
+block
+3 6 7 17 41 47 49 54
+to obtain 63 blocks of size k' = 8. Then
+to these blocks cyclically annex an
+additional new treatment in the order
+64, 65, 66, 67, 68, 69, 70, 71, 72
+cycling seven times. Finally, annex the
+set of nine new treatments as the 64th
+block.
+m= 9,
+Design SR103:v 36,
+-
+c₁ = 0, c, 1/4, H= 136/9, A = 512/9
+E, .89, E,= .91, E = .91
+Solution:
+Nonresolvable
+Complement: Not listed, r = 24
+Dual: A D(3), Speckman (1970)
+Groups: (9,4)
+r = 8,
+n = 4,
+k = 9,
+b= 32
+λι
+=
+· 0,
+2
+= 2
+Design SR105:v 81, r = 9, k = 9,
+m= 9, n = 9, λ₁ = 0,
+b = 81
+λ₂ 1
+=
+Solution:
+28 20 12
+Plan: 1 2 3 4 5 6 7 8 36
+10 11 12 13 14 15 16 17 36
+19 20 21 22 23 24 25 26 36
+28 29 30 31 32 33 34 35 36
+1 11 21 31
+10 2 30 22
+19 29 3 13
+4
+Dual:
+c₁ = 0, c₂ = 1/9, H= 17, A = 72
+E= .89, E₂ = .90, E = .90
+Affine resolvable, Saraf (1961)
+Complement: Not listed, r = 72
+Self dual, P. M. Roy (1954b)
+Groups: (9,9)
+125
+Plan:
+To construct, use
+15 25 35 27
+14 6 34 26 27
+23 33 7 17 27
+Set 9.1 once
+Set 9.7
+once
+32 24 16
+8 27
+Set 9.3 once
+Set 9.8
+once
+1 20
+3
+22
+14 33
+16 35
+9
+10 29 12
+31
+5
+24 7 26
+9
+Set 9.4
+once
+Set 9.9
+once
+19 2 21
+4 32
+15 34 17
+9
+28
+11 30
+13
+23 6 25
+8
+9
+Set 9.5
+once
+Set 9.10 once
+1
+29 21
+13 14
+24 34 8 36
+10
+20 30
+4
+5
+33
+25 17 36
+16
+26 36
+28 2
+1
+2
+12
+10 11 3
+7 35 36
+25 26 18
+19 11 3 31 32 6
+12 22 23 15
+13 32 33
+4 23 24 34 35 18
+19 20 30 31 14 15 7 8 18
+28 29 21 22 5 6 16
+17
+18
+1
+10
+11 30 22
+2 21 31
+32 24 7 17
+9
+23 33 16
+99
+78325
+19 29 12 4 14 6 25 35 9
+28 20 3 13 5 15 34 26 9
+12
+3 22 32 15 25 8 27
+31 23 6 34 17 27
+1 20
+10 29
+19
+2 30
+13 5 24 16 35 27
+28
+11 21 4
+14 33 7 26 27
+once
+Each set constitutes a complete
+replication.
+Design SR106:v = 20, r = 6,
+m= 10, n= 2,
+c₁ = 0, c₂ = 1/2, H= 57/5, A
+E= .90, E₂ = .95, E = .94
+Solution:
+Nonresolvable
+k = 10,
+A₁ = 0, A2 = 3
+b= 12
+=
+162/5
+Complement: Truly self complementary, Preece
+(1967)
+Dual: Design SR71
+Groups: (10,2)
+Set 9.6
+1 29 30 4 23 15 16 26 18
+10 20 21 13 32 6 7 35 18
+19 11 12 22
+5 33 34 8 18
+28
+2
+3 31
+14
+24 25 17 18
+(Plan continued on next page)
+170

@@ -1,0 +1,229 @@
+TABLE V. Singular group divisible designs
+Solution: Unique; 2-resolvable
+Complement: A disconnected design
+Dual: Design S101
+Groups: (3,2)
+Plan: Repeat the plan of S1 five times.
+Design S1:
+v = 6,
+r = 2,
+m= 3,
+n = 2,
+k = 4,
+A₁ = 2,
+b= 3
+A2 1
+=
+c₁ = 1, c₂ = 1/2, H= 7/2, A
+= 3
+E, 1.00, E2.86, E= .88
+Solution: Unique; nonresolvable
+Complement: A disconnected design
+Dual: The BIB design (3,6,4,2,2), Roy and Laha
+(1956)
+Groups: (3,2)
+Plan: 1 4
+2
+564
+231
+45
+3 6
+Design S6:
+v = 8,
+MF 4,
+r = 3, k = 4,
+n = 2, λ₁
+=
+3,
+λ2 1
+b= 6
+=
+= 6
+=
+1, c₂= 1/4, H= 5, A
+E,= 1.00, E₂ = .80, E= .82
+2
+Solution: Unique; affine resolvable
+Complement: Truly self complementary
+Dual: Design SR19, Solution 1
+Groups: (4,2)
+Design S2:
+v = 6,
+m= 3,
+r=
+= 4,
+n = 2,
+k = 4,
+λ₁ = 4,
+b = 6
+λ₂ = 2
+Plan:
+=
+c₁ = 1, c₂ = 1/2, H= 7, A 12
+E 1.00, E₂ = .86, E= .88
+Solution: Unique; 2-resolvable
+Complement: A disconnected design
+Dual: Truly self dual
+Groups: (3,2)
+Plan:
+2
+231
+3
+5
+6
+456
+123
+6
+594
+123
+456
+564
+5 2
+231
+2 6
+88
+78
+24
+34
+57
+56
+3
+13
+5
+4 8
+87
+12
+3
+43
+36
+2
+12
+b= 12
+=
+22
+Design S7:
+v = 8,
+r = 6,
+k = 4,
+m= 4,
+n = 2,
+λ₁ = 6,
+λ₂
+b = 9
+c₁ = 1, c₂ = 1/4, H= 10, A = 24
+E, 1.00, E,= .80, E= .82
+=
+2
+Solution: Unique; resolvable
+Complement: Truly self complementary
+Dual: A D(3), WHC (1956)
+Groups: (4,2)
+v = 6,
+r = 6,
+k = 4,
+m= 3,
+n = 2,
+λ₁
+=
+6,
+2
+= 3
+Plan:
+5
+Design S3:
+=
+1, c,= 1/2, H= 21/2, A = 27
+E, 1.00, E2.86, E= .88
+Solution: Unique; 2-resolvable
+Complement: A disconnected design
+Dual: Design S22
+Groups: (3,2)
+Plan: Repeat the plan of S1 three times.
+Design S4:
+y= 6, r = 8,
+m= 3,
+n = 2,
+k = 4,
+λ₁
+b= 12
+= 8,
+2 = 4
+c 1, c₂
+=
+1/2, H= 14, A 48
+E= 1.00, E,= .86, E = .88
+Solution: Unique; 2-resolvable
+Complement: A disconnected design
+Dual: Design S54
+Groups: (3,2)
+Plan: Repeat the plan of S1 four times.
+78
+5
+36
+2
+6
+88
+57
+87
+56
+34
+12
+24
+13
+43
+12
+36
+78
+5
+57
+6
+88
+56
+87
+7
+12
+34
+13
+24
+12
+2
+43
+Design S8:
+V=
+8, r =
+9,
+k = 4,
+b= 18
+mF 4, n = 2,
+A₁
+=
+: 9,
+2
+= 3
+54
+b= 15
+10, λ2 = 5
+c, l, c₂ = 1/4, H= 15, A
+1.00, E2.80, E= .82
+E,
+Solution: Unique; resolvable
+Complement: Truly self complementary
+Dual: A D(3), WHC (1956)
+Groups: (4,2)
+(Plan continued on next page)
+Design S5:
+v=
+6,
+r= 10, k = 4,
+=
+c1, c2
+=
+m= 3, n = 2,
+1/2, H= 35/2, A
+=
+E, 1.00, E, .86, E= .88
+λ₁
+=
+=
+75
+107

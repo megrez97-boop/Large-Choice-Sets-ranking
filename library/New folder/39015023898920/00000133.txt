@@ -1,0 +1,400 @@
+TABLE V. Singular group divisible designs - Continued
+Solution 4: Nonunique; nonresolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (8,2)
+Plan:
+1
+10
+2 11
+6
+15
+32
+10
+3 12
+1 10 2 11
+7
+16
+8 17
+5
+14
+10 1
+6
+78
+Plan: 1 9
+1 9
+1
+1 9
+1
+1
+aaaaaa
+2
+10
+3 11
+4
+12
+15
+6 10
+1 12
+2 10
+3 11
+5
+13
+9 18
+13 10
+3 12 7 16
+15 8 17 13
+9
+8
+4521
+2106
+11
+10
+3419487
+9
+2
+10
+6 14
+7 15
+18 9
+14 16
+7
+10 1
+3
+11
+6
+14
+8 16
+2 11 12
+3 17
+18 9
+9
+4 12
+5
+13
+6 14
+4 13
+2
+9
+18
+14 5
+9
+4
+12
+7
+15
+8
+16
+16 7
+9
+18
+11
+2
+6 15
+1
+9
+5 13
+7
+15
+8 16
+11 2
+7
+16
+4
+13
+3 12
+2 10 3
+11
+7
+15
+8 16
+8
+17
+15
+6
+5
+14 11
+22
+2 10
+4 12
+5
+13
+7 15
+3
+12 14 5
+18
+9 17 8
+2 10
+4 12
+6
+14
+8
+16
+13
+2 10
+5 13
+6 14
+8
+16
+12
+3 11
+4 12
+5
+13
+8 16
+17
+8 16
+3 11
+4 12
+6
+14
+7 15
+14
+478
+18 9 15
+13 4 14 5 15
+16
+6 15 12
+5 17 8 13 4
+327
+636
+3 11
+5 13
+6 14
+7 15
+Design S64:
+v = 16,
+r = 9,
+k
+= 8,
+m= 4,
+n = 4,
+λ₁
+=
+9,
+b= 18
+=
+λ2 3
+Solution 3:
+Complement: Design S105, Solution 3
+Nonunique; nonresolvable
+Dual: Irregular
+1, c,
+=
+54
+1/8, H= 15, A
+E,= 1.00, E,= .89, E = .91
+Solution: Unique; resolvable
+Complement: Truly self complementary
+Dual: A D(3), WHC (1956)
+Groups: (4,4)
+Plan: Repeat the plan of S61 three times.
+8 17
+9 18
+8
+Groups: (9,2)
+Plan: 1 10 2 11 6 15 9
+320
+18
+10 3 12
+5
+14
+17
+1 10 4
+13
+6
+15
+14 7 16
+10
+10 1
+11
+2
+4 13 14 5
+18
+9 10
+1
+12 3 7 16
+15
+6
+3
+12 10
+2
+11
+16 8
+17
+10
+Design S65: v = 18, r = 8,
+k = 8,
+b= 18
+4
+13
+16
+7
+2
+11
+m= 9, n = 2,
+A₁
+=
+8,
+2
+= 3
+7
+16
+9
+18 5
+14
+11
+2
+17
+8 13
+C₁ =
+5
+14
+12
+3
+11
+2
+3
+12
+18 9
+17
+12
+3 6
+15 16
+87
+8
+11
+30326
+518
+13 4
+1
+12
+11
+15
+6
+2
+17
+Solution 1:
+Nonunique; 4-resolvable
+13
+4 14 5
+18
+12
+17
+16
+14
+875
+13 4
+14
+5 16
+4 13 15 6 18
+5 15 6 18 9 17
+9
+8
+1, c₂ = 19/54, H= 59/4, ▲ = 54
+E, 1.00, E,
+.92, E= .92
+Complement: Design S105, Solution 1
+Dual: Not a D(x), x = 1, 2, 3
+Groups: (9,2)
+Plan: Cyclically develop the two initial blocks
+1 10 2 11 3 12 5 14
+10 1 13 4 14 5 17 8
+using cycles of length 9 and cycling within
+the two subsets of treatments 1-9 and
+10-18. Each position within blocks
+contains a replication, and each initial
+block provides four replications.
+Solution 2: Nonunique; nonresolvable
+Complement: Design S105, Solution 2
+Dual: Irregular
+Groups: (9,2)
+Solution 4:
+Nonunique; nonresolvable
+Complement: Design S105, Solution 4
+Dual: Irregular
+Groups: (9,2)
+427
+Plan: 1 10
+2 11
+13
+8 17
+1 10
+11
+6
+15
+9
+18 1 10
+4
+13 7
+16
+9 18
+10
+1
+3
+12
+6 15 16
+57216
+11
+461
+10
+9
+18
+10
+1
+5
+14 3
+17 8
+6
+15
+10
+4
+5
+14
+17
+3 12 10
+2
+11 4
+13
+12 3 15
+14
+5 11
+18 9 17
+2 8
+8
+17
+6
+11
+2
+12
+7231653
+7
+13
+16
+15
+12
+47632
+523
+14
+79546
+68435
+16 12 3 13
+11 2 5 14 7 16 9
+16 7 14
+4
+11
+2
+18
+8
+17
+18 9 15 6 17
+8
+5
+18 9
+13
+13 4 17 8 18
+12 15 6 16
+87
+14
+95
+121

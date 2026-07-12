@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a clear, concise step-by-step guide and includes the required three distinct pieces of advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers a detailed process but fails to provide the specific three-sentence advice section requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes pre-travel planning steps not requested, making the guide less focused on the airport experience itself.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely irrelevant to the prompt as it discusses vacation planning rather than airport navigation procedures.",
+      "rank": 4
+    }
+  ]
+}

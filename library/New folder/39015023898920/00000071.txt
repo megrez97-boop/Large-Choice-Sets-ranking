@@ -1,0 +1,45 @@
+w'
+2.2175
+W: =
+di
+=
+=
+w-w
+11.0084-2.2175
+2.2175
+8.7909
+= 0.2522
+C₁A+ rλ₁W
+A+rHW+r² W²
+45
++4(0.2522)
+15
+4
+45
++4 (27) (0.2522) +16(0.2522)²
+=4.0088/19.0771
+=0.2101
+d2
+=
+C₂A+ rλ2W
+A+rHW+r² W²
+8
+15
+:) (
+45+4 (27)
+45
++4(2) (0.2522)
+(27) (0.2522) +16(0.2522)²
+=8.0176/19.0771
+= = 0.4203
+Step 5. Calculation of P₁, S₁(Q) and the inter-block estimates t'. To obtain Q, we subtract rG/N=9.37100
+from Ti-Q (third row of column (3), opposite treatment i, in Table 17). The values of Q are entered in
+column (3) of Table 23. We now calculate P; using
+P₁=wQi+w'Q'
+= 11.0084Q₁+2.2175Q'
+where w and w' are given above. The values of P¡ are entered in column (4) of Table 23.
+The calculation of S₁(P) is similar to that of S₁(Qi). The values of P; are entered below each treatment in
+the association scheme (Table 22) and the row sums and column sums are formed. Then S₁(P¡) is obtained
+by taking the sum of the row and column sums corresponding to the treatment i and subtracting 2P₁. Thus
+S₁(P₁)=(-5.8308)+(−0.6233)-2(-2.3092)=-1.8357
+59

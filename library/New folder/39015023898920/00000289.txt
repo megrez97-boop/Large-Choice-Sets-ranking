@@ -1,0 +1,244 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes - Continued
+Design LS83: v= 16,
+ni
+=
+6,
+r = 7,
+n2
+2
+k
+= 7,
+b
+=
+=
+9,
+λι
+=
+4, λε
+=
+16
+2
+P₁ ={ ² 3]
+P₁ = [ 2 4]
+Р
+=
+CI 91/160, c₂
+=
+21/80, H = 88/7, ▲ = 1920/49
+E,
+=
+.93, E, = .89, E = .91
+Solution: Nonunique'; nonresolvable
+Complement: Design LS116
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Association Scheme:
+Solution:
+Nonunique; affine resolvable
+Complement: Not listed, r = 18
+Dual: Design SR31
+Association Scheme: L,(7)
+Plan: To construct, use
+Set 7.1 once
+Set 7.2 once
+L₂(4)
+Plan: 4
+8 16
+7 11
+13
+23
+10
+13
+11
+12
+14
+1
+15
+16
+-55896362
+16
+HR4252SPORT+10
+13 14 15
+10 16
+12
+9
+6
+7
+3
+K34B0720
+34175820-
+0528113+
+243
+12
+13
+14
+15 9
+63
+6
+11
+14
+1
+12
+15
+9 4
+13
+3
+5
+5625-22783414
+4361890-2356274
+2 6
+16
+9
+10 11
+11 9
+10
+8
+7
+33OUTHPORTI2525
+4
+Set 7.3 once
+Each set constitutes a complete
+replication.
+Design LS86: v =
+C₁ =
+1/7,
+E
+49,
+r = 4,
+k = 7,
+b = 28
+=
+= 0
+24, n 2
+=
+P₁ =[112]
+24, A,
+-1/7, H= 7, A
+=
+c
+2
+=
+= .87, E₂:
+Solution:
+.84, E = .86
+1, λη
+12
+P₁ = [ ¹² 12]
+2
+=
+12
+Nonunique; affine resolvable
+Complement: Not listed, r
+Dual: Design SR48
+Association Scheme: L,(7)
+Plan: To construct, use
+= 24
+*Remark: See design M28 for a design with the
+same parameters but with a nonisomorphic
+plan and a pseudo Latin square type asso-
+ciation scheme.
+Set 7.1
+once
+Set 7.2
+once
+Set 7.3
+once
+k
+=
+7,
+b = 14
+36, λ, 1, λη
+=
+= 0
+6
+Design LS84: v= 49, r = 2,
+C₁ = 1/7, C2
+E,
+n₁ =
+=
+12, na
+P₁ = 530]
+Pi
+10
+P₁ = [220]
+2
+25
+-5/7, H= 3, ▲ = 2
+= .87, E₂ = .78, E = .80
+Solution: Unique; affine resolvable
+Complement: Not listed, r
+Dual: Design SR14
+Association Scheme:
+L₂(7)
+Plan:
+To construct, use
+Set 7.1 once
+= 12
+Set 7.4 once
+Each set constitutes a complete
+replication.
+Design LS87: v= 49, r = 5, k =
+ni
+C₁ = 1/7, c₂ =
+E,= .87, E₂
+Solution:
+=
+=
+30, n2
+=
+18, λ
+P,
+=
+7, b = 35
+=
+1, λε 0
+P.-[172] P.- [2010]
+=
+-1/14, H= 9, ▲ = 20
+.85, E
+= .86
+=
+30
+Affine resolvable
+Complement: Not listed, r
+Dual: Design SR62
+Association Scheme: L,(7)
+Plan: To construct, use
+Set 7.2 once
+Each set constitutes a complete
+replication.
+Design LS85: v = 49,
+с =
+1
+ΠΙ
+1/7, c₂ =
+E₁ = .87, E,
+=
+r =
+3,
+k
+=
+7,
+18, na
+7 10
+20
+=
+30, A,
+-2/7, H= 5, A
+= .82, E = .84
+=
+=
+b = 21
+1, 1, = 0
+P₁ = [ 612]
+2
+Set 7.1 once
+Set 7.4
+once
+Set 7.2 once
+Set 7.5
+once
+Set 7.3 once
+Each set constitutes a complete
+replication.
+277

@@ -1,0 +1,71 @@
+TABLE 24B
+STANDARD DEVIATIONS FOR ESTIMATED TREATMENT
+EFFECTS AND TREATMENT DIFFERENCES
+Intra-block
+Combined intra-
+and inter-block
+Standard deviation of estimated treatment means....
+0.1646
+0.1871
+Standard deviation of estimated treatment differences:
+(a) between first associates......
+(b) between second associates..
+(c) average..
+0.2377
+0.2319
+0.2291
+0.2254
+0.2349
+0.2297
+5. Computer analysis. In this section the analysis of partially balanced block designs is given in a
+general form suitable for programming an electronic computer. The three models of section 2 are discussed
+separately in subsections, treating separately the case where the blocks are regarded as parameters (intra-
+block analysis) and the case where the block values are regarded as random variables (inter-block analysis).
+Partitioned matrices are used to show ways to reduce the size of matrices to be inverted. In the case of one
+or more missing observations it may be possible to solve by use of linear regression techniques on the
+observation equations.
+In this section and in section 6, matrices and vectors are denoted by bold face letters; elements of
+matrices are denoted by the corresponding lower case letters, e.g., C= (cij). Otherwise, notation is con-
+sistent with the foregoing sections unless specially defined in these sections.
+5.1. Intra-block analysis.
+5.1.1. Model 1: No replication grouping. The expected value and variance of the observation on the
+ith treatment in the jth block are
+E(yij) = g+ti + bj
+V(yij) = σ².
+The assignment of treatments to blocks can be represented by the incidence matrix, N, of the design where
+N is the v by b matrix which has the value 1 in the (i, j)th cell if treatment i occurs in block j and zero other-
+wise. For example, for the v=4, b=8, r=4, k=2 design, R1, the incidence matrix is
+N=
+=
+1
+0 0 1
+1 0 1 0
+0 1 1 0 1 0 0 1
+1 0 0 1 0 1 0 1
+0
+1 1 0 0 1 1 0
+The least squares estimates of the unknowns b' (b₁, b2, .
+expressed in the normal equations
+=
+b) and t' = (t1, t2,
+., tt) can be
+bk kl' rl' 0 0
+g
+G
+kl kl N'
+1 0
+b
+B
+rl N rI 01
+t
+=
+T
+0
+1' 0 0 0
+01
+0
+0
+0 1' 0 0
+02
+0
+62

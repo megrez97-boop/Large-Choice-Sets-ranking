@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Unique focus on balancing high-tech with nature, creating a holistic, human-centric experience missing in other options.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Captures the futuristic, sci-fi aesthetic well, though it lacks the depth of emotional resonance found in Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a practical, tech-heavy vision, but feels more like an incremental upgrade than a truly futuristic experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The narrative is repetitive and lacks creative flair, focusing on basic automation rather than a futuristic vision.",
+      "rank": 4
+    }
+  ]
+}

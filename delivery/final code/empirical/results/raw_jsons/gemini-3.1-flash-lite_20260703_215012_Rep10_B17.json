@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly balances the required step-by-step guide with actionable advice in a tone suitable for an influencer.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a clear, logical structure, though it lacks the engaging personality expected from an influencer post.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Very concise and functional, but it reads more like a manual than an engaging social media post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Too specific to Narita Airport, making it less useful for travelers visiting other major Japanese airports.",
+      "rank": 4
+    }
+  ]
+}

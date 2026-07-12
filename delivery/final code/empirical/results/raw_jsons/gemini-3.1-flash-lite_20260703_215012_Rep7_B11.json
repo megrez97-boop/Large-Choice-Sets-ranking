@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most comprehensive, structured, and actionable step-by-step guide and clear advice for first-time travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a helpful narrative flow but lacks the concise, actionable formatting required for a quick traveler guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses too much on cultural etiquette rather than the essential logistical steps required to navigate the airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Uses unprofessional all-caps formatting and includes irrelevant, alarmist advice that does not fit the influencer persona.",
+      "rank": 4
+    }
+  ]
+}

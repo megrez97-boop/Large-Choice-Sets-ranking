@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most comprehensive and imaginative vision of a high-tech, seamless 2050 travel experience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong narrative flow that effectively captures the personal, high-tech, and cultural experience requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Includes creative environmental elements like the glass dome, but lacks the depth of the top options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses too heavily on basic capsule hotels rather than the innovative, futuristic airport experience requested.",
+      "rank": 4
+    }
+  ]
+}

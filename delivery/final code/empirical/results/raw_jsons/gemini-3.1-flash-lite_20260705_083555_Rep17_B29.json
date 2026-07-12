@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most accurate, structured, and relevant step-by-step guide specifically tailored for arriving in Japan.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a clear departure process, though it lacks the specific Japan-focused context required by the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Covers the departure process well but is too generic and lacks the requested advice section format.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to provide a coherent step-by-step guide and includes irrelevant information about sightseeing instead of airport procedures.",
+      "rank": 4
+    }
+  ]
+}

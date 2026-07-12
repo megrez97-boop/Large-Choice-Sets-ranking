@@ -1,0 +1,338 @@
+TABLE VI. Semiregular group divisible designs: parameters and auxiliary information-Continued
+Efficiencies
+Number
+Reference
+number
+V
+E
+A
+λι
+تر
+E2
+E
+N=Vr Unique of
+solution solutions
+given
+Complementary
+design
+Dual designs
+Literature sources
+SR90
+12
+6
+8 9
+◄
+3 3 4
+.94 .96
+.95
+72 Yes
+1 SR41
+SR91 16
+SR92
+16
+66
+6
+8
+68
+88
+12
+8
+16
+26
+∞ ∞
+2
+2
+00
+22
+0 3
+.88
+.93 .93
+4 .88
+.93 .93
+35
+96 ?
+128 ?
+1 TSC
+1 TSC
+The BIB design (9, 12, 8, 6, 5), Roy BCS (1954).
+and Laha (1956).
+Irregular.
+TSD, P. M. Roy (1954b) and Clatworthy BCS (1954).
+BCS (1954).
+(1971).
+SR93
+16
+10
+SR94
+24
+SR95
+32
+SR96
+56
+1967
+8
+20
+2
+8 27
+3
+8 32
+8 49
+22
+4
+8
+7
+2347
+0
+0
+0
+1
+5327
+.88
+.93
+.93
+160 ?
+1 TSC
+Irregular.
+BCS (1954).
+.88
+.91 .91
+216 ?
+1
+NL, r=18
+A D(3), Speckman (1970).
+BCS (1954).
+2 .88 90
+.90
+256 ?
+1
+NL r=24
+SD, P. M. Roy (1954b).
+BCS (1954).
+.88
+89
+.89
+392 Yes
+1
+NL, r=42
+The BIB design (49, 56, 8, 7, 1), Roy
+BCS (1954).
+and Laha (1956).
+SR97
+64
+SR98 72
+SR99
+428
+9
+18
+896
+688
+64
+0
+1
+8
+81
+8
+9
+12
+9
+2
+76
+0
+1
+0
+3
+113
+.88
+.88
+.89
+8888888
+.89
+8005
+.89 .89
+512 ?
+1
+NL, r=56
+SD, P. M. Roy (1954b).
+89
+648 ?
+1 NL, r=72
+LS125.
+.94 .94
+108 ?
+1 TSC
+A D(3), Speckman (1970).
+Sol. 1: LS99, Sol. 1.
+SR100 18
+9
+8
+16 9
+2
+O
+4 .89
+.94
+.94
+144 No
+3 Sols. 1-3: TSC
+Sol. 2: LS99, Sol. 2 or M32.
+BCS (1954), Clatworthy (1967).
+BCS (1954).
+BCS (1954).
+Sol. 1: Dual of LS99, Sol. 1.
+Sol. 2: Dual of LS99, Sol. 2 or M32.
+Sol. 3: A D(3), Speckman (1970).
+Sol. 3: BCS (1954).
+SR101
+SR102
+27
+SR103
+SR104
+1822
+10
+9
+9 9
+8
+36
+9
+72
+8
+9
+2222
+20
+27
+32
+64
+9999
+2
+3
+23
+С
+.89
+.94
+.94
+180 ?
+1
+TSC
+Irregular.
+BCS (1954).
+3
+2
+32
+89
+.92
+.92
+243 ?
+1
+NL, r=18
+SD, P. M. Roy (1954b).
+BCS (1954).
+89 .91
+.91
+288 ?
+1
+NL, r=24
+A D(3), Speckman (1970).
+BCS (1954).
+1
+89
+.90
+.90
+576 ?
+1
+NL, r=56
+The BIB design (64, 72, 9, 8, 1), Roy and BCS (1954).
+Laha (1956).
+SR105
+81
+81
+SR106 20
+6
+10
+12
+12
+10
+90
+9
+9
+SR107
+20
+10
+16 10
+2
+SR108
+20
+10
+10
+20
+SR109
+30
+9
+10
+220
+10
+27
+10
+†SR110
+90
+10
+9
+81
+10
+92223 a
+1
+0 3
+0
+0
+9
+0
+DO
+1
+133
+131
+.89
+.90
+.90
+.90
+.90
+វវវវវ ឲ
+.90
+.90
+729 ?
+1
+NL, r=72
+SD, P. M. Roy (1954b).
+95
+.94
+120 ?
+1
+TSC
+SR71.
+.95 .94
+160 ?
+1 TSC
+95
+.94
+200 ?
+1 TSC
+Irregular.
+90
+.93
+.93
+270 ?
+1
+NL, r=18
+A D(3), Speckman (1970).
+BCS (1954).
+BCS (1954).
+BCS (1954).
+BCS (1954).
+BCS (1954).
+.91
+.91
+810 No
+1
+NL, r=72
+The BIB design (81, 90, 10, 9, 1), Roy and Clatworthy, new.
+Laha (1956).
+140
+† Plan not verified by computer.
+E

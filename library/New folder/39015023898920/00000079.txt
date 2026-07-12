@@ -1,0 +1,52 @@
+where R, is a k× v matrix with a row for each observation having a one in the column corresponding to
+the appropriate treatment and zeros otherwise, and J is a matrix of all ones.
+The inverse of M is
+In keeping with the usual notation let
+so that M-1 may be written
+M
+=
+I
+σε
+σ² (σ² + ko?)
+J.
+w=
+and
+w'
+1
+σ² + ko?
+M-¹=wl — —-— (w — w' ) J.
+· (w−
+The quantities w and w' which enter into the above equations are not known and have to be estimated from
+the observations themselves. This is done by forming an auxiliary analysis of variance table as shown in
+Table 4. By equating S and S2 to their respective expected values, one obtains
+=
+(bk-b-v+1)
+S2
+and
+v(r-1)
+w' =
+kSz
+(v-k)S?
+(bk-v-b+1) •
+The normal equations for the least squares estimates, î, are given by
+[Ri, R2,
+R]
+M-1
+0
+R₁t
+M-1
+R2
+M-1
+Ro
+=
+= [R1, R2, .
+.9
+R']
+M-1
+M-1
+0
+Yı
+Y2
+M-1
+Ув
+67

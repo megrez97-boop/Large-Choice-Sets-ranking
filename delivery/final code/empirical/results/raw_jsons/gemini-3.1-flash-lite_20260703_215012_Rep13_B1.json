@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most comprehensive, professional, and clear step-by-step guide suitable for a travel influencer's audience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good structure, but lacks the detailed flow of immigration and terminal navigation found in Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses too much on personal advice rather than providing the required step-by-step airport navigation guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "This is a personal anecdote rather than a functional guide, failing to meet the prompt's structural requirements.",
+      "rank": 4
+    }
+  ]
+}

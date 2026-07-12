@@ -1,0 +1,150 @@
+Efficiencies
+Number
+Reference
+number
+V
+01
+λι
+λ
+E₁ E₂ E
+N=W Unique of
+solution solutions
+given
+TABLE XVIII. Miscellaneous partially balanced designs: parameters and auxiliary information—Continued
+Dual designs
+Literature sources
+Complementary
+design
+M33
+50
+M34
+16
+M35
+57
+M36
+57
+M37 63
+9
+††M37a❘ 297
+10
+9
+330
+M38 26 10
+10
+M39 27 10
+10
+M40 70 6 10 42 27
+M41 70 9
+10
+M42
+82 10 10
+999
+ន ម នដ ៖វីឌ ១៩តម
+50
+28 21
+2
+16
+6 9
+38
+24 32
+2
+57
+24 32
+56
+32 30 2
+26232
+0 .89 .86 .88
+400 ?
+1
+NL, r=42
+$80.
+4
+.96
+.94
+.95
+144 No
+1
+M28
+TSD, Clatworthy (1971).
+0
+.90 86 88
+342 No
+1
+NL, r=32
+$49.
+0
+.90 .86 88
+513 No
+1
+NL, r=48
+$96.
+0
+.90 88
+.89
+504 No
+2
+NL, r=48
+$81, parameter wise.
+40
+256
+2
+0
+89 87
+.87 2970 ?
+1
+NL, r=320
+Clatworthy (1956).
+Derived from Design M28.
+BCS (1954), Design SI. 19.
+BCS (1954), Design Sl. 20 (corrected).
+Clatworthy (1956).
+Derived from PG 13a.
+26
+15 10
+3
+94 .93
+.94
+260 ?
+1
+NL, r=16
+SD, Hoffman (1963).
+Liu (1963).
+27
+10 16
+5 .89
+94 .92 270 ?
+1
+NL, r=17
+SD, Hoffman (1963).
+Liu (1963).
+42
+0
+.91 88
+.89 420 No
+1
+NL, r=36
+$50.
+63
+27 42
+0
+.91
+82
+45 36
+2
+0
+.91 .89 .90
+88888
+.89
+630 No
+1
+NL, r=54
+$97.
+820 ?
+1 NL, r=72
+$124.
+BCS (1954), Design Sl. 23.
+BCS (1954), Design Sl. 24.
+Clatworthy (1956).
++ Plan for M11, Solution 2 not verified by computer.
+††Plan not verified by computer.
+302

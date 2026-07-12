@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most realistic and helpful advice for major Japanese airports while maintaining a professional influencer tone.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a clear, structured step-by-step guide, though it lacks specific context regarding Japanese airport procedures.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses only on arrival procedures rather than the requested departure guide from arrival to boarding.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains dangerous misinformation regarding bag drop procedures that would cause significant issues for any traveler.",
+      "rank": 4
+    }
+  ]
+}

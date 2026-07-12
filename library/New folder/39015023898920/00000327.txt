@@ -1,0 +1,67 @@
+FORM NBS-114A (1-71)
+U.S. DEPT. OF COMM.
+BIBLIOGRAPHIC DATA
+SHEET
+4. TITLE AND SUBTITLE
+PUBLICATION OR REPORT NO.
+2. Gov't Accession
+No.
+3. Recipient's Accession No.
+NBS-AMS-63
+Tables of Two-Associate-Class Partially Balanced Designs
+7. AUTHOR(S)
+Willard H. Clatworthy, Joseph M. Cameron, Janace A. Speckman
+9. PERFORMING ORGANIZATION NAME AND ADDRESS
+NATIONAL BUREAU OF STANDARDS
+DEPARTMENT OF COMMERCE
+WASHINGTON, D.C. 20234
+12. Sponsoring Organization Name and Address
+National Bureau of Standards
+5. Publication Date
+May 1973
+6. Performing Organization Code
+8. Performing Organization
+10. Project/Task/Work Unit No.
+2050131
+11. Contract/Grant No.
+13. Type of Report & Period
+Covered
+Final
+14. Sponsoring Agency Code
+15. SUPPLEMENTARY NOTES
+16. ABSTRACT (A 200-word or less factual summary of most significant information. If document includes a significant
+bibliography or literature survey, mention it here.)
+This book is a revised and vastly expanded version of the monograph R. C. Bose,
+W. H. Clatworthy and S. S. Shrikhande, Tables of Partially Balanced Designs With Two
+Associate Classes, Tech. Bul. No. 107 of the North Carolina Agricultural Experiment
+Station, Raleigh, North Carolina, 1954.
+Approximately 950 combinatorially distinct designs are given, which represents a
+doubling of the number of parametric specifications for designs of the original
+publication. The introduction includes special instructions to aid analysis using hand
+calculations and a section on the general least squares approach for use when the
+analysis is to be done on an electronic computer.
+For those interested in the construction of the designs, information is provided
+on methods of construction and extensive references, including original sources for
+the designs, are given. A tabulation of known information about uniqueness,
+resolvability and the nature of the corresponding dual and complementary designs is
+also included for each design.
+Analysis of PBIB designs; Experiment designs; Finite fields; Finite geometries;
+17. KEY WORDS (Alphabetical order, separated by semicolons) Finite projective planes; Incidence matrices;
+Incomplete block designs, partially balanced; Mathematics; Partially balanced incomplete
+block designs; PBIB designs; Statistics; Tables of PBIB designs;
+18. AVAILABILITY STATEMENT
+UNLIMITED.
+19. SECURITY CLASS
+(THIS REPORT)
+21. NO. OF PAGES
+327
+FOR OFFICIAL DISTRIBUTION. DO NOT RELEASE
+TO NTIS.
+UNCL ASSIFIED
+20. SECURITY CLASS
+(THIS PAGE)
+UNCLASSIFIED
+22. Price
+$3.45
+domestic
+U.S. GOVERNMENT PRINTING OFFICE: 1973 OL-461-933

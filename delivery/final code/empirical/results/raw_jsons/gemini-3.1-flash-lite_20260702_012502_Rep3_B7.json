@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly follows all instructions, including the story format, word count, and the required three slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Strong futuristic vision, but failed to provide the required marketing slogans requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on generic luxury rather than the requested high-tech, innovative, and futuristic airport experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Lacks any futuristic technology or innovation, focusing instead on elitist exclusion rather than airport design.",
+      "rank": 4
+    }
+  ]
+}

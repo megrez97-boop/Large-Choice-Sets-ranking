@@ -1,0 +1,268 @@
+TABLE VII. Semiregular group divisible designs - Continued
+Design SR73: v= 18, r = 9,
+m= 6, n = 3,
+k = 6,
+λ₁ = 0,
+b= 27
+λ₂
+= 3
+1 14
+7 20
+1739
+3952
+2 15
+16 11 24
+22 5 18
+4 23 12
+8 21 10 17 6
+E,
+= 0, c₂= 1/3, H= 33/2, ▲ = 135/2
+=
+=
+.83, E, .88, E = .88
+Solution:
+2
+Resolvable
+Complement: Not listed, r = 18
+Dual: A D(3), Speckman (1970)
+Groups: (6,3)
+Plan: 1
+395
+284
+409
+5 6
+10
+11 12
+15 16 17 18
+3 10 11 12
+16
+7
+13
+17
+1
+7
+13
+14
+395
+284
+15
+194
+17 18
+5
+6
+1
+7
+13
+284
+3
+16
+17 18
+9
+4
+5
+6
+15 10
+11
+12
+15
+4
+11
+18
+3 10
+17
+6
+173
+8
+7 14
+42
+842
+173
+628
+7 14
+1739
+2482
+20 15
+10 11 18
+7 14 21
+4 5 24
+3
+22 23 6
+9
+16 17 12
+10 23 24 1
+4 17 18
+7 8
+2042
+9324
+22 11 12 13 14 21
+16 5 6 19 20 15
+16 23 18
+8462
+22 17 24
+4 11
+240
+8 21
+2 15
+13 20
+1739
+10 5 12 19 14
+17
+16 23 12
+2204
+1739
+6284
+10 5 18
+4 11 24
+1 14
+7 20
+2593
+9325
+2 21
+8 15
+4 17 12 1 20 21
+10 23 6
+16 5 24
+22 11 18
+14 15
+2593
+2482
+1739
+15
+9 16 5 12
+539
+10 17
+094
+3 16
+5 12
+11 18
+16 5 12
+640
+539
+11 18
+9 10 17 6
+173
+84
+7 14
+2
+286
+12 1 14
+173
+9
+4
+15 10
+751
+11
+5 18
+5 18
+11
+862
+17 12
+11
+17 12
+5 18
+173
+13
+428
+14
+428
+3 16
+9 10
+15 16
+3 4
+14 9 16
+128
+173
+628
+15
+953
+4
+3
+10
+Design SR74: v= 24,
+r = 8,
+k = 6,
+b= 32
+m= 6, n = 4,
+λ₁
+=
+0,
+2
+= = 2
+160/3
+Resolvable
+c₁ = 0, c₂ = 1/4, H= 44/3, A =
+E, .83, E,= .87, E= .86
+Solution:
+Complement: Not listed, r 24
+Dual: Not a D(x), x = 1, 2, 3
+Groups: (6,4)
+Plan: 1
+3952
+2842
+=
+7
+13 14 15
+4 5 6
+10 11 12
+16 17 18
+19 20 21 22 23 24
+1739
+13 20
+19 14
+15 22 5 12
+16 11 6
+10 17 24
+4 23 18
+8
+2 21
+5239
+Design SR75: v= 30,
+0, c,
+m= 6, = 5,
+r = 5,
+k = 6,
+b= 25
+n=
+A₁
+=
+0,
+= 1
+31
+=
+125/6
+1/5, H= 55/6, A
+E, .83, E,= .86, E= .86
+Solution: Unique; nonresolvable
+Complement: Not listed, r = 20
+Dual:
+Groups:
+The BIB design (25,30,6,5,1), Roy and Laha
+(1956)
+(6,5)
+Plan: Cyclically develop modulo 24 the initial
+block
+8 9 22 5 24
+to obtain 24 blocks of size k' = 5. Then
+to these blocks cyclically annex an
+additional new treatment in the order
+25, 26, 27, 28, 29, 30,
+cycling four times. Finally, annex the
+set of six new treatments as the 25th
+block.
+Design SR76: v= 30,
+m= 6,
+r = 10, k = 6,
+n = 5, A₁ = 0,
+b= 50
+λε 2
+=
+c₁ = 0, c₂ = 1/5, H= 55/3, A = 250/3
+E.83, E,= .86, E = .86
+Solution:
+2
+5-resolvable
+Complement: Not listed, r = 40
+Dual: Design S121
+Groups: (6,5)
+Plan: Duplicate the plan of SR75.
+159

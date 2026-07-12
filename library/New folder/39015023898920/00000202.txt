@@ -1,0 +1,261 @@
+TABLE IX. Regular group divisible designs-Continued
+Plan:
+456665
+233454
+2454
+112312
+1123
+2
+Plan:
+1
+56
+56
+56
+56
+34
+34
+34
+34
+1
+12
+12
+12
+12
+3665
+5
+2
+Design R50:
+c, = 3/4,
+E, .89,
+=
+Solution:
+v= 6,
+m= 3,
+r= 9,
+n = 2,
+k = 3,
+λ. = 6,
+λε
+=
+b= 18
+3
+c₂
+=
+3/8, H= 14, A
+= 48
+E,= .76, E = .78
+3-resolvable
+Complement: Truly self complementary
+Dual: A D(3), WHC (1956)
+Groups: (3,2)
+54
+26
+2
+6
+1
+2 3
+5 3
+13
+36
+25
+14
+12
+46
+42
+63
+1
+5
+52
+5
+3
+4
+5 6 2
+6
+62
+2
+34
+15
+16
+35
+1
+14
+4
+31
+54
+4
+3
+32
+46
+52
+26
+57
+1
+6 3
+34
+61
+k= 3,
+n = 3, λ₁ = 7, λ₂
+Design R53:
+v = 6,
+m= 2,
+r = 10,
+c₁ = 7/9, c
+E, .90, E,
+=
+Solution:
+-4/27, H= 13, A = 36
+.64, E= .72
+5-resolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (2,3)
+Plan: 1
+1
+1
+1
+3456665656
+2234534544
+————-22233
+34
+5
+36
+3
+5
+56
+56
+5
+6
+56
+56
+34
+34
+34
+34
+12
+12
+12
+2
+12
+2
+1
+12
+2
+b=20
+=
+22
+Plan:
+1
+2 4
+1 2
+4
+2
+4
+2
+3
+5
+2
+3
+3
+5
+3
+4
+6
+3
+6
+6
+4
+1
+4
+1
+5
+1
+2
+5
+6
+2
+5
+5
+2
+6
+1
+3
+3
+3
+Design R51: v = 6,
+r = 9,
+m 3,
+n = 2,
+k = 3,
+λ. = 2,
+b= 18
+2
+= 4
+C=
+3/10, C2
+=
+21/40, H= 44/3, A = 160/3
+E,= .74, E₂= .81, E = .79
+Solution:
+Nonresolvable
+Complement: Truly self complementary
+Dual: Irregular
+Groups: (3,2)
+Plan: 1
+3665
+2523
+1144
+3665
+2523
+3
+4
+4 3
+1144
+3456665656
+223453 4544
+1
+11122233
+4
+Design R54:
+v = 8,
+m= 4,
+r = 3,
+k = 3,
+b= 8
+n = 2, λ₁
+=
+0, A2
+= 1
+16/3
+c₁ = 0, c₂ = 3/8, H= 14/3, A =
+E,= .67, E,= .76, E= .75
+Solution: Unique; nonresolvable
+Complement: Design R134
+Dual: Truly self dual
+Groups: (4,2)
+Plan:
+45678123
+23456781
+4
+12345678
+r =
+m= 2,
+= 9,
+n = 3,
+k = 3,
+b= 18
+8
+λι
+= 3, A2 = 4
+Design R52: v = 6,
+c₁ = 3/7, c₂
+=
+=
+15/28, H= 15, A = 56
+E, .78, E, .81, E = .80
+2
+Solution: Unique; resolvable
+Complement: Truly self complementary
+Dual: Not a D(x), x =
+1, 2, 3
+Groups: (2,3)
+190

@@ -1,0 +1,58 @@
+one kind belonging to each mutually orthogonal Latin square, provided I>2. If I=2, no Latin square
+is needed to define the association scheme of type L2 (n), the scheme now consisting only of the n×n array
+of n2 treatment symbols.
+For example, the standardized L4(5) type of association scheme utilizes a 5x5 array of the treatment
+symbols 1, 2, . . ., 25 on which is superposed two mutually orthogonal Latin squares, the second having
+its symbols in bold faced type.
+1 A A 2 B B 3 C C
+4 D D
+5 E E
+6 E B 7 A C 8 BD 9 CE
+11 D C 12 E D 13 A E 14 B A
+16 CD 17 DE 18 E A
+21 B E 22 C A 23 D B
+E
+10 D A
+15 C B
+19 А В 20 В Сс
+24 E C
+25 A D
+The first Latin square has symbols A, B, C, D, E and the second, A, B, C, D, E. The parameters of this
+association scheme are
+-
+v = n² = 25, n₁ = I(n − 1) = 16, n₂ = (n − 1) (n−1 +1)=8,
+-
+P₁ = (³ 2),
+19 6
+P₁- (12).
+P₂ = (12
+4
+3
+Each treatment i has n₁ = 16 first associates and these consist of the treatments which occur with it in the
+same row, or in the same column, or correspond to the same letter from the first Latin square or correspond
+to the same letter from the second Latin square. Thus the first associates of treatment 8 are:
+6, 7, 9, 10; 3, 13, 18, 23; 2, 14, 20, 21; 4, 12, 16, 25.
+The second associates of treatment i will be those treatments which are not its first associates. Thus the
+n2=8 second associates of treatment 8 are 1, 5; 11, 15; 17, 19; 22, 24.
+Further, any pair of treatments which are first associates will appear together in A, blocks and any pair
+which are second associates will appear together in A₂ blocks of any design which is based on the L, (n)
+type of association scheme.
+Thus any design based on an L, (n) type of Latin square association scheme will have its analyses
+materially simplified when computations are performed on a desk calculator if use is made of the association
+scheme. Thus one uses eq (3.10) to calculate the intra-block estimates ↑ of the treatment effects
+where
+î₁
+=aQi + BS₁ (Qi)
+-
+a = (k − c₁)/r(k − 1)
+and
+B = (c₁ = c2)/r(k − 1).
+-
+The Qi will have been calculated and recorded in the treatment allocation plan table (along with the cal-
+culated quantities Ti, Ti-Qi and Qi). To obtain the values S₁ (Qi) (i=1, 2, . . ., n²=v), the Qi correspond-
+ing to treatment i is recorded in the cell of the association scheme alongside treatment symbol i and the
+corresponding (1-2) Latin square symbols. Then form n marginal row sums of the Q in the various rows
+and n column sums. Also form (I−2) sets of n marginal subtotals, each set consisting of the n values Qi
+that are associated with a particular Latin square symbol. From the definition of S₁ (Qi) as the sum of all
+adjusted treatment yields of treatments that are first associates of treatment i, it is clear that S₁ (Qi) equals
+38

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best tone for an influencer; clearly separates the guide and advice sections as requested by the prompt.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Very clear and concise step-by-step structure, though it lacks the requested advice section for common mistakes.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good content, but fails to clearly separate the two required parts of the Facebook post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Weakest structure; the advice is integrated into the guide rather than being a distinct, highlighted section.",
+      "rank": 4
+    }
+  ]
+}

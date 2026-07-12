@@ -1,0 +1,46 @@
+Chapter I. Introduction to the Tables
+1. History. Incomplete block designs have become highly developed as statistical tools for the planning,
+conduct, analysis, and interpretation of scientific experimentation conducted in laboratories and test instal-
+lations where a high degree of experimental control is desirable or even necessary to cope with the experi-
+mental variability that invariably arises throughout the conduct of the experiment. Historically the statistical
+use of these designs began with the balanced incomplete block designs introduced by Yates (1936a) and de-
+veloped by Fisher and Yates (1938) and Bose (1939) and extensively tabled in Fisher and Yates (1963) and
+Cochran and Cox (1957) along with the lattice designs of Yates (1936b, 1937) and Cochran and Cox (1957)
+all of which were developed for use in agricultural and biological experiments. Further refinements in sta-
+tistically based experimental arrangements of the first type were developed by Youden (1937, 1951) and of
+the second by Harshbarger (1946, 1947) and Nair (1951). Bose and Nair (1939) developed a very general
+class of incomplete block designs which they called partially balanced incomplete block designs with m
+associate classes (abbreviated PBIBD(m)). These designs include the balanced incomplete block designs
+(BIB designs) and the square and rectangular lattice designs as special cases. Generally, they have the
+advantage of providing an extremely large selection of experimental arrangements from which investigators
+may choose the ones best suited to their needs. Besides the advantage of control of experimental variation
+through the blocking technique, they offer (1) the opportunity to select plans of smaller size [fewer repetitions
+of the treatments, varieties, test conditions, etc.], (2) statistical analysis of the experimental data by rela-
+tively simple computational procedures, (3) simplicity of presentation and interpretation of the results from
+comparative experiments in terms of clear-cut statements about their precision based on modern statistical
+developments.
+In the United States and England during the period of World War II, a strong interest was developed in
+industry and in government to adapt the developments in probability and small sample theory to the control
+of quality of production processes of industry. This interest was extended after the war to the introduction of
+statistical procedures to the experimental problems of the physical and engineering sciences. This effort has
+been particularly significant in the vast and expensive investigative activity associated with atomic power and
+aerospace developments. Today there is intense interest in current developments in probability and statistics
+for possible application to research and development in all branches of science, engineering, health and
+medical research, business, and in fact, in any area where decisions need be made on the basis of incom-
+plete information. Thus the incomplete block designs have potential for application to many fields of
+investigation.
+By 1952 R. C. Bose and a group of his advanced degree students at the University of North Carolina
+(including S. S. Shrikhande, W. S. Connor, T. Shimamoto, and W. H. Clatworthy) had sufficiently extended
+and developed the partially balanced incomplete block designs with two associate classes [PBIBD(2), or even
+more briefly "D(2)" or "D(2) designs"] that several hundred were now available. With the encouragement of
+Gertrude Cox, Director of the Institute of Statistics, Consolidated University of North Carolina, and with the
+support of the Agricultural Experiment Station, North Carolina State College, some 375 of these D(2) designs
+were classified, catalogued and generally put into convenient form for use by experimenters. A monograph
+was published by Bose, Clatworthy and Shrikhande (1954) very soon after Bose and Shimamoto (1952) had
+developed the concept of association schemes, on which the classification of D(2) designs is based. Since
+1952 the concept of association schemes has been the subject of intensive research by statisticians interested
+in the combinatorial problems of the design of experiments. The intimate relations between association
+schemes and certain kinds of graphs has attracted many mathematicians interested in graph theory to join
+in their investigation. The resulting improved insight into the construction problems of D(2) designs ac-
+companying the improved knowledge of association schemes, led to the construction of literally hundreds
+1

@@ -1,0 +1,363 @@
+Reference
+number
+TABLE IV. Singular group divisible designs: parameters and auxiliary information
+Efficiencies
+V
+n
+λι
+λ
+N=Vr
+Unique
+solution
+Number of
+solutions given
+Complementary design
+E₁
+E₂
+E
+Dual designs
+S1
+$2
+2
+$3
+6 6
+$4
+12
+92
+2
+3
+2
+$5
+10
+15
+2
+$6
+3
+6
+2
+222222
+11.00
+.86 .88
+12 Yes
+1
+A disconnected design.
+2 1.00
+.86 .88
+24❘ Yes
+1
+A disconnected design.
+The BIB design (3, 6, 4, 2, 2), Roy and Laha (1956).
+TSD.
+6
+3 1.00 .86 88
+36 Yes
+A disconnected design.
+$22.
+4 1.00
+.86
+88
+48❘ Yes
+1 A disconnected design.
+10
+5 1.00 .86
+88
+60 Yes
+A disconnected design.
+3
+11.00 .80
+82
+24 Yes
+1
+TSC.
+S7
+12
+S8
+8
+18
+$9
+10
+10
+$10
+10
+20
+$11
+12
+15
+$12
+12
+10
+30
+S13
+14
+21
+$14
+16
+28
+8
+$15
+18
+36
+9
+$16
+20
+10
+$17
+22 10
+11
+$18
+8
+$19
+8
+6
+$20
+12
+$21
+3
+$22
+9
+6
+$23
+9
+$24
+9
+12
+$25
+9 10
+6
+15
+$26
+10
+10
+$27
+$28
+$29
+$30
+S31
+22222
+6
+6
+10
+6
+6
+12
+9 6
+18
+028
+222 ~~~ ~~~ ~~~ ~ ~ 3 3 3 3 3 2 3 2 3 3
+333335
+2 1.00 .80 82
+48 Yes
+1
+TSC.
+3 1.00
+.80 .82
+72 Yes
+1 TSC.
+1 1.00
+.77 .79
+40 Yes
+1
+S26.
+2
+2 1.00
+.77 .79
+80 Yes
+1 NL, r=12.
+2
+11.00
+75
+.77
+60 Yes
+1❘ $58.
+$54.
+$101.
+SR19, Solution 1.
+A D(3), WHC (1956).
+A D(3), WHC (1956).
+T29.
+A D(3), WHC (1956).
+T49.
+2 10
+2 1.00
+.75 .77
+120 Yes
+1 NL, r=20.
+A D(3), WHC (1956).
+2
+6
+11.00
+.74
+.75
+84 Yes
+NL, r=15.
+T66.
+2
+7
+11.00
+.73 .74
+112 Yes
+1
+NL, r=21.
+T73.
+2
+1 1.00
+.72
+.73
+144 Yes
+1
+NL, r=28.
+T79.
+2
+9
+1 1.00
+.71
+.73
+180 Yes
+1
+NL, r=36.
+T87.
+2
+10
+11.00
+.71 .72
+220 Yes
+1
+NL, r=45.
+T97.
+2 3
+21.00
+94
+.95
+24
+Yes
+1
+A degenerate design.
+2
+4 1.00 94 .95
+48 Yes
+1
+A disconnected design.
+The BIB design (4, 8, 6, 3, 4), Roy and Laha (1956).
+TSD.
+2 9
+6 1.00 .94 .95
+72 Yes
+1
+A disconnected design.
+S83.
+2
+24
+9
+11.00
+.90
+.92
+18 Yes
+1
+A disconnected design.
+The BIB design (3, 9, 6, 2, 3) Roy and Laha (1956).
+2 1.00
+.90 .92
+36
+Yes
+1
+A disconnected design.
+S3.
+3 1.00 .90 .92
+54 Yes
+1
+A disconnected design.
+TSD.
+4 1.00
+.90 .92
+72
+Yes
+1
+A disconnected design.
+$55.
+10
+5 1.00
+90
+.92
+90 Yes
+1
+A disconnected design.
+$102.
+6
+3 1.00
+.91 .92
+1 1.00
+.86 .88
+2 1.00
+.89.90
+21.00
+.86 .88
+9
+3 1.00
+.86 .88 108 Yes
+10
+6 20
+6
+2
+10
+4 1.00
+.89 .90 120 No
+$32
+14 3 6 7
+7 2 3 11.00 .88 .87
+8277 27
+60 Yes
+1
+S9
+T58.
+36 Yes
+TSC
+60 Yes
+1
+TSC
+SR20, Sol. 1.
+T46.
+Yes
+1
+TSC
+1
+TSC
+Sol. 1: TSC
+2
+Sol. 2: TSC
+42
+Yes
+1 $59
+A D(3), WHC (1956).
+A D(3), WHC (1956).
+Sol. 1: a D(3), WHC (1956).
+Sol. 2: A D(3).
+The true duplicate solution for the BIB design (7, 14, 6, 3, 2),
+Roy and Laha (1956).
+(Sol. 1: TSD.
+$33
+14 6 6 14
+7 26 21.00
+2 1.00 .88 .87
+84
+NO
+No
+4 Sol. i: S60, Sol. i,
+i=1, 2, 3, 4
+Sol. 2: Irregular.
+Sol. 3: Irregular.
+$34
+143
+9 6 21
+7
+2
+9
+3 1.00
+88 .87
+1266
+(Sol. 4: not a D(x), x =1, 2, 3.
+Sol. 1: $89.
+No
+4 NL, r=12
+Sol. 2: not a D(x), x=1, 2, 3.
+Sols. 3, 4: Irregular.
+103

@@ -1,0 +1,286 @@
+TABLE XIX. Miscellaneous partially balanced designs – -
+Continued
+Design M30:
+=
+1/5, C2
+v = 35,
+n₁ =
+=
+P₁
+18, n
+=
+=
+r =
+9,
+k
+=
+16, A₁
+Р
+9 8
+^"
+b = 45
+=
+3, λε 0
+9
+P₁ = [ 9 ]
+2
+-1/5, H= 108/7, ▲ = 405/7
+E,= .88, E, = .83, E = .86
+2
+Solution: Nonunique; 3-resolvable
+Complement: Not listed, r
+Dual: Design S95
+= 36
+Association Scheme: Same as design PG9
+Plan: Repeat the plan of PG9 three times.
+Design M31: v = 63,
+C 1
+=
+1/9,
+C 2
+n₁ =
+=
+r =
+10, k = 7,
+b = 90
+32, A1
+=
+2, λη
+0
+30, n₂ =
+16
+13 10%)
+P₁ = 13
+Pi
+16
+=
+P₁ = [ 15 15]
+-1/9, H= 124/7, ▲ =
+E= .87, E, .84, E = .86
+Solution:
+=
+2
+5-resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+= 80
+540/7
+Association Scheme: Obtainable from the plan.
+Plan: Duplicate the plan of PG10.
+5,
+Design M31a: v = 16,
+n₁ =
+r = 5,
+10, λι
+n,=
+k = 8, b
+=
+10
+= 1, λη
+3
+0
+Р
+P.° ] P.- [23]
+=
+²
+2
+E,
+1
+Resolvable
+= .92
+37
+==
+=
+C1 = 1/8, c₂ 9/16, H= 9, A = 20
+= .89, E, = .94, E =
+Solution:
+Complement: Truly self complementary
+Dual: Design SR54, Solution 3
+Association Scheme: Type NL, (4) of Mesner
+(1967); not specified
+Plan:
+1 2 3 4
+5
+8
+9
+10 11 12
+13 14 15 16
+12
+34
+78
+56
+56
+43
+17
+2
+2
+17
+34
+78
+64
+77
+9 11 13 15
+10 12 14 16
+Solution:
+Nonunique; resolvable
+Complement: Truly self complementary
+Dual: Design SR100, Solution 2
+Association Scheme: Pseudo Latin square type;
+blocks provide the scheme
+Plan: Start with design LS99, Solution 2 and
+interchange the names of its associate
+classes but retain its blocks intact.
+The resulting design has parameters appro-
+priate for an L₂(4) association scheme,
+but a 4x4 array of treatment symbols is
+inadequate for a specification of the
+association relations between the treat-
+ments. Hence the design is classified as
+miscellaneous and its association scheme
+is called a pseudo Latin square type
+association scheme. It is nonisomorphic
+with design LS100.
+Design M32a:
+CI
+=
+1/8, C
+=
+v = 16,
+n₁ =
+5,
+r = 10, k = 8,
+ni
+0 4
+= 10, λ,
+=
+20
+b
+=
+20
+2, λε 6
+=
+2
+P] P.- [ 2 ]
+= =
+9/16, H= 18, A = 80
+E₁ = .89, E₂ = .94, E = .92
+Solution:
+2
+Resolvable
+Complement: Truly self complementary
+Dual: A D(3), WHC (1956)
+Association Scheme: Type NL,(4) of Mesner
+(1967)
+Plan: Duplicate the plan of M31a.
+Design M33: v = 50,
+n₁ = 28,
+r =
+nz
+=
+P₁ =[1512]
+1
+8,
+21, λ.
+k
+=
+8,
+b = 50
+P₂
+2
+=
+=
+=
+2, λε = 0
+= [ 16 12]
+-3/25, H= 57/4, A = 50
+.86, E = .88
+2
+c₁ = 4/25, c₂
+=
+E
+=
+.89, E,
+Solution:
+4-resolvable
+Complement: Not listed, r = 42
+Dual: Design S80
+Association Scheme: Same as design PG11
+Plan: Duplicate the plan of PG11.
+v = 16,
+n₁ = 6,
+r =
+n:
+=
+P₁23]
+P, { ²
+9 11
+10
+14 16
+12 13 15
+Design M34:
+27/40, c
+=
+2
+E₁ =
+= .96, E,
+=
+9 12 13 16
+10
+11 14 15
+9 12 14 15
+10 11 13 16
+90
+78
+65
+87
+56
+34
+17
+2
+6
+5
+5
+4 6
+Design M32: v = 16,
+C₁ =
+DI
+=
+6,
+r =
+9,
+n₂ = 9,
+λ,
+k
+=
+8,
+=
+b = 18
+=
+3, λη 5
+²
+P. 23] P.-[2]
+{
+=
+C 1 9/16, H = 17, ▲ = 72
+=
+11/32,
+E,= .91, E₂ = .94, E = .93
+2
+9.
+k = 9,
+b = 16
+9,
+λ = 6, λε 4
+-
+P₁-[2]
+P‚= [ ² 4]
+9/20, H = 152/9, ▲ = 640/9
+.94, E = .95
+Solution: Nonunique'; nonresolvable
+Complement: Design M28
+Dual: Truly self dual, Clatworthy (1971)
+Association Scheme:
+Pseudo Latin square type;
+same as design M10
+(Plan continued on next page)
+309

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Perfectly follows all instructions, providing a creative, immersive story and three catchy slogans within the word count.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a coherent narrative but fails to include the required three catchy marketing slogans at the end.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses too narrowly on sleeping pods rather than the holistic, high-tech airport experience requested in the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to write a cohesive story and includes irrelevant information about existing airports instead of the 2050 vision.",
+      "rank": 4
+    }
+  ]
+}

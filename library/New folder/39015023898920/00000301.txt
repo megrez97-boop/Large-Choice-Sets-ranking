@@ -1,0 +1,362 @@
+Efficiencies
+Number
+Reference
+V
+number
+λε
+λ
+Unique
+TABLE XIV. Partially balanced designs based on the cyclic type of association scheme: parameters and auxiliary information
+Dual designs
+Literature sources
+solution
+E₁
+Ę, E
+of Complementary
+solutions
+given
+design
+JNIJI Í JI 885¤ ¤¤
+246806
+555555
+75
+83
+O453
+3333
+6aa3
+5552
+33
+69
+TRT
+2 20
+2 2
+10 2 25 2
+2
+2
+15
+2
+2
+5
+2
+20
+2
+5 10
+25
+2
+2
+25
+C10
+13
+2
+39
+C11
+17
+2
+68
+C12
+3
+5
+C13
+10
+3 15 2 2
+C15
+9 3 15
+C16
+13
+3 13
+C17
+13
+26
+C18
+13
+39
+C19
+13 9 3 39
+C20
+37
+111 18 18
+C21
+13
+26
+C22
+17
+34
+222~~~~~~~~3
+2
+2
+2
+2 10 2 2
+2 15 2 2
+222222
+222682
+200 -
+123452 34 3112
+0
+1
+1
+1
+.87
+CX128 8 8 8 8 8 8 8
+.42
+.50
+10 Yes
+1 C12
+TSD, Clatworthy (1971).
+.42
+.50
+20 Yes
+1 C13
+A D(3), Clatworthy (1956).
+P.M. Roy (1954a) [Clatworthy (1955)].
+Clatworthy (1955).
+.42
+50
+30 Yes
+1 C14
+A D(3) Clatworthy (1956).
+Clatworthy (1955).
+42
+.50
+40 Yes
+1
+NL, r=12
+A D(3), Clatworthy (1956).
+Clatworthy (1955).
+42 50
+50 Yes
+1
+NL, r=15
+A D(3), Clatworthy (1956).
+Clatworthy (1955).
+.57
+.61
+30 Yes
+1
+C15
+Irregular.
+Clatworthy (1955).
+54
+.59
+40 Yes
+1
+NL, r=12
+Irregular.
+Clatworthy (1955).
+52
+58
+50❘ Yes
+1
+NL, r=15
+Irregular.
+Clatworthy (1955).
+60
+.62
+50 Yes
+1
+NL, r=15
+Irregular.
+Clatworthy (1955).
+46
+.50
+78 ?
+1
+NL, r=33
+Not a D(x), x=1,2.
+Clatworthy (1955).
+.47
+.50
+136 ?
+1
+NL, r=60
+Not a D(x), x=1,2.
+Clatworthy (1955).
+.76 .81
+15 Yes
+1 C1
+2226
+2
+2226
+2
+234 -
+4651
+.87
+.87
+0
+1632
+.85 81 .83 45 Yes
+.72 .62 .67
+5586
+.76 .81 30 Yes
+C2
+76 .81 45 Yes
+C3
+1 C6
+39 ?
+1 C29
+ថ ច ខ ទឹ
+TSD, Hoffman (1963) and Clatworthy P.M. Roy (1954) Clatworthy (1956), John
+(1971).
+A D(3), Clatworthy (1956).
+(1966)).
+Clatworthy (1956).
+A D(3), Clatworthy (1956).
+Clatworthy (1956).
+Irregular.
+TSD, Hoffman (1963) and Clatworthy BCS (1954).
+Clatworthy (1956).
+(1971).
+33
+334
+28 8 ELS
+23
+.72
+0
+1
+2
+-
+-
+032
+.72
+.70 .73
+.77
+.62
+.78
+ឌឌឌ ង ន ន
+62
+.67
+78 ?
+1
+NL, r=20
+A D(3), Clatworthy (1956).
+Clatworthy (1956).
+.67
+117 ?
+1
+NL, r=30
+A D(3), Clatworthy (1956).
+Clatworthy (1956).
+Sol. 1: not a D(x), x=1, 2, 3.
+Sol. 1: BCS (1954) Design C3.
+.72
+117 No
+2
+NL, r-30
+Sol. 2: Irregular.
+.65 .67
+333 ?
+1
+NL, r=102
+Not a D(x), x-1, 2.
+83
+.80 104 ?
+1
+NL, r=18
+Irregular.
+.81 .79 136 ?
+1
+NL, r=26
+Not a D(x), x=1, 2, 3.
+(Sol. 1: C24,
+Sol. 1
+C23
+13
+G
+13
+9
+→
+3 2 .91
+.89
+69
+.90 78 No
+2
+Sol. 2: C24,
+Sol. 2
+(Sol. 1: C23,
+Sol. 1
+C24
+13
+7
+7
+13
+3 .94 .92
+.93
+30
+91 No
+2
+Sol. 2: C23,
+Sol. 2
+C25
+29
+7
+7
+29 14
+14 2
+1
+.89
+.87 .88
+203 ?
+1 NL, r=22
+C26
+17
+17
+-
+3
+.34
+.92
+.93
+136 ?
+1 C28
+632939
+2
+C27
+29
+29
+14
+14
+3
+1
+.91 .88 .90
+232 ?
+1 | NL, r=21
+C28
+17
+9
+9
+17
+8
+5
+4 .95 .94
+.94
+115
+153 ?
+1 C26
+13
+10
+10
+13
+7.98 97.97 130 ?
+1 C16
+Sol. 2: John (1966).
+BCS (1954) Design C10.
+BCS (1954) Design C2 [John (1966)].
+BCS (1954) Design C5.
+TSD, Hoffman (1963) and Clatworthy Clatworthy (1956).
+(1971).
+TSD, Hoffman (1963) and Chatworthy Liu and Chang (1964) [John (1966)].
+(1971).
+TSD, Hoffman (1963) and Clatworthy Clatworthy (1956) [John (1966)].
+(1971).
+TSD, Hoffman (1963) and Clatworthy John (1966).
+(1971).
+TSD, Hoffman (1963) and Clatworthy BCS (1954), Design C8.
+(1971).
+TSD, Hoffman (1963) and Clatworthy BCS (1954), Design C6 [Liu and Chang
+(1971).
+(1964)].
+TSD, Hoffman (1963) and Clatworthy | BCS (1954), Design C9.
+(1971).
+TSD, Hoffman (1963) and Clatworthy BCS (1954), Design C7.
+(1971).
+TSD, Hoffman (1963) and Clatworthy BCS (1954), Design C4 [John (1966)].
+(1971).
+289

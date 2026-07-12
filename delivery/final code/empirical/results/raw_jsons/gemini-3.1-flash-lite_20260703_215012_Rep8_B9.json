@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best alignment with the influencer persona, providing a clear, structured guide and relevant travel advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, concise step-by-step process, though it lacks the engaging influencer tone of Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Good instructions, but it misses the immigration step which is crucial for international travel in Japan.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses only on arrival and customs, failing to provide the requested guide for the entire departure process.",
+      "rank": 4
+    }
+  ]
+}

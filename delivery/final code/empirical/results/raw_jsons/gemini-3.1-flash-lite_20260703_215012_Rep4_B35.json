@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly follows the requested two-part structure and provides clear, actionable steps for a modern traveler.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a good narrative flow but lacks the specific two-part structure requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Includes helpful advice but is poorly written and lacks the professional tone expected of an influencer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to provide a cohesive step-by-step guide and focuses on arrival rather than departure procedures.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best balance of futuristic technology, cultural integration, and relaxing atmosphere, perfectly matching the influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Strong focus on high-tech wellness and sustainability, though slightly less immersive than the cultural blend in Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Practical and efficient, but feels more like an incremental upgrade to current airports rather than a futuristic vision.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Focuses on historical themes rather than the requested futuristic, high-tech airport experience, making it the least relevant.",
+      "rank": 4
+    }
+  ]
+}

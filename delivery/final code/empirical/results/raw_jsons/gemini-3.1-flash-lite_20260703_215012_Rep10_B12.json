@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a comprehensive, professional step-by-step guide and includes the required top three pieces of advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Clear and structured, but lacks the specific top three advice section requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Helpful tone, but focuses on arrival rather than the full departure process required for the guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Contains inaccurate information regarding baggage drop-off procedures, making it unreliable for first-time travelers.",
+      "rank": 4
+    }
+  ]
+}

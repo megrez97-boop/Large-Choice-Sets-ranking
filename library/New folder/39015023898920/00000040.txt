@@ -1,0 +1,55 @@
+the blocks are spoken of as having been Youdenized. The analysis of variance table for Youdenized designs
+provides for a replication groups subdivision for which the sums of squares and the degrees of freedom serve
+to reduce the corresponding quantities in the "error" line of a model 1 analysis of variance table.
+In the "even" numbered Tables VI, VIII, . . ., XVIII of this volume replication groups orthogonal
+to the blocks are indicated by vertical rulings in the design plans, while the replication groups of Model 2
+are indicated by horizontal rulings.
+2.1. Intra-block analyses. In this section we shall present the formulas necessary for the intra-block
+analyses and the expressions for the computational constants C1, C2, H, and ▲ and the efficiency factors
+E₁, E2, and E. In section 2.2 we specify the formulas for the combined intra- and inter-block analyses.
+Let there be v treatments whose effects it is required to compare by using a partially balanced design
+with two associate classes. We divide the N(=bk) experimental units to which the treatments are to be
+applied into b more or less homogeneous sets called blocks, each block containing k units. The design di-
+vides the treatments into b sets, such that each set contains k treatments, and each treatment occurs in r
+sets, other conditions for a D(2) design being satisfied. The b sets of treatments are assigned randomly to
+the b blocks, and the individual treatments of a set are assigned randomly to the units of the corresponding
+block. Let yy be the observed result of applying the ith treatment to a unit in the jth block. We delay consid-
+eration of the conceptual composition of the observation y until the three models are discussed separately.
+It should be noted that to a given j(j=1, 2, . . ., b) only k different values of i are associated, since the
+symbol y or ty is meaningful only when the ith treatment occurs in the jth block.
+Denote by T, the total of the observations for the ith treatment, i.e., T; is the sum of the observations
+from the r plots containing the ith treatment. Let B; be the sum of the k observations for the jth block. Denote
+by Q, the adjusted yield for the ith treatment, where Qi is obtained by subtracting from T; the sum of the block
+averages for those blocks in which the ith treatment occurs. Thus, if the ith treatment occurs in blocks num-
+bered i, i2, . . ., ir, we have
+(3.1)
+-
+Q₁ = T; — — (Bi, + B₁₂+Bi₂+ -
+. .
+12
+.+Bir).
+Further, let S, (Qi) be the sum of the adjusted yields for all the first associates of the ith treatment. Thus, if
+the first associates of the ith treatment are the treatments numbered i₁, i2, . .
+in,, then
+(3.2)
+S₁ (Qi) = Qi,+Q₁₂+ ··· + Qin,·
+•
+We denote the grand total of all the N observations by G.
+Define the constants A, H, c1, c2 by the relations
+(3.3)
+(3.4)
+(3.5)
+(3.6)
+where
+(3.7)
+(3.8)
+k²A = (a+λ₁) (a +λ2) + (λ, − λ2) {a(ƒ—g) + ƒλ₂-gd₁}
+kH = (2a+λ₁ + λ₂) + (ƒ− g) (λ1 −λ2),
+kSc₁ = λ₁ (a + λ) + (A₁ − λ₂) (ƒλ2-gλ₁),
+-
+kAc₂ = X2 (a + X₁) + (λ, − λ₂) (ƒλ2−gλ₁),
+(3.9)
+a=r(k-1),
+f=Plas
+8 = Pia
+28

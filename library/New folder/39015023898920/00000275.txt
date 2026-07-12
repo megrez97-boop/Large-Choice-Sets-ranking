@@ -1,0 +1,205 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes - Continued
+Plan:
+168
+129
+891
+6
+735
+924
+8
+843
+195
+573
+249
+2
+7
+627
+195
+843
+249
+924
+924
+168
+189
+689
+1
+573
+573
+198
+573
+129
+924
+924
+195
+198
+6
+6
+843
+7
+735
+3
+3
+573
+5
+Solution:
+Nonunique; 3-resolvable
+Complement: Not listed, r = 26
+Dual: Not a D(x), x = 1, 2, 3
+Association Scheme: L,(4)
+Plan: Cyclically develop the following eight
+initial blocks
+1 2 3
+5 6 7
+9 10 11
+13
+14 15
+1
+5 9
+Solution 2:
+As given by Clatworthy (1967);
+nonunique; resolvable
+Complement: Not listed, r = 20
+Dual: Irregular
+Association Scheme: L,(3)
+Plan: To construct, use
+Set 3.1 twice
+Set 3.2
+twice
+Set 3.3 3 times
+Set 3.4 3 times
+Each set constitutes a complete
+replication.
+Design LS15: v = 9,
+n₁ = 4,
+CI
+=
+1/27, C₂
+E,= .67, E,
+Solution:
+=
+Р
+=
+4, λι
+1,
+r =
+n₂ =
+10, k = 3,
+=
+1 2
+21
+b = 30
+=
+A₂ 4
+P₁ = [ 2 }]
+11/27, H = 15, A = 54
+.77, E = .72
+Resolvable
+Complement: Not listed, r
+Dual: Irregular
+Association Scheme: L,(3)
+Plan: To construct, use
+Set 3.1 once
+Set 3.2 once
+= 20
+13 1 5
+9 13 1
+5 9 13
+using cycles of length 4 and cycling
+within four subsets of treatments 1-4,
+5-8, 9-12, and 13-16. Each position
+within blocks contains two replications,
+and the first (last) four initial blocks
+provide three replications.
+Design LS17: v= 16, r = 9, k = 3, b = 48
+C₁ =
+3/16, C2
+ni
+=
+9, n, 6, λ,
+4 4
+= 2, λε
+6
+=
+P.-P.-[2]
+=
+P,=
+-3/32, H= 40/3, A = 128/3
+E,= .71, E, = .65, E = .68
+Solution 1: As given by Clatworthy (1967);
+nonunique; 3-resolvable
+Complement: Not listed, r = 39
+Dual: Not a D(x), x = 1, 2, 3
+Association Scheme: L,(4)
+Plan: To the 32 blocks of design LS16 annex the
+following 16 blocks:
+1 6 11
+16 1 6
+11
+16
+1
+6 11
+16
+2 5
+12
+15
+2
+12
+15
+5 12
+15
+3 8
+14
+3
+8
+9
+14
+3
+625259∞
+8 9 14
+4 7 10
+13
+4 7
+10
+13 4
+Set 3.3 4 times
+Set 3.4 4 times
+Each set constitutes a complete
+replication.
+Design LS16: v = 16,
+C₁ =
+n₁ = 6,
+r = 6,
+k
+01
+=
+P₁ = 2 3]
+3/16,
+C2
+=
+E, .71, E,
+=
+9, λ,
+-3/8, H= 8, A
+.59, E = .63
+=
+-
+ཉྭ་
+2, λε
+b = 32
+P,= [ 2 ]
+=
+128/9
+0
+7 10 13
+Remark: This solution for LS17 is, upon
+renaming of the associate classes,
+combinatorially equivalent to Solution 1
+for LS20.
+Solution 2:
+Nonunique; 3-resolvable
+Complement: Not listed, r
+Dual: Not a D(x), x = 1, 2, 3
+Association Scheme: L;(4)
+39
+(Plan continued on next page)
+263

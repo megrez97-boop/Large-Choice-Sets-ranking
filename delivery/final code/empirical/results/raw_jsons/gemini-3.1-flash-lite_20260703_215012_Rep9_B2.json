@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "This is the only option that fully addresses both parts of the prompt with a clear, comprehensive guide.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a decent guide but fails to include the required three specific bits of advice at the end.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is incomplete as it only covers arrival procedures rather than the full departure process requested.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Poorly written, lacks a coherent step-by-step guide, and fails to meet the word count or content requirements.",
+      "rank": 4
+    }
+  ]
+}

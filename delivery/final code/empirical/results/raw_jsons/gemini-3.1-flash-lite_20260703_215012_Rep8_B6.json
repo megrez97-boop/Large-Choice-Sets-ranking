@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most professional, structured, and comprehensive advice tailored to the influencer persona and traveler needs.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Clear and logical, but slightly less engaging and professional in tone compared to Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Practical advice, but the formatting is too informal and lacks the polished influencer style required.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too informal, lacks necessary steps like immigration, and contains spelling errors that undermine credibility.",
+      "rank": 4
+    }
+  ]
+}

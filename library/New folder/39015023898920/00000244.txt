@@ -1,0 +1,324 @@
+TABLE X. Partially balanced designs based on triangular association schemes: parameters and auxiliary information-Continued
+Reference ν
+k
+01
+number
+25
+k
+λ
+Number
+N=vr Unique
+solution
+E₂ E
+of
+solutions
+given
+Complementary
+design
+Efficiencies
+E₁
+5
+Dual designs
+Literature sources
+T62
+15 4 6 10 8 6 1 2.87.91
+.89 60 No
+(Sol. i:
+3T83, Sol. i,
+i=1, 2, 3
+(Sol. 1: The B21 solution of Nandi (1946a)
+for the BIB design (10, 15, 6, 4, 2), Roy
+and Laha (1956).
+BCS (1954) [Masuyama (1965)).
+Sol. 2: The a (1, 1) solution of Nandi Clatworthy, new.
+α
+(1946a) for the BIB design (10, 15, 6, 4,
+2), Roy and Laha (1956).
+Sol. 3: The a3 solution of Nandi (1946a) Clatworthy, new.
+for the BIB design (10, 15, 6, 4, 2) Roy
+and Laha (1956).
+T63
+T64
+T65
+T66
+T67
+T68
+៩៩៩១៩ ៩៩៩
+15 10
+15
+21
+T69
+T70
+22222
+21
+21
+21
+21 10
+21 10
+282
+532
+66666
+4 6
+6
+6
+999
+25
+20
+227
+12233
+10 10
+14 10 10
+28
+35 10 10
+22222
+10 10
+10
+10
+35 10 10
+421
+669
+2345
+99999
+4
+.87
+0
+.87
+888
+3 .90 .88
+.91
+85
+.89
+.89
+.78 .82
+88%
+150 No
+3
+NL, r=15
+Sol. 1, 2, 3: Irregular.
+120 No
+3
+NL, r=12
+Sol. i: S67, Sol. i, i=1, 2, 3.
+Chang, Liu,and Liu (1965).
+Clatworthy (1956).
+42 Yes
+1
+NL, k=15
+The BIB design (7, 21, 6, 2, 1), Roy and BCS (1954) [Masuyama (1965)].
+Laha (1956).
+.87 .78 .82
+84 Yes
+1
+NL, k=15
+$13.
+Clatworthy (1956).
+.87 .78 .82
+126 Yes
+1
+NL, k=15
+$42.
+Clatworthy (1956).
+.88 .78 .82 168 Yes
+1
+NL, r=20
+$73.
+Clatworthy (1956).
+0
+.87 .78 .82 210 Yes
+1
+NL, r=25
+$116.
+Clatworthy (1956).
+1
+.89 .83 .86 210 ?
+1
+NL, r=25
+a D(3), Speckman (1970).
+Chang, Liu and Liu (1965),
+[Masuyama (1965)].
+Sol. 1: T9,
+Sol. 1: TSD.
+BCS (1954).
+T71
+10 7 7 10
+6 3 5
+.96
+.94 .95
+70 No
+2
+Sol. 1.
+Sol. 2: T9,
+Sol. 2: TSD.
+Clatworthy, new.
+Sol. 2.
+T72
+28
+2
+7
+12 15
+1
+--
+.89
+.80
+.84
+56 ?
+1 NL, k=21
+The BIB design (8, 28, 7, 2, 1), Roy and BCS (1954) [Masuyama (1965)].
+Laha (1956).
+T73
+28
+T74
+28
+T75
+28
+T76
+28
+2222
+10
+7777
+46
+16
+24
+32
+40
+1555
+2222
+15
+.89
+.80 .84
+112 ?
+NL, r=12
+$14.
+15
+.89 80
+.84
+168 ?
+1
+NL, r=18
+S43.
+15
+4
+.89 80
+.84
+224 ?
+1
+NL, r=24
+$75.
+15
+0
+.89
+.80
+.84
+280 ?
+1
+NL, r=30
+S117.
+Sol. 1: SD, Hoffman (1963).
+177
+28
+7
+7
+28
+12 15 1
+2
+.88
+.89
+.89
+196 ?
+3 NL, r=21
+Sol. 2: SD, Hoffman (1963).
+Sol. 3: SD, Hoffman (1963).
+Clatworthy (1956).
+Clatworthy (1956).
+Clatworthy (1956).
+Clatworthy (1956).
+Chang, Liu and Liu (1965).
+Seiden (1963).
+Seiden (1963).
+T78
+36
+2
+9
+14 21 1 0
+.90
+.82
+.85
+72 Yes
+1 NL, k=28
+The BIB design (9, 36, 8, 2, 1) Roy and BCS (1954) [Masuyama (1965)).
+Laha (1956).
+T79
+36
+T80
+36
+T81
+36
+T82
+36 10
+4689
+18
+14
+་་
+27 14 21 3
+36 14 21 4
+45 14 21
+2222
+21
+90
+.82
+.90
+.82
+.90
+5
+0
+.90
+ន ន ន ន
+.85
+.85
+.82
+.85
+.82
+.85
+T83
+15
+6
+9
+10
+B
+3
+.94
+96
+.96
+.95
+95
+ឌ ឌឌឌ
+144 Yes
+1
+NL, r=14
+$15.
+216 Yes
+1
+NL,r=21
+$45.
+288 Yes
+1
+NL, r=28
+$77.
+360 Yes
+1
+NL, r=35
+$120
+Sol. i: T62,
+90 No
+3 Sol. i,
+i=1, 2, 3
+Sol. 1, 2, 3: the three nonisomorphic
+solutions for the BIB design (10, 15, 9,
+6,5), Roy and Laha (1956).
+Sol. 2,3: Clatworthy (new).
+Clatworthy (1956).
+Clatworthy1 (956).
+Clatworthy (1956).
+Clatworthy (1956).
+Sol. 1: BCS (1954).
+232

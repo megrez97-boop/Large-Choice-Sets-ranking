@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best captures the futuristic, high-tech, and personalized experience requested by the persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Strong narrative focus on sustainability and design, though lacks the requested marketing slogans.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides good structure but feels more like a description of current improvements than a futuristic vision.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Weakest entry as it reads like a generic list of airport features rather than a creative story.",
+      "rank": 4
+    }
+  ]
+}

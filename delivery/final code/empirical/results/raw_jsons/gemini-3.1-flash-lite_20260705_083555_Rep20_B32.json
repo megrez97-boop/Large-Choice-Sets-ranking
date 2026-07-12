@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most comprehensive, professional, and structured step-by-step guide that perfectly matches the requested format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers helpful advice on using technology and WiFi, but lacks the clear, structured formatting of Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Includes unnecessary advice about smiling at officers and dressing moderately, which feels unprofessional and subjective.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The steps are out of logical order and it fails to follow the required two-part structure.",
+      "rank": 4
+    }
+  ]
+}

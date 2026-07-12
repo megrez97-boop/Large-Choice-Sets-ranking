@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most structured, professional, and actionable step-by-step guide suitable for a travel influencer's audience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Clear and helpful, though slightly less organized and concise than Option A for a quick social media guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The advice provided is generic and lacks specific focus on navigating the airport process efficiently.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains inaccurate information regarding airport procedures and uses an overly casual, unprofessional tone.",
+      "rank": 4
+    }
+  ]
+}

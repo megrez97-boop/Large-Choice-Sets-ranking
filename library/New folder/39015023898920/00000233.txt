@@ -1,0 +1,225 @@
+TABLE IX. Regular group divisible designs - Continued
+Plan:
+Design R176: v= 12,
+m= 4,
+r = 7,
+n = 3,
+k = 7,
+b= 12
+=
+A₁ 3, A2
+= 4
+=
+2160/49
+11
+6
+12345TEE
+7
+10
+11
+58789REE
+3456789QE2
+8 10 12
+9 11
+10 12
+1
+1
+17
+23
+6
+10
+789612123456
+9
+10
+11
+12
+1
+2
+34
+3
+4
+6
+8
+7 9
+234567∞ 12
+121234567∞aα
+8
+9
+10
+11
+2 4
+8
+10
+1
+c₁ = 7/15, c₂ 217/360, H= 93/7, ▲ =
+E= .92, E₂ = .94, E = .93
+Solution 1:
+2
+Nonunique; nonresolvable
+Complement: Design R145, Solution 1
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Groups: (4,3)
+21234567BROE
+23456
+10
+7 8
+8 9
+10 11
+CA2I23456789
+2345678
+7
+10 11
+12
+10 11 12
+9012
+7 10 11 12 1
+8 10
+9
+11
+11 12 1
+1
+89OI21234567
+Plan: 3 5
+4
+6
+Design R174: v= 12,
+m= 3,
+r = 7,
+n = 4,
+k = 7,
+λ₁ = 6,
+b = 12
+λ₂
+-
+23
+5
+6
+c₁ = 7/8,
+=
+c₂ 35/96, H= 12, A = 1728/49
+E, .98,
+E,= .90, E = .92
+2
+Solution:
+Nonresolvable
+Complement: Design R143
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Groups: (3,4)
+Plan:
+11
+12
+12
+78
+10
+11
+12
+1
+2
+89OI21234
+234567890
+890121234567
+10
+PA2123456
+11
+56789012123
+456789DIE
+10
+8
+8 9 11
+9 10
+12
+10
+23
+10
+11
+11 12
+1
+3
+4
+234567BREY
+1234567BREE
+1
+Solution 2:
+Nonunique; nonresolvable
+Complement: Design R145, Solution 2
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Groups: (4,3)
+Plan:
+6 8 9
+10
+9 11
+12
+10
+12
+Design R175: v= 12, r = 7,
+m= 6, n = 2,
+k = 7,
+λ₁ =
+b= 12
+11
+1
+= 2, A2
+= 4
+12
+1212
+3456
+7
+8 10 11
+56789OEZI234
+7 9 10
+8 10
+11
+9 11 12
+10 12 1
+1
+121234567890
+P12123456789
+2345678
+234567
+1212345
+c, 7/22, c₂:
+=
+E,=
+2
+105/176, H= 92/7, ▲ = 2112/49
+= .90, E₂ = .94, E = .93
+Solution:
+Nonresolvable
+Complement: Design R144
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Groups: (6,2)
+Plan:
+121234567∞ag
+7
+8
+9
+10
+8
+10
+D12123456
+1212345
+6789
+7
+10 11
+8 9 11 12
+45678-2123
+3456
+96
+10
+12
+9 10 11
+212
+8
+10
+11
+10 11 12
+234567ARGARL
+11
+12
+12 1
+123456789012
+221

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most comprehensive, structured step-by-step guide and includes all three required pieces of advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a clear step-by-step process but fails to provide the requested three distinct pieces of advice.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses only on arrival procedures rather than the full departure process required by the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Misinterprets the prompt by describing arrival procedures instead of the departure process for a departing traveler.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most comprehensive, professional, and actionable step-by-step guide for the airport departure process.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Engaging tone suitable for social media, though it lacks the specific technical detail found in Option A.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too informal and lacks the structured, clear instructions necessary for a first-time traveler to navigate successfully.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on arrival procedures rather than the departure process requested for the Facebook post guide.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best alignment with the influencer persona, providing cultural context and practical tips for navigating Japanese airports specifically.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, actionable step-by-step guide and useful advice, though it lacks the influencer's personal tone.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Functional guide, but it incorrectly references TSA protocols which are not applicable to Japanese airports.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on arrival procedures rather than the requested departure process, making it irrelevant for the specified task.",
+      "rank": 4
+    }
+  ]
+}

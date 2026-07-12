@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most relevant, actionable advice for Japanese airports and includes essential tips for international travel.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a clear, structured step-by-step guide, though it lacks the specific travel tips tailored for international travelers.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The guide is too conversational and lacks the professional, concise tone required for a helpful travel influencer post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Fails to provide a clear step-by-step list and incorrectly references TSA agents, which are not present in Japan.",
+      "rank": 4
+    }
+  ]
+}

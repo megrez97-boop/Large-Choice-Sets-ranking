@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, concise, and accurate step-by-step guide that directly follows the prompt's structural requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Follows the requested structure well, though it contains redundant steps and lacks the influencer's engaging tone.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Fails to provide the required step-by-step guide for navigating the airport, focusing instead on general travel tips.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Completely misses the prompt's requirement for a step-by-step navigation guide, offering irrelevant advice instead.",
+      "rank": 4
+    }
+  ]
+}

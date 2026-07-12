@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly aligns with the influencer persona by focusing on remote work productivity and high-tech efficiency.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Strong creative vision with immersive technology, though slightly less personalized than Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Includes creative ideas like robot valets, but the narrative style is less professional and lacks polish.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to address the futuristic, high-tech requirements, describing only standard, current-day airport procedures.",
+      "rank": 4
+    }
+  ]
+}

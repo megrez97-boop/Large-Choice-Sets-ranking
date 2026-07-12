@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a clear, professional, and accurate step-by-step guide that is easy for a traveler to follow.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains helpful practical tips but is poorly structured and lacks the professional tone required for a guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on arrival procedures rather than the departure process requested for the Facebook post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides inaccurate and potentially dangerous advice regarding baggage drop-off procedures at international airports.",
+      "rank": 4
+    }
+  ]
+}

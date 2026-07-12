@@ -1,0 +1,336 @@
+TABLE IX.
+Regular group divisible designs - Continued
+c, = 7/8,
+=
+Nonresolvable
+Design R177: v= 14, r = 7,
+m= 7, n= 2,
+c₂ 7/16, H= 90/7, A = 288/7
+E, .98, E,= .91, E = .92
+Solution:
+Complement: Truly self complementary
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Groups: (7,2)
+k=
+7,
+b= 14
+Plan:
+5
+9
+13 17
+λ1
+=
+6, A₂ = 3
+6
+10 14
+18
+7 11
+15
+19
+8 12
+16 20
+1
+17 9
+2
+18 10
+3
+19 11
+4
+20
+12
+13 1
+17
+14 2
+18
+15 3
+19 7
+16
+4
+20
+Plan: 1
+8 10
+9
+11 1
+2
+6
+13
+8
+12
+6
+1
+8
+2353
+392
+4
+17
+10
+18
+12
+23
+19 7 3 11 13 16
+5
+20 8 4
+4
+11
+7
+1
+14
+9 13
+5
+14
+4
+11
+12
+7
+1
+8
+10
+14
+6
+7
+14
+13
+3
+6
+10
+1
+11 15 7
+10
+6
+13
+14
+7
+3
+12
+16 8
+345656TAPON21234
+432187
+314275
+241368
+7029
+8 6
+10 11 12
+12 9 11
+12 10
+52
+8 11 10
+9
+1 9 14 15
+16
+6 2 10 16 13
+15
+14
+15
+14
+13
+18 19
+20
+20
+19
+17
+18
+19
+18
+17
+2
+3
+12
+14
+7
+10
+12
+7
+14
+9
+9
+7
+2
+6
+13
+4
+11
+13
+2
+14
+11
+6
+3
+5
+12
+4
+10
+11
+5
+3 4
+10
+11
+12
+21963
+Design R180: v=
+20,
+r =
+7,
+k = 7,
+b= 20
+m 10, n= 2,
+λ₁ = 6,
+A2
+= 2
+c₁ = 7/8,
+c₂
+=
+-
+Design R178: v= 18,
+r = 7,
+k = 7,
+b= 18
+m= 3, n = 6,
+λ₁ = 6,
+λ₂
+- 1
+c₁ =
+7/8, C2
+=
+2
+-119/144, H= 66/7, ▲ = 864/49
+E= .98, E,= .77, E = .82
+Solution:
+Nonresolvable
+=
+Complement: Not listed, r 11
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Groups: (3,6)
+Plan: Cyclically develop, modulo 18, the single
+initial block:
+1 4 7 10 13 16 2
+Each position within blocks contains a
+replication.
+Design R179: v= 20, r = 7,
+21/80, H= 88/7, A = 1920/49
+E,= .98, E, .89, E = .89
+Solution:
+Nonresolvable
+= 13
+Complement: Not listed, r
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Groups: (10,2)
+Plan: 1
+13
+15
+11
+19
+6
+7
+2
+16
+23816255
+32101722
+4 11
+1
+14
+587
+8 11 9
+21
+321
+12
+11
+18 5
+8
+17 1
+15
+10 7
+20 11 16
+1
+6
+15 10 6
+20
+2 12
+5
+10
+12
+8 9 19 2
+7
+17
+19 9 7
+12
+17
+18
+2
+3 6 13 16
+9
+19
+5
+9
+13 6
+15 16
+19
+k
+m= 4,
+n = 5,
+A₁
+=
+= 7,
+3, λε
+=
+b= 20
+2
+18 7
+10
+13
+3 20 8
+8
+10
+17 20
+13
+5
+15
+14
+3 18
+7 17 3
+17
+14 7
+15 13
+14 16
+6 18
+Nonresolvable
+4 18 12
+10 14 19
+20
+2 4
+8 6 14 16
+20 4 1
+4 11 10 19 9 14
+C₁ = 7/15,
+C2
+=
+91/300, H 85/7, A= 1800/49
+E, .92, E, .90, E = .90
+Solution:
+Complement: Not listed, r = 13
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Groups: (4,5)
+Design R181: v=
+c, 1/3, c,:
+=
+28,
+m= 4,
+r = 10, k == 7,
+n = 7, λ₁
+= 3,
+3/14, H= 17, A = 72
+E, .90, E,= .88, E = .89
+Solution: Nonresolvable
+Complement: Not listed, r
+Dual: Irregular
+Groups: (4,7)
+= 30
+~2
+=
+b= 40
+λα
+(Plan continued on next page)
+222

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best alignment with the futuristic vision by balancing high-tech connectivity with essential human-centric, biophilic design elements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Strongest technical focus on 2050 infrastructure, though it lacks the creative narrative flair requested for the story.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers creative leisure ideas, but the inclusion of a pet shop feels less futuristic and more conventional.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Weakest response as it focuses on current operational complaints rather than envisioning a truly futuristic 2050 experience.",
+      "rank": 4
+    }
+  ]
+}

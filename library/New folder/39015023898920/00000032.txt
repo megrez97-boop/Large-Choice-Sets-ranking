@@ -1,0 +1,64 @@
+C. Latin Square Type Li (n) Designs
+1. Introduction. Consider a set of v=n2 treatments and an association scheme which consists of an
+nxn array of the distinct treatment symbols 1, 2, . . ., v=n onto which a set of i-2 mutually orthogonal
+Latin squares are superposed. Let the n, first associates of a treatment a consist of the n-1 other treat-
+ments lying in the same row of the array with a, the set of n 1 other treatments in the same column with
+-
+a, and the n-1 other treatments corresponding to the same letter as a in each of the Latin squares. All
+other treatments are second associates of a. Such an association scheme is called a Latin square type L₁(n)
+association scheme.
+A D(2) design based on a Latin square type Li(n) association scheme is called a Latin square type L₁(n)
+design.
+For these association schemes it is clear that
+(2.31)
+v = n²,
+n₁ = i(n-1),
+n₂ = (n-1) (n − i + 1)
+i2 - 3i+n
+-
+P₁ =
+33)
+(2.32)
+(2.33)
+P2
+=
+--
+(i − 1) (n − i + 1) (n-i) (n − i + 1))
+-
+(i (i-1)
+-
+i(n-i)
+-
+\i(n−i) (n− i )² + i − 2,
+From these relations and the definition it is clear that certain restrictions on the parameters i and n
+are necessary. First of all, for a given n the definition depends upon the existence of a set of mutually
+orthogonal Latin squares so that for positive integral values of n for which a maximum number of squares
+exist 0i-2<n-1 or 2 ≤ i ≤ n + 1. We note that when in+1, n₂ becomes 0, and any design based
+on such an association scheme would necessarily degenerate to a D(1) design. If i=n then p₁₂=0 and the
+design, if it exists, must be of GD type. To avoid both these possibilities we shall require i ≤ n−1. Clearly,
+n> 3. Thus, the existence of a Latin square type Li(n) association scheme presupposes the existence of
+a set of i-2 mutually orthogonal squares of size n and the parameters n and i are subject to the restrictions
+(2.34)
+n≥ 3,
+2≤i≤n-1.
+10,
+When n=6, the only possible value for i is i=2, so that only the L2 (6) type scheme exists. When n=
+we can presently construct Latin square type L₁(10) association schemes for i=2, 3, and 4 as the best we
+can do is construct a pair of mutually orthogonal Latin squares of size 10. When n=12 we can construct
+schemes for 2 ≤ i ≤7. In general, when n is a prime or a power of a prime, i can attain the maximum value,
+n-1, but when n is a composite nonprime power, then the maximum value that i can attain is dependent
+on n and may not be as large as n-1.
+When i=2, Shrikhande (1959) has shown that the L2 (n) association scheme is unique, except when
+n=4, i.e., the set of parameters (2.31), (2.32), and (2.33) can only specify an L2 (n), n # 4, type association
+scheme. For n=4 it is known that there exists another association scheme having parameters
+v=16, n₁ =6, n2=9,
+P₁ = (23), P₂ = (24).
+6
+When i=3 the uniqueness of the Latin square type Lз(n) association scheme holds for n=3, but not
+for n=4, 5, and 6. The last results were communicated to the author by J. J. Seidel.
+The association schemes of Latin square type Li(n) used in this volume are, with but one exception,
+standardization association schemes which are tabled in section C of Table II.
+2. Constructions. BCS (1954) listed only 20 Latin square type Li(n) designs and for these i=2 or 3.
+Electronic computer verification programs uncovered that the plans for designs designated by them as LS15
+and LS19 are invalid and that the plan for their LS14 contains a typographical error (the corrected third
+20

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Best narrative flow; it captures the seamless, personalized, and tech-integrated experience ideal for a remote worker.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Strong vision of 2050 infrastructure, though it lacks the personal storytelling depth found in Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Creative use of pods and scooters, but the narrative feels disjointed and less focused on high-tech efficiency.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Weakest entry; relies on generic descriptions of kiosks and robots rather than truly futuristic, innovative concepts.",
+      "rank": 4
+    }
+  ]
+}

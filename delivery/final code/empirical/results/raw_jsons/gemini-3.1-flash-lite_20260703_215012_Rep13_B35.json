@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, professional, and concise step-by-step guide that perfectly matches the requested influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers practical and actionable advice, though the formatting is less polished than Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes irrelevant advice like TSA Pre-check, which is not applicable to Japanese airports.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Lacks a clear step-by-step structure and contains significant grammatical errors, making it unsuitable for a guide.",
+      "rank": 4
+    }
+  ]
+}

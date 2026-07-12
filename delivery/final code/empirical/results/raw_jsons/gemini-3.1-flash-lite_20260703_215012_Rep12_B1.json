@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most professional, comprehensive, and structured step-by-step guide suitable for a travel influencer's audience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Good content, but the tone is slightly less engaging and professional than Option B for a social media post.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too informal and lacks critical steps like immigration, making it less reliable for first-time international travelers.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Contains significant grammatical errors and lacks a clear, actionable step-by-step process for the reader.",
+      "rank": 4
+    }
+  ]
+}

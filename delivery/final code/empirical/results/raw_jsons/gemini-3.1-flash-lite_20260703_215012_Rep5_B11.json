@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best alignment with the Japan-specific context and includes necessary steps like customs and immigration for international travel.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Provides a very clear, structured step-by-step guide, though it lacks specific relevance to the Japanese airport context.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Friendly tone, but the guide is too conversational and lacks the concise, actionable structure required for a quick guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Weakest option as it focuses on U.S. security procedures rather than the requested Japanese airport experience.",
+      "rank": 4
+    }
+  ]
+}

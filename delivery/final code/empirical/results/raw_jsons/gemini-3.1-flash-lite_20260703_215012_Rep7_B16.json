@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "This option perfectly follows the two-part structure and word count requirements, providing a clear, actionable step-by-step guide.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "While helpful, it fails to provide the required step-by-step guide for navigating the airport process from arrival to boarding.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "This option lacks the required step-by-step guide and focuses only on general advice, missing the core task requirements.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "This option is poorly written, contains grammatical errors, and fails to provide a clear, professional step-by-step guide.",
+      "rank": 4
+    }
+  ]
+}

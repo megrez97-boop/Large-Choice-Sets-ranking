@@ -1,0 +1,54 @@
+The estimated variance of an estimated treatment effect is
+-
+V(₁₁) =nı (k − c1)+n₂ (k − c₂)
+vr (k-1)
+=22 (0.08664)=0.02541.
+Step 4. The inter-block analysis of variance.
+4
+s2=
+2(4-0)+12 (4-
+15(4) (3)
+15
+(.08664)
+The inter-block analysis of variance follows Table 4 of section 2 since the blocks are not grouped. The
+following calculations are to be made.
+(a) S="Treatments unadjusted" sum of squares
+G2
+N
+(11.100)²+(9.400)2+...+ (11.500)2 (164.0)2
+4
+= (1805.62)/4-448.2667
+= 3.1383,
+60
+is obtained in the usual manner by squaring the treatment totals, Ti, (taken from column (3) of Table 8) and
+adding them together, dividing by the number of replications, and subtracting the correction factor, G²/N.
+(b) S="Blocks adjusted" sum of squates is obtained by subtracting, i.e., by using the formula
+S²=S²-S2-S2
+=9.1733-3.1383-2.6859
+= 3.3491,
+where the total sum of squares, S², and the error sum of squares, S2, are taken from the intra-block analysis
+of variance Table 11. We thus get the following table.
+TABLE 12
+AUXILIARY TABLE FOR INTER-BLOCK ANALYSIS OF VARIANCE
+Source of Degrees of freedom
+variation
+Sum of squares
+Expectation of the
+sum of squares
+Treatments
+v-1=14
+S/2=3.1383
+(unadjusted)
+Blocks
+(adjusted)
+Error
+Total
+b-1=14
+St=3.3491
+1402+450%
+N-b-v+1=31
+S2=2.6859
+3102
+N-1=59
+S²=9.1733
+46

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides specific, actionable navigation advice for a major Japanese airport, perfectly matching the influencer persona's context.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a clear, professional, and concise step-by-step guide that is easy for first-time travelers to follow.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Includes helpful time-management advice but incorrectly references TSA guidelines, which are not applicable to Japanese airports.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The formatting is disorganized and lacks a cohesive flow, making it the least effective guide for a traveler.",
+      "rank": 4
+    }
+  ]
+}

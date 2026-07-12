@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly captures the influencer persona while providing a clear, engaging, and comprehensive guide for travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides excellent practical context for Japanese airports, though it lacks the personal influencer tone of Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The guide is functional but feels too generic and lacks the specific cultural nuance required for Japan.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The formatting is unprofessional and lacks the descriptive quality needed for a high-quality social media post.",
+      "rank": 4
+    }
+  ]
+}

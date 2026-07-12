@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most comprehensive, professional step-by-step guide and clear, actionable advice for international travel.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers practical, specific advice like checking flight apps and weighing bags, though the formatting is slightly less polished.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is concise but lacks the necessary detail regarding international travel requirements specific to Japan.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on arrival procedures rather than the requested departure process, making it irrelevant for the specified task.",
+      "rank": 4
+    }
+  ]
+}

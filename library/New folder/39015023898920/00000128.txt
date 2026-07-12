@@ -1,0 +1,270 @@
+TABLE V. Singular group divisible designs -
+– Continued
+Solution 3: Nonunique; nonresolvable
+Complement: Not listed, r = 21
+Dual: Irregular
+Solution:
+Unique; resolvable
+Complement: Not listed, r = 21
+Dual: Design T74
+Groups: (8,3)
+Plan:
+Groups: (10,2)
+Plan: 2 12
+6 16
+9 19
+3 13
+4
+14
+7 17
+7
+17
+3
+13
+4 14
+1 11
+5
+15
+8
+18
+6 16
+2
+12
+9 19
+8 18
+1 11
+5 15
+6 16
+8
+18
+3 13
+9 19
+7 17
+1 11
+10
+20
+7 17
+2 12
+3
+13
+1 11
+10 20
+8
+18
+2 12
+4 14
+5 15
+9 19
+10 20
+5 15
+4 14
+6 16
+2 12
+3 13
+5 15
+6 16
+10 20
+3 13
+10
+20
+5 15
+4 14
+1 11
+6 16
+7 17
+8 18 10 20
+2 12
+7 17
+8 18
+9 19
+42
+14
+9 19
+1 11
+2 12
+1 11
+3 13
+7
+17
+5 15
+2 12
+4 14
+8 18
+6 16
+9 19
+4 14
+10 20
+10 20
+7 17
+8 18
+9 19
+3 13
+5 15
+1 11
+10 20
+6 16
+4
+14
+2 12
+1 11
+3 13
+9 19
+8 18
+5
+15
+6 16
+7
+17
+Design S42:
+y=
+21,
+r =
+6,
+k = 6,
+b= 21
+MF 7,
+n = 3,
+λ₁
+=
+: 6,
+2
+= 1
+1357
+.9 17
+2 10 18
+11 19
+4 12 20
+13 21
+6 14 22
+15 23
+8 16 24
+1246
+9
+17
+3 11 19
+2 10 18
+8 16 24
+12 20
+5 13 21
+6 14 22
+7 15 23
+1236
+9 17
+10 18
+4 12 20
+7 15 23
+3 11 19
+5 13 21
+6 14
+22
+8
+16 24
+1234
+9
+17
+5 13 21
+10 18
+6
+14 22
+11 19 7 15 23
+12 20
+8 16 24
+1234
+2002
+9 17
+10 18
+11 19
+6
+14 22
+5 13 21
+8 16 24
+4 12 20
+7 15 23
+1245
+9 17
+10 18
+12 20 6 14 22
+7 15 23
+3 11 19
+13 21
+8 16 24
+123
+9
+17
+10 18
+8 16 24
+4 12 20
+11 19
+6 14 22
+5 13 21
+7 15 23
+c₁ = 1, c₂ = -4/21, H= 19/2, A = 21
+1.00, E, .81, E= .82
+E,
+Solution: Unique; 2-resolvable
+Complement: Not listed, r = 15
+Dual: Design T67
+Groups: (7,3)
+Plan: Cyclically develop the three initial
+blocks
+1 8 15 2 9 16
+8 15 1 10 17 3
+15 1 8 18 4 11
+using cycles of length 7 and cycling
+within the three subsets of treatments
+1-7, 8-14, and 15-21. The three positions
+within blocks on the left (right) contain
+three replications, and each initial block
+provides two replications.
+Design S43:
+v = 24, r = 7,
+n = 3,
+m= 8,
+k = 6,
+λ₁ 7,
+b = 28
+=
+=
+CI
+E,
+=
+1, c₂-1/4, H= 11, A
+-
+1.00, E, .80, E = .81
+-
+28
+λ2 1
+Design S44:
+v = 26, r = 6,
+k = 6,
+b= 26
+m 13, n= 2,
+λ₁
+= 6,
+λε
+= 1
+c₁ = 1, c₂ = 1/26, H= 31/3, A = 26
+E,
+=
+1.00, E, .84, E= .84
+Solution 1: As given by BCS (1954); nonunique;
+3-resolvable
+Complement: Not listed, r
+= 20
+Dual: Design M26, Solution 1
+Groups: (13,2)
+Plan: Cyclically develop the two initial blocks
+1 14 3 16 9 22
+14 1 18 5 17 4
+using cycles of length 13 and cycling
+within the two subsets of blocks 1-13 and
+14-26. Each position within blocks
+contains a replication, and each initial
+block corresponds to three replications.
+= 20
+Solution 2: Nonunique; nonresolvable
+Complement: Not listed, r
+Dual: Design M26, Solution 2
+Groups: (13,2)
+(Plan continued on next page)
+116

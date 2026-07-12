@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most accurate, logical step-by-step flow for Japanese airports including immigration and boarding procedures.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers a clear, structured list format that is easy for first-time travelers to follow quickly.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains helpful preparation tips but lacks a cohesive step-by-step process for navigating the airport terminal.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Suggests arriving only one hour before a flight, which is dangerously insufficient for major international airports.",
+      "rank": 4
+    }
+  ]
+}

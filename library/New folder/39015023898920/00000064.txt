@@ -1,0 +1,147 @@
+TABLE 16
+Block (j)
+EXPERIMENTAL PLAN
+Treatments and yields
+Block total
+Bj
+Block average
+Bj/k
+(1)
+9
+3
+7
+5
+2.54
+2.89
+2.72
+2.28
+10.43
+2.6075
+21
+7
+2
+6
+10
+2.29
+2.51
+1.77
+1.54
+8.11
+2.0275
+(3)
+3
+9
+1
+6
+2.29
+2.44
+2.31
+2.49
+9.53
+2.3825
+(4)
+6
+4
+5
+8
+2.31
+2.54
+2.81
+2.81
+10.47
+2.6175
+(5)
+8
+1
+10
+9
+2.99
+2.86
+2.87
+2.23
+10.95
+2.7375
+(6)
+1
+8
+4
+7
+1.65
+2.28
+2.09
+1.57
+7.59
+1.8975
+(7)
+4
+6
+9
+2
+2.36
+3.02
+2.12
+1.41
+8.91
+2.2275
+(8)
+2
+7
+8
+3
+1.90
+2.60
+2.44
+1.95
+8.89
+2.2225
+66
+5
+10
+2
+1
+2.20
+2.77
+3.06
+2.58
+10.61
+2.6525
+(10)
+10
+5
+3
+4
+2.09
+2.07
+2.03
+2.03
+8.22
+2.0550
+Rep. total
+22.62
+25.98
+24.22
+20.89
+G=93.71
+G/N=2.34275
+The observations have been obtained by superposing the design on a part of a blank experiment planted uniformly to Mexican
+87 variety of cotton, located on the Upper Coastal Plain Branch Experiment Station, Rocky Mount, North Carolina. This cotton was
+grown during 1941. The stand was fairly uniform and all rows received the same fertilizer and cultural treatments. Thirty-six rows, 300
+feet long were harvested in sections 25 feet in length. A cord was stretched across the field perpendicular to the rows at intervals of 25
+feet. The cotton from each 25 foot plot was harvested, weighed, and the weight recorded separately. These weights varied from 0.93 to
+3.25 pounds per plot, with a mean of 2.21 ±.20 pounds. A total of 432 plots were harvested in this manner.
+The experimental plan, as it emerged after randomization, was superposed on a randomly selected part of the blank experiment
+described above, the blocks being four consecutive plots of the same row, and the replications running perpendicular to the rows over
+ten rows.
+The treatment allocation plan, Table 17 shows the treatment number in the first column. In the second
+column opposite each treatment number (and in the same row) are given the blocks in which this treatment
+appears, and below each block number is shown the corresponding observed yield. In the next row of the
+second column immediately below the observed yields are shown the block averages (taken from the final
+column of the experimental plan, Table 16). The third column gives the treatment total, Ti, and the adjust-
+ment, Ti-Qi. The value of Ti is obtained by adding the yields in the second row of the second column
+opposite the treatment i. Thus
+T₁ = 2.31+2.86+1.65+2.58=9.40,
+and the value of T-Qi is obtained by adding the block averages in the third row of the second column
+opposite the treatment i. Thus
+T₁-Q₁=2.3825 +2.7375 +1.8975+2.6525=9.6700.
+I
+52

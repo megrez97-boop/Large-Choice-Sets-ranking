@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a clear, structured, and actionable step-by-step guide that is perfect for a social media post.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Friendly tone, but lacks the specific, logical flow required for a comprehensive airport navigation guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Too generic and fails to address the specific airport navigation requirements requested in the prompt.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Contains highly inaccurate, inappropriate, and alarmist information that is harmful to a traveler's experience.",
+      "rank": 4
+    }
+  ]
+}

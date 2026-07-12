@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly captures the influencer persona while providing a clear, concise guide and relevant advice for Japan travel.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a very clear, logical step-by-step guide, though it lacks the specific influencer tone requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains significant grammatical errors and lacks a professional structure, making it difficult to follow as a guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely fails to provide the required airport navigation guide, focusing instead on general travel advice.",
+      "rank": 4
+    }
+  ]
+}

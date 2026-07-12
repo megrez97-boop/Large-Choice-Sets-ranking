@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides the most comprehensive and professional step-by-step guide and practical advice for first-time travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers a clear, friendly tone and useful tips, though it lacks a complete end-to-end airport process guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The guide is poorly written, lacks professional structure, and fails to address the specific context of Japan.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Contains confusing, inaccurate information and an unprofessional tone that is unsuitable for a travel influencer's guide.",
+      "rank": 4
+    }
+  ]
+}

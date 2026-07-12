@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a clear, logical step-by-step process for departures, which is the primary goal of the prompt.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Engaging tone and helpful for arrivals, but lacks the comprehensive departure steps requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses only on arrival procedures and lacks the structured guide format required for the full airport experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the prompt as it lists travel destinations instead of airport navigation instructions.",
+      "rank": 4
+    }
+  ]
+}

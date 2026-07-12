@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, structured step-by-step guide and clear advice tailored to the user's specific request.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers helpful practical tips like currency exchange, but lacks a complete step-by-step process for the entire airport experience.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains useful general travel advice but fails to provide the requested step-by-step guide for navigating the airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too vague and conversational; it lacks the actionable, step-by-step instructions required for a first-time traveler's guide.",
+      "rank": 4
+    }
+  ]
+}

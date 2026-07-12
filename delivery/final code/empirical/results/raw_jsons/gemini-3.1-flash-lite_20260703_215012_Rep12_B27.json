@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most structured, clear, and professional step-by-step guide suitable for a travel influencer's audience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes helpful tech-forward suggestions like automated gates and apps, though the flow is slightly less instructional.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Friendly tone, but lacks a clear, numbered step-by-step process for navigating the airport efficiently.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too informal and lacks the necessary procedural steps for international travel, focusing too much on clothing advice.",
+      "rank": 4
+    }
+  ]
+}

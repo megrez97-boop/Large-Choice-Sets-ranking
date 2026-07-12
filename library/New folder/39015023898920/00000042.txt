@@ -1,0 +1,57 @@
+Instead of the simple contrast ti -
+lity of the
+Ź
+tu the experimenter can estimate any linear function
+treatment effects, provided Σ4;= 0 (i.e., provided it is a contrast). The best estimate of such a contrast
+is known to be estimable by substituting in the linear function any set of least squares estimates of the
+treatment effects. Now we have utilized the restriction t = 0 in obtaining the least squares estimates
+of the treatment effects so that the best estimate of t is
+(3.17)
+ti
+i₁ = i₁
+--
+ti,
+which is clearly a contrast. If one treatment should stand out above all the others or if the D(2) design is
+used for factorial designs so that t represents a treatment combination, then the experimenter may want
+to estimate a treatment effect ti by use of îi and for this estimate he may desire to have available the ex-
+pression for the variance of the estimate t. Using the method of Bradley, Walpole, and Kramer (1960), it
+can be shown that the general formula for the variance of an intra-block treatment estimate is
+(3.18a)
+-
+V(îi)
+=
+nı (k − c₁) + n2(k − C2)
+vr (k-1)
+σ2
+where c₁ and c₂ can be obtained from (3.5) and (3.6) respectively (and are tabled along with the plans for
+all designs given in this volume).
+It is often of interest to estimate the treatment means, ti+g. The variances of these quantities are
+(3.18b)
+Var (î¡+g) = Var (î) + Var (g) = Var (î;) + —
+where Var (î) is defined in (3.18).
+υτ
+The variance o² appearing in the above equations is generally unknown, so that it is customary to
+estimate the variances V(ti-tu), V(t), and V(+) by substituting for σ the mean square for error
+from the analysis of variance table appropriate to the model being used.
+2.1.1. Model 1: ungrouped blocks. For the intra-block or fixed effects model with ungrouped blocks
+the observation yij is conceived of as the sum of four additive components.
+(3.19)
+Yij=g+ti+bj +Єij,
+wherein g is an overall mean, t is the (differential) effect of the ith treatment, b; is the (differential) effect
+of the jth block and € is a random component distributed N(0, σ²). The v+b+1 quantities g, t₁(i=1, 2,
+· 9
+v) and b; (j=1, 2, . . ., b) are fixed but unknown constants. We further assume that the Єij are
+stochastically independent of each other and of the fixed effects.
+The intra-block analysis of variance for model 1 is given in Table 1.
+The F-test is carried out in the usual way with degrees of freedom v-1 and N-b-v+1. To test the
+significance of the estimated difference between the effects of the ith and uth treatments which are jth
+associates we use the t-statistic,
+(3.20)
+t=
+(îì—îu)√r(k−1)
+Se V2(k-cj)
+where s is the mean square for error in the above table and the degrees of freedom for t are the same as
+that on which s is based.
+-
+For estimation purposes differences between two estimates calculated from (3.10), îi — îu, i ‡ u, and
+30

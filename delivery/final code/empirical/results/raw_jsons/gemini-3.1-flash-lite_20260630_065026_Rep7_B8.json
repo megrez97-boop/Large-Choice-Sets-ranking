@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly aligns with the influencer persona, focusing on remote work, efficiency, and high-tech amenities.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Highly creative and futuristic, though the concept of balcony landing pads is physically impractical.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Lacks the requested futuristic, innovative flair, focusing instead on incremental improvements to current airport designs.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Irrelevant to the prompt as it describes a hotel experience rather than an airport experience.",
+      "rank": 4
+    }
+  ]
+}

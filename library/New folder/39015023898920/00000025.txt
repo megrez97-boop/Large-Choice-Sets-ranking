@@ -1,0 +1,65 @@
+4b. Construction of SRGD designs by forming the dual of an affine resolvable BIB design. Consider an
+ARBIB design with parameters (v*, b*, r*, k*, λ*). Recall that its blocks can be arranged in r* sets of t
+blocks per set (b*=r*t) such that a set contains one exact replication of the treatments (so that v*= k*t).
+Then since it is AR two blocks belonging to the same set intersect in µ₁ 0 common treatments while any
+=
+two blocks belonging to different sets intersect in µ2= k*2/v* common treatments. Hence, when we dualize
+the BIB design, the t=b*/r* block symbols of a replication become the treatment symbols of a group and
+these treatment symbols never occur together in any block of the dual, i.e., A₁ = µ₁ = 0 and л=t=b*/r*. On
+the other hand, the block symbols for a pair of blocks belonging to different replications become second
+associates in the dual and occur together as a treatment pair in λ2=µ2 blocks. Consequently, the dual is a
+GD design with parameters
+(2.11)
+v=b*.
+b=v*,
+r=k*,
+k=r*,
+m=r*,
+n=t=b*/r*,
+A₁ = 0,
+λ₂ = k*/t.
+Recall that for an ARBIB design it is necessary that k*/t= k*2/* be integral.
+For example, it is known that the family of finite Euclidean planes (or orthogonal series OSI) having
+parameters
+(2.12)
+v* = se,
+b*=s²+s,
+r*=s+1,
+k*=s, λ*= 1,
+where s is a prime or prime power, are affine resolvable. For these designs t=s and the family of GD designs
+obtained by forming their duals is given by
+(2.13)
+v=s²+s,
+r = S,
+b= s2,
+m=s+1,
+λ=0,
+k=s+1,
+n=s,
+λ= 1.
+We note that this is the same family as the semi-regular designs (2.10) previously obtained by "block cutting"
+the orthogonal series OS2.
+5. Construction of regular group divisible designs. BCS (1954) contains 68 constructions for the same
+number of parametric specifications; these appear to depend heavily on BSB (1953) and upon the original
+paper by Bose and Nair (1939). The BCS (1954) design designated R4 was found to be invalid but correctable
+and their designs R56 and R60 contained typographical errors which were also corrected. The 68 designs
+were also included in the present Tables VIII and IX. Besides these, other RGD designs were taken from the
+literature and adapted to the present volume. Designs were taken from Bose and Nair (1939), Bannerjee
+(1951), BSB (1953), P. M. Roy (1954c), Archbold (1955), Clatworthy (1955, 1956, 1967), Sprott (1955, 1959),
+Archbold and Johnson (1956), Thompson (1956), Freeman (1957), Liu (1963), Liu and Chang (1964), David and
+Wolock (1965), John (1966), Ikeda (1967, 1967b) and Masuyama (1967). Designs in this category appear to
+be highly irregular in their block and treatment structures. Consequently, it does not seem likely that a few
+general construction procedures are capable of yielding the plans provided here for 209 parametric speci-
+fications having r, k≤ 10. The construction techniques employed in the literature display a wide spectrum
+of ingenuity. This diversity may be explainable by the fact that the RGD designs are the only GD designs
+for which the determinant |NN' | is positive.
+Symmetrical regular group divisible designs very frequently have duals which are themselves RGD
+designs with the same parameters, i.e., they are self-dual. Many such designs, both RGD and certain other
+types of D(2) designs, have been identified by use of a theorem due to Hoffman (1963). However, in many
+cases the author has been able to extend beyond Hoffman's "self-dual" conclusion to the stronger "truly
+self-dual" conclusion. Entries to the "Dual Designs" columns of the "even" numbered Tables VIII, XII,
+XIV, and XVIII and entries opposite "Dual” in the “odd” numbered Tables IX, XIII, XV, and XIX indicate
+particular designs for which the above remarks apply.
+Many published designs are isomorphic to others and we have attempted to give credit to the first
+construction while indicating later isomorphic constructions by the author's name included in brackets
+13

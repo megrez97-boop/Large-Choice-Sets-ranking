@@ -1,0 +1,255 @@
+TABLE XI. Partially balanced designs based on triangular association schemes - Continued
+Design T76:
+v = 28,
+r = 10, k = 7,
+Design T75:
+CI
+=
+1/4,
+n
+c₂ =
+v =
+=
+Pi
+28,
+12, n
+r = 8,
+=
+6 51
+151
+10
+15, A,
+k
+7,
+b = 32
+=
+4,
+λι 0
+[
+P
+=
+4 8
+=
+-1/2, H= 88/7, ▲ = 256/7
+E, .89, E, = .80, E = .84
+-
+Solution: 2-resolvable
+Complement: Not listed, r = 24
+Dual: Design S75, a unique design
+Association Scheme: T(8)
+Plan: Repeat the plan of T72 four times.
+Plan:
+1
+2
+19
+19 11
+3 25 19 12 16 26
+17 25 10 7 14 26
+11 22 28 5 24
+7 20 18 1 17
+5
+3 10
+11 12
+12 22 27 17 2
+7 15 21 2 23
+7
+22
+25 12
+9 6 26 23 8
+22 15 20 5 8
+7 15 9 27 16 24
+10 15 20 27 6 28
+3
+1
+11 9 27 21
+4 17 25
+20 21
+6 16
+13 2 25
+12 27
+6
+14
+18
+23 19
+7
+21
+16 28
+8
+19 10
+22
+6
+16 14 4
+10 11
+b = 40
+15 14
+28 13
+26 3 11
+ni
+=
+12, n₂ = 15, λ,
+=
+5, λε
+=
+0
+9
+16 28
+4 18 5
+12
+C₁ =
+1/4,
+C 1
+=
+10
+=
+=
+4
+[ + 8]
+-1/2, H= 110/7, A 400/7
+E, .89, E, = .80, E = .84
+=
+Solution: 2-resolvable
+Complement: Not listed, r
+Dual: Design S117, a unique design
+Association Scheme: T(8)
+Plan: Repeat the plan of T72 five times.
+6 51
+20 14 4
+13
+24 12 7
+P₂
+21
+4 18
+26 1 22 15
+6
+13 5
+17
+19 15 9
+18 26 24
+2 10 9 20
+14 5 24
+1
+8 27 21
+13 24 1
+17
+23 22 16
+1
+2 23
+25
+9 14 28
+= 30
+17 23
+8
+3 20 28 4
+26
+2
+8 19 27 4 13
+5 23
+Design T77:
+v = 28, r =
+7, k = 7,
+b
+= 28
+n₁ =
+=
+12, n
+15, A
+=
+1,
+=
+22
+6
+5
+c₁ = 7/48,
+C 2
+P₁
+=
+10
+P₁ = [48]
+7/24, H = 90/7, ▲ = 288/7
+E,= .88, E, = .89, E = .89
+Solution 1:
+Nonresolvable
+Complement: Not listed, r
+= 21
+Dual: Self dual, Hoffman (1963)
+Association Scheme: T(8)
+3 10 21 13 18
+24 8 3 25 11 6 18
+Remark: It is not known whether solutions
+1, 2, and 3 are isomorphic or
+otherwise.
+Solution 2: As given by Seiden (1963a);
+nonresolvable
+Complement: Not listed, r
+= = 21
+Dual: Self dual, Hoffman (1963)
+Association Scheme: T(8)
+Plan: 11 12 19 18 24 2 27
+9 5 18 16 19 28 1
+4 16 8 27
+17 26 3 10
+12 2 23
+3 24 22
+1 27 19
+22
+25 1 20
+16 24 13
+15
+20 21 1
+25 27 6
+9
+8 20 17
+21 22 10 5
+17 23 18
+23
+4 12
+7 17 9 16
+20
+7 26
+18
+10
+23
+15 12 3
+14 28 3 16 12 25
+9 24 6 3 18 13
+7
+6 19 25
+11 16 21
+17
+3
+18
+4
+6
+15 11 13 5 25
+14 12 5 27 21 4 13
+8
+16 26 22 2 13 10
+1 26 21 25
+11
+5
+3 2 8 28
+28 20
+21 23
+10 24 8 7
+26 13 19
+2 21 9
+7 23 8 14
+15 27 7 10
+28 27 14 1 15 23 6
+24
+1 17 22
+14 7 11
+19
+8 22 12
+6 15 5
+10
+18 11 20
+6 14 4
+22
+15 26 9 4 11 28
+2206
+14 9 25 2 26 5 24
+20 13 28 17
+4 19
+(Plan continued on next page)
+249

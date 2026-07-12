@@ -1,0 +1,281 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes – -
+Continued
+Design LS126:v
+ni
+Р
+=
+=
+81,
+r = 4,
+k
+=
+9,
+b = 36
+=
+16, n₂
+=
+64, λ,
+=
+2, A2 0
+7
+1
+56
+58] P₁ = [214]
+49
+=
+8
+Solution: Unique; resolvable
+Complement: Not listed, r = 48
+Dual: A D(3), WHC (1956)
+Association Scheme: L₂(9)
+Plan: Repeat the plan of LS119 three times.
+CI
+=
+1/9,
+-7/9, H= 6, A
+C 2
+E₁ = .90, E,
+=
+=
+2
+.82, E = .83
+Solution: Unique; resolvable
+Complement: Not listed, r = 32
+Dual: A D(3), WHC (1956)
+Association Scheme:
+L₂(9)
+Plan: Duplicate the plan of LS119.
+Design LS127:v
+=
+81,
+r = 6,
+k
+=
+9,
+24, n, = 56, λ,
+=
+ni
+=
+14
+b = 54
+2, λε
+18
+=
+P₁ = 9 12 ] P‚= [ 6 19]
+42
+P₂
+2
+=
+-1/3, H= 10, A
+=
+24
+37
+0
+C₁ =
+E,
+1/9,
+C 2
+.90, E, = .86, E = .87
+Solution:
+Resolvable
+Complement: Not listed, r = 48
+Dual:
+A D(3), WHC (1956)
+Association Scheme: L,(9)
+Plan: Duplicate the plan of LS120.
+Design LS128:v
+CI
+E,
+=
+ni
+=
+=
+=
+81,
+32, n
+= J
+=
+P.-[1318]
+30
+8,
+k = 9,
+48, A
+=
+b: = 72
+122
+2, A2 = 0
+P,- [ 12 20]
+=
+1/9, C2
+.90, E₂ = .87, E = .88
+-5/27, H= 14, A 48
+Solution:
+2
+Resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(9)
+= 64
+Plan: Duplicate the plan of LS121.
+Design LS129:v = 81, r = 10, k = 9,
+=
+n, = 40, n, 40, A1
+=
+27
+b = 90
+2, λη
+=
+P.-1920] P.- [20 20]
+Р =
+2
+19
+20
+Design LS131:v
+=
+81, r = 9,
+k = 9, b = 81
+=
+56, A₁
+3, λ₂
+= 0
+CI
+E,
+ni
+=
+1/9, Cz
+=
+= .90, E,
+2
+24, n₂ =
+9 14
+=
+= 618]
+P.-[12] P.-[639]
+42
+=
+2
+-1/3, H= 15, A 54
+= .86, E = .87
+Solution:
+Resolvable
+Complement: Not listed, r
+= 72
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(9)
+37
+Plan: Repeat the plan of LS120 three times.
+Design LS132:v = 81, r = 8, k
+=
+9,
+b = 72
+4, λ,
+==
+=
+P₁ = [214]
+2
+49
+0
+n₁ =
+16, n₂ = 64,
+λι
+P₁
+7 8
+56
+C₁ =
+1/9.
+c
+= -7/9, H= 12, ▲ = 32
+2
+E, .90, E₂ = .82, E = .83
+=
+2
+Solution: Unique; resolvable
+=
+Complement: Not listed, r 64
+Dual: A D(3), WHC (1956)
+Association Scheme: L₂(9)
+Plan: Repeat the plan of LS119 four times.
+Design LS133:v = 81, r = 10, k
+ni
+=
+16, n
+7
+=
+=
+9, b
+64, λ, 5, λη
+=
+P.[8]
+56
+=
+90
+= 0
+P,= [ 2 14]
+CI
+=
+1/9,
+C 2
+=
+-7/9, H= 15,
+=
+Δ 50
+E,
+=
+.90, E, .82, E = .83
+Solution:
+=
+Unique; resolvable
+Complement: Not listed, r = 80
+Dual:
+A D(3), WHC (1956)
+Association Scheme: L,(9)
+Plan: Repeat the plan of LS119 five times.
+c
+=
+1
+1/9,
+C 2
+=
+−1/9, H= 18, A
+=
+80
+E¸= .90, E₂ = .88, E = .89
+Solution:
+2
+Resolvable
+Complement: Not listed, r = 80
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(9)
+Plan: Duplicate the plan of LS122.
+Design LS130:v = 81,
+r = 6,
+k = 9,
+n₁ =
+P
+1
+16, n
+7 87
+56
+=
+64, λ,
+=
+Ps
+=
+3, λη
+b
+14
+=
+=
+[219]
+49
+54
+0
+1/9, C
+=
+-7/9, H= 9, A = 18
+=
+E, .90, E,
+=
+2
+.82, E = .83
+285

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "This option provides the most structured, clear, and accurate step-by-step guide specifically tailored for international airport procedures.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "It is clear and concise but lacks the specific detail regarding immigration procedures necessary for international travel in Japan.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "While it mentions Japan, it fails to provide the required step-by-step guide for navigating the airport process.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The instructions are disorganized, lack professional tone, and fail to provide a clear, logical sequence for airport navigation.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+tions occur in each of k' =k/n groups of one or more columns of the design, as in a Youden Square, the
+model for the design can be written
+Yijcg+ti+b; + pc + Eijc
+where g, ti, bj, and Eije are defined as before and pc satisfies the restraint Σpe=0. Because the replica-
+tion grouping is orthogonal to the blocks and treatments, the only change in the analysis has to do with
+the error estimate.
+In the analysis of variance table for Model 1, Table 1, the line for "Error" is replaced by two lines
+k'
+Σ R2
+Replications
+k' - 1
+C=1
+G2
+Sz/(k' - 1)
+S2
+ην N
+Error
+N-v-b-k' +2
+S=Σ (Yije-Yije)'
+S2 (N-v-b-k' +2)
+c
+where Re is the total of all the observations in the cth replication group (cf. Table 3). The predicted values
+will become
+which will have variance
+ŷijc =g tôi tôi tôi
+ĝ +
++ c
+V(ŷije) = (1/1/
++ Cii + ejj + 2dij +
+bk
++ 2d₁, +11)σ².
+nv
+The estimate of a replication effect is given by
+Pc
+Re
+=
+and its variance by
+nv
+T
+012
+G
+N
+k' - 1
+V(pc)
+=
+σ2.
+vnk'
+5.2. Block effects are random variables (inter-block analysis).
+5.2.1. Model 1: No replication grouping. In the inter-block analysis the observation on the ith treat-
+ment in block j is regarded as having the structure*
+Yij = ti+nj + Eij
+where t is a treatment mean (equivalent to g+t; in previous models) and n; and e₁j are random variables
+with mean zero and variances V(n;)=σ} and V(€¡j) =σ², all being uncorrelated. Denote the vector of
+observations in the jth block by y;. Then the expected values and variances can be written
+E(yj) = Rjt
+V(y;) = σ²I + of J = M
+*The grand mean has been deliberately omitted because its introduction would force the use of an artificial restraint on the treatment parameters and thereby unnecessarily
+complicate the analysis.
+66

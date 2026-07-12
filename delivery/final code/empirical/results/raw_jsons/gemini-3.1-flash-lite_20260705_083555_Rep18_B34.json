@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most clear, concise, and actionable step-by-step guide for a traveler navigating the airport process.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers helpful context about airport amenities, though it lacks the structured step-by-step clarity of Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses only on preparation tips rather than providing the required step-by-step guide for the airport experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Contains significant grammatical errors and confusing phrasing that makes it unsuitable for a professional travel guide.",
+      "rank": 4
+    }
+  ]
+}

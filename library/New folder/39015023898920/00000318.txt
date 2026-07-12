@@ -1,0 +1,240 @@
+TABLE XIX. Miscellaneous partially balanced designs - Continued
+Design M15:
+18, na
+P₁ = [ 9 ]
+2
+v = 35,
+n₁ =
+r = 9,
+k
+= 3,
+b
+=
+=
+16, A,
+=
+1,
+λη
+=
+105
+0
+9
+8
+8
+=
+3/35, C
+=
+-3/35, H= 12, A
+= 35
+P
+E₁ = .69, E, = .65, E = .67
+Solution:
+Nonresolvable
+Complement: Not listed, r = 96
+Association Scheme: Obtainable from the plan
+Plan: The necessary theory for the construction
+of a plan for this design is given by
+Ray-Chaudhuri (1962).
+Design M15a: v =
+=
+ni
+Ꮲ
+81, r = 10, k = 3,
+b = 270
+=
+20, n
+1 18
+42
+=
+60, λ
+=
+1, λη
+= 0
+P₁ = [ 6 14 ]
+2
+45
+-7/81, H= 15, A
+=
+=
+.65, E
+1/27, c₂
+E,= .67, E,
+= .65
+Complement: Not listed, r
+= 260
+= 54
+Association Scheme: NL,(9) of Mesner (1967)
+Plan: The construction of this design was not
+attempted since the design is very large
+(vr = 810). However, the interested read-
+er can find a discussion of this design,
+whose association scheme is described as
+type NL,(9), in section 3 of Mesner
+(1967).
+Design M16:
+CI
+Ei
+=
+k = 4,
+b
+= 12
+9,
+=
+A, 0, λ,
+=
+1
+v = 16, r = 3,
+n₁ =
+P
+1
+6,
+¤
+n2
+2 3
+6
+=
+-1/8, c, 1/4, H = 5, A
+.73, E₂ = .80, E = .77
+2
+P₂= [ 2 ]
+=
+6
+Solution: Nonunique; resolvable
+Complement: Not listed, k
+= 12
+Dual: Design SR26, Solution 2
+Association Scheme: A pseudo Latin square type;
+Plan:
+the blocks provide the
+association scheme.
+Start with design LS29, Solution 2 and
+interchange the names of the associate
+classes but retain the plan intact. The
+resulting design has the appropriate
+parameters for an L,(4) association
+scheme. By examination of the association
+relations among treatments 1, 7, 8 and 10
+only, it is seen that a 4 x 4 array of
+treatment symbols is inadequate to
+describe the association relations. How-
+ever, the blocks may be used to provide
+the association relations (since λ, 0,
+λε
+=
+=
+1) and the resulting scheme is
+called a pseudo Latin square type scheme.
+The present design is nonisomorphic with
+design LS36 which has the same parameters.
+Design M17:
+C₁ =
+-1/8,
+V = 16,
+ni
+=
+6,
+r =
+=
+P₁ =[ 23 ]
+C₂ =
+= 6,
+9,
+λι
+P
+1/4, H = 10, A =
+E,= .73, E, = .80, E = .77
+k = 4,
+b
+Solution: Nonunique; resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+= 18
+=
+=
+2
+24
+0,
+= 24
+=
+λε 2
+[24]
+Association Scheme: A pseudo Latin square type;
+same as for design M16
+Plan: Duplicate M16.
+Remark: Compare with design LS40 which has the
+same parameters but a nonisomorphic
+plan.
+=
+Design M18:
+6,
+v = 16, r = €9, k
+n₁ =
+=
+4, b = 36
+n2
+=
+9, λι
+=
+0, λε 3
+=
+CI
+E,
+3
+P.2] P.-[2]
+-
+-1/8,
+.73, E,
+C 2
+=
+-
+6
+1/4, H = 15, A
+.80, E = .77
+=
+54
+Solution: Nonunique; resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+= = 27
+Association Scheme: A pseudo Latin square type;
+same as for design M16
+Plan: Repeat M16 three times.
+Remark: Compare with design LS44 which has the
+same parameters but a nonisomorphic
+plan.
+Design M19:
+C₁ =
+1/10, C2
+E,= .77, E,
+Solution:
+v =
+ni
+=
+40,
+r = 8,
+12, n
+P₁ =[
+Р
+=
+2 9
+18
+=
+=
+27, A,
+4
+-
+0
+k
+= 4, b = 80
+2,
+P₂
+=
+[ +18]
+-1/5, H= 13, A = 40
+= .71, E = .73
+4-resolvable
+Complement: Not listed, r = 72
+Dual: A D(3), WHC (1956)
+Association Scheme: Same as PG3
+Plan: Duplicate the plan of PG3.
+306

@@ -1,0 +1,307 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes - Continued
+Design LS21: v=
+-3/8, c
+2
+16,
+n₁ = 9,
+r =
+n2
+4 4
+=
+P₁ =[ + ]
+=
+9,
+6, λι
+k =
+3,
+b = 48
+0,
+λε
+= 3
+6
+P‚= [ ' 3]
+2
+3/16, H = 12, A = 32
+E, .59, E, = .71, E = .63
+=
+Solution:
+3-resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Association Scheme:
+L;(4)
+= 39
+Plan: Repeat the plan of LS18 three times.
+Design LS22: v =
+=
+ni
+=
+25,
+r =
+6,
+k
+12, n₂ =
+P₁ { 5 6 ]
+3/25, c₂ =
+1
+12, A₁
+=
+=
+2
+3,
+b
+=
+1, λη
+= 0
+6
+P‚= [ ' §]
+2
+-3/25, H= 25/3, A =
+E,= .69, E, = .64, E = .67
+Solution:
+3-resolvable
+Complement: Not listed, r
+= 44
+1, 2
+Dual: Not a D(x), x =
+Association Scheme: L,(5)
+Plan:
+123455IRL LR22
+512
+25
+22222217234
+34512
+1234
+13
+15
+11
+B4E1222222
+3
+4
+5
+14
+9
+15
+12
+11
+15 10
+11 13
+23
+11 6
+12 14
+12
+13
+15
+25
+13
+8
+14 11
+24
+23
+18
+24
+6
+25
+24 19
+25
+7
+21 25 20
+21 23
+8
+21 16
+22 24 9
+23
+23
+25 10
+8
+8
+20
+9
+6 16
+PA2222222700
+1222220org
+BOKEP4SI23
+9
+10
+9
+6
+10
+10 7 17
+6 8 18
+7 6 1
+7 9 19
+17 16
+11
+17 19
+18 17
+12
+18
+5
+19
+18
+13
+19 16
+1
+20
+14
+20 17
+16
+20 15
+16 18
+50/3
+Plan:
+Use the unique BIB design (6,10,5,3,2) whose
+10 blocks are:
+a b c
+a be
+ac f
+ade
+ad f
+b c d
+bd f
+bef
+c de
+=
+3/49, C2
+50
+cef
+as a model for constructing 12 BIB designs
+one from the treatments of each row and
+one from the treatments of each column of
+the association scheme L₂(6).
+The 60
+blocks arising from the rows of the
+association scheme constitute five
+replications and those arising from the
+columns, five others.
+Design LS24: v = 49,
+ni
+=
+12, n
+r = 6, k
+36, λ,
+6
+=
+P₁ = 530]
+Pi
+=
+=
+=
+ཉ་
+1, λη
+b = 98
+10
+=
+P₁ = [220]
+-15/49, H= 7, A
+E,= .68, E, = .60, E =
+=
+.62
+=
+= 92
+Solution: Unique; 3-resolvable
+Complement: Not listed, r
+Dual: Not a D(x), x = 1, 2
+Association Scheme: L₂(7)
+=
+98/9
+25
+0
+Plan: Using as a model the BIB design (7,7,3,3,1),
+whose plan may be obtained by developing
+modulo 7 the initial block 1 2 4,
+construct 14 BIB designs, one from the
+treatments of each row and one from the
+treatments of each column of the L₂(7)
+association scheme. The 14(7)
+= 98
+blocks so constructed constitute the plan
+for the present design which can be
+rearranged by relocating treatments within
+blocks so as to provide two replications
+in each of the three positions within
+blocks. Blocks arising from the rows of
+the association scheme comprise three
+replications and those from the columns,
+three others.
+Design LS25: v=
+ni
+=
+81,
+16, n
+r =
+=
+216
+0
+Design LS23: v=
+=
+ni
+=
+36, r = 10,
+k =
+10, n2
+4
+25, A,
+=
+3, b: 120
+2, λη 0
+=
+P.[25] P.- [218]
+20
+1/12, c₂ = -1/3, H= 12, A
+E,= .69, E, = .60, E = .62
+Solution: Unique; 5-resolvable
+Complement: Not listed, r
+= 110
+1, 2, 3
+Dual: Not a D(x), x =
+Association Scheme: L₂(6)
+=
+=
+32
+16
+8,
+k = 3,
+b
+64, λι
+7 81
+56
+CI
+=
+Pi
+1/27, C2
+=
+=
+2
+E-
+= .67, E
+Solution:
+=
+1, λε
+=
+P‚= [ 214]
+-
+-7/27, H= 9, A = 18
+.61, E = .62
+Unique; 4-resolvable
+Complement: Not listed, r = 208
+Dual: Not a D(x), x = 1, 2
+Association Scheme: L₂(9)
+Plan: Utilize the BIB design (9,12,4,3,1),
+whose unique resolvable solution is
+provided by:
+a b c
+ad g
+afh a ei
+def
+ghi
+cdh,
+beh bdi b f
+cfi ceg
+as a model to construct BIB designs, one
+from the treatments from each row and one
+from the treatments of each column of the
+L₂(9) association scheme. The 2(9)(12)
+= 216 blocks so obtained constitute the
+(Plan continued on next page)
+265

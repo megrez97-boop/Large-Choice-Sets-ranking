@@ -1,0 +1,99 @@
+Thus we have evidence that while the case n=5 has a unique association scheme, this parametric speci-
+fication has a pair of non-isomorphic solutions.
+(7) A family of triangular designs due to C. W. Liu (1963). Corresponding to any treatment x(x=1,
+2,..., v) of the triangular association scheme with parameter n we form a block of size n by taking as treat-
+ments of the block the n ith associates of treatment x(i=1, 2). The b=v=n(n-1)/2 blocks thus formed
+have each treatment appearing r=n₁ times in blocks of size k=ni. A pair of treatments that are first associates
+appear together in p blocks while second associates occur together in på blocks. Thus
+(2.22)
+v=b=n(n-1)/2,
+r=k=ni, λ₁ = Pi
+P₁₁ =λ2,
+n≥ 5.
+When we construct blocks corresponding to treatment x(x=1, 2, . . ., v) by taking all its first asso-
+ciates we get the triangular design
+v=b=n(n-1)/2,
+(2.23)
+r=k=n₁=2(n-2),
+λ₁ =n-2,
+λε=4,
+n≥5
+which gives, for r≤ 10,
+v = b
+r=k
+n
+λι
+λε
+Ref. No.
+10
+15
+21
+10
+680
+567
+5
+3
+4
+T60
+6
+4
+4
+BIB design
+7
+5
+4
+T95
+Constructing blocks corresponding to the second associates of an arbitrary treatment x gives
+the triangular design
+(2.24)
+which yields, for r≤ 10,
+v=b=n(n-1)/2,
+r=k=(n−2) (n−3)/2,
+λ₁ = (n−3) (n−4)/2,
+λ2 = (n−4) (n−5)/2,
+n≥ 5
+v=b
+r=k
+n
+λι
+λε
+Ref. No.
+10
+15
+21
+10
+300
+6
+013
+136
+567
+T9
+T61
+T94
+(8) A family of triangular designs due to M. Masuyama (1965). This family is given by
+v=n(n−1)/2,
+(2.25)
+r= (n-2)²,
+b=n(n-1) (n−2)/2,
+k=n-2,
+λ₁ = (n−3) (n − 4)/2,
+λ2=4,
+n≥ 5.
+We form blocks of size k=n-2 by taking n-3 treatments lying in the same row (or column) of the associa-
+tion scheme and one treatment that lies neither in the same row nor in the same column as the first (n-3)
+treatments. Do this for all possible combinations,
+n- 1
+n
+-
+n-1
+·(n = 3) = (^~¹). of treatments of each row. This yields
+-
+(">¹) = n(n−1) (n − 2)/2 = b blocks. The only case with r≤ 10 arises when n=5. It is Design T13 of
+2
+Table XI and has parameters
+v = 10, b=30,
+A₁ = 1, n=5,
+r=9,
+k=3,
+λ2=4,
+17

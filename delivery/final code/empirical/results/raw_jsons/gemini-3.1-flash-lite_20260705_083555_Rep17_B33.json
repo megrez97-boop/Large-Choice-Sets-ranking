@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Perfectly matches the influencer persona, provides a clear step-by-step guide, and includes relevant tech-forward travel advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Provides a practical, easy-to-follow guide, though it lacks the engaging influencer tone found in Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The steps are functional but the writing style is dry and lacks the requested influencer personality.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely fails to provide the required airport navigation guide or specific advice for the requested task.",
+      "rank": 4
+    }
+  ]
+}

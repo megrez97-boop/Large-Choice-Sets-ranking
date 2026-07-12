@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides the most comprehensive, structured, and accurate step-by-step guide specifically tailored for a major Japanese airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a clear and helpful guide, though it lacks the specific airport context required for the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Contains useful general information but fails to provide a clear, actionable step-by-step guide for the traveler.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant as it describes city travel rather than the airport departure process requested.",
+      "rank": 4
+    }
+  ]
+}

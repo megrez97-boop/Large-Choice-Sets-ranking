@@ -1,0 +1,394 @@
+TABLE IX. Regular group divisible designs - Continued
+Design R195: v= 16,
+r = 9,
+k = 9,
+b = 16
+m= 2,
+n = 8,
+λ₁
+= 8,
+2
+=
+2
+Plan:
+1
+7
+7
+1
+23
+321
+13
+c₁ = 9/10, c₂ = -99/160, H= 112/9, A 2560/81
+E, .99, E₂ = .83, E = .90
+2
+Solution: Unique; nonresolvable
+Complement: A disconnected design
+Dual: Truly self dual, Hoffman (1963) and
+Clatworthy (1971)
+Groups: (2,8)
+Plan: Cyclically develop, modulo 16, the single
+initial block:
+1 2 4 6 8 10 12 14 16
+Each position within blocks contains a
+replication.
+=
+17 18
+1 7
+4
+11
+18
+1
+8237
+23
+14
+4 5
+14
+10 11
+8 14
+13 3 9
+15 6 10
+17
+1
+7 13
+9 15
+5
+12
+16
+7
+13
+3
+4 15
+9
+12
+17
+2
+14
+3
+9
+15
+5
+10
+18
+8
+9
+14
+15
+11 16
+Sota33826
+616593
+14
+8
+2
+2 16
+11
+3
+10
+5
+1 4 17
+16
+5
+8
+10
+17
+11
+9
+7
+4
+13
+10
+14
+16
+17
+15
+5
+10
+12
+16
+8
+4
+18
+15
+1
+6 14 4
+16
+18
+3 10 12
+7
+12 13
+2
+6
+9
+16
+18
+10
+11
+17
+6
+18
+14
+9
+5
+1
+12
+5
+2
+7
+11
+6 15
+12 17
+18
+Design R196: v= 18, r =
+m= 6,
+9,
+n = 3,
+k = 9,
+b = 18
+18
+8
+λ₁
+=
+=
+6,
+2
+Ci
+=
+9/13, C2
+=
+17 5 3 12 6 11
+Remark: It is not known whether Solution 2 is
+distinct from Solution 1.
+13
+6/13, H= 50/3, A = 208/3
+E= .96, E₂= .94, E = .94
+Solution 1:
+Nonresolvable
+Complement: Self complementary
+Dual: Self dual, Hoffman (1963)
+Groups: (6,3)
+Design R197: v= 18,
+m= 9,
+n=
+r = = 9,
+2, λι
+k = 9,
+= 8,
+b= 18
+2
+= 4
+Plan:
+3 16 10 11 12 15
+9
+17 18
+5 3 9
+15 4
+18
+6
+16
+17
+Dual:
+c₁ = 9/10, c₂ = 9/20, H= 152/9, A = 640/9
+E.99, E₂ = .94, E = .94
+Solution 1:
+Nonresolvable
+Complement: Self complementary
+Self dual, Hoffman (1963)
+11
+2
+58
+3 9
+15
+12
+6
+10
+Groups: (9,2)
+14
+10
+16
+12
+17
+5
+6
+8
+2
+18
+14
+5
+11
+4
+12
+16
+Plan:
+18
+14
+2
+8
+6
+17
+10
+4 11
+1
+7
+13
+16
+10
+18 11
+5
+6
+1
+4
+17 11 16 13
+7
+12
+10
+13
+13
+6 12 18
+28
+1 12 17 5 7 18
+4
+8
+7 14
+9
+15
+5
+12
+18
+1
+7
+12
+8 6 18
+39
+28
+15
+13
+14
+6
+3
+2
+1
+7
+3126
+8972315
+2315648
+1234
+5
+9
+6459783
+11
+17
+12 15
+12
+18 10 13
+10
+16
+11 14
+14
+11
+15
+18
+15 12 13 16
+13
+10 14 17
+3
+17 14
+18
+12
+17
+5 2 7 14
+11
+3
+13
+8
+9
+6
+7
+1
+18
+15
+16 10
+15
+11 17 13
+14 17 11
+16
+15
+7
+16
+4
+15
+35437
+3
+13
+9
+14
+14
+16
+1
+7382
+•་
+58216
+21830
+8
+9
+9
+4
+8
+2
+16
+13
+17 11
+15
+10
+11
+17
+12
+15
+2
+8
+3
+6
+10
+11 12
+18 10
+13
+3
+9
+1
+4
+12 10
+16 11
+14
+1
+13 14
+11
+14 15 12
+15 13 10 14 17
+15 18
+5
+13 16
+6
+Solution 2: Nonresolvable
+Complement: Design R196, Solution 1; self
+complementary
+Dual: Self dual, Hoffman (1963)
+1
+17 18
+18 16
+16 17 14 18 12
+15 16 10
+13 17 11
+9
+7
+72356 +
+78312
+2645978
+5
+9
+Groups: (6,3)
+Solution 2:
+Adapted from a solution due to
+Ikeda (1967); nonresolvable
+Complement: Self complementary
+Dual: Self dual, Hoffman (1963)
+Groups: (9,2)
+(Plan continued on next page)
+226

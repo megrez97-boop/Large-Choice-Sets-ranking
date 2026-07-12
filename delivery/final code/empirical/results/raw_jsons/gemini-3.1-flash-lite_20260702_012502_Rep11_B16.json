@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best alignment with the prompt; offers a creative, high-tech, and luxurious vision for a futuristic airport experience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Highly imaginative and futuristic, though the concept of balcony landing pads feels slightly less grounded than Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Creative use of holograms, but lacks the comprehensive service-oriented approach requested for a futuristic airport design.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Too generic and lacks the bold, futuristic innovation required for a 2050-themed airport design.",
+      "rank": 4
+    }
+  ]
+}

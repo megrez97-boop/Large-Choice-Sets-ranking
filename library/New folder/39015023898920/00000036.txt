@@ -1,0 +1,60 @@
+The listing of D(2) designs based on cyclic association schemes by BCS (1954) consisted of only 10
+designs and they belonged to the subclass limited by 3 r, k≤ 10. Tables XIV and XV of the present volume
+contain 29 parametric specifications, most of the expansion being accounted for by designs with k=2 con-
+structed by Clatworthy (1955) and four designs with v=5 and k=3 constructed by Clatworthy (1956). Other
+cyclic designs have been published by P. M. Roy (1954a), Liu and Chang (1964) and John (1966).
+E. Partially Balanced Designs Based on Partial Geometries
+1. Partial geometries. A partial geometry (r, k, t) has been defined by Bose (1963) as a system of unde-
+fined points and lines and an undefined relation called incidence satisfying the following four axioms:
+(i) Any two points are incident with not more than one line.
+(ii) Each point is incident with r lines.
+(iii) Each line is incident with k points.
+(iv) If the point P is not incident with the line l, then there pass through P exactly t lines (t ≥ 1) inter-
+secting l.
+From this beginning Bose showed that the number v of points and the number b of lines in the partial
+geometry
+(2.37)
+(2.38)
+v=k[(r−1) (k−1)+t]/t
+b=r[(r-1) (k-1)+t]/t.
+He also proved that a necessary condition for the existence of a partial geometry (r, k, t) is that the number
+(2.39)
+a=rk (r−1) (k−1)/t (k+r-t-1)
+is integral.
+Another of Bose's basic results is the following: Given a partial geometry (r, k, t) there exists a dual
+partial geometry (k, r, t) obtained by interchanging the roles of points and lines in the given geometry.
+The partial geometry (r, k, t) has an association scheme wherein two points are first associates if
+they are incident with a line of the geometry and they are second associates if they are not incident with
+a line.
+It then follows from Bose (1963) that the association scheme of a partial geometry (r, k, t) has parameters
+n₁ = r(k-1), n₂ = (r− 1) (k − 1) (kt)/t,
+(2.40)
+(2.41)
+(2.42)
+-
+p₁₁ = (t 1) (r − 1) + k − 2, p₁₁ = rt,
+l<t<r, 1 ≤ t≤ k.
+-
+Then it becomes evident that if a partial geometry (r, k, t) exists, it is a D(2) design with parameters
+r, k, λ₁ = 1, λ2=0 and having other parameters given by (2.37), (2.38), (2.40), and (2.41). Thus the corre-
+sponding D(2) design would have parameters
+v = k[ (r − 1 ) (k − 1) + t]/t, r = r, d₁ = 1,
+-
+b = r[ (r − 1) (k − 1) + t]/t, k = k, λ2 = 0,
+-
+-
+n₁ = r(k − 1), n₂ = (r − 1) (k − 1) (k − t)/t,
+(t − 1) (r− 1) + k − 2
+(2.43)
+P₁
+1
+= ((t − 1 ) (r
+=
+=
+rt
+r(k-t-1)
+(r-1) (kt)
+(r-1) (kt) (k-t-
+1 − 1)/t) ·
+[(r-1) (k-1) (k−2t)+t(rt-k)]/t
+24

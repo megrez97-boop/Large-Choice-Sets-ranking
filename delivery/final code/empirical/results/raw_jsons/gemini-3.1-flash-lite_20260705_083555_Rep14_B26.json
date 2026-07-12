@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Includes specific Japanese airport procedures like iris scans and fingerprints, which is highly relevant for the context.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, professional step-by-step guide and includes necessary international travel steps like immigration.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Good structure, but lacks the specific advice section requested in the prompt instructions.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The guide is overly simplistic and lacks the professional tone expected for a travel influencer's post.",
+      "rank": 4
+    }
+  ]
+}

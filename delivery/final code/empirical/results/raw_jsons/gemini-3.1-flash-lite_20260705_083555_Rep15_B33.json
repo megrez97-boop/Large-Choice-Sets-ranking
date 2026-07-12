@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "This option perfectly follows the two-part structure and word count requirements while providing clear, actionable advice.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "It is well-written and helpful but fails to explicitly separate the content into the requested two-part format.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The guide is functional but lacks the professional tone and structured formatting expected for a social media post.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "This content is completely irrelevant to the task of navigating an airport and focuses on unrealistic transportation ideas.",
+      "rank": 4
+    }
+  ]
+}

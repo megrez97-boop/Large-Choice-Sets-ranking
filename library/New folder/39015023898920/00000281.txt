@@ -1,0 +1,265 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes - Continued
+Design LS39: v= 16,
+=
+n₁ = 6,
+P₁ =[
+=
+=
+C 1 11/32, C₂
+E₁ = .82, E,
+r =
+n2
+2 3
+=
+310
+9,
+9,
+λι
+k
+=
+4,
+b
+=
+=
+3, λη
+=
+36
+1
+P₁ = [24]
+2
+1/16, H = 14, ▲ = 48
+.76, E = .78
+1256
+4 13 16
+14 15
+4387
+9 12
+7 10 11
+Solution 3: As given by Clatworthy (1967);
+Solution 1:
+Rearranged plan given by BCS (1954);
+nonunique; resolvable
+nonunique: resolvable
+Complement: Not listed, r
+Dual: Irregular
+= 27
+Complement: Not listed, r
+= = 27
+Association Scheme: L₂(4)
+Dual: Irregular
+5678
+1234
+Association Scheme: L₂(4)
+Plan:
+9 13
+6 10 14
+11 15
+8 12 16
+2 11 15
+10
+13 14 15 16
+9 16
+Plan:
+To construct, use
+4826
+3715
+2004
+1593
+Set 4.1
+3 times
+Set 4.4
+once
+12
+Set 4.2
+3 times
+Set 4.5
+once
+1347
+1245
+2589
+3697
+6 13
+12 16
+10 14
+8 14
+6 10 16
+11 13
+7 12 15
+1234
+5714
+1263
+4
+8 13
+6 11 12 14
+4 10 15
+5 9 13
+6 10 14
+7 11 15
+8 12 16
+7219
+6965
+4384
+1253
+4826
+3715
+2604
+1593
+9 10 11 12
+13 14 15 16
+10 12 13
+0478
+1236
+5 14
+11 16
+9 15
+8 10 11
+13 14 15 16
+Set 4.3 once
+Each set constitutes a complete
+replication.
+Design LS40: v = 16,
+n₁ =
+C₁ = -1/8, c₂ =
+E,
+6,
+r =
+n2
+=
+6, k =
+9,
+=
+4,
+b = 24
+=
+0, A2
+λι
+P₁ = 2 3] P₂ = [
+2
+1/4, H= 10, ▲ = 24
+.73, E, = .80, E = .77
+2
+=
+Solution: Nonunique; resolvable
+Complement: Not listed, r 18
+Dual: A D(3), WHC (1956)
+Association Scheme: L₂(4)
+Plan: Duplicate the plan of LS36.
+2
+4]
+22
+Remark: See design M17 which has the same
+parameters but a nonisomorphic plan and
+a pseudo Latin square association
+scheme.
+Solution 2:
+As given by Vartak (1955);
+nonunique; resolvable
+Complement: Not listed, r = 27
+Dual: Not a D(x), x =
+Association Scheme:
+Plan:
+1, 2,
+3
+L₂(4)
+3412
+1291
+6846
+5735
+2402
+1391
+10 13 14
+12 15 16
+10 12
+5 7
+6 8
+13 15
+14
+16
+10
+12
+246
+13 14
+8 15 16
+9135
+2468
+1357
+8765
+5634
+2143
+9
+3 10 11
+13 16
+7 14 15
+3 13 15
+14 16
+9 11
+8 10 12
+4387
+1256
+5
+12 13 16
+14 15
+9 11
+4 10
+12
+13 15
+8 14 16
+2 13 14
+4321
+1290
+3478
+1236
+3478
+1256
+4
+15 16
+6
+9 10
+8 11 12
+6
+1357
+Design LS41: v= 16,
+r = 7, k =
+4, b = 28
+ni
+n2 =
+6, λι
+4
+Pi
+P.] P.-[1]
+1, λε
+6 3
+=
+82
+P,=
+CI
+=
+3/20, C2
+=
+13/40, H
+=
+11, A
+= 30
+E,
+= .78, E, = .82, E = .79
+Solution:
+2
+Resolvable
+Complement: Not listed, r
+Dual:
+Irregular
+= 21
+Association Scheme:
+L,(4)
+Plan:
+To construct, use
+Set 4.1 once
+Set 4.4 twice
+Set 4.2 once
+Set 4.5
+twice
+Set 4.3
+once
+Each set constitutes a complete
+replication.
+269

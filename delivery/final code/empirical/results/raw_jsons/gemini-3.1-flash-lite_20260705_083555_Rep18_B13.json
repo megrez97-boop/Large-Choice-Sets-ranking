@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most structured, clear, and professional step-by-step guide suitable for a travel influencer's audience.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Offers helpful, specific logistical details about Narita Airport, though the advice section is less comprehensive than Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains useful practical tips but lacks a cohesive, professional flow for a comprehensive travel guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "The writing style is informal, repetitive, and lacks the professional polish required for a travel influencer's guide.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+TABLE V. Singular group divisible designs - Continued
+v = 63, r = 10,
+m 21, n= 3,
+==
+k = 9,
+λ₁
+10, A2
+b= 70
+= 1
+Design S97:
+=
+1, c₂ = -1/7, H= 17, A
+E= 1.00, E₂ = .88, E = .88
+=
+70
+Solution: Nonunique; resolvable
+Complement: Not listed, r = 60
+Dual: Design M41
+Groups: (21,3)
+Plan: Cyclically develop, modulo 12, the single
+initial block:
+1 2 3 4 6 7 8 9 10 12
+Each position within blocks contains a
+replication, and the first (last) six blocks
+contain five replications.
+k = 10, b= 3
+=
+= 2, A2 1
+Design S100:
+v = 15, r = 2,
+m= 3,
+n = 5,
+λ₁
+=
+1, ca
+= 3
+Plan: In a plan for the BIB design (21,70,10,3,1)
+replace each treatment with a group of n
+distinct treatments given by the groups of
+the association scheme (21,3) of Table II.
+= 3
+Design S98:
+v = 12, r = 5,
+n = 2,
+m= 6,
+k: = 10,
+b= 6
+λ₁
+=
+5,
+2
+=
+c₁ = 1, c₂ = 13/16, H= 49/5, ▲ = 24
+E= 1.00, E₂ = .98, E = .98
+Solution: Unique; nonresolvable
+Complement: A disconnected design
+Dual: The BIB design (6,12,10,5,8), Roy and Laha
+(1956)
+Groups: (6,2)
+Plan:
+1
+234561
+789O12
+23456
+10
+11
+345612
+89612
+4 10
+11
+9
+4 10 5 11
+4 10 5 11 6 12
+11 6 12
+127899
+569234
+HA278а
+6 12
+1
+7
+7
+8
+3
+9
+23
+4 10
+2/5, H= 7/2, ▲
+E= 1.00, E₂ = .94, E = .95
+Solution: Unique; nonresolvable
+Complement: A disconnected design
+Dual:
+The BIB design (3,15,10,2,5), Roy and Laha
+(1956)
+Groups: (3,5)
+Plan: 1
+2
+3
+789
+456
+345
+23
+10 13
+11 14
+15
+5 8 11 14
+6 9 12 15
+10 13
+1 4 7
+9 12
+Design S101:
+v = 15,
+m= 3,
+r = 4,
+n = 5,
+X,
+=
+k= = 10,
+= 4,
+b = 6
+λ2 2
+c₁ = 1, c₂ = 2/5, H= 7, ▲ = 12
+E, 1.00, E₂ = .94, E = .95
+Solution: Unique; 2-resolvable
+Complement: A disconnected design
+Dual: Design S5
+Groups: (3,5)
+Plan: Duplicate the plan of $100.
+k=
+=
+Design S99:
+v = 12, r = 10, k = 10, b = 12
+m= 6,
+n = 2, A₁ 10, λ₂ = 8
+=
+Design S102: v = 15, r = 6,
+n = 5,
+m= 3,
+A,
+=
+=
+= 27
+10,
+6,
+=
+b = 9
+=
+A2 = 3
+CI 1, c2= 13/16, H= 98/5, A = 96
+E, 1.00, E₂ = .98, E = .98
+Solution 1: Unique; 5-resolvable
+Complement: A disconnected design
+Dual: Truly self dual
+Groups: (6,2)
+Plan:
+Cyclically develop the two initial blocks
+1 7 2 8 3 9 4 10 5 11
+7 1 8 2 9 3 10 4 11 5
+using cycles of length 6 and cycling within
+the two subsets of treatments 1-6 and 7-12.
+Each position within a block contains a
+replication, and each initial block provides
+five replications.
+*Remark: The uniqueness assertion is correct. The
+two plans printed here are isomorphic;
+but it is interesting to note that while
+Solution 1 utilizes two initial blocks
+for construction, Solution 2 requires
+only one.
+Solution 2: As given by John (1966); unique;
+5-resolvable
+Complement: A disconnected design
+Dual: Truly self dual
+Groups: (6,2)
+2
+c = 1, c₂ = 2/5, H= 21/2, A
+E, 1.00, E,= .94, E = .95
+Solution: Unique; 2-resolvable
+Complement: A disconnected design
+Dual: Design S25
+Groups: (3,5)
+Plan: Repeat the plan of S100 three times.
+Design S103: y= 15, r = 8, k:
+m= 3,
+5, A₁
+n=
+=
+c₁ = 1, c₂= 2/5, H= 14, ▲ - 48
+1.00, E₂ = .94, E = .95
+E,
+Solution: Unique; 2-resolvable
+Complement: A disconnected design
+Dual: Design S57
+Groups: (3,5)
+=
+10,
+b= 12
+=
+8,
+=
+2 4
+Plan: Repeat the plan of S100 four times.
+131

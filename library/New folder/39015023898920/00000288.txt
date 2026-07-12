@@ -1,0 +1,241 @@
+TABLE XIII. Partially balanced designs based on Latin square types of association schemes - Continued
+Plan: To construct, use
+Set 6.1 once
+Set 6.2
+once
+Set 6.3
+once
+Each set constitutes a complete
+replication.
+Design LS76: v= 36,
+C
+E,
+1/6, C
+= .86, E,
+n₁ =
+=
+10.
+Plan:
+Design LS80: v = 36, r =
+Repeat the plan of LS75 three times.
+8,
+k
+ni
+= 10, n₂ =
+25, A,
+=
+4
+1= [ ² 18]
+P₂=
+2
+= 6,
+4, λ,
+2 8
+16
+b = 48
+0
+CI
+E,
+=
+1/6,
+=
+P‚{ * 25]
+=
+C
+2
+-2/3, H= 12, ▲ ·
+.86, E, = .75, E = .78
+Solution:
+Unique; resolvable
+r = 4,
+k
+=
+6,
+b = 24
+Complement: Not listed, r
+= = 40
+2, λη 0
+Dual: A D(3), WHC (1956)
+=
+na
+4 5
+==
+25, A
+=
+P.-[28] P.- [218]
+20
+-2/3, H= 6, A = 8
+.75, E = .78
+Solution: Unique; resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(6)
+=
+20
+Plan: Duplicate the plan of LS74.
+Design LS77: v= 36, r =
+=
+16
+b = 36
+20, A, 2, A2 = 0
+6,
+k = 6,
+P₂
+=
+2
+[698]
+n₁ =
+15, n
+6 8
+Pi
+12
+E,
+1/6, Ca
+= .86, E,
+-1/4, H= 10, ▲ = 24
+.80, E = .82
+10
+Association Scheme: L₂(6)
+=
+32
+Plan: Repeat the plan of LS74 four times.
+Design LS81: v = 36, r = 10, k =
+C₁ =
+1/6, C2
+=
+6,
+b = 60
+0
+n₁ = 10, n₂ = 25, λ, 5, λε
+=
+4 5
+=
+P.-[+20] P.-[218]
+Pi
+=
+-2/3, H= 15, ▲ = 50
+E, .86, E, = .75, E = .78
+= 50
+Solution: Unique; resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Association Scheme:
+L₂(6)
+Plan: Repeat the plan of LS74 five times.
+Design LS82: v = 49, r = 6, k
+ni =
+18, na
+10
+P‚-{
+P₁ { 720]
+30, A
+16
+1
+1
+=
+6,
+b = 49
+0, λη
+= 1
+暑
+​Solution: Nonunique; resolvable
+Complement: Not listed, r
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(6)
+= 30
+Plan: Duplicate the plan of LS75.
+Design LS78: v=
+1/6, C
+ni
+P
+1
+36,
+r =
+6,
+k
+10, na
+4 5
+=
+281
+20
+=
+6,
+25, A, 3,
+-2/3, H= 9, A
+E,= .86, E¸= .75, E = .78
+=
+Complement: Not listed, r = 30
+Solution: Unique; resolvable
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(6)
+P₁ = [
+2
+18
+λη
+b = 36
+= 0
+2 87
+16
+C 1
+= -3/49, c =
+2
+6/49, H =
+= .82, E, = .85, E = .84
+E₁ =
+Solution:
+Nonresolvable
+Complement: Not listed, r
+=
+P₁ = [ 6 12]
+2
+21/2, A = 245/9
+= 43
+Dual: Self dual, Hoffman (1963)
+Association Scheme: L,(7)
+Plan: Cyclically develop the following seven
+initial blocks
+32 38 9 28 43 19
+24 2 39 49 19 13
+46 9 26 20 31 7
+38 25 15 34 7 44
+12 21 2
+36 25 31
+18 45 33
+7 13 36
+3 33 46
+8 42 23
+Plan: Repeat the plan of LS74 three times.
+=
+Design LS79: v = 36,
+r = 9.
+k = 6,
+b = 54
+15, n
+6 8
+=
+20, A
+3.
+Ag
+= 0
+P₁
+P:
+12
+c₁ = 1/6, C:
+E,
+=
+2
+-1/4, H= 15, A = 54
+.86, E, = .80, E = .82
+Solution: Nonunique; resolvable
+Complement: Not listed, r = 45
+Dual: A D(3), WHC (1956)
+Association Scheme: L,(6)
+[
+6 9
+10
+using cycles of length 7 and cycling with-
+in the seven subsets of treatments 1-7,
+8-14, 15-21, 22-28, 29-35, 36-42, and
+43-49. Each position within blocks
+contains a replication.
+276

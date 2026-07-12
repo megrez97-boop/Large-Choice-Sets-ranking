@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most actionable, step-by-step guide and clear, concise advice perfectly aligned with the influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a helpful, conversational tone, though it lacks the structured step-by-step clarity found in the top option.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Contains factual errors regarding luggage drop-off procedures after security, which could confuse a first-time traveler.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Focuses on arrival procedures rather than the departure process requested for the Facebook post guide.",
+      "rank": 4
+    }
+  ]
+}

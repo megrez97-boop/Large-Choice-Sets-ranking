@@ -1,0 +1,50 @@
+We list below several of the more important results from the Bose and Connor (1952) study of com-
+binatorial properties of group divisible designs:
+= 0.
+(1) The necessary and sufficient condition for D(2) to be group divisible is that p₁₂ =0 or på½
+Remark. To be consistent with the definition of the association scheme, we need to interchange the
+associate classes when p₂ = 0. This involves an interchange of (1) the values of λ, and λ2, (2) the values
+of n₁ and n2, (3) a reordering of the quantities p' in the matrices P₁ and P2. Once this has been done so
+that it is pi, that assumes the value 0, then the expression rk-vλ2 may be correctly evaluated.
+(2) For any GD design it is necessary that r-λ₁≥ 0 and rk — vλ2 ≥ 0.
+(3) For a singular GD design (SGD) b ≥ m.
+(4) For a SGD design (since r=λ₁), | NN' |=0.
+(5) For a semi-regular group divisible (SRGD) design k is divisible by m. If k=cm, then every block
+must contain c treatments from each group.
+(6) For a SRGD design b≥ v−m+1.
+(7) A necessary condition for the existence of a symmetrical (v=b) regular GD design is that
+-
+-
+(r² — vλ2) m−1 (r — λ₁ ) m(n−1) = Pm-1Qm(n−1)
+is a perfect square.
+(8) If a symmetrical (v=b) regular GD design exists, then:
+(a) If m is even, then P= r²-vλ2 must be a perfect square, and further, if m=4t+2 and n is
+even, the Hilbert norm residue symbol (Q, (-1)),−1 for all odd primes p.
+(b) If m is odd and n is even, Q=r-λ, is a perfect square and ((−1)ªnλ2, P)p=+1 for all odd
+primes p, where a = m (m-1)/2.
+(c) If m and n are both odd, ((−1)ªnλ2, P)p⋅ ((−1)³n, Q)p=+1 for all odd primes p, where
+a=m(m-1)/2 and ß=n(n−1)/2.
+In another paper, Connor (1952) studied the relations among the blocks of group divisible designs.
+We give some of Connor's results in (9) through (13).
+(9) For a SRGD design, it is necessary that A2 > A1.
+(10) For a symmetrical (v=b) SRGD design, the number, sju, of treatments common to the jth and
+uth blocks satisfies the inequalities
+λι - siu =-λι +222/ (r- λι+υλ2).
+(11) For a symmetrical (v=b) regular RGD design, the number, sju, of treatments common to the
+jth and uth blocks satisfies the inequalities
+λε(r-λι)/(r2 - υλ2) < sju = λι
+when A, λ2. The inequalities are reversed when λ, <^2.
+(12) If for a symmetrical regular GD design r²-vλ2 and A1-A2 are relatively prime, then any two
+blocks have either A₁ or A2 treatments in common.
+(13) If for a symmetrical regular GD design r²- vλ2 and A1 - λ₂ are relatively prime, then the blocks fall
+into m groups of n blocks each, which are such that any two blocks from the same group contain λ, treatments
+in common and any two blocks from different groups contain λ2 treatments in common.
+Remark. Result (13) implies that under the stated conditions the RGD is self dual.
+More recently, W. S. Saraf (1961) has published results on the structure and combinatorial properties
+of semi-regular GD designs. Some of his results are stated in (14), (15), (17), (19), (20), and (21).
+(14) For a SRGD design, the number, sju, of treatments common to any pair (jth, uth) of blocks satisfies
+the inequalities
+k— (r− λ1) ≤ Sju ≤ r− λ1 − k +:
+2k[c(A,A₂+ 1) + kλ2]
+η+υλε
+8

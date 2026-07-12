@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Focuses on innovative, futuristic terminal mobility, aligning perfectly with the high-tech Tokyo 2050 design brief.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Includes creative futuristic concepts like flying cars, though the 2025 timeline reference is outdated for a 2050 vision.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a functional robot-assisted experience, but the narrative tone is too simplistic and lacks a futuristic atmosphere.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Completely irrelevant to the airport design task; it is a generic travel guide for Iceland.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+As checks on the entries we note that
+10
+ΣT;=G=93.71= Σ (Ti — Qi)
+Σ Ο. = 0.0000
+i=1
+G=0.
+Q' = (1-)c-0.
+Step 2. Calculation of S₁(Qi) and the intra-block estimates î. To calculate S₁(Qi), we form the table of
+adjusted yields (Table 18) by writing below each treatment, i, in the association scheme, the value of Qi
+taken from the fourth column of Table 17, and form the row sums and the column sums. Since treatments in
+the same row or column are first associates, S₁(Qi) is obtained by taking the sum of row and column sums
+corresponding to the treatment i and subtracting 2Qi. Thus
+S₁(Q1)=(-0.405)+(-0.825)-2(-0.2700)=0.0525.
+These values are entered in the third column of Table 18.
+TABLE 18
+Row Sum
+x
+1
+-0.2700
+2
+-0.2500
+3
+-0.1075
+4
+0.2225
+-0.4050
+1
+χ
+5
+-0.2700
+-0.5725
+6
+0.3350
+7
+0.4250
+-0.0825
+2
+-0.2500
+5
+-0.5725
+x
+8
+1.0450
+9
+-0.6250
+-0.4025
+3
+6
+8
+x
+-0.1075
+0.3350
+1.0450
+10
+-0.2025
+1.0700
+4
+0.2225
+7
+9
+0.4250 -0.6250
+10
+-0.2025
+x
+-0.1800
+Column
+Sum
+-0.4050
+-0.0825
+-0.4025
+1.0700
+-0.1800
+x
+Now from (3.10) the intra-block estimate, ti, of the treatment effect, ti, is given by
+îi
+=
+k-c2
+C1-C2
+Qi
+i+
+r(k-1) r(k-1)
+S₁ (Qi)
+=
+―
+45
+=0.28889Q-0.022222S, (Qi).
+The calculation of t can be systematically exhibited in Table 19. A check is obtained by remembering
+that
+every column except the first should add up to zero.
+54

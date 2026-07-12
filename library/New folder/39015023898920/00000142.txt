@@ -1,0 +1,342 @@
+TABLE V. Singular group divisible designs - Continued
+Solution 3: Nonunique; nonresolvable
+Complement: Not listed, r = 21
+Dual: Irregular
+Plan:
+1
+14 27
+2
+15 28
+3 16 29
+1
+14 27
+10 23 36
+4 17 30
+1
+14 27 8 21 34
+9 22 35
+Groups: (10,3)
+1
+14 27
+5 18
+31
+11 24 37
+1
+14 27
+7 20
+33 6 19 32
+Plan: 2 12 22
+3 13 23
+3 13 23
+1 11 21
+2
+1 11 21
+3
+2222222
+12 22 6 16 26
+64456
+16 26
+9
+19
+29
+14 27 13
+26 39
+12 25 38
+14 24
+7
+17 27
+2
+15 28 4
+17 30
+5 18 31
+14 24
+7
+17 27
+2 15 28 7
+20 33
+8 21 34
+15
+25
+8
+18
+28
+2 15 28
+11
+24 37
+12 25 38
+9
+19 29
+2 15 28
+6
+19 32
+13 26 39
+5
+15
+25
+8
+18 28
+2 15 28
+10
+23 36 9
+22 35
+13 23 6 16
+26
+8
+18 28
+3
+16 29
+4 17 30
+13
+26 39
+1
+11 21
+7 17
+27
+9
+19 29
+3 16 29
+5 18 31
+10 23 36
+2
+12 22
+7
+17 27
+10 20
+30
+3
+16 29
+6 19 32 9 22 35
+1
+11 21
+2 12 22
+34
+13 23
+10 20 30
+3 16 29
+8
+21 34
+11
+14 24 8 18
+28
+3 16 29
+7 20
+33
+24 37
+12 25 38
+5 15 25
+9
+19 29
+10 20 30
+4
+17 30
+6 19
+32 8
+21 34
+4 14 24
+5
+15
+25
+6 16 26
+4 17 30
+7
+20
+33
+11 24 37
+2 12 22
+3
+13 23
+5 15 25
+4 17
+30
+3 13 23
+6 16
+26
+10 20 30
+5
+18 31
+4 14 24
+5 15 25
+10 20 30
+5 18 31
+6 19 32
+9 22 35
+1
+11 21
+6
+16 26
+7 17 27
+5 18 31
+2 12 22
+8
+18 28
+10
+20 30
+7 17 27
+8
+18 28
+9 19 29
+1 11 21
+4 14
+24
+9
+19 29
+1 11 21
+2
+12 22
+3
+13 23
+6 19 32
+7 20 33
+8 21 34 12
+9 22
+8 21 34
+11 24
+13 26
+25 38
+9 22 35 12 25 38
+12 25 38
+7 20 33
+13 26 39
+37 10 23 36
+39 10 23 36
+10 23 36
+35 11
+24 37
+13 26 39
+2 12 22
+5 15
+25
+7
+17 27
+4 14 24
+6
+16
+26
+8
+18 28
+Design S95:
+4 14 24
+9 19
+29
+10
+20 30
+v = 45,
+m 15,
+r =
+n= 3,
+7,
+k = 9,
+b= 35
+λ1
+=
+7,
+λ2 = 1
+7
+17 27
+8
+18 28
+10 20 30
+3
+13 23
+5 15 25
+9 19 29
+1
+11 21
+6
+16 26
+10
+1
+11 21
+2 12 22
+4 14 24
+3
+13
+5
+15
+25
+223
+8 18 28
+9 19 29
+6 16 26
+7
+17
+27
+v = 39, r = 6,
+k
+= 9,
+m= 13, n= 3,
+λι
+=
+6,
+Design S94:
+-
+c₁ = 1, c₂ = -1/39, H= 31/3, A
+E, 1.00, E2.89, E = .89
+=
+26
+Solution 1: Nonunique; 3-resolvable
+Complement: Not listed, r = 20
+Dual: Design M27, Solution 1
+Groups: (13,3)
+Plan:
+Cyclically develop the two initial blocks
+1 14 27 3 16 29 9 22 35
+1 14 27 5 18 31 4 17 30
+using cycles of length 13 and cycling
+within the three subsets of treatments
+1-13, 14-26, and 27-39. Counting from the
+left (or right) each triple of blocks
+contains two replications, and each initial
+block provides three replications.
+Solution 2: Nonunique; nonresolvable
+Complement: Not listed, r
+=
+20
+Dual: Design M27, Solution 2
+Groups: (13,3)
+Design S96:
+v = 57, r = 9,
+k = 9,
+b= 57
+m 19, n= 3,
+λ,
+=
+9,
+2
+= = 1
+c₁ = 1, c₂ = −7/57, H= 46/3, A
+E= 1.00, E2.88, E= .88
+= 57
+Solution: Nonunique; 3-resolvable
+Complement: Not listed, r = 48
+Dual: Design M36
+Groups: (19,3)
+Plan: Cyclically develop the three initial blocks
+1 20 39 7 26 45 11 30 49
+20 39 1 32 51 13 21 40 2
+39 1 20 44 6 25 41 3 22
+using cycles of length 19 and cycling within
+the three subsets of treatments 1-19, 20-38,
+and 39-57. Each position within blocks
+contains a replication, and each initial
+block provides three replications.
+20 30
+b= 26
+λ2 = 1
+c₁ = 1, c₂ = −1/15, H= 12, A = 35
+E, 1.00, E₂ = .88, E = .89
+Solution:
+2
+-
+Complement: Not listed, r = 28
+Dual: Design M30
+Groups: (15,3)
+Plan: In a resolvable plan for the BIB design
+(15,35,7,3,1) replace each treatment with
+a group of n = 3 distinct treatments given
+by the groups of the association scheme
+(15,3) of Table II. The 7 known distinct
+resolvable solutions for (15,35,7,3,1) are
+given by Cole (1922).
+Nonunique; resolvable
+130

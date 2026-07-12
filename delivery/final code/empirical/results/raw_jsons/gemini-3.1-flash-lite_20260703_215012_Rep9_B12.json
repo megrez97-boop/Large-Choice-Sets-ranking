@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, structured guide and actionable advice tailored to the influencer persona and traveler needs.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Good structure and helpful local tips, but lacks the specific 'mistakes to avoid' section requested in the prompt.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Follows the structure well but is overly simplistic and lacks the professional depth expected for a travel influencer.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to provide a complete step-by-step guide from arrival to boarding and ignores the requested two-part format.",
+      "rank": 4
+    }
+  ]
+}

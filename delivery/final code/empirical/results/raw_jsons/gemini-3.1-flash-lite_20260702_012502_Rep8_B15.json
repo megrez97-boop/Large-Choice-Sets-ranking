@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly captures the persona, setting, and futuristic vision with a balanced, engaging narrative and clear marketing slogans.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Strong professional tone and relevant tech features, though it lacks the specific Tokyo 2050 context requested.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Detailed and creative, but fails to provide the required three catchy marketing slogans at the end.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Lacks the required futuristic technology focus and fails to provide the mandatory marketing slogans.",
+      "rank": 4
+    }
+  ]
+}

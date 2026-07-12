@@ -1,0 +1,276 @@
+TABLE IX. Regular group divisible designs -
+– Continued
+Design R84:
+v = 15,
+r = 9,
+-
+m= 5,
+n = 3,
+k 3,
+λ₁ = 3, A2
+b= 45
+= 1
+C₁ =
+E,
+3/7, c₂ = 3/35, H= 12, A = 35
+.78, E₂ = .69, E= .70
+Solution 1: As given by BCS (1954); nonunique;
+3-resolvable
+Complement: Not listed, r
+Dual: Irregular
+Groups: (5,3)
+Plan: 2
+23451
+17
+5123
+6
+13
+14
+14 15
+LEI23 +
+= € 36
+1234567E2RLE
+12345
+611
+7 12
+8 13
+9 14
+5 10 15
+Design R86:
+v = 16,
+r = 6,
+m= 4,
+n = 4,
+k = 3,
+λ₁ 0,
+=
+A2 1
+b= 32
+=
+=
+CI 0, c₂
+3/16, H= 28/3, A = 64/3
+E= .67, E,= .71, E = .70
+Solution:
+2
+3-resolvable
+Complement: Not listed, r = 26
+Dual: Not a D(x), x = 1, 2
+Groups: (4,4)
+Plan: Cyclically develop, modulo 16, the two
+initial blocks:
+1 2 11
+3 6
+Each initial block gives rise to three
+replications and each position within
+blocks to two replications.
+3
+4
+8
+15 11
+5
+9
+11
+12
+4 10
+12
+13
+8 9 11
+4
+9 10 12
+4
+611
+10 6 13
+5
+1
+8
+7 12 2
+6 7 14
+1 2
+9
+8 13
+7 8 15
+2
+3 10
+9 14 4
+12 15 1
+7
+10 11
+10 15 5
+12345
+Design R87:
+v = 16,
+m= 4,
+r = 9,
+n = 4,
+λ₁
+=
+k = 3,
+2, A2
+b = 48
+= 1
+=
+CI 3/10, C2
+=
+13 11 2
+14 12
+3
+15 13
+11 14 5
+8966
+6 12
+7 13
+11
+10
+8 14
+Solution:
+3-resolvable
+9 15
+Nonunique; 3-resolvable
+Complement: Not listed, r = 36
+Solution 2:
+Dual: Irregular
+67899
+12345
+12345
+5 10
+21/160, H= 12, A = 320/9
+E= .74, E₂ = .70, E = .71
+Complement: Not listed, r = 39
+Dual: Irregular
+Groups: (4,4)
+Plan: Cyclically develop, modulo 16, the three
+initial blocks:
+1 5 13
+1
+2 11
+Groups: (5,3)
+Plan:
+To the 8 replications of design R82,
+Solution 1, add a ninth whose five blocks
+are the groups of the (5,3) association
+scheme.
+Design R85:
+v =
+15, r = 10, k = 3,
+m= 5,
+n = 3, λ₁ 4,
+=
+b= 50
+λ2 = 1
+1/2, C2
+=
+0, H= 13, A =
+= 40
+E= .80, E₂ = .67, E = .68
+2
+Solution: Nonunique; resolvable
+Complement: Not listed, r = 40
+Dual: Irregular
+Groups: (5,3)
+Plan: To the 8 replications of design R82,
+Solution 1, add two new replications
+whose ten blocks consist of the groups of
+the (5,3) association scheme repeated
+twice.
+Note: By use of the 7 distinct resolvable
+solutions available for the BIB design
+(15,35,7,3,1) and recorded by Cole (1922)
+one can choose any complete replication
+and annex it x times to the BIB design to
+obtain a solution for the regular group
+divisible design with parameters
+v = 15, b= 35+ 5x, 5, λ,
+r = 7 + x, k 3, n = 3, λ₂
+In this way one can construct many
+distinct resolvable solutions for the
+regular group divisible design above.
+-
+-
+1 + x
+1.
+1 3 6
+Each initial block gives rise to three
+replications and each position within
+blocks to three replications.
+Design R88:
+k= 3,
+=
+b= 48
+v = 18, r = 8,
+m= 9, n = 2, λ₁ 0, A2 = 1
+c₁ = 0, c₂ = 1/6, H= 34/3, ▲ =
+E= .67, E₂ = .71, E= .70
+Complement: Not listed r = 40
+Dual: Not a D(x), x = 1, 2
+Groups: (9,2)
+Plan: 1 7 5
+32
+416
+2 16 10
+3 9 13
+2 8
+3 18
+3
+4
+4 15 8
+4 17 11
+11 12 6
+9 6
+11 15
+5
+7
+16
+7 10 9
+11
+5 18
+6 14
+6
+10 17
+16 1 9
+79
+7
+16 13 15
+9 8 5
+7 13 12
+16
+8 14
+15
+15 17 1
+5 12 2
+10 14 3
+8
+18
+1 11
+2 6
+9 2 15
+3 5
+5 4 10
+10 11 13
+13 6 8
+8 7 18
+23
+15 18 10
+5 17 13
+10 12 8
+13 14 18
+18 1
+17
+3 7
+12
+24
+4 16
+14 11 9
+8721
+18 16 17
+17 2 14
+14
+9 12
+1
+15 14
+2
+1 13 2
+3 16 11
+241341
+24676
+198

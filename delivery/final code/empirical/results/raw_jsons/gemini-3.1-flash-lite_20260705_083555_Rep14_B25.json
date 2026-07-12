@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Provides the most accurate, concise, and logical step-by-step flow for navigating a Japanese airport.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers helpful cultural context and practical tips, though it lacks a structured step-by-step guide.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Too informal and wordy, making it less effective as a professional guide for first-time travelers.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to provide the required step-by-step guide, focusing only on mistakes instead of the process.",
+      "rank": 4
+    }
+  ]
+}

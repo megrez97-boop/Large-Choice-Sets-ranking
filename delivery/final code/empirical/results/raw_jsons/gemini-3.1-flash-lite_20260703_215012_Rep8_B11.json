@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides clear, actionable advice and covers both parts of the prompt effectively with a professional tone.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a helpful step-by-step guide for arrival, though it lacks the requested advice section for common mistakes.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Contains useful tips but fails to provide the required step-by-step narrative guide for the airport experience.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "The content is poorly structured, lacks professional tone, and fails to address the specific Japan context requested.",
+      "rank": 4
+    }
+  ]
+}

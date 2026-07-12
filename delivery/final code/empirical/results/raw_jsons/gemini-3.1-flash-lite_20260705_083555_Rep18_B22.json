@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a clear, professional, and complete step-by-step guide that perfectly matches the influencer persona and requirements.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Very structured and easy to follow, though it lacks the engaging tone expected from a social media influencer.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Friendly tone, but the guide is incomplete as it fails to mention the actual boarding process at the gate.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Fails to provide a step-by-step guide for the airport process and lacks the required structure for the post.",
+      "rank": 4
+    }
+  ]
+}

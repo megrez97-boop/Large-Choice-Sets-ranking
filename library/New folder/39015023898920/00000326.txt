@@ -1,0 +1,14 @@
+Shrikhande, S. S. (1959b), The uniqueness of the L2 association scheme, Ann. Math. Statist. 30, 781-798.
+Shrikhande, S. S. (1965), On a class of partially balanced incomplete block designs, Ann. Math. Statist. 36, 1807-1814.
+Speckman, J. (1970), Private communication.
+Sprott, D. A. (1955), Some series of partially balanced incomplete block designs, Canad. J. Math. 7, 369–381.
+Sprott, D. A. (1959), A series of symmetrical group divisible incomplete block designs, Ann. Math. Statist. 30, 249–251.
+Thompson, H. R. (1956), On a new class of partially balanced incomplete block designs, Calcutta Statist. Assn. Bull. 6, 193–195.
+Vartak, M. N. (1955), On an application of the Kronecker product of matrices to statistical designs, Ann. Math. Statist. 26, 420–438.
+Yates, F. (1936a), Incomplete randomized blocks, Ann. of Eugenics 7, 121–140.
+Yates, F. (1936b), A new method of arranging variety trials involving a large number of varieties, J. Agr. Sci. 26, 424–455.
+Yates, F. (1937), A further note on the arrangement of variety trials: quasi latin squares, Ann. of Eugenics 7,319–332.
+Youden, W. J. (1937), Use of incomplete block replications in estimating tobacco-mosaic virus, Contributions from Boyce Thompson
+Institute 9, 41-48.
+Youden, W. J. (1951), Linked blocks: a new class of incomplete block designs, Biometrics 7, 124 (abstract).
+314

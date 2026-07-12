@@ -1,0 +1,51 @@
+(b) treatment values
+î= DB + CT = C(T — — NB ) = CQ
+-
+V (îì) = Cùσ²=C1102
+where Q is defined, as in eq (3.1), as
+Q=T-—_ NB
+treatment difference=t-î;
+V(-îj) = 20² (Cii - Cij). Note that there will be two values for this variance
+depending on whether t; and t; are first associates or second associates. For some purposes it is worth re-
+cording the maximum of these two values, one depending on C12 and the other on c₁ where I is the first value
+of c₁ for which C12 C11.
+(c) block values
+Î=EB+D'T=
+= (B-N'î)
+V(bi) = e¡¡σ²=e1102
+difference between blocks=Î¿ — Î¿
+-
+V (Â¡—bj) = 2σ² (e¡¡— ejj)
+(d) predicted value
+(e) variance
+ju=8+₁+b; V(su)=(3x+cute, +2dy) o
+tôi tôi
+V(ŷʊ)
+-+Cii
+bk
++ejj
+Σ(Yu-ŷü)²
+bk-b-v+1
+2
+(f) linear combinations
+treatment estimates for “standard” block b₁ (treatment i)=ĝ+ĥ₁+ îi
+V (treatment i)=(¿¿+ci
+1
+bk
++ CH + e11 +2dil) σ²
+treatment plus mean
+8+ îi
+V (Ê + î) = ( 11x+cH) σ²
+Cii
+bk
+Analysis of variance
+The analysis of variance can be computed as shown in Table 1. It should be noted, however, that the
+error sum of squares can easily be calculated directly in the computer from the formula
+S²=Σ(yu-ŷü)².
+---
+Both formulas should be used and compared as a check against computational errors.
+5.1.2. Model 2: Groups of blocks form complete replications. If the blocks are grouped in such a way
+that within each of r' groups each treatment is replicated n times then the analysis is slightly modified.
+The basic structure of the experiment may be expressed as
+E(yijc)=g+ti + pc + bj
+64

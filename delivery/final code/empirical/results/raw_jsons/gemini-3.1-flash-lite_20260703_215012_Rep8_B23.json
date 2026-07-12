@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Best structure, includes essential immigration steps, and provides practical, relevant advice for modern travelers.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Clear, concise, and well-organized, though it lacks the specific mention of immigration required for international travel.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Too conversational and focuses on arrival rather than the departure process requested for the guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Lacks the required two-part structure and is too generic compared to the other options.",
+      "rank": 4
+    }
+  ]
+}

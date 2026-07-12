@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly captures the influencer persona and provides both the required guide and the three specific tips.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Provides a functional guide and tips, though it lacks the engaging influencer tone requested in the context.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "The guide is incomplete as it fails to mention security checks or boarding, and lacks the required tips.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "This content is completely irrelevant to the task of providing an airport navigation guide for Japan.",
+      "rank": 4
+    }
+  ]
+}

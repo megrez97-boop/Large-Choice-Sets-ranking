@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_B",
+      "reason": "Best balance of high-tech innovation and human-centric comfort, perfectly aligning with the influencer's lifestyle and travel needs.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Highly professional and comprehensive, though it feels slightly more corporate and less personal than Option B.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Creative focus on cultural immersion is unique, but it lacks the broader technological infrastructure described in other options.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Teleportation removes the 'airport' experience entirely, making it less relevant to the design of a physical terminal.",
+      "rank": 4
+    }
+  ]
+}

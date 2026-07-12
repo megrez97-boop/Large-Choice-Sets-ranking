@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, step-by-step procedural guide for navigating the airport process from check-in to boarding.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Offers helpful, practical advice for a traveler, though it lacks the structured step-by-step flow of Option D.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "The tone is overly conversational and lacks the necessary concise, actionable steps required for a travel guide.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "This content focuses on a general Japan itinerary rather than the specific airport navigation guide requested.",
+      "rank": 4
+    }
+  ]
+}

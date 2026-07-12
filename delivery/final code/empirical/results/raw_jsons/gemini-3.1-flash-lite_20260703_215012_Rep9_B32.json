@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides the most comprehensive, accurate, and professional step-by-step guide including essential immigration steps for international travel.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Offers clear, actionable instructions for security, though it lacks the specific mention of immigration required for international flights.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Friendly tone, but the guide is too informal and lacks the structured, professional clarity needed for first-time travelers.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to provide a concrete step-by-step process, offering vague advice instead of the requested navigational guide.",
+      "rank": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_D",
+      "reason": "Provides a clear, concise guide and the requested top three tips in the correct format.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Offers a decent step-by-step guide but fails to include the required top three tips section.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_C",
+      "reason": "Contains repetitive information and lacks the requested influencer tone and top three tips structure.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Fails to provide any step-by-step guide for navigating the airport process as requested.",
+      "rank": 4
+    }
+  ]
+}

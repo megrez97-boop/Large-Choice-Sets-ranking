@@ -1,0 +1,24 @@
+{
+  "rankings": [
+    {
+      "item_id": "Option_C",
+      "reason": "Perfectly aligns with the futuristic, high-tech, and seamless experience requested by the influencer persona.",
+      "rank": 1
+    },
+    {
+      "item_id": "Option_D",
+      "reason": "Highly creative and immersive, though slightly less professional in tone than Option C.",
+      "rank": 2
+    },
+    {
+      "item_id": "Option_B",
+      "reason": "Focuses on leisure rather than the high-tech, efficient infrastructure expected for a 2050 Tokyo airport.",
+      "rank": 3
+    },
+    {
+      "item_id": "Option_A",
+      "reason": "Lacks a cohesive narrative and relies on outdated concepts like manual ID checks and CCTV.",
+      "rank": 4
+    }
+  ]
+}

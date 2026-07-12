@@ -1,0 +1,20 @@
+Abstract
+This book is a revised and vastly expanded version of the monograph, R. C.
+Bose, W. H. Clatworthy, and S. S. Shrikhande, Tables of Partially Balanced De-
+signs With Two Associate Classes, Tech. Bul. No. 107 of the North Carolina Agri-
+cultural Experiment Station, Raleigh, North Carolina, 1954.
+Approximately 950 combinatorially distinct designs are given, which repre-
+sents a doubling of the number of parametric specifications for designs of the origi-
+nal publication. The introduction includes special instructions to aid analysis using
+hand calculations and a section on the general least-squares approach for use when
+the analysis is to be done on an electronic computer.
+For those interested in the construction of the designs, information is pro-
+vided on methods of construction and extensive references, including original
+sources for the designs, are given. A tabulation of known information about unique-
+ness, resolvability and the nature of the corresponding dual and complementary
+designs is also included for each design.
+Key words: Analysis of PBIB designs; experimental designs; finite fields; finite
+geometries; finite projective planes; incidence matrices; incomplete block designs;
+mathematics; partially balanced; partially balanced incomplete block designs:
+PBIB designs; statistics; tables of PBIB designs.
+iv
